@@ -21,16 +21,23 @@ export default function SobreNosotrosPage() {
         </p>
         <h2>Nuestra misión</h2>
         <p>
-          Creemos que la actividad física de calidad transforma la infancia. Por eso trabajamos
-          para poner a disposición del profesorado juegos, situaciones de aprendizaje e
-          instrumentos de evaluación alineados con la LOMLOE, ahorrando tiempo de preparación y
-          elevando la calidad de las sesiones.
+          Nuestra misión es facilitar el trabajo diario del profesorado mediante recursos, juegos, 
+          situaciones de aprendizaje, rúbricas e instrumentos de evaluación adaptados al currículo 
+          vigente.
         </p>
-        <h2>Quiénes formamos el equipo</h2>
+        <h2>¿Cómo se crean los recursos?</h2>
         <p>
-          Somos un equipo de maestros y maestras de Educación Física en activo, junto con
-          especialistas en pedagogía y tecnología educativa, comprometidos con compartir recursos
-          de forma gratuita y accesible.
+          Los contenidos publicados en RecursosPrimariaEF son revisados y adaptados para ofrecer 
+          información útil, clara y práctica para docentes y estudiantes de Educación.
+        </p>
+        <h2>Sobre el creador</h2>
+        <p>
+         RecursosPrimariaEF es un proyecto educativo impulsado por un estudiante universitario de 
+          Educación Primaria con especialización en Educación Física. El objetivo de esta plataforma es
+          facilitar recursos prácticos, actividades, rúbricas, situaciones de aprendizaje y herramientas 
+          útiles para docentes y futuros maestros.
+
+Todos los contenidos se revisan y adaptan para ofrecer información útil, actualizada y alineada con las necesidades reales del aula.
         </p>
         <h2>Contacta con nosotros</h2>
         <p>
