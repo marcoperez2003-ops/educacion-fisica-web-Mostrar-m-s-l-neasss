@@ -971,46 +971,7 @@ La evaluación sumativa certifica un resultado final, mientras que la formativa 
 
 ## Claves para el docente
 Reserva siempre unos minutos al final de cada sesión para una retroalimentación breve, oral o escrita, al conjunto del grupo.
-`
-  {
-  slug: "juegos-cooperativos-primaria",
-  title: "15 juegos cooperativos para Primaria",
-  metaDescription:
-    "Descubre 15 juegos cooperativos para trabajar la comunicación, el respeto y el trabajo en equipo en Educación Primaria.",
-  category: "juegos-educacion-fisica",
-  subcategory: "juegos-cooperativos",
-  date: "2026-09-22",
-  author: "Marco Pérez",
-  readingTime: 6,
-  popular: true,
-  excerpt:
-    "Una selección de juegos cooperativos ideales para fomentar la colaboración y la cohesión de grupo en Primaria.",
-  content: `
-## ¿Por qué utilizar juegos cooperativos?
-
-Los juegos cooperativos favorecen el desarrollo de habilidades sociales y mejoran la cohesión del grupo.
-
-## Juego 1: El nudo humano
-
-El alumnado debe deshacer un nudo formado con sus brazos sin soltarse de las manos.
-
-## Juego 2: La isla
-
-Todo el grupo debe permanecer sobre una superficie cada vez más pequeña.
-
-## Beneficios educativos
-
-- Trabajo en equipo.
-- Comunicación.
-- Resolución de problemas.
-- Inclusión.
-
-## Conclusión
-
-Los juegos cooperativos son una herramienta muy útil para desarrollar competencias sociales y emocionales en Primaria.
-`
-},  
-  }
+` 
 ];
 
 export function getArticleBySlug(slug: string) {
