@@ -329,54 +329,7 @@ Colchonetas o toallas individuales.
 ## Claves para el docente
 Cuida el tono de voz durante la relajación final; un ambiente tranquilo es clave para el éxito de la actividad.
 `
-{
-  slug: "juego-panuelo-educacion-fisica",
-  title: "El juego del pañuelo en Educación Física: reglas y variantes",
-  metaDescription:
-    "Descubre cómo organizar el juego del pañuelo en Educación Física, sus reglas básicas y varias adaptaciones para Primaria.",
-  category: "juegos-educacion-fisica",
-  subcategory: "juegos-de-calentamiento",
-  date: "2026-09-22",
-  author: "Marco Pérez",
-  readingTime: 3,
-  popular: true,
-  excerpt:
-    "El juego del pañuelo es un clásico de Educación Física que desarrolla la velocidad de reacción, la atención y la motivación del alumnado.",
-  content: `
-## ¿Qué es el juego del pañuelo?
-
-El juego del pañuelo es una actividad tradicional muy utilizada en Educación Física por su sencillez y su capacidad para motivar al alumnado.
-
-## Material necesario
-
-- Un pañuelo.
-- Espacio amplio y seguro.
-
-## Cómo se juega
-
-Se forman dos equipos con el mismo número de jugadores. Cada participante recibe un número.
-
-El docente se coloca en el centro sujetando un pañuelo y dice un número en voz alta. Los dos jugadores correspondientes deben correr para intentar coger el pañuelo y regresar a su campo sin ser tocados.
-
-## Variantes
-
-- Llamar a dos números a la vez.
-- Utilizar operaciones matemáticas en lugar de números.
-- Realizar desplazamientos diferentes antes de correr.
-
-## Beneficios educativos
-
-- Mejora de la velocidad de reacción.
-- Desarrollo de la atención.
-- Respeto de normas.
-- Trabajo de la toma de decisiones.
-
-## Conclusión
-
-El juego del pañuelo sigue siendo una de las actividades más efectivas para dinamizar sesiones de Educación Física en Primaria.
-`
   },
-];
 
   // ---------- SITUACIONES DE APRENDIZAJE (10) ----------
   {
