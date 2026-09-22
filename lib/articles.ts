@@ -971,7 +971,8 @@ La evaluación sumativa certifica un resultado final, mientras que la formativa 
 
 ## Claves para el docente
 Reserva siempre unos minutos al final de cada sesión para una retroalimentación breve, oral o escrita, al conjunto del grupo.
-` 
+`
+  }
 ];
 
 export function getArticleBySlug(slug: string) {
