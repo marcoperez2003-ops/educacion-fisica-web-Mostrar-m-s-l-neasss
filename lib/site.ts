@@ -16,7 +16,7 @@ export const siteConfig = {
   ],
   author: "Equipo EduFísica Primaria",
   twitter: "@edufisicaprim",
-  email: "hola@edufisicaprimaria.es",
+  email: "contacto@recursosprimariaef.com",
   adsense: {
     // Sustituye por tu client ID real de Google AdSense cuando lo tengas aprobado
     client: "ca-pub-XXXXXXXXXXXXXXXX",
