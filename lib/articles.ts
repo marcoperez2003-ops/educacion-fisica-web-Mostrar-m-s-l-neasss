@@ -15,37 +15,52 @@ export type Article = {
 export const articles: Article[] = [
   // ---------- JUEGOS DE EDUCACIÓN FÍSICA (10) ----------
   {
-    slug: "el-nudo-humano-juego-cooperativo",
-    title: "El nudo humano: juego cooperativo para trabajar la comunicación",
-    metaDescription:
-      "Descubre cómo aplicar 'el nudo humano', un juego cooperativo de Educación Física para mejorar la comunicación y el trabajo en equipo en Primaria.",
-    category: "juegos-educacion-fisica",
-    subcategory: "juegos-cooperativos",
-    date: "2026-01-12",
-    author: "Marta Gómez",
-    readingTime: 4,
-    popular: true,
-    excerpt:
-      "Un clásico infalible para trabajar la cooperación: el grupo debe deshacer un nudo formado por sus propios brazos sin soltarse de las manos.",
-    content: `
-## Objetivo del juego
-Fomentar la comunicación verbal, la escucha activa y la resolución conjunta de problemas dentro de un grupo, elementos clave de la competencia social y cívica.
+  slug: "juego-panuelo-educacion-fisica",
+  title: "El juego del pañuelo en Educación Física: reglas y variantes",
+  metaDescription:
+    "Descubre cómo organizar el juego del pañuelo en Educación Física, sus reglas básicas y varias adaptaciones para Primaria.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-de-calentamiento",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 3,
+  popular: true,
+  excerpt:
+    "El juego del pañuelo es un clásico de Educación Física que desarrolla la velocidad de reacción, la atención y la motivación del alumnado.",
+  content: `
+## ¿Qué es el juego del pañuelo?
 
-## Desarrollo de la actividad
-El alumnado se coloca en círculo, cierra los ojos y extiende ambas manos hacia el centro hasta encontrar dos manos distintas de compañeros diferentes. Al abrir los ojos, el grupo forma un "nudo" que deberá deshacer sin soltarse, hasta recuperar un círculo simple.
+El juego del pañuelo es una actividad tradicional muy utilizada en Educación Física por su sencillez y su capacidad para motivar al alumnado.
 
-### Variantes
-- Realizarlo en silencio, usando solo gestos.
-- Dividir la clase en grupos de 8-10 para acelerar el proceso.
-- Cronometrar y comparar estrategias entre grupos.
+## Material necesario
 
-## Materiales necesarios
-Ninguno. Es ideal para patios, gimnasios o incluso aulas con espacio despejado.
+- Un pañuelo.
+- Espacio amplio y seguro.
 
-## Claves para el docente
-Observa qué roles emergen de forma espontánea (quien organiza, quien propone, quien ejecuta) y aprovecha el debate posterior para reflexionar sobre el trabajo en equipo.
+## Cómo se juega
+
+Se forman dos equipos con el mismo número de jugadores. Cada participante recibe un número.
+
+El docente se coloca en el centro sujetando un pañuelo y dice un número en voz alta. Los dos jugadores correspondientes deben correr para intentar coger el pañuelo y regresar a su campo sin ser tocados.
+
+## Variantes
+
+- Llamar a dos números a la vez.
+- Utilizar operaciones matemáticas en lugar de números.
+- Realizar desplazamientos diferentes antes de correr.
+
+## Beneficios educativos
+
+- Mejora de la velocidad de reacción.
+- Desarrollo de la atención.
+- Respeto de normas.
+- Trabajo de la toma de decisiones.
+
+## Conclusión
+
+El juego del pañuelo sigue siendo una de las actividades más efectivas para dinamizar sesiones de Educación Física en Primaria.
 `
-  },
+},
   {
     slug: "la-telaraña-juego-cooperativo-confianza",
     title: "La telaraña: juego cooperativo para generar confianza grupal",
