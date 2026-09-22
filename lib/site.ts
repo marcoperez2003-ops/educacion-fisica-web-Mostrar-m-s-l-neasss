@@ -3,7 +3,7 @@ export const siteConfig = {
   shortName: "RecursosPrimaria",
   description:
     "Recursos gratuitos para docentes de Educación Primaria y Educación Física en España: juegos, situaciones de aprendizaje, rúbricas e instrumentos de evaluación alineados con la LOMLOE.",
-  url: "https://www.edufisicaprimaria.es",
+  url: "https://www.recursosprimariaef.com",
   locale: "es_ES",
   keywords: [
     "educación física primaria",
