@@ -375,7 +375,6 @@ El docente se coloca en el centro sujetando un pañuelo y dice un número en voz
 
 El juego del pañuelo sigue siendo una de las actividades más efectivas para dinamizar sesiones de Educación Física en Primaria.
 `
-},
   },
 
   // ---------- SITUACIONES DE APRENDIZAJE (10) ----------
