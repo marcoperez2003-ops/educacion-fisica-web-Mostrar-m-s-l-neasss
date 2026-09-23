@@ -441,6 +441,144 @@ Cuida el tono de voz durante la relajación final; un ambiente tranquilo es clav
 
   // ---------- SITUACIONES DE APRENDIZAJE (10) ----------
   {
+  slug: "como-crear-situacion-aprendizaje-lomloe",
+  title: "Cómo crear una situación de aprendizaje paso a paso según la LOMLOE",
+  metaDescription:
+    "Aprende a diseñar una situación de aprendizaje paso a paso según la LOMLOE. Guía práctica para docentes de Primaria con ejemplos y consejos.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 8,
+  popular: true,
+  excerpt:
+    "Guía práctica para diseñar situaciones de aprendizaje según la LOMLOE, desde la contextualización inicial hasta la evaluación final.",
+  content: `
+## ¿Qué es una situación de aprendizaje?
+<br>
+Las situaciones de aprendizaje son uno de los elementos clave de la LOMLOE. Se trata de propuestas didácticas que permiten al alumnado aplicar conocimientos, habilidades y competencias en contextos significativos y cercanos a su realidad.
+<br>
+Su finalidad es conectar el aprendizaje con situaciones reales y favorecer el desarrollo competencial del alumnado.
+<br>
+## Paso 1. Elegir un contexto significativo
+<br>
+Toda situación de aprendizaje debe partir de un contexto cercano al alumnado.
+<br>
+Algunos ejemplos son:
+<br>
+- La alimentación saludable.
+- El cuidado del medio ambiente.
+- Los Juegos Olímpicos.
+- Los hábitos de vida activa.
+- La convivencia escolar.
+<br>
+Un buen contexto aumenta la motivación y facilita la participación.
+<br>
+## Paso 2. Definir el producto final
+<br>
+El producto final es la evidencia que demostrará que el alumnado ha alcanzado los aprendizajes previstos.
+<br>
+Algunos ejemplos:
+<br>
+- Un mural.
+- Una presentación oral.
+- Una exposición.
+- Una infografía.
+- Una competición organizada por el alumnado.
+<br>
+Este producto debe estar relacionado con las competencias específicas trabajadas.
+<br>
+## Paso 3. Seleccionar las competencias específicas
+<br>
+La LOMLOE sitúa las competencias específicas en el centro del proceso de enseñanza y aprendizaje.
+<br>
+Por ello es importante seleccionar aquellas competencias que realmente se desean desarrollar mediante la situación de aprendizaje.
+<br>
+No es necesario incluir muchas competencias. En la mayoría de los casos es suficiente con dos o tres bien trabajadas.
+<br>
+## Paso 4. Relacionar criterios de evaluación
+<br>
+Los criterios de evaluación permiten concretar qué se va a valorar.
+<br>
+Es recomendable elegir únicamente aquellos criterios que estén directamente relacionados con las actividades propuestas y con el producto final.
+<br>
+Una situación de aprendizaje excesivamente cargada de criterios suele dificultar el proceso de evaluación.
+<br>
+## Paso 5. Diseñar las actividades
+<br>
+Las actividades deben organizarse de forma progresiva.
+<br>
+Una posible secuencia podría ser:
+<br>
+1. Actividad inicial de motivación.
+2. Investigación o descubrimiento.
+3. Actividades prácticas.
+4. Elaboración del producto final.
+5. Presentación y reflexión.
+<br>
+La coherencia entre actividades y objetivos es fundamental para el éxito de la propuesta.
+<br>
+## Paso 6. Elegir instrumentos de evaluación
+<br>
+La evaluación debe integrarse desde el inicio del diseño.
+<br>
+Algunos instrumentos muy utilizados son:
+<br>
+- Rúbricas.
+- Listas de control.
+- Escalas de observación.
+- Portafolios.
+- Autoevaluaciones.
+- Coevaluaciones.
+<br>
+Es recomendable combinar varios instrumentos para obtener información más completa.
+<br>
+## Paso 7. Incorporar medidas de atención a la diversidad
+<br>
+Todas las situaciones de aprendizaje deben contemplar medidas que faciliten la participación de todo el alumnado.
+<br>
+Estas medidas pueden incluir:
+<br>
+- Adaptaciones metodológicas.
+- Apoyos visuales.
+- Diferentes niveles de dificultad.
+- Agrupamientos flexibles.
+- Materiales adaptados.
+<br>
+La inclusión debe estar presente desde la planificación inicial.
+<br>
+## Errores frecuentes al diseñar situaciones de aprendizaje
+<br>
+Algunos errores habituales son:
+<br>
+- Incluir demasiados criterios de evaluación.
+- Diseñar actividades sin conexión con el producto final.
+- Utilizar contextos poco motivadores.
+- No prever medidas de atención a la diversidad.
+- Confundir una unidad didáctica con una situación de aprendizaje.
+<br>
+Evitar estos errores facilitará un diseño más coherente y efectivo.
+<br>
+## Ejemplo sencillo
+<br>
+Título: "Organizamos unas olimpiadas escolares".
+<br>
+Contexto: promoción de hábitos saludables.
+<br>
+Producto final: organización de una jornada olímpica para otras clases.
+<br>
+Competencias específicas: cooperación, autonomía y práctica de actividad física saludable.
+<br>
+Instrumentos de evaluación: rúbrica, lista de control y autoevaluación.
+<br>
+## Conclusión
+<br>
+Diseñar una situación de aprendizaje según la LOMLOE no consiste únicamente en planificar actividades. Es necesario crear experiencias significativas que permitan al alumnado desarrollar competencias, resolver problemas reales y demostrar sus aprendizajes mediante productos finales relevantes.
+<br>
+Con una buena planificación y una evaluación coherente, las situaciones de aprendizaje se convierten en una herramienta muy valiosa para mejorar la calidad educativa.
+`
+},
+  {
     slug: "situacion-aprendizaje-1-primaria-esquema-corporal",
     title: "Situación de aprendizaje: descubro mi esquema corporal (1º Primaria)",
     metaDescription:
