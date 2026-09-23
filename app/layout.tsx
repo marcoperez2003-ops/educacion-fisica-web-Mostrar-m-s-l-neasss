@@ -34,6 +34,7 @@ export const metadata: Metadata = {
 };
 
 const GA_MEASUREMENT_ID = "G-X5WPS1KC1N";
+const ADSENSE_CLIENT_ID = "ca-pub-3374930348070049";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const orgJsonLd = {
@@ -53,17 +54,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
         />
 
-        {/*
-          Google AdSense: cuando tu cuenta esté aprobada, descomenta el script
-          siguiente y sustituye ca-pub-XXXXXXXXXXXXXXXX por tu client ID real
-          (también en lib/site.ts -> siteConfig.adsense.client).
-
-          <script
-            async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
-            crossOrigin="anonymous"
-          />
-        */}
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+          crossOrigin="anonymous"
+        />
       </head>
       <body>
         <Script
