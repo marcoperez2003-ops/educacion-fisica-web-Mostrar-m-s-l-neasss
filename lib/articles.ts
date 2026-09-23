@@ -162,7 +162,7 @@ Incorporar este tipo de actividades en Educación Física favorece la inclusión
     category: "juegos-educacion-fisica",
     subcategory: "juegos-cooperativos",
     date: "2026-01-18",
-    author: "Marta Gómez",
+    author: "Marco Pérez",
     readingTime: 3,
     excerpt:
       "Todo el grupo debe atravesar una telaraña de cuerdas sin tocarla, utilizando cada hueco una sola vez y ayudándose entre compañeros.",
@@ -192,7 +192,7 @@ Refuerza la seguridad física supervisando los pasos más complicados y destaca 
     category: "juegos-educacion-fisica",
     subcategory: "juegos-de-calentamiento",
     date: "2026-01-05",
-    author: "David Ruiz",
+    author: "Marco Pérez",
     readingTime: 5,
     popular: true,
     excerpt:
@@ -226,7 +226,7 @@ Adapta la intensidad a la temperatura ambiente y a la actividad prevista despué
     category: "juegos-educacion-fisica",
     subcategory: "juegos-de-calentamiento",
     date: "2026-01-22",
-    author: "David Ruiz",
+    author: "Marco Pérez",
     readingTime: 4,
     excerpt:
       "Una rutina de calentamiento estructurada en bloques musicales que combina movilidad articular, desplazamientos y activación cardiovascular.",
@@ -256,7 +256,7 @@ Cuida el volumen y elige canciones sin contenido inapropiado; revisa la letra pr
     category: "juegos-educacion-fisica",
     subcategory: "juegos-sin-material",
     date: "2026-01-09",
-    author: "Marta Gómez",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Ideal para imprevistos o sesiones improvisadas: juegos que solo requieren el cuerpo y el espacio disponible.",
@@ -289,7 +289,7 @@ Marca claramente los límites del espacio de juego con referencias del propio pa
     category: "juegos-educacion-fisica",
     subcategory: "juegos-sin-material",
     date: "2026-01-25",
-    author: "David Ruiz",
+    author: "Marco Pérez",
     readingTime: 3,
     excerpt:
       "Un juego interdisciplinar donde salvarse del pillador implica formar una figura geométrica con el cuerpo junto a un compañero.",
@@ -319,7 +319,7 @@ Aprovecha para reforzar contenidos de matemáticas de forma lúdica y motivadora
     category: "juegos-educacion-fisica",
     subcategory: "juegos-para-espacios-reducidos",
     date: "2026-02-01",
-    author: "Marta Gómez",
+    author: "Marco Pérez",
     readingTime: 4,
     excerpt:
       "Cuando el espacio es limitado, estas propuestas permiten mantener la actividad física y la motivación sin necesidad de grandes desplazamientos.",
@@ -352,7 +352,7 @@ Prioriza siempre la seguridad frente a mobiliario y esquinas; marca zonas segura
     category: "juegos-educacion-fisica",
     subcategory: "juegos-para-espacios-reducidos",
     date: "2026-02-05",
-    author: "David Ruiz",
+    author: "Marco Pérez",
     readingTime: 4,
     excerpt:
       "Un circuito de seis estaciones que combina equilibrio, coordinación y salto, pensado para espacios estrechos y alargados.",
@@ -382,7 +382,7 @@ Establece un sentido único de circulación para evitar choques entre el alumnad
     category: "juegos-educacion-fisica",
     subcategory: "juegos-para-dias-de-lluvia",
     date: "2026-02-09",
-    author: "Marta Gómez",
+    author: "Marco Pérez",
     readingTime: 5,
     popular: true,
     excerpt:
@@ -416,7 +416,7 @@ Aprovecha estos días para trabajar contenidos de expresión corporal y relajaci
     category: "juegos-educacion-fisica",
     subcategory: "juegos-para-dias-de-lluvia",
     date: "2026-02-14",
-    author: "David Ruiz",
+    author: "Marco Pérez",
     readingTime: 4,
     excerpt:
       "Una sesión sencilla de yoga con posturas inspiradas en animales, pensada para trabajar la relajación y la conciencia corporal.",
@@ -448,7 +448,7 @@ Cuida el tono de voz durante la relajación final; un ambiente tranquilo es clav
     category: "situaciones-aprendizaje",
     subcategory: "primero-de-primaria",
     date: "2026-01-08",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 6,
     popular: true,
     excerpt:
@@ -602,7 +602,7 @@ Esta situación de aprendizaje permite conectar las Matemáticas con experiencia
     category: "situaciones-aprendizaje",
     subcategory: "primero-de-primaria",
     date: "2026-01-15",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "El alumnado se convierte en distintos animales para explorar desplazamientos, saltos y equilibrios de forma natural y motivadora.",
@@ -634,7 +634,7 @@ Escala de observación centrada en la ejecución de los patrones motrices básic
     category: "situaciones-aprendizaje",
     subcategory: "segundo-de-primaria",
     date: "2026-01-20",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 6,
     excerpt:
       "Con la temática del circo como hilo conductor, el alumnado trabaja el equilibrio en distintas superficies y situaciones.",
@@ -666,7 +666,7 @@ Rúbrica de tres niveles de logro sobre el control del equilibrio en las distint
     category: "situaciones-aprendizaje",
     subcategory: "segundo-de-primaria",
     date: "2026-01-27",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Una propuesta centrada en mejorar la coordinación óculo-manual a través de juegos de lanzamiento y recepción.",
@@ -698,7 +698,7 @@ Lista de control sobre la ejecución técnica básica del lanzamiento.
     category: "situaciones-aprendizaje",
     subcategory: "tercero-de-primaria",
     date: "2026-02-02",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 6,
     popular: true,
     excerpt:
@@ -731,7 +731,7 @@ Rúbrica que valora tanto la orientación espacial como el trabajo en equipo.
     category: "situaciones-aprendizaje",
     subcategory: "tercero-de-primaria",
     date: "2026-02-10",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "El alumnado crea pequeñas historias colectivas utilizando exclusivamente el cuerpo y el movimiento como lenguaje.",
@@ -763,7 +763,7 @@ Escala de observación centrada en la implicación y la claridad expresiva.
     category: "situaciones-aprendizaje",
     subcategory: "cuarto-de-primaria",
     date: "2026-02-16",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 6,
     excerpt:
       "Un proyecto que conecta con las familias para recuperar juegos populares y ponerlos en práctica en el patio del colegio.",
@@ -795,7 +795,7 @@ Rúbrica que valora la investigación, la participación y la explicación de la
     category: "situaciones-aprendizaje",
     subcategory: "cuarto-de-primaria",
     date: "2026-02-20",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Una introducción amable al atletismo escolar a través de estaciones de carrera, salto de longitud y lanzamiento de precisión.",
@@ -827,7 +827,7 @@ Registro de marcas personales para comparar la evolución, no la comparación en
     category: "situaciones-aprendizaje",
     subcategory: "quinto-de-primaria",
     date: "2026-02-24",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 6,
     popular: true,
     excerpt:
@@ -860,7 +860,7 @@ Rúbrica centrada en el fair play, el respeto a las normas y la participación a
     category: "situaciones-aprendizaje",
     subcategory: "sexto-de-primaria",
     date: "2026-03-01",
-    author: "Laura Sánchez",
+    author: "Marco Pérez",
     readingTime: 7,
     popular: true,
     excerpt:
@@ -895,7 +895,7 @@ Rúbrica de coevaluación entre comisiones, valorando organización, actitud y t
     category: "evaluacion",
     subcategory: "rubricas",
     date: "2026-01-06",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 7,
     popular: true,
     excerpt:
@@ -928,7 +928,7 @@ Comparte la rúbrica con el alumnado antes de la actividad: la evaluación debe 
     category: "evaluacion",
     subcategory: "rubricas",
     date: "2026-01-14",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Un modelo de rúbrica centrado en las actitudes cooperativas: comunicación, aportación de ideas y respeto a los compañeros.",
@@ -960,7 +960,7 @@ Combina esta rúbrica con una breve asamblea final para contrastar la percepció
     category: "evaluacion",
     subcategory: "listas-de-control",
     date: "2026-01-19",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Una herramienta ágil de evaluación dicotómica (sí/no) muy útil para verificar la presencia o ausencia de conductas concretas.",
@@ -989,7 +989,7 @@ Combina listas de control con observación cualitativa para no perder informaci�
     category: "evaluacion",
     subcategory: "listas-de-control",
     date: "2026-01-29",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 4,
     excerpt:
       "Un instrumento sencillo para hacer seguimiento de hábitos transversales como el cambio de calzado, la hidratación o el cuidado del material.",
@@ -1021,7 +1021,7 @@ Utilízala como punto de partida para el diálogo con las familias sobre hábito
     category: "evaluacion",
     subcategory: "escalas-de-observacion",
     date: "2026-02-03",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 6,
     excerpt:
       "Una escala de observación permite graduar la frecuencia o calidad de una conducta a lo largo de un continuo, aportando más matiz que una lista de control.",
@@ -1052,7 +1052,7 @@ Utiliza plantillas con los nombres del alumnado preimpresos para agilizar el reg
     category: "evaluacion",
     subcategory: "escalas-de-observacion",
     date: "2026-02-11",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "Una herramienta pensada para juegos y deportes de oposición o colaboración-oposición donde el fair play cobra especial relevancia.",
@@ -1084,7 +1084,7 @@ Comenta los resultados en una asamblea breve, centrando el foco en la mejora y n
     category: "evaluacion",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-17",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 6,
     popular: true,
     excerpt:
@@ -1117,7 +1117,7 @@ Empieza por seleccionar dos o tres instrumentos que domines bien antes de amplia
     category: "evaluacion",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-22",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 5,
     excerpt:
       "El portafolio permite recopilar fotografías, dibujos, autoevaluaciones y reflexiones que muestran el progreso individual del alumnado.",
@@ -1148,7 +1148,7 @@ Un portafolio digital compartido con las familias puede convertirse también en 
     category: "evaluacion",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-27",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 6,
     excerpt:
       "Implicar al alumnado en su propia evaluación mejora la motivación y el desarrollo de la competencia de aprender a aprender.",
@@ -1179,7 +1179,7 @@ Empieza con criterios muy concretos y observables antes de pedir valoraciones m�
     category: "evaluacion",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-03-03",
-    author: "Carlos Iglesias",
+    author: "Marco Pérez",
     readingTime: 7,
     excerpt:
       "La LOMLOE pone el foco en una evaluación continua y formativa que acompañe el proceso de aprendizaje, más allá de la calificación final.",
