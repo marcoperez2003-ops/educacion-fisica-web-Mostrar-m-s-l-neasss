@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { siteConfig } from "@/lib/site";
@@ -32,6 +33,8 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true }
 };
 
+const GA_MEASUREMENT_ID = "G-X5WPS1KC1N";
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const orgJsonLd = {
     "@context": "https://schema.org",
@@ -63,21 +66,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         */}
       </head>
       <body>
-        {/*
-          Google Analytics (GA4): sustituye G-XXXXXXXXXX en lib/site.ts,
-          añade arriba `import Script from "next/script";` y descomenta
-          este bloque para activar el seguimiento de visitas.
-
-          <Script src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.gaId}`} strategy="afterInteractive" />
-          <Script id="ga4" strategy="afterInteractive">
-            {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${siteConfig.analytics.gaId}');
-            `}
-          </Script>
-        */}
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
 
         <Header />
         <main>{children}</main>
