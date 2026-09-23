@@ -61,6 +61,99 @@ El docente se coloca en el centro sujetando un pañuelo y dice un número en voz
 El juego del pañuelo sigue siendo una de las actividades más efectivas para dinamizar sesiones de Educación Física en Primaria.
 `
 },
+{
+  slug: "15-juegos-cooperativos-educacion-fisica-primaria",
+  title: "15 juegos cooperativos para Educación Física en Primaria",
+  metaDescription:
+    "15 juegos cooperativos para Educación Física en Primaria que fomentan el trabajo en equipo, la comunicación y la inclusión del alumnado.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-cooperativos",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 6,
+  popular: true,
+  excerpt:
+    "Descubre una selección de juegos cooperativos para Educación Física en Primaria ideales para mejorar la cohesión grupal, la comunicación y la participación de todo el alumnado.",
+  content: `
+## ¿Por qué utilizar juegos cooperativos en Educación Física?
+<br>
+Los juegos cooperativos son una herramienta fundamental dentro de las clases de Educación Física. A diferencia de los juegos competitivos tradicionales, el objetivo no es ganar a otros compañeros, sino colaborar para alcanzar una meta común.
+<br>
+Este enfoque favorece la inclusión, reduce los conflictos y permite que todo el alumnado participe activamente independientemente de su nivel de habilidad motriz.
+<br>
+Además, los juegos cooperativos ayudan a desarrollar competencias personales y sociales como la empatía, la comunicación, la resolución de problemas y el trabajo en equipo.
+<br>
+## 1. El nudo humano
+<br>
+El alumnado forma un círculo, cierra los ojos y extiende las manos hacia el centro para agarrar las manos de otros compañeros. El grupo deberá deshacer el nudo sin soltarse.
+<br>
+## 2. La isla
+<br>
+Toda la clase debe mantenerse encima de una zona delimitada que se va reduciendo progresivamente.
+<br>
+## 3. Transportar la pelota
+<br>
+Por parejas o pequeños grupos, los participantes deben transportar una pelota de un punto a otro sin utilizar las manos.
+<br>
+## 4. La telaraña
+<br>
+El grupo debe atravesar una estructura de cuerdas utilizando cada hueco una única vez.
+<br>
+## 5. El puente humano
+<br>
+Los compañeros forman un puente con sus cuerpos para que otros puedan desplazarse de forma segura.
+<br>
+## 6. La cadena cooperativa
+<br>
+Todos los participantes deben desplazarse unidos formando una única cadena humana.
+<br>
+## 7. Construcción de figuras
+<br>
+El docente propone figuras geométricas o letras que deben construirse utilizando únicamente los cuerpos de los participantes.
+<br>
+## 8. Relevos cooperativos
+<br>
+El objetivo no es competir entre equipos, sino conseguir que todo el grupo complete el recorrido en el menor tiempo posible.
+<br>
+## 9. El paracaídas
+<br>
+Utilizando una tela grande, el alumnado debe realizar diferentes desafíos sin que los objetos colocados encima se caigan.
+<br>
+## 10. Pase colectivo
+<br>
+El grupo debe completar un número determinado de pases sin que el balón caiga al suelo.
+<br>
+## 11. El circuito compartido
+<br>
+Cada alumno completa una parte del recorrido y ayuda al siguiente compañero a superar el obstáculo.
+<br>
+## 12. Construimos una torre
+<br>
+Los participantes reciben diferentes materiales y deben construir la torre más alta posible colaborando entre todos.
+<br>
+## 13. Atrapa el tesoro
+<br>
+El grupo debe recuperar varios objetos distribuidos por el espacio siguiendo unas normas de cooperación.
+<br>
+## 14. El laberinto cooperativo
+<br>
+Un compañero realiza el recorrido con los ojos cerrados mientras el resto le guía mediante instrucciones.
+<br>
+## 15. La misión imposible
+<br>
+El alumnado debe superar diferentes retos físicos utilizando únicamente los recursos y compañeros disponibles.
+<br>
+## Recomendaciones para el docente
+<br>
+Para que los juegos cooperativos funcionen correctamente es importante explicar claramente los objetivos, valorar el proceso más que el resultado, favorecer la participación de todos, adaptar la dificultad a la edad del alumnado y realizar una reflexión final tras la actividad.
+<br>
+## Conclusión
+<br>
+Los juegos cooperativos permiten trabajar contenidos motrices mientras se desarrollan habilidades sociales fundamentales para la convivencia escolar.
+<br>
+Incorporar este tipo de actividades en Educación Física favorece la inclusión, mejora el clima de aula y ayuda al alumnado a comprender la importancia de colaborar para alcanzar objetivos comunes.
+`
+},
   {
     slug: "la-telaraña-juego-cooperativo-confianza",
     title: "La telaraña: juego cooperativo para generar confianza grupal",
