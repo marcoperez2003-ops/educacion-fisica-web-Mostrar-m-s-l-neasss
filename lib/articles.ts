@@ -474,6 +474,127 @@ Se propone una lista de control sencilla para verificar el reconocimiento de al 
 `
   },
   {
+  slug: "situacion-aprendizaje-matematicas-mercado-escolar",
+  title: "Situación de Aprendizaje de Matemáticas: El Mercado Escolar",
+  metaDescription:
+    "Ejemplo completo de situación de aprendizaje de Matemáticas para Educación Primaria basada en el aprendizaje práctico mediante un mercado escolar.",
+  category: "situaciones-aprendizaje",
+  subcategory: "matematicas",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 10,
+  popular: true,
+  excerpt:
+    "Propuesta de situación de aprendizaje de Matemáticas para Primaria centrada en el uso práctico del dinero, operaciones básicas y resolución de problemas.",
+  content: `
+# Situación de Aprendizaje de Matemáticas: El Mercado Escolar
+
+## Introducción
+
+Las Matemáticas cobran más sentido cuando el alumnado comprende su utilidad en la vida cotidiana. Esta situación de aprendizaje propone la creación de un mercado escolar en el aula donde los estudiantes deberán comprar, vender, calcular precios y administrar un presupuesto.
+
+## Contextualización
+
+- Etapa: Educación Primaria
+- Curso recomendado: 4º Primaria
+- Área: Matemáticas
+- Temporalización: 8 sesiones
+- Agrupamientos: Individual, parejas y grupos cooperativos
+
+## Justificación
+
+El uso del dinero forma parte de la vida diaria del alumnado. Mediante esta propuesta se desarrollan habilidades matemáticas relacionadas con el cálculo, la resolución de problemas y la toma de decisiones en contextos reales.
+
+## Producto Final
+
+Creación y gestión de un mercado escolar donde los alumnos elaborarán productos, establecerán precios y realizarán operaciones de compra y venta utilizando dinero ficticio.
+
+## Competencias Específicas
+
+- Resolver problemas utilizando operaciones básicas.
+- Aplicar estrategias de cálculo mental.
+- Interpretar información numérica en contextos cotidianos.
+- Comunicar procesos matemáticos de forma clara.
+
+## Saberes Básicos
+
+- Numeración decimal.
+- Sumas y restas con cantidades monetarias.
+- Multiplicación y división en situaciones reales.
+- Resolución de problemas.
+- Educación financiera básica.
+
+## Objetivos
+
+1. Utilizar operaciones matemáticas en situaciones reales.
+2. Interpretar precios y cantidades.
+3. Gestionar presupuestos sencillos.
+4. Trabajar de forma cooperativa.
+5. Desarrollar autonomía en la toma de decisiones.
+
+## Desarrollo de las sesiones
+
+### Sesión 1: Descubrimos el mercado
+
+Conversación inicial sobre comercios y compras habituales.
+
+### Sesión 2: Diseñamos los puestos
+
+Cada grupo crea un pequeño negocio y decide qué productos vender.
+
+### Sesión 3: Establecemos precios
+
+Los alumnos calculan precios y elaboran etiquetas.
+
+### Sesión 4: Calculamos presupuestos
+
+Cada equipo recibe una cantidad inicial de dinero ficticio.
+
+### Sesión 5: Apertura del mercado
+
+Comienzan las compras y ventas entre los grupos.
+
+### Sesión 6: Resolución de problemas
+
+Se plantean situaciones relacionadas con descuentos, cambios y devoluciones.
+
+### Sesión 7: Balance económico
+
+Los equipos registran ingresos y gastos.
+
+### Sesión 8: Evaluación final
+
+Reflexión sobre los aprendizajes desarrollados.
+
+## Atención a la diversidad
+
+- Adaptación de cantidades y cálculos.
+- Uso de apoyos visuales.
+- Trabajo cooperativo.
+- Material manipulativo.
+
+## Instrumentos de evaluación
+
+- Observación directa.
+- Rúbrica de trabajo cooperativo.
+- Registro de actividades.
+- Resolución de problemas.
+- Autoevaluación.
+
+## Criterios de evaluación
+
+- Resuelve operaciones de forma adecuada.
+- Aplica estrategias matemáticas.
+- Participa activamente en las tareas.
+- Comunica razonamientos matemáticos.
+- Gestiona correctamente los recursos disponibles.
+
+## Conclusión
+
+Esta situación de aprendizaje permite conectar las Matemáticas con experiencias reales y significativas para el alumnado. El mercado escolar favorece la motivación y facilita el desarrollo de competencias matemáticas esenciales para la vida cotidiana.
+`
+},
+  {
     slug: "situacion-aprendizaje-1-primaria-juego-simbolico",
     title: "Situación de aprendizaje: el bosque de los animales (1º Primaria)",
     metaDescription:
