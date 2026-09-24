@@ -4,6 +4,7 @@ export type Article = {
   metaDescription: string;
   category: "juegos-educacion-fisica" | "situaciones-aprendizaje" | "evaluacion";
   subcategory: string;
+  subject: string; // slug de la asignatura, ver lib/subjects.ts
   date: string; // ISO
   author: string;
   readingTime: number; // minutos
@@ -20,6 +21,7 @@ export const articles: Article[] = [
   metaDescription:
     "Descubre cómo organizar el juego del pañuelo en Educación Física, sus reglas básicas y varias adaptaciones para Primaria.",
   category: "juegos-educacion-fisica",
+  subject: "educacion-fisica",
   subcategory: "juegos-de-calentamiento",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -67,6 +69,7 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
   metaDescription:
     "15 juegos cooperativos para Educación Física en Primaria que fomentan el trabajo en equipo, la comunicación y la inclusión del alumnado.",
   category: "juegos-educacion-fisica",
+  subject: "educacion-fisica",
   subcategory: "juegos-cooperativos",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -160,6 +163,7 @@ Incorporar este tipo de actividades en Educación Física favorece la inclusión
     metaDescription:
       "La telaraña es un juego cooperativo perfecto para trabajar la confianza y la cohesión de grupo en las clases de Educación Física de Primaria.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-cooperativos",
     date: "2026-01-18",
     author: "Marco Pérez",
@@ -190,6 +194,7 @@ Refuerza la seguridad física supervisando los pasos más complicados y destaca 
     metaDescription:
       "Recopilación de 10 juegos de calentamiento breves y dinámicos, ideales para activar al alumnado al inicio de la sesión de Educación Física.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-de-calentamiento",
     date: "2026-01-05",
     author: "Marco Pérez",
@@ -224,6 +229,7 @@ Adapta la intensidad a la temperatura ambiente y a la actividad prevista despué
     metaDescription:
       "Propuesta de calentamiento con música para Educación Física en Primaria: una rutina sencilla que mejora la motivación y el ritmo del alumnado.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-de-calentamiento",
     date: "2026-01-22",
     author: "Marco Pérez",
@@ -254,6 +260,7 @@ Cuida el volumen y elige canciones sin contenido inapropiado; revisa la letra pr
     metaDescription:
       "Juegos de Educación Física que no requieren ningún material, perfectos para el patio cuando no dispones de balones ni conos.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-sin-material",
     date: "2026-01-09",
     author: "Marco Pérez",
@@ -287,6 +294,7 @@ Marca claramente los límites del espacio de juego con referencias del propio pa
     metaDescription:
       "Un juego sin material que combina Educación Física y matemáticas: pilla-pilla de las formas geométricas para Primaria.",
     category: "juegos-educacion-fisica",
+    subject: "matematicas",
     subcategory: "juegos-sin-material",
     date: "2026-01-25",
     author: "Marco Pérez",
@@ -317,6 +325,7 @@ Aprovecha para reforzar contenidos de matemáticas de forma lúdica y motivadora
     metaDescription:
       "Propuestas de juegos de Educación Física adaptados a espacios reducidos, ideales para aulas o gimnasios pequeños en Primaria.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-para-espacios-reducidos",
     date: "2026-02-01",
     author: "Marco Pérez",
@@ -350,6 +359,7 @@ Prioriza siempre la seguridad frente a mobiliario y esquinas; marca zonas segura
     metaDescription:
       "Diseña un circuito de habilidades motrices básicas adaptado a pasillos o espacios reducidos en el área de Educación Física.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-para-espacios-reducidos",
     date: "2026-02-05",
     author: "Marco Pérez",
@@ -380,6 +390,7 @@ Establece un sentido único de circulación para evitar choques entre el alumnad
     metaDescription:
       "Alternativas de Educación Física para días de lluvia: juegos que se pueden desarrollar dentro del aula o en espacios cubiertos.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-para-dias-de-lluvia",
     date: "2026-02-09",
     author: "Marco Pérez",
@@ -414,6 +425,7 @@ Aprovecha estos días para trabajar contenidos de expresión corporal y relajaci
     metaDescription:
       "Propuesta de sesión de yoga infantil adaptada a Educación Física en Primaria, ideal como alternativa en días de lluvia.",
     category: "juegos-educacion-fisica",
+    subject: "educacion-fisica",
     subcategory: "juegos-para-dias-de-lluvia",
     date: "2026-02-14",
     author: "Marco Pérez",
@@ -446,6 +458,7 @@ Cuida el tono de voz durante la relajación final; un ambiente tranquilo es clav
   metaDescription:
     "Aprende a diseñar una situación de aprendizaje paso a paso según la LOMLOE. Guía práctica para docentes de Primaria con ejemplos y consejos.",
   category: "situaciones-aprendizaje",
+  subject: "educacion-fisica",
   subcategory: "tercero-de-primaria",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -584,6 +597,7 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
   metaDescription:
     "Ejemplo completo de situación de aprendizaje de Matemáticas para 6º de Primaria basado en la organización de un viaje de fin de curso según la LOMLOE.",
   category: "situaciones-aprendizaje",
+  subject: "matematicas",
   subcategory: "sexto-de-primaria",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -842,6 +856,7 @@ A través de la comparación de presupuestos, el análisis de datos y la toma de
   metaDescription:
     "Ejemplo completo de situación de aprendizaje de Lengua para 4º de Primaria basado en la creación de un periódico escolar siguiendo la LOMLOE.",
   category: "situaciones-aprendizaje",
+  subject: "lengua-y-literatura",
   subcategory: "cuarto-de-primaria",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -1105,6 +1120,7 @@ La integración de lectura, escritura, comunicación oral y trabajo cooperativo 
     metaDescription:
       "Situación de aprendizaje de Educación Física para 1º de Primaria centrada en el conocimiento y control del esquema corporal.",
     category: "situaciones-aprendizaje",
+    subject: "ciencias-naturales",
     subcategory: "primero-de-primaria",
     date: "2026-01-08",
     author: "Marco Pérez",
@@ -1138,6 +1154,7 @@ Se propone una lista de control sencilla para verificar el reconocimiento de al 
   metaDescription:
     "Ejemplo completo de situación de aprendizaje de Matemáticas para Educación Primaria basada en el aprendizaje práctico mediante un mercado escolar.",
   category: "situaciones-aprendizaje",
+  subject: "matematicas",
   subcategory: "matematicas",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -1259,6 +1276,7 @@ Esta situación de aprendizaje permite conectar las Matemáticas con experiencia
   metaDescription:
     "Ejemplo completo de situación de aprendizaje de Ciencias Naturales para 5º de Primaria basada en la protección del medio ambiente y el desarrollo sostenible.",
   category: "situaciones-aprendizaje",
+  subject: "ciencias-naturales",
   subcategory: "quinto-de-primaria",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -1510,6 +1528,7 @@ A través de la investigación, la observación y la acción, los estudiantes de
     metaDescription:
       "Situación de aprendizaje de Educación Física para 1º de Primaria basada en el juego simbólico y los desplazamientos naturales.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "primero-de-primaria",
     date: "2026-01-15",
     author: "Marco Pérez",
@@ -1542,6 +1561,7 @@ Escala de observación centrada en la ejecución de los patrones motrices básic
     metaDescription:
       "Situación de aprendizaje de Educación Física para 2º de Primaria centrada en el desarrollo del equilibrio estático y dinámico.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "segundo-de-primaria",
     date: "2026-01-20",
     author: "Marco Pérez",
@@ -1574,6 +1594,7 @@ Rúbrica de tres niveles de logro sobre el control del equilibrio en las distint
     metaDescription:
       "Situación de aprendizaje de Educación Física para 2º de Primaria enfocada en lanzamientos y recepciones básicas.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "segundo-de-primaria",
     date: "2026-01-27",
     author: "Marco Pérez",
@@ -1606,6 +1627,7 @@ Lista de control sobre la ejecución técnica básica del lanzamiento.
     metaDescription:
       "Situación de aprendizaje de Educación Física para 3º de Primaria basada en actividades de orientación en el entorno escolar.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "tercero-de-primaria",
     date: "2026-02-02",
     author: "Marco Pérez",
@@ -1639,6 +1661,7 @@ Rúbrica que valora tanto la orientación espacial como el trabajo en equipo.
     metaDescription:
       "Situación de aprendizaje de Educación Física para 3º de Primaria centrada en la expresión corporal y la comunicación no verbal.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-artistica",
     subcategory: "tercero-de-primaria",
     date: "2026-02-10",
     author: "Marco Pérez",
@@ -1671,6 +1694,7 @@ Escala de observación centrada en la implicación y la claridad expresiva.
     metaDescription:
       "Situación de aprendizaje de Educación Física para 4º de Primaria centrada en la recuperación de juegos populares y tradicionales.",
     category: "situaciones-aprendizaje",
+    subject: "valores-civicos",
     subcategory: "cuarto-de-primaria",
     date: "2026-02-16",
     author: "Marco Pérez",
@@ -1703,6 +1727,7 @@ Rúbrica que valora la investigación, la participación y la explicación de la
     metaDescription:
       "Situación de aprendizaje de Educación Física para 4º de Primaria enfocada en habilidades atléticas básicas: carrera, salto y lanzamiento.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "cuarto-de-primaria",
     date: "2026-02-20",
     author: "Marco Pérez",
@@ -1735,6 +1760,7 @@ Registro de marcas personales para comparar la evolución, no la comparación en
     metaDescription:
       "Situación de aprendizaje de Educación Física para 5º de Primaria centrada en deportes alternativos con enfoque cooperativo.",
     category: "situaciones-aprendizaje",
+    subject: "educacion-fisica",
     subcategory: "quinto-de-primaria",
     date: "2026-02-24",
     author: "Marco Pérez",
@@ -1768,6 +1794,7 @@ Rúbrica centrada en el fair play, el respeto a las normas y la participación a
     metaDescription:
       "Situación de aprendizaje de Educación Física para 6º de Primaria: el alumnado organiza y gestiona unas olimpiadas escolares como proyecto final de etapa.",
     category: "situaciones-aprendizaje",
+    subject: "valores-civicos",
     subcategory: "sexto-de-primaria",
     date: "2026-03-01",
     author: "Marco Pérez",
@@ -1803,6 +1830,7 @@ Rúbrica de coevaluación entre comisiones, valorando organización, actitud y t
     metaDescription:
       "Guía práctica para diseñar rúbricas de evaluación en Educación Física de Primaria: criterios, niveles de logro y ejemplos.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "rubricas",
     date: "2026-01-06",
     author: "Marco Pérez",
@@ -1836,6 +1864,7 @@ Comparte la rúbrica con el alumnado antes de la actividad: la evaluación debe 
     metaDescription:
       "Modelo de rúbrica para evaluar el trabajo en equipo del alumnado de Primaria en las sesiones de Educación Física.",
     category: "evaluacion",
+    subject: "valores-civicos",
     subcategory: "rubricas",
     date: "2026-01-14",
     author: "Marco Pérez",
@@ -1868,6 +1897,7 @@ Combina esta rúbrica con una breve asamblea final para contrastar la percepció
     metaDescription:
       "Descubre qué son las listas de control, cuándo utilizarlas frente a una rúbrica y cómo diseñarlas para Educación Física en Primaria.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "listas-de-control",
     date: "2026-01-19",
     author: "Marco Pérez",
@@ -1897,6 +1927,7 @@ Combina listas de control con observación cualitativa para no perder informaci�
     metaDescription:
       "Modelo de lista de control para evaluar hábitos de higiene, cuidado del material y seguridad en las clases de Educación Física.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "listas-de-control",
     date: "2026-01-29",
     author: "Marco Pérez",
@@ -1929,6 +1960,7 @@ Utilízala como punto de partida para el diálogo con las familias sobre hábito
     metaDescription:
       "Todo lo que necesitas saber sobre las escalas de observación como instrumento de evaluación en Educación Física de Primaria.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "escalas-de-observacion",
     date: "2026-02-03",
     author: "Marco Pérez",
@@ -1960,6 +1992,7 @@ Utiliza plantillas con los nombres del alumnado preimpresos para agilizar el reg
     metaDescription:
       "Modelo de escala de observación centrado en la actitud deportiva, el fair play y el respeto a las normas en Educación Física.",
     category: "evaluacion",
+    subject: "valores-civicos",
     subcategory: "escalas-de-observacion",
     date: "2026-02-11",
     author: "Marco Pérez",
@@ -1992,6 +2025,7 @@ Comenta los resultados en una asamblea breve, centrando el foco en la mejora y n
     metaDescription:
       "Panorama de los principales instrumentos de evaluación competencial en Educación Física: rúbricas, listas, escalas y portafolios.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-17",
     author: "Marco Pérez",
@@ -2025,6 +2059,7 @@ Empieza por seleccionar dos o tres instrumentos que domines bien antes de amplia
     metaDescription:
       "Cómo implementar un portafolio del alumnado en Educación Física de Primaria para recoger evidencias de aprendizaje a lo largo del curso.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-22",
     author: "Marco Pérez",
@@ -2056,6 +2091,7 @@ Un portafolio digital compartido con las familias puede convertirse también en 
     metaDescription:
       "Guía práctica para introducir la autoevaluación y la coevaluación entre iguales en las clases de Educación Física de Primaria.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-02-27",
     author: "Marco Pérez",
@@ -2087,6 +2123,7 @@ Empieza con criterios muy concretos y observables antes de pedir valoraciones m�
     metaDescription:
       "Cómo aplicar una evaluación formativa y continua en Educación Física de Primaria, alineada con los principios de la LOMLOE.",
     category: "evaluacion",
+    subject: "educacion-fisica",
     subcategory: "instrumentos-de-evaluacion",
     date: "2026-03-03",
     author: "Marco Pérez",
