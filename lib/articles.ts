@@ -836,6 +836,269 @@ La situación de aprendizaje "Organizamos un viaje de fin de curso" constituye u
 A través de la comparación de presupuestos, el análisis de datos y la toma de decisiones, el alumnado desarrolla competencias fundamentales para su vida cotidiana. El aprendizaje deja de centrarse en ejercicios aislados para convertirse en una experiencia práctica, motivadora y plenamente conectada con la realidad.
 `
 },
+{
+  slug: "situacion-aprendizaje-lengua-4-primaria-periodico-escolar",
+  title: "Situación de Aprendizaje de Lengua para 4º de Primaria: Creamos un Periódico Escolar",
+  metaDescription:
+    "Ejemplo completo de situación de aprendizaje de Lengua para 4º de Primaria basado en la creación de un periódico escolar siguiendo la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Lengua para 4º de Primaria en la que el alumnado crea un periódico escolar desarrollando la expresión escrita, comprensión lectora y comunicación oral.",
+  content: `
+# Situación de Aprendizaje de Lengua para 4º de Primaria: Creamos un Periódico Escolar
+
+## Introducción
+<br>
+La competencia comunicativa es uno de los pilares fundamentales de la Educación Primaria. El alumnado necesita desarrollar habilidades relacionadas con la comprensión lectora, la expresión escrita, la comunicación oral y la capacidad de analizar e interpretar información.
+<br>
+Esta situación de aprendizaje plantea un reto motivador y cercano: la creación de un periódico escolar elaborado íntegramente por el alumnado.
+<br>
+A través de esta propuesta, los estudiantes asumirán el papel de periodistas, redactores, fotógrafos y editores, desarrollando diferentes tipos de textos mientras trabajan de forma cooperativa.
+<br>
+El proyecto permite integrar contenidos curriculares de Lengua Castellana y Literatura mediante una experiencia práctica, significativa y muy cercana a la realidad.
+<br>
+## Contextualización
+<br>
+- Etapa: Educación Primaria
+- Curso: 4º de Primaria
+- Área: Lengua Castellana y Literatura
+- Temporalización: 10 sesiones
+- Agrupamientos: Individual, parejas y grupos cooperativos
+- Metodología: Aprendizaje Basado en Proyectos
+<br>
+## Situación de partida
+<br>
+El equipo directivo propone al alumnado la creación de un periódico escolar que recoja noticias, entrevistas y acontecimientos importantes del centro educativo.
+<br>
+Los estudiantes deberán investigar, redactar, corregir y publicar diferentes textos para elaborar un periódico completo destinado a toda la comunidad educativa.
+<br>
+## Producto final
+<br>
+Elaboración de un periódico escolar que incluya:
+<br>
+- Noticias.
+- Entrevistas.
+- Reportajes.
+- Pasatiempos.
+- Recomendaciones literarias.
+- Eventos del centro.
+<br>
+Además, los grupos realizarán una presentación oral final para explicar su trabajo.
+<br>
+## Justificación
+<br>
+El periódico escolar constituye una herramienta muy potente para trabajar la comunicación escrita de manera funcional.
+<br>
+Los alumnos comprenden que escribir tiene una finalidad real y que sus textos serán leídos por otras personas.
+<br>
+Esta situación favorece la motivación y permite trabajar numerosos contenidos de Lengua de forma integrada.
+<br>
+## Competencias específicas trabajadas
+<br>
+A través de esta situación de aprendizaje se desarrollan competencias relacionadas con:
+<br>
+- Comprensión de textos escritos.
+- Producción de textos escritos.
+- Comunicación oral.
+- Búsqueda y análisis de información.
+- Trabajo cooperativo.
+- Competencia digital.
+<br>
+## Objetivos de aprendizaje
+<br>
+Al finalizar el proyecto, el alumnado será capaz de:
+<br>
+1. Identificar las características de diferentes textos periodísticos.
+2. Buscar información relevante en fuentes fiables.
+3. Elaborar textos escritos adecuados a una finalidad comunicativa.
+4. Revisar y corregir producciones propias.
+5. Utilizar herramientas digitales básicas para presentar información.
+6. Participar de manera activa en tareas cooperativas.
+<br>
+## Saberes básicos trabajados
+<br>
+### Comunicación oral
+<br>
+- Escucha activa.
+- Presentaciones orales.
+- Entrevistas.
+<br>
+### Comprensión lectora
+<br>
+- Lectura de textos informativos.
+- Identificación de ideas principales.
+- Análisis de noticias.
+<br>
+### Expresión escrita
+<br>
+- Producción de textos periodísticos.
+- Organización de la información.
+- Uso adecuado de conectores.
+<br>
+### Reflexión sobre la lengua
+<br>
+- Ortografía.
+- Puntuación.
+- Coherencia y cohesión textual.
+<br>
+## Desarrollo de las sesiones
+<br>
+### Sesión 1: Presentación del reto
+<br>
+El alumnado descubre que deberá crear un periódico escolar.
+<br>
+Se muestran ejemplos reales de periódicos y se identifican las principales secciones.
+<br>
+Los estudiantes realizan una lluvia de ideas sobre posibles noticias relacionadas con el centro educativo.
+<br>
+### Sesión 2: ¿Qué es una noticia?
+<br>
+Se analiza la estructura básica de una noticia:
+<br>
+- Titular.
+- Entradilla.
+- Cuerpo de la noticia.
+<br>
+Se leen ejemplos reales adaptados al nivel del alumnado.
+<br>
+### Sesión 3: Búsqueda de información
+<br>
+Cada grupo selecciona un tema de interés:
+<br>
+- Actividades del centro.
+- Deportes.
+- Biblioteca.
+- Excursiones.
+- Celebraciones.
+<br>
+Los alumnos recopilan información mediante entrevistas y observaciones.
+<br>
+### Sesión 4: Elaboración de noticias
+<br>
+Los equipos comienzan a redactar sus noticias.
+<br>
+Se trabaja la organización de ideas, la claridad del mensaje y la estructura textual.
+<br>
+### Sesión 5: Aprendemos a entrevistar
+<br>
+Se explican las características de una entrevista.
+<br>
+Los estudiantes preparan preguntas para entrevistar a docentes, personal del centro o compañeros.
+<br>
+### Sesión 6: Realización de entrevistas
+<br>
+Los grupos realizan entrevistas reales y recogen información relevante para el periódico.
+<br>
+### Sesión 7: Revisión y corrección
+<br>
+Se revisan todos los textos producidos.
+<br>
+El alumnado corrige:
+<br>
+- Ortografía.
+- Signos de puntuación.
+- Coherencia.
+- Presentación.
+<br>
+### Sesión 8: Diseño del periódico
+<br>
+Los grupos organizan las diferentes secciones.
+<br>
+Se incorporan imágenes, titulares y elementos visuales.
+<br>
+### Sesión 9: Preparación de la presentación final
+<br>
+Cada equipo prepara una breve exposición oral explicando las tareas realizadas.
+<br>
+### Sesión 10: Publicación y difusión
+<br>
+Se presenta el periódico al resto del centro.
+<br>
+Los alumnos comparten su experiencia y reflexionan sobre los aprendizajes adquiridos.
+<br>
+## Atención a la diversidad
+<br>
+La propuesta incorpora medidas para garantizar la participación de todo el alumnado:
+<br>
+- Textos adaptados.
+- Apoyos visuales.
+- Plantillas estructuradas.
+- Trabajo cooperativo.
+- Agrupamientos flexibles.
+<br>
+Estas medidas facilitan el acceso al aprendizaje independientemente del nivel competencial de cada estudiante.
+<br>
+## Instrumentos de evaluación
+<br>
+### Rúbrica de producción escrita
+<br>
+Valora:
+<br>
+- Organización del texto.
+- Corrección gramatical.
+- Ortografía.
+- Creatividad.
+<br>
+### Lista de control
+<br>
+Permite verificar:
+<br>
+- Participación.
+- Cumplimiento de tareas.
+- Uso adecuado de las fuentes.
+<br>
+### Observación directa
+<br>
+Se registran aspectos relacionados con:
+<br>
+- Colaboración.
+- Implicación.
+- Comunicación oral.
+<br>
+### Autoevaluación
+<br>
+Cada estudiante reflexiona sobre:
+<br>
+- Lo aprendido.
+- Las dificultades encontradas.
+- Aspectos a mejorar.
+<br>
+## Criterios de evaluación
+<br>
+Se valorará que el alumnado:
+<br>
+- Comprenda diferentes tipos de textos.
+- Produzca escritos claros y coherentes.
+- Organice adecuadamente la información.
+- Utilice estrategias de revisión textual.
+- Participe activamente en tareas cooperativas.
+<br>
+## Beneficios de esta situación de aprendizaje
+<br>
+Esta propuesta permite:
+<br>
+- Mejorar la competencia lingüística.
+- Incrementar la motivación hacia la lectura y la escritura.
+- Potenciar el trabajo cooperativo.
+- Favorecer la autonomía.
+- Desarrollar habilidades comunicativas reales.
+<br>
+Además, conecta el aprendizaje con situaciones muy próximas a la realidad del alumnado.
+<br>
+## Conclusión
+<br>
+La creación de un periódico escolar constituye una situación de aprendizaje muy completa para 4º de Primaria.
+<br>
+A través de ella, los estudiantes desarrollan competencias comunicativas esenciales mientras participan en un proyecto significativo y motivador.
+<br>
+La integración de lectura, escritura, comunicación oral y trabajo cooperativo convierte esta propuesta en una excelente herramienta para implementar la LOMLOE en el área de Lengua Castellana y Literatura.
+`
+},
   {
     slug: "situacion-aprendizaje-1-primaria-esquema-corporal",
     title: "Situación de aprendizaje: descubro mi esquema corporal (1º Primaria)",
@@ -988,6 +1251,257 @@ Reflexión sobre los aprendizajes desarrollados.
 ## Conclusión
 
 Esta situación de aprendizaje permite conectar las Matemáticas con experiencias reales y significativas para el alumnado. El mercado escolar favorece la motivación y facilita el desarrollo de competencias matemáticas esenciales para la vida cotidiana.
+`
+},
+{
+  slug: "situacion-aprendizaje-ciencias-naturales-5-primaria-medio-ambiente",
+  title: "Situación de Aprendizaje de Ciencias Naturales para 5º de Primaria: Guardianes del Medio Ambiente",
+  metaDescription:
+    "Ejemplo completo de situación de aprendizaje de Ciencias Naturales para 5º de Primaria basada en la protección del medio ambiente y el desarrollo sostenible.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Ciencias Naturales para 5º de Primaria donde el alumnado investiga problemas medioambientales y desarrolla propuestas para mejorar su entorno.",
+  content: `
+# Situación de Aprendizaje de Ciencias Naturales para 5º de Primaria: Guardianes del Medio Ambiente
+
+## Introducción
+<br>
+La educación ambiental constituye uno de los grandes retos de la escuela actual. Los problemas relacionados con la contaminación, el cambio climático, la pérdida de biodiversidad y la generación de residuos hacen necesario que el alumnado desarrolle hábitos responsables desde edades tempranas.
+<br>
+Esta situación de aprendizaje pretende convertir a los estudiantes en protagonistas activos de la mejora de su entorno. A través de actividades de investigación, observación y acción, el alumnado analizará diferentes problemas medioambientales y diseñará propuestas concretas para contribuir a la conservación del planeta.
+<br>
+La propuesta se fundamenta en los principios de la LOMLOE y promueve el desarrollo de competencias relacionadas con la sostenibilidad, la ciudadanía responsable y el pensamiento científico.
+<br>
+## Contextualización
+<br>
+- Etapa: Educación Primaria
+- Curso: 5º de Primaria
+- Área: Ciencias Naturales
+- Temporalización: 10 sesiones
+- Agrupamientos: Individual, parejas y grupos cooperativos
+- Metodología: Aprendizaje Basado en Proyectos
+<br>
+## Situación de partida
+<br>
+Durante los últimos años se ha observado un aumento de residuos en los espacios públicos cercanos al centro educativo.
+<br>
+El ayuntamiento solicita la colaboración de los estudiantes para investigar qué ocurre y plantear posibles soluciones.
+<br>
+El alumnado deberá actuar como un equipo de investigadores ambientales encargado de analizar la situación y proponer medidas de mejora.
+<br>
+## Producto final
+<br>
+Cada grupo elaborará una campaña medioambiental que incluirá:
+<br>
+- Investigación sobre un problema ambiental.
+- Recogida y análisis de datos.
+- Diseño de carteles informativos.
+- Elaboración de propuestas de mejora.
+- Presentación pública de los resultados.
+<br>
+## Justificación
+<br>
+Los problemas ambientales afectan directamente a la vida cotidiana del alumnado.
+<br>
+Trabajar este tema desde una perspectiva práctica contribuye a desarrollar conductas responsables y favorece la adquisición de hábitos sostenibles.
+<br>
+Además, permite conectar los contenidos curriculares con situaciones reales y cercanas.
+<br>
+## Competencias específicas trabajadas
+<br>
+A través de esta situación de aprendizaje se desarrollan competencias relacionadas con:
+<br>
+- Investigación científica.
+- Resolución de problemas.
+- Ciudadanía responsable.
+- Sostenibilidad ambiental.
+- Comunicación oral y escrita.
+- Competencia digital.
+<br>
+## Objetivos de aprendizaje
+<br>
+Al finalizar el proyecto, el alumnado será capaz de:
+<br>
+1. Identificar problemas ambientales presentes en su entorno.
+2. Analizar causas y consecuencias de dichos problemas.
+3. Recoger e interpretar datos mediante técnicas sencillas de investigación.
+4. Diseñar propuestas de mejora viables.
+5. Comunicar resultados utilizando distintos formatos.
+6. Adoptar hábitos de comportamiento sostenibles.
+<br>
+## Saberes básicos trabajados
+<br>
+### Medio ambiente y sostenibilidad
+<br>
+- Ecosistemas.
+- Conservación de recursos naturales.
+- Impacto de la actividad humana.
+<br>
+### Investigación científica
+<br>
+- Observación sistemática.
+- Registro de datos.
+- Elaboración de conclusiones.
+<br>
+### Salud y calidad de vida
+<br>
+- Entornos saludables.
+- Gestión responsable de residuos.
+- Consumo responsable.
+<br>
+## Desarrollo de las sesiones
+<br>
+### Sesión 1: Presentación del reto
+<br>
+El docente presenta el problema ambiental detectado en el entorno escolar.
+<br>
+Se visualizan imágenes y noticias relacionadas con la contaminación y la sostenibilidad.
+<br>
+Posteriormente se realiza una lluvia de ideas sobre posibles causas y soluciones.
+<br>
+### Sesión 2: ¿Qué problemas ambientales existen?
+<br>
+Los grupos investigan diferentes problemas:
+<br>
+- Contaminación del suelo.
+- Contaminación del agua.
+- Contaminación atmosférica.
+- Generación de residuos.
+- Pérdida de biodiversidad.
+<br>
+Se elaboran fichas informativas sencillas.
+<br>
+### Sesión 3: Trabajo de campo
+<br>
+El alumnado realiza observaciones en el entorno próximo al centro.
+<br>
+Registran:
+<br>
+- Tipos de residuos encontrados.
+- Lugares más afectados.
+- Posibles causas.
+<br>
+Toda la información se recoge en tablas de observación.
+<br>
+### Sesión 4: Análisis de datos
+<br>
+Los estudiantes organizan la información obtenida y elaboran gráficos sencillos para representar los resultados.
+<br>
+### Sesión 5: Consecuencias ambientales
+<br>
+Cada grupo investiga qué consecuencias tiene el problema ambiental asignado.
+<br>
+Posteriormente comparten los resultados con el resto de la clase.
+<br>
+### Sesión 6: Búsqueda de soluciones
+<br>
+El alumnado analiza posibles medidas de mejora.
+<br>
+Se estudian ejemplos reales de campañas medioambientales desarrolladas en otras ciudades y centros educativos.
+<br>
+### Sesión 7: Diseño de la campaña
+<br>
+Los grupos elaboran:
+<br>
+- Carteles.
+- Infografías.
+- Trípticos informativos.
+- Presentaciones digitales.
+<br>
+### Sesión 8: Preparación de la exposición
+<br>
+Se organiza la presentación final de los proyectos.
+<br>
+Los estudiantes preparan sus intervenciones orales y ensayan las explicaciones.
+<br>
+### Sesión 9: Exposición pública
+<br>
+Cada grupo presenta su campaña al resto de la clase o a otras aulas del centro.
+<br>
+### Sesión 10: Reflexión y evaluación
+<br>
+El alumnado reflexiona sobre los aprendizajes adquiridos y valora el impacto de las propuestas elaboradas.
+<br>
+## Atención a la diversidad
+<br>
+La situación de aprendizaje contempla medidas de inclusión:
+<br>
+- Material visual de apoyo.
+- Textos adaptados.
+- Diferentes niveles de complejidad.
+- Grupos heterogéneos.
+- Roles cooperativos estructurados.
+<br>
+Estas adaptaciones permiten una participación activa de todo el alumnado.
+<br>
+## Instrumentos de evaluación
+<br>
+### Rúbrica de proyecto
+<br>
+Evalúa:
+<br>
+- Calidad de la investigación.
+- Análisis de datos.
+- Creatividad.
+- Presentación final.
+<br>
+### Lista de control
+<br>
+Permite verificar:
+<br>
+- Participación.
+- Cumplimiento de tareas.
+- Uso adecuado de fuentes.
+<br>
+### Observación directa
+<br>
+Se registran aspectos relacionados con:
+<br>
+- Trabajo cooperativo.
+- Actitud.
+- Capacidad de investigación.
+<br>
+### Autoevaluación
+<br>
+Cada alumno reflexiona sobre:
+<br>
+- Lo aprendido.
+- Su implicación.
+- Aspectos de mejora.
+<br>
+## Criterios de evaluación
+<br>
+Se valorará que el alumnado:
+<br>
+- Identifique problemas ambientales.
+- Analice sus causas y consecuencias.
+- Utilice estrategias básicas de investigación.
+- Proponga soluciones realistas.
+- Comunique resultados de forma eficaz.
+<br>
+## Beneficios de esta situación de aprendizaje
+<br>
+Esta propuesta favorece:
+<br>
+- El aprendizaje significativo.
+- La conciencia ambiental.
+- La participación activa.
+- El pensamiento crítico.
+- La responsabilidad ciudadana.
+- El desarrollo de competencias científicas.
+<br>
+Además, conecta directamente los contenidos curriculares con la realidad del alumnado.
+<br>
+## Conclusión
+<br>
+La situación de aprendizaje "Guardianes del Medio Ambiente" permite al alumnado comprender que sus acciones tienen impacto sobre el entorno.
+<br>
+A través de la investigación, la observación y la acción, los estudiantes desarrollan conocimientos científicos al mismo tiempo que adquieren hábitos responsables y sostenibles que podrán aplicar durante toda su vida.
 `
 },
   {
