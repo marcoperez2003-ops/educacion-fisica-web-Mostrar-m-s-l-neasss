@@ -4,7 +4,6 @@ export type Article = {
   metaDescription: string;
   category: "juegos-educacion-fisica" | "situaciones-aprendizaje" | "evaluacion";
   subcategory: string;
-  subject: string;
   date: string; // ISO
   author: string;
   readingTime: number; // minutos
@@ -586,7 +585,6 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
     "Ejemplo completo de situación de aprendizaje de Matemáticas para 6º de Primaria basado en la organización de un viaje de fin de curso según la LOMLOE.",
   category: "situaciones-aprendizaje",
   subcategory: "sexto-de-primaria",
-  subject: "matemáticas"
   date: "2026-09-22",
   author: "Marco Pérez",
   readingTime: 12,
