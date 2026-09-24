@@ -578,6 +578,264 @@ Diseñar una situación de aprendizaje según la LOMLOE no consiste únicamente 
 Con una buena planificación y una evaluación coherente, las situaciones de aprendizaje se convierten en una herramienta muy valiosa para mejorar la calidad educativa.
 `
 },
+{
+  slug: "ejemplo-situacion-aprendizaje-matematicas-6-primaria",
+  title: "Ejemplo de Situación de Aprendizaje de Matemáticas para 6º de Primaria (LOMLOE)",
+  metaDescription:
+    "Ejemplo completo de situación de aprendizaje de Matemáticas para 6º de Primaria basado en la organización de un viaje de fin de curso según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "sexto-de-primaria",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 12,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Matemáticas para 6º de Primaria donde el alumnado organiza un viaje de fin de curso aplicando cálculos, presupuestos y resolución de problemas reales.",
+  content: `
+# Ejemplo de Situación de Aprendizaje de Matemáticas para 6º de Primaria
+
+## Introducción
+<br>
+Las situaciones de aprendizaje permiten conectar los contenidos matemáticos con problemas reales y significativos para el alumnado. A través de ellas, los estudiantes comprenden que las matemáticas no son únicamente operaciones o ejercicios, sino herramientas útiles para tomar decisiones en situaciones cotidianas.
+<br>
+En esta propuesta, el alumnado de 6º de Primaria deberá organizar un viaje de fin de curso ficticio. Para lograrlo tendrá que comparar presupuestos, calcular gastos, interpretar tablas de datos, estimar costes, diseñar itinerarios y tomar decisiones económicas justificadas.
+<br>
+Esta situación de aprendizaje permite trabajar numerosos contenidos matemáticos de forma integrada mientras se fomenta la autonomía, la responsabilidad y el trabajo cooperativo.
+<br>
+## Contextualización
+<br>
+- Etapa: Educación Primaria
+- Curso: 6º de Primaria
+- Área: Matemáticas
+- Temporalización: 8 sesiones
+- Agrupamientos: Individual, parejas y grupos cooperativos
+- Metodología: Aprendizaje basado en proyectos y trabajo cooperativo
+<br>
+## Situación de partida
+<br>
+El alumnado recibe una propuesta del equipo directivo: organizar el viaje de fin de curso de manera autónoma.
+<br>
+Para ello deberá:
+<br>
+- Seleccionar el destino.
+- Calcular el coste total.
+- Comparar diferentes opciones de transporte.
+- Gestionar un presupuesto.
+- Elaborar una presentación final justificando sus decisiones.
+<br>
+El reto consiste en planificar el viaje más adecuado teniendo en cuenta las limitaciones económicas establecidas.
+<br>
+## Producto final
+<br>
+Cada grupo elaborará un dossier completo del viaje que incluirá:
+<br>
+- Destino elegido.
+- Presupuesto detallado.
+- Itinerario.
+- Comparación de alternativas.
+- Presentación oral justificando las decisiones tomadas.
+<br>
+## Competencias específicas trabajadas
+<br>
+Durante esta situación de aprendizaje se desarrollan competencias relacionadas con:
+<br>
+- La resolución de problemas.
+- El razonamiento matemático.
+- La interpretación de datos.
+- La toma de decisiones fundamentadas.
+- La comunicación matemática.
+- El trabajo cooperativo.
+<br>
+## Objetivos de aprendizaje
+<br>
+Al finalizar la situación de aprendizaje, el alumnado será capaz de:
+<br>
+1. Resolver problemas relacionados con situaciones económicas reales.
+2. Interpretar tablas y gráficos.
+3. Realizar cálculos con números decimales.
+4. Elaborar presupuestos sencillos.
+5. Comparar alternativas utilizando criterios matemáticos.
+6. Comunicar resultados de forma clara y organizada.
+<br>
+## Saberes básicos trabajados
+<br>
+### Sentido numérico
+<br>
+- Operaciones con números naturales y decimales.
+- Estimación y cálculo mental.
+- Resolución de problemas.
+<br>
+### Sentido de la medida
+<br>
+- Magnitudes económicas.
+- Cálculo de costes.
+- Comparación de precios.
+<br>
+### Sentido algebraico
+<br>
+- Relaciones entre variables.
+- Planteamiento de estrategias de resolución.
+<br>
+### Sentido estadístico
+<br>
+- Interpretación de tablas.
+- Análisis de datos.
+- Elaboración de gráficos.
+<br>
+## Desarrollo de las sesiones
+<br>
+### Sesión 1: Lanzamiento del reto
+<br>
+El docente presenta la situación. El alumnado descubre que deberá organizar un viaje completo para toda la clase respetando un presupuesto determinado.
+<br>
+Se forman grupos de trabajo y se explican los criterios de evaluación.
+<br>
+### Sesión 2: Investigación de destinos
+<br>
+Cada grupo investiga tres destinos posibles.
+<br>
+Deben recopilar información sobre:
+<br>
+- Alojamiento.
+- Transporte.
+- Actividades.
+- Distancias.
+- Precios.
+<br>
+Toda la información se organiza en tablas.
+<br>
+### Sesión 3: Comparación de presupuestos
+<br>
+Los grupos reciben diferentes presupuestos ficticios.
+<br>
+El alumnado analiza:
+<br>
+- Coste total.
+- Coste por alumno.
+- Ventajas e inconvenientes.
+<br>
+Posteriormente justifican cuál consideran la mejor opción.
+<br>
+### Sesión 4: Operaciones y cálculo económico
+<br>
+Se realizan actividades relacionadas con:
+<br>
+- Sumas de gastos.
+- Reparto de costes.
+- Descuentos.
+- Incrementos de precio.
+<br>
+Los estudiantes deben comprobar si el presupuesto disponible es suficiente.
+<br>
+### Sesión 5: Representación de datos
+<br>
+Cada grupo elabora:
+<br>
+- Tablas.
+- Diagramas de barras.
+- Gráficos circulares.
+<br>
+Los gráficos sirven para representar la distribución de gastos.
+<br>
+### Sesión 6: Planificación del itinerario
+<br>
+Los alumnos diseñan un itinerario detallado del viaje.
+<br>
+Deben calcular:
+<br>
+- Horarios.
+- Duración de desplazamientos.
+- Tiempo disponible para actividades.
+<br>
+### Sesión 7: Elaboración del producto final
+<br>
+Los grupos preparan su dossier y la presentación oral.
+<br>
+El objetivo es convencer al resto de la clase de que su propuesta es la mejor.
+<br>
+### Sesión 8: Exposición y evaluación
+<br>
+Cada equipo presenta su proyecto.
+<br>
+Posteriormente se realiza una votación argumentada y una reflexión final sobre el trabajo desarrollado.
+<br>
+## Atención a la diversidad
+<br>
+Para garantizar la participación de todo el alumnado se plantean medidas como:
+<br>
+- Apoyos visuales.
+- Plantillas estructuradas.
+- Calculadoras en determinados momentos.
+- Diferentes niveles de complejidad.
+- Roles cooperativos adaptados.
+<br>
+Estas medidas permiten que cada estudiante participe según sus posibilidades.
+<br>
+## Instrumentos de evaluación
+<br>
+### Rúbrica de proyecto
+<br>
+Evalúa:
+<br>
+- Exactitud de los cálculos.
+- Organización de la información.
+- Presentación final.
+- Trabajo cooperativo.
+<br>
+### Lista de control
+<br>
+Permite verificar:
+<br>
+- Uso correcto de operaciones.
+- Elaboración de tablas.
+- Interpretación de datos.
+<br>
+### Observación directa
+<br>
+El docente registra:
+<br>
+- Participación.
+- Estrategias utilizadas.
+- Colaboración entre compañeros.
+<br>
+### Autoevaluación
+<br>
+Cada alumno reflexiona sobre:
+<br>
+- Lo aprendido.
+- Las dificultades encontradas.
+- Las mejoras realizadas.
+<br>
+## Criterios de evaluación
+<br>
+Se valorará que el alumnado:
+<br>
+- Resuelva problemas de manera eficiente.
+- Utilice procedimientos adecuados.
+- Interprete información numérica correctamente.
+- Justifique decisiones mediante razonamientos matemáticos.
+- Comunique resultados utilizando lenguaje matemático apropiado.
+<br>
+## Beneficios de esta situación de aprendizaje
+<br>
+Entre las ventajas de esta propuesta destacan:
+<br>
+- Alta motivación.
+- Aplicación práctica de las matemáticas.
+- Desarrollo de la autonomía.
+- Trabajo cooperativo.
+- Mejora de la competencia matemática.
+- Integración de diferentes saberes básicos.
+<br>
+Además, favorece la participación activa del alumnado durante todo el proceso.
+<br>
+## Conclusión
+<br>
+La situación de aprendizaje "Organizamos un viaje de fin de curso" constituye una excelente propuesta para 6º de Primaria porque combina contenidos matemáticos con un reto cercano y significativo.
+<br>
+A través de la comparación de presupuestos, el análisis de datos y la toma de decisiones, el alumnado desarrolla competencias fundamentales para su vida cotidiana. El aprendizaje deja de centrarse en ejercicios aislados para convertirse en una experiencia práctica, motivadora y plenamente conectada con la realidad.
+`
+},
   {
     slug: "situacion-aprendizaje-1-primaria-esquema-corporal",
     title: "Situación de aprendizaje: descubro mi esquema corporal (1º Primaria)",
