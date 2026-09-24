@@ -2690,7 +2690,7 @@ Combina esta rúbrica con una breve asamblea final para contrastar la percepció
 `
   },
 {
-  slug: "listas-control-educacion-fisica-que-son-y-como-aplicarlas",
+  slug: "listas-control-educacion-fisica-guia-completa"
   title: "Listas de Control en Educación Física: qué son y cómo aplicarlas",
   metaDescription:
     "Descubre qué son las listas de control en Educación Física, para qué sirven, cómo diseñarlas y ejemplos prácticos de aplicación en Primaria.",
