@@ -2690,35 +2690,316 @@ Combina esta rúbrica con una breve asamblea final para contrastar la percepció
 `
   },
   {
-    slug: "listas-de-control-educacion-fisica-que-son",
-    title: "Listas de control en Educación Física: qué son y cómo aplicarlas",
-    metaDescription:
-      "Descubre qué son las listas de control, cuándo utilizarlas frente a una rúbrica y cómo diseñarlas para Educación Física en Primaria.",
-    category: "evaluacion",
-    subject: "educacion-fisica",
-    subcategory: "listas-de-control",
-    date: "2026-01-19",
-    author: "Marco Pérez",
-    readingTime: 5,
-    excerpt:
-      "Una herramienta ágil de evaluación dicotómica (sí/no) muy útil para verificar la presencia o ausencia de conductas concretas.",
-    content: `
-## Qué es una lista de control
-Es un instrumento de evaluación que recoge un conjunto de indicadores que se marcan como presentes o ausentes, sin graduación de niveles.
+  slug: "listas-control-educacion-fisica-que-son-y-como-aplicarlas",
+  title: "Listas de Control en Educación Física: qué son y cómo aplicarlas",
+  metaDescription:
+    "Descubre qué son las listas de control en Educación Física, para qué sirven, cómo diseñarlas y ejemplos prácticos para Primaria.",
+  category: "evaluacion",
+  subcategory: "listas-de-control",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 12,
+  popular: true,
+  excerpt:
+    "Las listas de control son uno de los instrumentos de evaluación más utilizados en Educación Física. Aprende cómo utilizarlas correctamente en Primaria.",
+  content: `
+# Listas de Control en Educación Física: qué son y cómo aplicarlas
 
-## Cuándo utilizarla frente a una rúbrica
-Es especialmente útil para verificar aspectos técnicos concretos (por ejemplo, la ejecución correcta de un gesto) o para el pase de lista de aspectos de seguridad.
+## Introducción
+<br>
+La evaluación constituye uno de los pilares fundamentales del proceso educativo. En Educación Física, donde gran parte de los aprendizajes se desarrollan a través de la acción motriz y la observación directa, resulta imprescindible contar con instrumentos que permitan recoger información de manera sistemática y objetiva.
+<br>
+Entre los instrumentos más utilizados destacan las listas de control. Su sencillez, rapidez de aplicación y utilidad práctica las convierten en una herramienta muy valiosa para el profesorado de Educación Física.
+<br>
+A lo largo de este artículo descubrirás qué son las listas de control, cuáles son sus ventajas, cómo diseñarlas correctamente y de qué manera pueden aplicarse en las clases de Educación Física de Educación Primaria.
+<br>
 
-### Ejemplo aplicado
-Para la técnica de salto de longitud: carrera de impulso adecuada (sí/no), batida con un solo pie (sí/no), caída equilibrada (sí/no).
+## ¿Qué es una lista de control?
+<br>
+Una lista de control es un instrumento de evaluación que permite verificar la presencia o ausencia de determinados comportamientos, habilidades, acciones o aprendizajes previamente establecidos.
+<br>
+Normalmente se presenta como una tabla formada por diferentes indicadores que el docente marca mediante respuestas sencillas como:
+<br>
+- Sí / No.
+- Cumple / No cumple.
+- Logrado / No logrado.
+- Presente / Ausente.
+<br>
+Su objetivo principal consiste en comprobar si el alumnado realiza o no determinadas acciones observables.
+<br>
 
-## Ventajas e inconvenientes
-Es rápida de aplicar y objetiva, pero ofrece menos matices que una rúbrica para valorar procesos complejos.
+## ¿Por qué utilizar listas de control en Educación Física?
+<br>
+La Educación Física implica una observación constante del alumnado.
+<br>
+Durante una sesión es necesario registrar aspectos relacionados con:
+<br>
+- Ejecución técnica.
+- Participación.
+- Cooperación.
+- Actitud.
+- Respeto a normas.
+- Hábitos saludables.
+<br>
+Las listas de control permiten recoger esta información de manera rápida y organizada, facilitando el trabajo del docente.
+<br>
 
-## Claves para el docente
-Combina listas de control con observación cualitativa para no perder información relevante sobre el proceso de aprendizaje.
+## Principales ventajas de las listas de control
+<br>
+
+### Son fáciles de elaborar
+<br>
+No requieren diseños complejos ni grandes conocimientos técnicos para su construcción.
+<br>
+
+### Ahorran tiempo
+<br>
+Permiten registrar información de forma inmediata durante la sesión.
+<br>
+
+### Favorecen la objetividad
+<br>
+Los indicadores se basan en conductas observables y concretas.
+<br>
+
+### Facilitan el seguimiento
+<br>
+Resultan muy útiles para comprobar la evolución del alumnado a lo largo del curso.
+<br>
+
+### Se adaptan a cualquier contenido
+<br>
+Pueden utilizarse en juegos, deportes, expresión corporal, actividades cooperativas o hábitos saludables.
+<br>
+
+## Diferencias entre lista de control y rúbrica
+<br>
+Aunque ambos instrumentos son muy utilizados en Educación Física, presentan diferencias importantes.
+<br>
+
+### Lista de control
+<br>
+Indica si una conducta aparece o no aparece.
+<br>
+
+Ejemplo:
+<br>
+
+- Realiza correctamente el pase.
+- Respeta las normas.
+- Participa activamente.
+<br>
+
+### Rúbrica
+<br>
+Permite valorar distintos niveles de desempeño.
+<br>
+
+Ejemplo:
+<br>
+
+- Nivel inicial.
+- Nivel básico.
+- Nivel intermedio.
+- Nivel avanzado.
+<br>
+
+La lista de control proporciona información rápida, mientras que la rúbrica ofrece una evaluación más detallada.
+<br>
+
+## ¿Cuándo utilizar una lista de control?
+<br>
+Las listas de control resultan especialmente útiles cuando se pretende evaluar:
+<br>
+
+- Habilidades motrices básicas.
+- Gestos técnicos.
+- Normas de seguridad.
+- Participación.
+- Hábitos saludables.
+- Conductas observables.
+<br>
+
+Por ejemplo, durante una unidad de baloncesto se puede comprobar si el alumnado:
+<br>
+
+- Bota correctamente.
+- Controla el balón.
+- Mira al frente.
+- Respeta las normas del juego.
+<br>
+
+## Cómo diseñar una lista de control paso a paso
+<br>
+
+### Paso 1. Definir el objetivo
+<br>
+Antes de elaborar la lista es necesario determinar qué aspecto se pretende evaluar.
+<br>
+
+Por ejemplo:
+<br>
+
+- El lanzamiento.
+- La cooperación.
+- La comunicación.
+- La seguridad.
+<br>
+
+### Paso 2. Identificar conductas observables
+<br>
+Cada indicador debe describir una conducta concreta y fácil de observar.
+<br>
+
+Ejemplos:
+<br>
+
+- Mantiene el equilibrio.
+- Respeta las normas.
+- Colabora con el grupo.
+- Realiza desplazamientos adecuados.
+<br>
+
+### Paso 3. Evitar indicadores ambiguos
+<br>
+
+Incorrecto:
+<br>
+
+- Participa bien.
+<br>
+
+Correcto:
+<br>
+
+- Participa activamente en las actividades propuestas.
+<br>
+
+### Paso 4. Diseñar la tabla
+<br>
+
+Un ejemplo sencillo:
+<br>
+
+| Indicador | Sí | No |
+|------------|-----|-----|
+| Respeta las normas | □ | □ |
+| Participa activamente | □ | □ |
+| Coopera con el grupo | □ | □ |
+| Utiliza el material adecuadamente | □ | □ |
+<br>
+
+### Paso 5. Aplicar y revisar
+<br>
+Tras varias sesiones conviene revisar la utilidad de los indicadores y realizar ajustes si es necesario.
+<br>
+
+## Ejemplo práctico: juegos cooperativos
+<br>
+
+### Objetivo
+
+Evaluar la participación durante una actividad cooperativa.
+<br>
+
+### Indicadores
+
+- Escucha a los compañeros.
+- Propone soluciones.
+- Respeta las opiniones de los demás.
+- Colabora en la resolución de tareas.
+- Mantiene una actitud positiva.
+<br>
+
+Esta lista permite valorar competencias sociales y no únicamente aspectos motrices.
+<br>
+
+## Ejemplo práctico: habilidades motrices
+<br>
+
+### Objetivo
+
+Evaluar la ejecución de saltos.
+<br>
+
+### Indicadores
+
+- Mantiene la postura inicial.
+- Realiza el impulso correctamente.
+- Coordina brazos y piernas.
+- Mantiene el equilibrio tras la caída.
+<br>
+
+## Errores frecuentes al utilizar listas de control
+<br>
+
+### Incluir demasiados indicadores
+<br>
+Si la lista es excesivamente extensa resultará difícil de utilizar durante la sesión.
+<br>
+
+### Redactar indicadores ambiguos
+<br>
+Las conductas deben ser observables y concretas.
+<br>
+
+### Utilizar únicamente listas de control
+<br>
+Conviene combinarlas con otros instrumentos.
+<br>
+
+### Evaluar demasiados alumnos al mismo tiempo
+<br>
+Es recomendable observar pequeños grupos en cada sesión.
+<br>
+
+## Combinación con otros instrumentos
+<br>
+Las listas de control funcionan especialmente bien cuando se utilizan junto con:
+<br>
+
+- Rúbricas.
+- Escalas de observación.
+- Autoevaluaciones.
+- Coevaluaciones.
+- Portafolios.
+<br>
+
+La combinación de varios instrumentos permite obtener una visión más completa del aprendizaje.
+<br>
+
+## Aplicación en la LOMLOE
+<br>
+La LOMLOE promueve una evaluación continua, formativa y competencial.
+<br>
+
+Las listas de control encajan perfectamente en este enfoque porque permiten recoger evidencias de aprendizaje durante todo el proceso educativo.
+<br>
+
+Además, facilitan el seguimiento de criterios de evaluación y competencias específicas.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Utilizar indicadores breves.
+- Centrar la observación en aspectos relevantes.
+- Registrar la información durante la propia sesión.
+- Combinar distintos instrumentos.
+- Compartir resultados con el alumnado.
+<br>
+
+## Conclusión
+<br>
+Las listas de control son uno de los instrumentos de evaluación más útiles y versátiles dentro de la Educación Física.
+<br>
+
+Su facilidad de aplicación, objetividad y capacidad para registrar conductas observables las convierten en una herramienta imprescindible para el profesorado.
+<br>
+
+Cuando se diseñan correctamente y se combinan con otros instrumentos de evaluación, permiten obtener información valiosa sobre el progreso del alumnado y mejorar la calidad del proceso de enseñanza-aprendizaje.
 `
-  },
+},
   {
     slug: "lista-de-control-habitos-higiene-ef",
     title: "Lista de control de hábitos de higiene y seguridad en Educación Física",
