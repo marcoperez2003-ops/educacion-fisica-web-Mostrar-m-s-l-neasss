@@ -1522,6 +1522,167 @@ La situación de aprendizaje "Guardianes del Medio Ambiente" permite al alumnado
 A través de la investigación, la observación y la acción, los estudiantes desarrollan conocimientos científicos al mismo tiempo que adquieren hábitos responsables y sostenibles que podrán aplicar durante toda su vida.
 `
 },
+{
+  slug: "situacion-aprendizaje-ingles-6-primaria-travel-agency",
+  title: "Situación de Aprendizaje de Inglés para 6º de Primaria: Nuestra Agencia de Viajes",
+  metaDescription:
+    "Situación de aprendizaje de Inglés para 6º de Primaria basada en la creación de una agencia de viajes. Propuesta completa adaptada a la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "sexto-de-primaria",
+  subject: "ingles",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Proyecto de Inglés para 6º de Primaria donde el alumnado crea una agencia de viajes utilizando la lengua inglesa en contextos reales de comunicación.",
+  content: `
+# Situación de Aprendizaje de Inglés para 6º de Primaria: Nuestra Agencia de Viajes
+
+## Introducción
+<br>
+La enseñanza de lenguas extranjeras debe permitir al alumnado utilizar el idioma en situaciones reales de comunicación. El objetivo principal no es memorizar vocabulario o estructuras gramaticales aisladas, sino desarrollar la capacidad de comprender, interactuar y expresarse en diferentes contextos.
+<br>
+Esta situación de aprendizaje propone un reto motivador: la creación de una agencia de viajes internacional. El alumnado trabajará en equipos para diseñar destinos turísticos, crear itinerarios, elaborar folletos informativos y presentar propuestas de viaje utilizando el inglés como lengua de comunicación.
+<br>
+Mediante esta propuesta se desarrollarán las destrezas de comprensión oral, comprensión escrita, expresión oral e interacción, así como competencias relacionadas con el trabajo cooperativo, la creatividad y el uso responsable de herramientas digitales.
+<br>
+
+## Contextualización
+<br>
+
+- Etapa: Educación Primaria
+- Curso: 6º de Primaria
+- Área: Lengua Extranjera Inglés
+- Temporalización: 10 sesiones
+- Agrupamientos: Individual, parejas y grupos cooperativos
+- Metodología: Aprendizaje Basado en Proyectos
+<br>
+
+## Situación de partida
+<br>
+
+Una importante empresa de turismo busca nuevas agencias de viajes capaces de diseñar experiencias atractivas para jóvenes viajeros internacionales.
+<br>
+
+Los estudiantes recibirán el reto de crear una agencia de viajes ficticia y presentar una propuesta de viaje utilizando el inglés como lengua principal de comunicación.
+<br>
+
+Cada grupo deberá investigar países, ciudades y lugares de interés, organizar actividades y diseñar materiales promocionales para convencer a posibles clientes.
+<br>
+
+## Producto Final
+<br>
+
+Cada equipo elaborará:
+<br>
+
+- Nombre y logotipo de la agencia.
+- Guía turística en inglés.
+- Folleto informativo.
+- Presentación digital.
+- Exposición oral final.
+<br>
+
+El producto será presentado ante la clase simulando una feria internacional de turismo.
+<br>
+
+## Justificación
+<br>
+
+El turismo es una realidad cercana al alumnado y una de las situaciones donde el inglés tiene una aplicación más evidente.
+<br>
+
+Esta propuesta permite utilizar la lengua extranjera en un contexto auténtico y funcional, favoreciendo la motivación y el desarrollo de competencias comunicativas.
+<br>
+
+Además, fomenta la autonomía y la creatividad mediante la elaboración de proyectos significativos.
+<br>
+
+## Competencias Específicas Trabajadas
+<br>
+
+Durante la situación de aprendizaje se desarrollan competencias relacionadas con:
+<br>
+
+- Comprensión de mensajes orales.
+- Producción de textos escritos sencillos.
+- Interacción oral en situaciones comunicativas.
+- Mediación lingüística.
+- Competencia digital.
+- Trabajo cooperativo.
+<br>
+
+## Objetivos de Aprendizaje
+<br>
+
+Al finalizar el proyecto, el alumnado será capaz de:
+<br>
+
+1. Comprender información básica relacionada con viajes y turismo.
+2. Utilizar vocabulario específico de destinos, transportes y actividades.
+3. Elaborar textos escritos en inglés con finalidad informativa.
+4. Participar en conversaciones sencillas relacionadas con viajes.
+5. Presentar oralmente información de manera clara y organizada.
+6. Utilizar recursos digitales para elaborar productos comunicativos.
+<br>
+
+## Saberes Básicos Trabajados
+<br>
+
+### Comunicación oral
+<br>
+
+- Presentaciones.
+- Interacciones guiadas.
+- Comprensión de vídeos y audios.
+<br>
+
+### Comprensión escrita
+<br>
+
+- Folletos turísticos.
+- Carteles informativos.
+- Textos breves sobre ciudades y países.
+<br>
+
+### Producción escrita
+<br>
+
+- Descripciones.
+- Recomendaciones.
+- Itinerarios.
+- Folletos turísticos.
+<br>
+
+### Léxico
+<br>
+
+- Countries and nationalities.
+- Means of transport.
+- Tourist attractions.
+- Weather.
+- Holidays and leisure activities.
+<br>
+
+### Competencia intercultural
+<br>
+
+- Respeto por otras culturas.
+- Conocimiento de diferentes países.
+- Valoración de la diversidad.
+<br>
+
+## Desarrollo de las Sesiones
+<br>
+
+### Sesión 1: Presentación del reto
+<br>
+
+Se presenta el proyecto y se explica el funcionamiento de una agencia de viajes.
+<br>
+
+Los estudiantes conocen ejemplos reales de agencias y analizan
   {
     slug: "situacion-aprendizaje-1-primaria-juego-simbolico",
     title: "Situación de aprendizaje: el bosque de los animales (1º Primaria)",
