@@ -1682,7 +1682,245 @@ Al finalizar el proyecto, el alumnado será capaz de:
 Se presenta el proyecto y se explica el funcionamiento de una agencia de viajes.
 <br>
 
-Los estudiantes conocen ejemplos reales de agencias y analizan
+Los estudiantes conocen ejemplos reales de agencias y analizan los servicios que ofrecen.
+<br>
+
+### Sesión 2: Destinos turísticos
+<br>
+
+Cada grupo selecciona un país o ciudad.
+<br>
+
+Investigan aspectos como:
+<br>
+
+- Localización.
+- Monumentos.
+- Cultura.
+- Gastronomía.
+- Clima.
+<br>
+
+### Sesión 3: Vocabulary Workshop
+<br>
+
+Se trabaja vocabulario relacionado con:
+<br>
+
+- Airports.
+- Hotels.
+- Attractions.
+- Transport.
+- Travel activities.
+<br>
+
+Los alumnos realizan actividades prácticas para consolidar el léxico.
+<br>
+
+### Sesión 4: Reading Activities
+<br>
+
+Se analizan folletos reales en inglés.
+<br>
+
+El alumnado identifica:
+<br>
+
+- Información principal.
+- Expresiones útiles.
+- Estructura de los textos.
+<br>
+
+### Sesión 5: Designing the Trip
+<br>
+
+Los grupos elaboran un itinerario completo.
+<br>
+
+Deben decidir:
+<br>
+
+- Transporte.
+- Alojamiento.
+- Actividades.
+- Presupuesto.
+<br>
+
+Toda la planificación se realiza utilizando expresiones en inglés.
+<br>
+
+### Sesión 6: Writing the Travel Guide
+<br>
+
+Los estudiantes redactan:
+<br>
+
+- Descripciones.
+- Recomendaciones.
+- Consejos para visitantes.
+<br>
+
+Se presta especial atención a la corrección gramatical y al uso adecuado del vocabulario.
+<br>
+
+### Sesión 7: Creating Promotional Materials
+<br>
+
+Cada grupo diseña:
+<br>
+
+- Posters.
+- Flyers.
+- Digital presentations.
+<br>
+
+Todo el material debe estar redactado en inglés.
+<br>
+
+### Sesión 8: Oral Communication Practice
+<br>
+
+Los equipos preparan la presentación final.
+<br>
+
+Practican:
+<br>
+
+- Pronunciation.
+- Fluency.
+- Interaction.
+<br>
+
+### Sesión 9: Tourism Fair
+<br>
+
+Se organiza una feria de turismo en el aula.
+<br>
+
+Cada grupo presenta su propuesta utilizando exclusivamente el inglés.
+<br>
+
+Los visitantes realizan preguntas relacionadas con el viaje.
+<br>
+
+### Sesión 10: Reflection and Evaluation
+<br>
+
+Los estudiantes analizan:
+<br>
+
+- Qué han aprendido.
+- Qué dificultades han encontrado.
+- Cómo han utilizado el inglés durante el proyecto.
+<br>
+
+## Atención a la Diversidad
+<br>
+
+La propuesta incorpora diversas medidas inclusivas:
+<br>
+
+- Material visual.
+- Banco de vocabulario.
+- Guiones de apoyo.
+- Trabajo cooperativo.
+- Diferentes niveles de complejidad.
+<br>
+
+Estas adaptaciones facilitan la participación de todo el alumnado.
+<br>
+
+## Instrumentos de Evaluación
+<br>
+
+### Rúbrica de expresión oral
+<br>
+
+Evalúa:
+<br>
+
+- Pronunciación.
+- Fluidez.
+- Claridad del mensaje.
+- Participación.
+<br>
+
+### Rúbrica de producción escrita
+<br>
+
+Valora:
+<br>
+
+- Vocabulario.
+- Corrección gramatical.
+- Organización textual.
+- Presentación.
+<br>
+
+### Lista de Control
+<br>
+
+Permite registrar:
+<br>
+
+- Participación.
+- Uso del inglés.
+- Trabajo cooperativo.
+<br>
+
+### Autoevaluación
+<br>
+
+El alumnado reflexiona sobre:
+<br>
+
+- Su progreso.
+- Su implicación.
+- Aspectos a mejorar.
+<br>
+
+## Criterios de Evaluación
+<br>
+
+Se valorará que el alumnado:
+<br>
+
+- Comprenda textos sencillos relacionados con viajes.
+- Produzca mensajes escritos adecuados.
+- Utilice vocabulario específico de turismo.
+- Interactúe oralmente de forma comprensible.
+- Colabore activamente dentro del grupo.
+<br>
+
+## Beneficios de Esta Situación de Aprendizaje
+<br>
+
+La propuesta favorece:
+<br>
+
+- El uso real del inglés.
+- La motivación.
+- La creatividad.
+- La competencia digital.
+- La comunicación oral.
+- El trabajo cooperativo.
+<br>
+
+Asimismo, permite acercar la lengua extranjera a contextos cotidianos y funcionales.
+<br>
+
+## Conclusión
+<br>
+
+La situación de aprendizaje "Nuestra Agencia de Viajes" constituye una propuesta motivadora y significativa para 6º de Primaria.
+<br>
+
+A través de la planificación de viajes, la elaboración de materiales turísticos y la presentación de proyectos, el alumnado utiliza el inglés de forma práctica y contextualizada.
+<br>
+
+Esta experiencia favorece el desarrollo de la competencia comunicativa y ayuda a comprender que el aprendizaje de una lengua extranjera tiene una aplicación real en múltiples situaciones de la vida cotidiana.
+`
+},
   {
     slug: "situacion-aprendizaje-1-primaria-juego-simbolico",
     title: "Situación de aprendizaje: el bosque de los animales (1º Primaria)",
