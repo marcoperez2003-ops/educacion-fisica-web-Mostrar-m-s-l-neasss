@@ -851,6 +851,405 @@ A través de la comparación de presupuestos, el análisis de datos y la toma de
 `
 },
 {
+  slug: "situacion-aprendizaje-lengua-6-primaria-podcast-escolar",
+  title: "Situación de Aprendizaje de Lengua para 6º de Primaria: Creamos un Podcast Escolar",
+  metaDescription:
+    "Situación de aprendizaje de Lengua para 6º de Primaria basada en la creación de un podcast escolar. Propuesta completa adaptada a la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "sexto-de-primaria",
+  subject: "lengua",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Proyecto de Lengua para 6º de Primaria donde el alumnado crea un podcast escolar desarrollando la expresión oral, la comprensión lectora y la competencia digital.",
+  content: `
+# Situación de Aprendizaje de Lengua para 6º de Primaria: Creamos un Podcast Escolar
+
+## Introducción
+<br>
+La comunicación oral constituye una de las competencias esenciales que el alumnado debe desarrollar al finalizar la Educación Primaria. En un mundo cada vez más digitalizado, la capacidad para hablar en público, transmitir ideas de forma clara y utilizar herramientas tecnológicas de comunicación resulta fundamental.
+<br>
+Esta situación de aprendizaje propone la creación de un podcast escolar como producto final. A través de este proyecto, los estudiantes se convertirán en periodistas, locutores e investigadores, utilizando la lengua como herramienta para informar, comunicar y entretener.
+<br>
+El alumnado deberá buscar información, analizar fuentes, redactar guiones, grabar contenidos y presentar programas de audio destinados a la comunidad educativa.
+<br>
+
+## Contextualización
+<br>
+
+- Etapa: Educación Primaria
+- Curso: 6º de Primaria
+- Área: Lengua Castellana y Literatura
+- Temporalización: 10 sesiones
+- Metodología: Aprendizaje Basado en Proyectos
+- Agrupamientos: Individual, parejas y grupos cooperativos
+<br>
+
+## Situación de partida
+<br>
+
+El centro educativo desea crear un canal de podcast para difundir noticias, entrevistas, recomendaciones culturales y temas de interés para el alumnado.
+<br>
+
+La dirección solicita la colaboración de los estudiantes de 6º de Primaria para poner en marcha este proyecto de comunicación escolar.
+<br>
+
+Los alumnos deberán investigar, redactar, grabar y editar diferentes programas de radio en formato podcast.
+<br>
+
+## Producto Final
+<br>
+
+Cada grupo elaborará un episodio de podcast que incluirá:
+<br>
+
+- Presentación inicial.
+- Noticias del centro.
+- Entrevista.
+- Recomendaciones culturales.
+- Sección de opinión.
+- Cierre del programa.
+<br>
+
+Posteriormente los episodios podrán compartirse con la comunidad educativa.
+<br>
+
+## Justificación
+<br>
+
+El podcast constituye una herramienta educativa muy valiosa porque combina lectura, escritura, expresión oral y competencia digital.
+<br>
+
+Además, ofrece un contexto real para utilizar la lengua con una finalidad comunicativa auténtica.
+<br>
+
+La propuesta permite trabajar de manera integrada múltiples contenidos curriculares mientras se fomenta la creatividad y el trabajo cooperativo.
+<br>
+
+## Competencias Específicas Trabajadas
+<br>
+
+- Comprender textos orales y escritos.
+- Producir textos escritos con distintas finalidades.
+- Utilizar la lengua oral para comunicar información.
+- Buscar, seleccionar y contrastar información.
+- Participar en interacciones comunicativas.
+- Utilizar herramientas digitales de forma responsable.
+<br>
+
+## Objetivos de Aprendizaje
+<br>
+
+Al finalizar esta situación de aprendizaje el alumnado será capaz de:
+<br>
+
+1. Comprender diferentes modelos de podcast.
+2. Analizar la estructura de programas de comunicación oral.
+3. Buscar información utilizando fuentes fiables.
+4. Elaborar guiones adecuados a una finalidad comunicativa.
+5. Utilizar estrategias de expresión oral.
+6. Grabar y presentar contenidos de calidad.
+7. Trabajar de forma cooperativa.
+8. Utilizar herramientas digitales para la creación de contenidos.
+<br>
+
+## Saberes Básicos Trabajados
+<br>
+
+### Comunicación oral
+<br>
+
+- Escucha activa.
+- Conversaciones.
+- Entrevistas.
+- Presentaciones orales.
+<br>
+
+### Comprensión lectora
+<br>
+
+- Búsqueda de información.
+- Interpretación de textos.
+- Selección de información relevante.
+<br>
+
+### Producción escrita
+<br>
+
+- Guiones.
+- Entrevistas.
+- Noticias.
+- Textos argumentativos.
+<br>
+
+### Reflexión lingüística
+<br>
+
+- Coherencia textual.
+- Cohesión.
+- Ortografía.
+- Signos de puntuación.
+<br>
+
+### Competencia digital
+<br>
+
+- Grabación de audio.
+- Edición básica.
+- Publicación de contenidos.
+<br>
+
+## Desarrollo de las Sesiones
+<br>
+
+### Sesión 1: Descubrimos qué es un podcast
+<br>
+
+Los alumnos escuchan varios ejemplos de podcasts adaptados a su edad y analizan:
+<br>
+
+- Temática.
+- Estructura.
+- Duración.
+- Forma de comunicación.
+<br>
+
+Se realiza un debate sobre su utilidad y posibilidades educativas.
+<br>
+
+### Sesión 2: Analizamos programas reales
+<br>
+
+Los estudiantes escuchan fragmentos de programas de radio y podcasts infantiles.
+<br>
+
+Identifican:
+<br>
+
+- Presentador.
+- Invitados.
+- Secciones.
+- Cierre.
+<br>
+
+Se construye una plantilla común para futuros episodios.
+<br>
+
+### Sesión 3: Seleccionamos el tema
+<br>
+
+Cada grupo elige la temática de su programa.
+<br>
+
+Algunos ejemplos:
+<br>
+
+- Deportes.
+- Tecnología.
+- Medio ambiente.
+- Libros.
+- Videojuegos.
+- Vida saludable.
+<br>
+
+### Sesión 4: Investigación
+<br>
+
+Los grupos buscan información relacionada con su temática.
+<br>
+
+Aprenden a:
+<br>
+
+- Contrastar fuentes.
+- Seleccionar información relevante.
+- Organizar contenidos.
+<br>
+
+### Sesión 5: Elaboración del guion
+<br>
+
+Los estudiantes redactan el guion completo del episodio.
+<br>
+
+Debe incluir:
+<br>
+
+- Introducción.
+- Desarrollo.
+- Entrevista o conversación.
+- Despedida.
+<br>
+
+Se revisan aspectos lingüísticos y expresivos.
+<br>
+
+### Sesión 6: Expresión oral
+<br>
+
+Se trabajan:
+<br>
+
+- Entonación.
+- Velocidad lectora.
+- Pronunciación.
+- Lenguaje corporal.
+<br>
+
+Cada grupo realiza ensayos de grabación.
+<br>
+
+### Sesión 7: Grabación del podcast
+<br>
+
+Los alumnos graban sus programas utilizando dispositivos digitales.
+<br>
+
+Se realizan varias tomas para mejorar la calidad final.
+<br>
+
+### Sesión 8: Edición básica
+<br>
+
+Se eliminan errores y se incorporan:
+<br>
+
+- Música libre de derechos.
+- Efectos sonoros.
+- Presentaciones.
+<br>
+
+### Sesión 9: Presentación final
+<br>
+
+Cada grupo presenta su podcast al resto de compañeros.
+<br>
+
+Tras la escucha se inicia un debate donde se valoran aspectos positivos y oportunidades de mejora.
+<br>
+
+### Sesión 10: Reflexión y evaluación
+<br>
+
+Los estudiantes reflexionan sobre:
+<br>
+
+- Lo aprendido.
+- Las dificultades encontradas.
+- La utilidad de la experiencia.
+<br>
+
+## Atención a la Diversidad
+<br>
+
+La situación de aprendizaje incorpora medidas inclusivas:
+<br>
+
+- Guiones estructurados.
+- Apoyos visuales.
+- Trabajo cooperativo.
+- Diferentes roles dentro del grupo.
+- Adaptación de tareas.
+<br>
+
+Estas medidas permiten la participación de todo el alumnado.
+<br>
+
+## Instrumentos de Evaluación
+<br>
+
+### Rúbrica de expresión oral
+<br>
+
+Evalúa:
+<br>
+
+- Claridad.
+- Pronunciación.
+- Fluidez.
+- Organización del discurso.
+<br>
+
+### Rúbrica de producción escrita
+<br>
+
+Valora:
+<br>
+
+- Estructura del guion.
+- Corrección gramatical.
+- Coherencia textual.
+- Creatividad.
+<br>
+
+### Lista de Control
+<br>
+
+Permite registrar:
+<br>
+
+- Participación.
+- Trabajo cooperativo.
+- Uso adecuado de fuentes.
+<br>
+
+### Autoevaluación
+<br>
+
+Cada alumno analiza:
+<br>
+
+- Su implicación.
+- Los aprendizajes adquiridos.
+- Aspectos a mejorar.
+<br>
+
+## Criterios de Evaluación
+<br>
+
+Se valorará que el alumnado:
+<br>
+
+- Comprenda modelos de comunicación oral.
+- Produzca textos adecuados a una finalidad concreta.
+- Utilice estrategias de planificación y revisión.
+- Se exprese oralmente de forma clara.
+- Participe activamente en tareas cooperativas.
+- Utilice herramientas digitales con responsabilidad.
+<br>
+
+## Beneficios de la Situación de Aprendizaje
+<br>
+
+Esta propuesta favorece:
+<br>
+
+- La competencia lingüística.
+- La competencia digital.
+- La creatividad.
+- La autonomía.
+- El pensamiento crítico.
+- La expresión oral.
+<br>
+
+Además, permite trabajar contenidos curriculares mediante una actividad altamente motivadora.
+<br>
+
+## Conclusión
+<br>
+
+La creación de un podcast escolar constituye una excelente oportunidad para que el alumnado de 6º de Primaria utilice la lengua en contextos reales.
+<br>
+
+A través de la investigación, la escritura y la comunicación oral, los estudiantes desarrollan competencias fundamentales para su futuro académico y personal.
+<br>
+
+Esta situación de aprendizaje convierte al alumnado en protagonista de su propio aprendizaje y demuestra que la lengua es una poderosa herramienta para comunicar, crear y transformar la realidad.
+`
+},
+{
   slug: "situacion-aprendizaje-lengua-4-primaria-periodico-escolar",
   title: "Situación de Aprendizaje de Lengua para 4º de Primaria: Creamos un Periódico Escolar",
   metaDescription:
