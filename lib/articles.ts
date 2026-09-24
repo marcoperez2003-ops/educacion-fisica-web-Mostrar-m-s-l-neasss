@@ -4,6 +4,7 @@ export type Article = {
   metaDescription: string;
   category: "juegos-educacion-fisica" | "situaciones-aprendizaje" | "evaluacion";
   subcategory: string;
+  subject?: string;
   date: string; // ISO
   author: string;
   readingTime: number; // minutos
