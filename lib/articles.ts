@@ -1255,7 +1255,7 @@ Esta situación de aprendizaje convierte al alumnado en protagonista de su propi
   metaDescription:
     "Ejemplo completo de situación de aprendizaje de Lengua para 4º de Primaria basado en la creación de un periódico escolar siguiendo la LOMLOE.",
   category: "situaciones-aprendizaje",
-  subject: "lengua-y-literatura",
+  subject: "lengua",
   subcategory: "cuarto-de-primaria",
   date: "2026-09-22",
   author: "Marco Pérez",
@@ -1519,7 +1519,7 @@ La integración de lectura, escritura, comunicación oral y trabajo cooperativo 
     metaDescription:
       "Situación de aprendizaje de Educación Física para 1º de Primaria centrada en el conocimiento y control del esquema corporal.",
     category: "situaciones-aprendizaje",
-    subject: "ciencias-naturales",
+    subject: "ciencias-de-la-naturaleza",
     subcategory: "primero-de-primaria",
     date: "2026-01-08",
     author: "Marco Pérez",
