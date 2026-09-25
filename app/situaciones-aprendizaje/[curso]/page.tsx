@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
 import AdSlot from "@/components/AdSlot";
@@ -61,16 +62,16 @@ export default function CursoPage({
       <div className="mb-10">
         <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-400">Asignatura</p>
         <div className="flex flex-wrap gap-2">
-          
+          <Link
             href={buildHref(sub.slug, undefined)}
             className={`rounded-full px-4 py-2 text-sm font-semibold ${
               !asignatura ? "bg-accent-600 text-white" : "bg-slate-100 text-slate-600"
             }`}
           >
             Todas
-          </a>
+          </Link>
           {subjects.map((s) => (
-            
+            <Link
               key={s.slug}
               href={buildHref(sub.slug, s.slug)}
               className={`rounded-full px-4 py-2 text-sm font-semibold ${
@@ -78,7 +79,7 @@ export default function CursoPage({
               }`}
             >
               {s.emoji} {s.name}
-            </a>
+            </Link>
           ))}
         </div>
       </div>
