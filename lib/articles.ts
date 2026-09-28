@@ -4814,6 +4814,328 @@ Gracias a ellas es posible valorar de forma objetiva aspectos como la participac
 Cuando se diseñan correctamente y se utilizan de manera sistemática, contribuyen a mejorar el aprendizaje, favorecen la implicación del alumnado y ayudan a desarrollar una evaluación coherente con los principios de la LOMLOE.
 `
 },
+{
+  slug: "ejemplo-rubrica-situacion-aprendizaje",
+  title: "Ejemplo de rúbrica para una situación de aprendizaje",
+  metaDescription:
+    "Descubre cómo elaborar una rúbrica para evaluar una situación de aprendizaje según la LOMLOE, con criterios, ejemplos y recomendaciones prácticas.",
+  category: "evaluacion",
+  subcategory: "rubricas",
+  subject: "evaluacion",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 12,
+  popular: true,
+  excerpt:
+    "Guía práctica para diseñar una rúbrica de evaluación adaptada a situaciones de aprendizaje en Educación Primaria.",
+  content: `
+# Ejemplo de rúbrica para una situación de aprendizaje
+
+## Introducción
+<br>
+Las situaciones de aprendizaje se han convertido en uno de los elementos más importantes de la programación didáctica tras la implantación de la LOMLOE. Estas propuestas permiten al alumnado desarrollar competencias mediante tareas significativas conectadas con contextos reales.
+<br>
+Sin embargo, uno de los aspectos que más dudas genera entre los docentes es cómo evaluar correctamente este tipo de experiencias educativas.
+<br>
+Las rúbricas constituyen una de las herramientas más eficaces para hacerlo, ya que permiten valorar el desempeño del alumnado mediante criterios claros, transparentes y objetivos.
+<br>
+
+## ¿Por qué utilizar una rúbrica en una situación de aprendizaje?
+<br>
+Las situaciones de aprendizaje suelen incluir actividades complejas que implican:
+<br>
+
+- Investigación.
+- Trabajo cooperativo.
+- Resolución de problemas.
+- Comunicación oral.
+- Producción escrita.
+- Uso de herramientas digitales.
+<br>
+
+Por este motivo, resulta necesario utilizar instrumentos que permitan evaluar diferentes aspectos del aprendizaje de manera organizada.
+<br>
+La rúbrica facilita esta tarea y ayuda a obtener información detallada sobre el progreso de cada estudiante.
+<br>
+
+## Beneficios de utilizar una rúbrica
+<br>
+
+### Mayor objetividad
+<br>
+Todos los estudiantes son evaluados utilizando los mismos criterios.
+<br>
+
+### Claridad
+<br>
+El alumnado sabe exactamente qué se espera de él.
+<br>
+
+### Transparencia
+<br>
+Los criterios de evaluación están claramente definidos desde el inicio.
+<br>
+
+### Retroalimentación útil
+<br>
+Permite identificar fortalezas y aspectos de mejora.
+<br>
+
+### Evaluación competencial
+<br>
+Facilita la valoración de competencias específicas y criterios de evaluación.
+<br>
+
+## Aspectos que puede evaluar una rúbrica
+
+Una situación de aprendizaje puede evaluarse atendiendo a diferentes elementos:
+<br>
+
+- Participación.
+- Trabajo cooperativo.
+- Calidad del producto final.
+- Resolución de problemas.
+- Comunicación oral.
+- Creatividad.
+- Uso de fuentes de información.
+- Autonomía.
+<br>
+
+La selección dependerá de los objetivos planteados por el docente.
+<br>
+
+## Ejemplo práctico de rúbrica
+
+Imaginemos una situación de aprendizaje donde el alumnado debe diseñar una campaña de sensibilización sobre el cuidado del medio ambiente.
+<br>
+
+### Criterio 1: Participación
+
+Nivel inicial:
+<br>
+
+Participa de forma muy limitada y necesita apoyo constante.
+<br>
+
+Nivel básico:
+<br>
+
+Participa ocasionalmente en las actividades propuestas.
+<br>
+
+Nivel adecuado:
+<br>
+
+Participa activamente y realiza las tareas asignadas.
+<br>
+
+Nivel excelente:
+<br>
+
+Participa de forma constante y contribuye significativamente al desarrollo del proyecto.
+<br>
+
+### Criterio 2: Trabajo cooperativo
+
+Nivel inicial:
+<br>
+
+Presenta dificultades para colaborar con el grupo.
+<br>
+
+Nivel básico:
+<br>
+
+Colabora de forma puntual cuando se le solicita.
+<br>
+
+Nivel adecuado:
+<br>
+
+Trabaja adecuadamente con sus compañeros y respeta sus aportaciones.
+<br>
+
+Nivel excelente:
+<br>
+
+Favorece activamente la colaboración y ayuda al grupo a alcanzar los objetivos.
+<br>
+
+### Criterio 3: Calidad del producto final
+
+Nivel inicial:
+<br>
+
+El producto presenta importantes carencias y no responde adecuadamente al objetivo planteado.
+<br>
+
+Nivel básico:
+<br>
+
+El producto cumple parcialmente los objetivos establecidos.
+<br>
+
+Nivel adecuado:
+<br>
+
+El producto responde correctamente al reto planteado y presenta una calidad adecuada.
+<br>
+
+Nivel excelente:
+<br>
+
+El producto destaca por su calidad, creatividad y capacidad para comunicar el mensaje.
+<br>
+
+### Criterio 4: Comunicación oral
+
+Nivel inicial:
+<br>
+
+La presentación resulta difícil de comprender.
+<br>
+
+Nivel básico:
+<br>
+
+Comunica las ideas principales aunque presenta algunas dificultades.
+<br>
+
+Nivel adecuado:
+<br>
+
+Expone la información de forma clara y organizada.
+<br>
+
+Nivel excelente:
+<br>
+
+Presenta las ideas con gran claridad, seguridad y capacidad comunicativa.
+<br>
+
+### Criterio 5: Autonomía
+
+Nivel inicial:
+<br>
+
+Necesita ayuda constante para desarrollar las tareas.
+<br>
+
+Nivel básico:
+<br>
+
+Realiza algunas tareas de forma autónoma.
+<br>
+
+Nivel adecuado:
+<br>
+
+Trabaja con autonomía durante la mayor parte del proyecto.
+<br>
+
+Nivel excelente:
+<br>
+
+Demuestra una gran autonomía y capacidad de iniciativa.
+<br>
+
+## Cómo aplicar esta rúbrica
+
+Antes de comenzar la situación de aprendizaje es recomendable presentar la rúbrica al alumnado.
+<br>
+De este modo, los estudiantes conocen qué aspectos serán valorados y pueden orientar mejor su trabajo.
+<br>
+Durante el desarrollo del proyecto, la rúbrica puede utilizarse para registrar observaciones y recoger evidencias de aprendizaje.
+<br>
+
+## Relación con los criterios de evaluación
+
+La rúbrica debe construirse a partir de los criterios de evaluación seleccionados en la programación didáctica.
+<br>
+Cada criterio incluido en la rúbrica debe contribuir a recoger información relevante sobre los aprendizajes que se desean desarrollar.
+<br>
+
+Esta conexión garantiza una evaluación coherente y alineada con el currículo.
+<br>
+
+## Uso de la autoevaluación
+
+Las rúbricas también pueden utilizarse para que el alumnado reflexione sobre su propio trabajo.
+<br>
+La autoevaluación favorece la autonomía y permite que los estudiantes sean más conscientes de sus fortalezas y dificultades.
+<br>
+
+Además, facilita la planificación de objetivos de mejora para futuras actividades.
+<br>
+
+## Uso de la coevaluación
+
+La coevaluación consiste en que los compañeros participen activamente en el proceso evaluador.
+<br>
+
+Utilizando la misma rúbrica, los estudiantes pueden analizar el trabajo de otros grupos y ofrecer comentarios constructivos.
+<br>
+
+Esta práctica ayuda a desarrollar habilidades de observación, análisis y pensamiento crítico.
+<br>
+
+## Errores frecuentes
+
+### Incluir demasiados criterios
+<br>
+
+Las rúbricas excesivamente extensas suelen resultar difíciles de aplicar.
+<br>
+
+### Utilizar descriptores poco claros
+<br>
+
+Cada nivel debe describir comportamientos observables y concretos.
+<br>
+
+### No compartir la rúbrica previamente
+<br>
+
+El alumnado debe conocer los criterios antes de comenzar la actividad.
+<br>
+
+### Evaluar únicamente el producto final
+<br>
+
+Las situaciones de aprendizaje también requieren valorar el proceso desarrollado.
+<br>
+
+## Relación con la LOMLOE
+
+La LOMLOE promueve una evaluación continua, formativa y competencial.
+<br>
+
+Las rúbricas permiten recoger evidencias durante todo el proceso de aprendizaje y facilitan la valoración de competencias específicas relacionadas con la autonomía, la comunicación, el pensamiento crítico y el trabajo cooperativo.
+<br>
+
+Además, contribuyen a que el alumnado participe activamente en la evaluación y comprenda mejor sus progresos.
+<br>
+
+## Recomendaciones para el profesorado
+
+- Compartir la rúbrica antes de iniciar la actividad.
+- Utilizar criterios claros y comprensibles.
+- Relacionar la rúbrica con los criterios de evaluación.
+- Combinar la valoración del docente con procesos de autoevaluación y coevaluación.
+- Utilizar la información obtenida para mejorar futuras situaciones de aprendizaje.
+<br>
+
+## Conclusión
+
+Las rúbricas constituyen una herramienta fundamental para evaluar situaciones de aprendizaje en Educación Primaria.
+<br>
+
+Su capacidad para valorar tanto el proceso como el producto final permite obtener una visión más completa del desempeño del alumnado.
+<br>
+
+Cuando se diseñan adecuadamente, favorecen la transparencia, mejoran la calidad de la evaluación y contribuyen a desarrollar una enseñanza coherente con los principios de la LOMLOE.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
