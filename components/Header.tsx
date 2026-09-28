@@ -1,12 +1,14 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
-import { Menu, X, Dumbbell } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { categories } from "@/lib/categories";
 import { siteConfig } from "@/lib/site";
 
 const navLinks = [
+  { href: "/", label: "Inicio" },
   { href: "/blog", label: "Blog" },
   ...categories.map((c) => ({ href: `/${c.slug}`, label: c.name })),
   { href: "/herramientas", label: "Herramientas" },
@@ -19,11 +21,16 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-slate-100 bg-white/95 backdrop-blur">
-      <div className="container-site flex h-16 items-center justify-between">
+      <div className="container-site flex h-16 items-center justify-between gap-8">
         <Link href="/" className="flex items-center gap-2 font-sans text-lg font-bold text-primary-700">
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl2 bg-primary-600 text-white">
-            <Dumbbell size={18} />
-          </span>
+          <Image
+            src="/icon-192.png"
+            alt={`Logo de ${siteConfig.shortName}`}
+            width={36}
+            height={36}
+            className="rounded-xl2"
+            priority
+          />
           {siteConfig.shortName}
         </Link>
 
