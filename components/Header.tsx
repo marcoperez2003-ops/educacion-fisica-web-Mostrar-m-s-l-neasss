@@ -7,7 +7,6 @@ import { categories } from "@/lib/categories";
 import { siteConfig } from "@/lib/site";
 
 const navLinks = [
-  { href: "/", label: "Inicio" },
   { href: "/blog", label: "Blog" },
   ...categories.map((c) => ({ href: `/${c.slug}`, label: c.name })),
   { href: "/herramientas", label: "Herramientas" },
