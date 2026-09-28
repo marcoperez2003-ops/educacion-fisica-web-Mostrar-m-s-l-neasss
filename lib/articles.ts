@@ -2629,6 +2629,7 @@ Rúbrica de coevaluación entre comisiones, valorando organización, actitud y t
     "Aprende qué son los indicadores de logro, para qué sirven, cómo elaborarlos y cómo utilizarlos en Educación Primaria según la LOMLOE.",
   category: "evaluacion",
   subcategory: "instrumentos-de-evaluacion",
+  subject: "evaluacion",
   date: "2026-09-22",
   author: "Marco Pérez",
   readingTime: 14,
