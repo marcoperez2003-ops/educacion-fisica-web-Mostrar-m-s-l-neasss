@@ -2975,6 +2975,271 @@ Su correcta elaboración permite evaluar de manera más objetiva, mejorar la ret
 Cuando se utilizan adecuadamente, los indicadores de logro se convierten en un recurso imprescindible para planificar, observar y valorar el aprendizaje de forma eficaz y significativa.
 `
 },
+{
+  slug: "autoevaluacion-y-coevaluacion-educacion-fisica-guia-completa",
+  title: "Autoevaluación y coevaluación en Educación Física: guía completa",
+  metaDescription:
+    "Descubre qué son la autoevaluación y la coevaluación en Educación Física, sus beneficios, cómo aplicarlas y ejemplos prácticos para Primaria.",
+  category: "evaluacion",
+  subcategory: "instrumentos-de-evaluacion",
+  subject: "evaluacion",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 12,
+  popular: true,
+  excerpt:
+    "La autoevaluación y la coevaluación permiten implicar al alumnado en su propio aprendizaje. Aprende cómo aplicarlas correctamente en Educación Física.",
+  content: `
+# Autoevaluación y coevaluación en Educación Física: guía completa
+
+## Introducción
+<br>
+La evaluación ha evolucionado significativamente en los últimos años. Actualmente, la enseñanza no se centra únicamente en valorar el resultado final, sino también en ayudar al alumnado a comprender su progreso y a participar activamente en su propio aprendizaje.
+<br>
+Dentro de este enfoque adquieren especial relevancia la autoevaluación y la coevaluación, dos estrategias que permiten implicar al alumnado en el proceso evaluador y desarrollar competencias relacionadas con la reflexión, la responsabilidad y la autonomía.
+<br>
+En Educación Física, donde gran parte del aprendizaje se basa en la práctica, estas formas de evaluación ofrecen una oportunidad excelente para que los estudiantes analicen su desempeño y el de sus compañeros de manera constructiva.
+<br>
+
+## ¿Qué es la autoevaluación?
+<br>
+La autoevaluación es un procedimiento mediante el cual el alumnado analiza y valora su propio aprendizaje.
+<br>
+A través de este proceso, cada estudiante reflexiona sobre su trabajo, identifica fortalezas, reconoce dificultades y establece objetivos de mejora.
+<br>
+La autoevaluación no debe entenderse como una simple calificación personal, sino como una herramienta destinada a desarrollar la capacidad de aprender de forma autónoma.
+<br>
+
+## ¿Qué es la coevaluación?
+<br>
+La coevaluación consiste en la valoración realizada entre iguales.
+<br>
+Los estudiantes observan y analizan el trabajo de sus compañeros utilizando criterios previamente establecidos.
+<br>
+Este proceso permite desarrollar habilidades relacionadas con la observación, la comunicación y la capacidad para ofrecer retroalimentación respetuosa y constructiva.
+<br>
+
+## Diferencias entre autoevaluación y coevaluación
+<br>
+Aunque ambas estrategias buscan implicar al alumnado en el proceso de evaluación, presentan diferencias importantes.
+<br>
+La autoevaluación se centra en la reflexión individual sobre el propio aprendizaje.
+<br>
+La coevaluación, por el contrario, implica valorar el desempeño de otros compañeros siguiendo criterios previamente acordados.
+<br>
+Ambas son complementarias y resultan especialmente eficaces cuando se utilizan conjuntamente.
+<br>
+
+## Beneficios de la autoevaluación
+<br>
+
+### Favorece la autonomía
+<br>
+El alumnado aprende a responsabilizarse de su propio proceso de aprendizaje.
+<br>
+
+### Desarrolla la capacidad de reflexión
+<br>
+Permite analizar errores y reconocer progresos.
+<br>
+
+### Incrementa la motivación
+<br>
+Los estudiantes participan activamente en la evaluación y comprenden mejor sus logros.
+<br>
+
+### Mejora la autorregulación
+<br>
+Ayuda a identificar qué aspectos deben mejorarse y cómo hacerlo.
+<br>
+
+## Beneficios de la coevaluación
+<br>
+
+### Potencia el aprendizaje cooperativo
+<br>
+Los estudiantes aprenden observando a sus compañeros.
+<br>
+
+### Favorece la comunicación
+<br>
+Permite intercambiar opiniones y sugerencias de mejora.
+<br>
+
+### Desarrolla el pensamiento crítico
+<br>
+El alumnado aprende a analizar actuaciones utilizando criterios objetivos.
+<br>
+
+### Incrementa la implicación
+<br>
+Los estudiantes participan de forma más activa en el proceso de evaluación.
+<br>
+
+## Importancia en Educación Física
+<br>
+La Educación Física ofrece condiciones ideales para aplicar estos procedimientos.
+<br>
+Durante las actividades motrices, los estudiantes pueden observar conductas, analizar ejecuciones técnicas y valorar actitudes relacionadas con la cooperación, el respeto y el esfuerzo.
+<br>
+Además, la evaluación compartida favorece la reflexión sobre aspectos que muchas veces pasan desapercibidos durante la práctica.
+<br>
+
+## Relación con la LOMLOE
+<br>
+La LOMLOE apuesta por una evaluación continua, formativa y competencial.
+<br>
+La autoevaluación y la coevaluación encajan perfectamente dentro de este enfoque porque permiten al alumnado participar activamente en los procesos de aprendizaje y desarrollar competencias relacionadas con la autonomía personal y la capacidad de aprender a aprender.
+<br>
+No se trata únicamente de obtener una calificación, sino de comprender el propio progreso y utilizar la evaluación como herramienta de mejora.
+<br>
+
+## Cómo aplicar la autoevaluación paso a paso
+<br>
+
+### Paso 1. Explicar los objetivos
+<br>
+El alumnado debe conocer claramente qué aprendizajes se van a valorar.
+<br>
+
+### Paso 2. Definir criterios sencillos
+<br>
+Los estudiantes necesitan disponer de referencias claras para poder reflexionar sobre su desempeño.
+<br>
+
+### Paso 3. Promover la reflexión
+<br>
+Es importante plantear preguntas que ayuden a analizar la experiencia realizada.
+<br>
+
+Por ejemplo:
+<br>
+
+- ¿Qué he hecho bien?
+- ¿Qué puedo mejorar?
+- ¿Qué he aprendido?
+- ¿Qué dificultades he encontrado?
+<br>
+
+### Paso 4. Registrar la información
+<br>
+La reflexión puede recogerse mediante cuestionarios, diarios de aprendizaje o fichas de autoevaluación.
+<br>
+
+## Cómo aplicar la coevaluación paso a paso
+<br>
+
+### Paso 1. Establecer normas claras
+<br>
+La finalidad debe ser siempre ayudar a mejorar y no juzgar a los compañeros.
+<br>
+
+### Paso 2. Utilizar criterios concretos
+<br>
+Los estudiantes deben saber exactamente qué aspectos observar.
+<br>
+
+### Paso 3. Practicar la observación
+<br>
+Conviene comenzar con actividades sencillas antes de utilizar procesos más complejos.
+<br>
+
+### Paso 4. Compartir comentarios constructivos
+<br>
+Las observaciones deben centrarse en conductas observables y propuestas de mejora.
+<br>
+
+## Ejemplo de autoevaluación en Educación Física
+<br>
+Tras una sesión de juegos cooperativos, el alumnado puede reflexionar sobre:
+<br>
+
+- Mi nivel de participación.
+- Mi capacidad para colaborar.
+- Mi actitud hacia los compañeros.
+- Mi esfuerzo durante la actividad.
+- Lo que he aprendido.
+<br>
+
+Esta información ayuda a identificar fortalezas y aspectos de mejora.
+<br>
+
+## Ejemplo de coevaluación en Educación Física
+<br>
+Durante una actividad de expresión corporal, los alumnos pueden observar:
+<br>
+
+- Participación.
+- Creatividad.
+- Coordinación.
+- Expresión del movimiento.
+- Respeto hacia el grupo.
+<br>
+
+Posteriormente comparten sus observaciones de forma respetuosa y constructiva.
+<br>
+
+## Instrumentos para la autoevaluación y la coevaluación
+<br>
+
+Existen diferentes herramientas que facilitan estos procesos:
+<br>
+
+- Rúbricas.
+- Listas de control.
+- Escalas de observación.
+- Cuestionarios.
+- Diarios de aprendizaje.
+- Fichas de reflexión.
+<br>
+
+La elección dependerá de los objetivos y características de la actividad.
+<br>
+
+## Errores frecuentes
+<br>
+
+### Convertirlas en una simple nota
+<br>
+La finalidad principal debe ser la mejora del aprendizaje.
+<br>
+
+### No explicar los criterios
+<br>
+Sin criterios claros las valoraciones pierden utilidad.
+<br>
+
+### Utilizar un lenguaje negativo
+<br>
+Las observaciones deben orientarse hacia la mejora.
+<br>
+
+### Aplicarlas de forma puntual
+<br>
+Resultan más eficaces cuando forman parte habitual del proceso educativo.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Introducir estas estrategias de forma progresiva.
+- Utilizar instrumentos sencillos.
+- Favorecer la reflexión del alumnado.
+- Valorar el proceso por encima de la calificación.
+- Promover un clima de respeto y confianza.
+<br>
+
+## Conclusión
+<br>
+La autoevaluación y la coevaluación son herramientas fundamentales para desarrollar una evaluación formativa y participativa en Educación Física.
+<br>
+
+Gracias a ellas, el alumnado deja de ser un receptor pasivo de calificaciones para convertirse en protagonista de su propio aprendizaje.
+<br>
+
+Su aplicación contribuye a mejorar la autonomía, la responsabilidad, el pensamiento crítico y la capacidad de reflexión, aspectos esenciales para una educación competencial alineada con los principios de la LOMLOE.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
