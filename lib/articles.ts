@@ -3844,6 +3844,8 @@ La combinación de varios instrumentos proporciona una visión más completa del
 - Diseñar indicadores claros.
 - Utilizar conductas observables.
 - Revisar periódicamente el instrumento
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
