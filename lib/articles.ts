@@ -2623,6 +2623,358 @@ Rúbrica de coevaluación entre comisiones, valorando organización, actitud y t
 
   // ---------- EVALUACIÓN (10) ----------
   {
+  slug: "indicadores-de-logro-que-son-y-como-elaborarlos",
+  title: "Indicadores de logro: qué son y cómo elaborarlos paso a paso",
+  metaDescription:
+    "Aprende qué son los indicadores de logro, para qué sirven, cómo elaborarlos y cómo utilizarlos en Educación Primaria según la LOMLOE.",
+  category: "evaluacion",
+  subcategory: "instrumentos-de-evaluacion",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 14,
+  popular: true,
+  excerpt:
+    "Guía completa sobre indicadores de logro: definición, características, ejemplos prácticos y aplicación en el aula según la LOMLOE.",
+  content: `
+# Indicadores de logro: qué son y cómo elaborarlos paso a paso
+
+## Introducción
+<br>
+La evaluación es uno de los elementos fundamentales del proceso educativo. Gracias a ella, los docentes pueden identificar el progreso del alumnado, detectar dificultades y tomar decisiones para mejorar el aprendizaje.
+<br>
+Dentro de este proceso cobran especial importancia los indicadores de logro, ya que permiten concretar de manera observable y medible los aprendizajes que se espera que el alumnado alcance.
+<br>
+Aunque muchas veces se habla de competencias específicas, criterios de evaluación y saberes básicos, los indicadores de logro son los que realmente ayudan a comprobar si un estudiante está alcanzando los objetivos previstos.
+<br>
+Por ello, conocer cómo se diseñan y cómo se aplican resulta imprescindible para cualquier docente.
+<br>
+
+## ¿Qué son los indicadores de logro?
+<br>
+Los indicadores de logro son descripciones concretas y observables que permiten comprobar si el alumnado ha alcanzado determinados aprendizajes.
+<br>
+Actúan como evidencias que muestran el nivel de consecución de un criterio de evaluación o de un objetivo de aprendizaje.
+<br>
+Su principal función consiste en traducir aspectos amplios y complejos en comportamientos observables y evaluables.
+<br>
+Gracias a ellos, el profesorado puede valorar con mayor precisión el progreso de los estudiantes.
+<br>
+
+## ¿Para qué sirven los indicadores de logro?
+<br>
+Los indicadores de logro cumplen diversas funciones dentro de la evaluación educativa.
+<br>
+Entre las más importantes destacan:
+<br>
+
+- Facilitar la observación del aprendizaje.
+- Concretar los criterios de evaluación.
+- Favorecer la objetividad.
+- Guiar la recogida de evidencias.
+- Ayudar a diseñar instrumentos de evaluación.
+- Mejorar la transparencia del proceso evaluador.
+- Facilitar la retroalimentación al alumnado.
+<br>
+
+Además, permiten que los estudiantes comprendan qué se espera de ellos y cómo pueden mejorar.
+<br>
+
+## Diferencia entre criterio de evaluación e indicador de logro
+<br>
+Uno de los errores más frecuentes consiste en confundir ambos conceptos.
+<br>
+Los criterios de evaluación establecen aquello que debe valorarse.
+<br>
+Los indicadores de logro, en cambio, muestran evidencias concretas de que dicho criterio se ha alcanzado.
+<br>
+Por ejemplo:
+<br>
+
+Criterio de evaluación:
+<br>
+
+"Participar activamente en actividades cooperativas mostrando actitudes de respeto hacia los compañeros."
+<br>
+
+Indicadores de logro:
+<br>
+
+- Escucha las propuestas de sus compañeros.
+- Participa en las tareas del grupo.
+- Respeta los turnos de intervención.
+- Colabora en la consecución del objetivo común.
+<br>
+
+Los indicadores concretan el criterio y facilitan su evaluación.
+<br>
+
+## Características de un buen indicador de logro
+<br>
+
+### Debe ser observable
+<br>
+El docente debe poder comprobar directamente si la conducta aparece o no aparece.
+<br>
+
+### Debe ser específico
+<br>
+Cuanto más concreto sea, más fácil resultará evaluarlo.
+<br>
+
+### Debe ser medible
+<br>
+Tiene que permitir recoger evidencias reales durante el proceso de aprendizaje.
+<br>
+
+### Debe estar relacionado con el criterio de evaluación
+<br>
+Cada indicador debe contribuir a valorar un criterio determinado.
+<br>
+
+### Debe utilizar un lenguaje claro
+<br>
+Su redacción debe ser sencilla y comprensible.
+<br>
+
+## Beneficios de utilizar indicadores de logro
+<br>
+
+### Mayor objetividad
+<br>
+Reducen la subjetividad al centrarse en conductas observables.
+<br>
+
+### Evaluación más precisa
+<br>
+Permiten obtener información concreta sobre el desempeño del alumnado.
+<br>
+
+### Mejor seguimiento
+<br>
+Facilitan el análisis de la evolución de los estudiantes a lo largo del tiempo.
+<br>
+
+### Retroalimentación de calidad
+<br>
+Ayudan a explicar con claridad qué aspectos se han conseguido y cuáles deben mejorarse.
+<br>
+
+### Diseño de instrumentos
+<br>
+Sirven como base para elaborar rúbricas, listas de control y escalas de observación.
+<br>
+
+## Cómo elaborar indicadores de logro paso a paso
+<br>
+
+### Paso 1. Analizar el criterio de evaluación
+<br>
+El punto de partida debe ser siempre el criterio de evaluación.
+<br>
+Es necesario identificar exactamente qué aprendizaje pretende valorar.
+<br>
+
+### Paso 2. Identificar comportamientos observables
+<br>
+El siguiente paso consiste en pensar qué acciones concretas permitirían demostrar que el aprendizaje se ha alcanzado.
+<br>
+
+Por ejemplo:
+<br>
+
+- Explica.
+- Describe.
+- Participa.
+- Compara.
+- Clasifica.
+- Resuelve.
+- Colabora.
+<br>
+
+### Paso 3. Utilizar verbos adecuados
+<br>
+Los indicadores deben comenzar con verbos que describan acciones observables.
+<br>
+
+Algunos ejemplos:
+<br>
+
+- Identifica.
+- Explica.
+- Utiliza.
+- Realiza.
+- Colabora.
+- Organiza.
+- Aplica.
+- Participa.
+<br>
+
+### Paso 4. Comprobar la claridad
+<br>
+El indicador debe poder entenderse fácilmente sin generar interpretaciones ambiguas.
+<br>
+
+### Paso 5. Revisar su relación con el criterio
+<br>
+Antes de utilizarlo conviene verificar que realmente evalúa aquello que se pretende valorar.
+<br>
+
+## Ejemplo en Lengua Castellana
+<br>
+
+Criterio de evaluación:
+<br>
+
+"Comprender textos escritos identificando las ideas principales."
+<br>
+
+Posibles indicadores:
+<br>
+
+- Identifica el tema principal del texto.
+- Localiza información relevante.
+- Resume las ideas principales.
+- Diferencia entre información principal y secundaria.
+<br>
+
+## Ejemplo en Matemáticas
+<br>
+
+Criterio de evaluación:
+<br>
+
+"Resolver problemas utilizando estrategias adecuadas."
+<br>
+
+Indicadores de logro:
+<br>
+
+- Identifica los datos necesarios.
+- Selecciona la operación adecuada.
+- Resuelve correctamente el problema.
+- Explica el procedimiento utilizado.
+<br>
+
+## Ejemplo en Educación Física
+<br>
+
+Criterio de evaluación:
+<br>
+
+"Participar activamente en juegos cooperativos."
+<br>
+
+Indicadores de logro:
+<br>
+
+- Colabora con sus compañeros.
+- Respeta las normas acordadas.
+- Participa activamente en las tareas.
+- Ayuda al grupo cuando es necesario.
+- Mantiene una actitud positiva.
+<br>
+
+## Relación con la LOMLOE
+<br>
+La LOMLOE impulsa una evaluación continua, competencial y formativa.
+<br>
+Dentro de este enfoque, los indicadores de logro permiten concretar los aprendizajes que deben alcanzarse y facilitan la recogida de evidencias durante todo el proceso.
+<br>
+
+Además, contribuyen a establecer una conexión más clara entre competencias específicas, criterios de evaluación y actividades de aprendizaje.
+<br>
+
+## Indicadores de logro y evaluación formativa
+<br>
+La evaluación formativa busca mejorar el aprendizaje mientras este se está produciendo.
+<br>
+Los indicadores de logro facilitan este proceso porque permiten:
+<br>
+
+- Detectar dificultades.
+- Realizar ajustes metodológicos.
+- Ofrecer retroalimentación inmediata.
+- Orientar futuras actividades.
+<br>
+
+Gracias a ellos, la evaluación deja de centrarse únicamente en la calificación final.
+<br>
+
+## Errores frecuentes al elaborar indicadores
+<br>
+
+### Utilizar verbos ambiguos
+<br>
+
+Incorrecto:
+<br>
+
+- Comprende bien los contenidos.
+<br>
+
+Correcto:
+<br>
+
+- Explica los contenidos utilizando sus propias palabras.
+<br>
+
+### Elaborar indicadores demasiado amplios
+<br>
+
+Indicadores muy generales resultan difíciles de observar y evaluar.
+<br>
+
+### Crear demasiados indicadores
+<br>
+
+Un número excesivo puede complicar el proceso de evaluación.
+<br>
+
+### No relacionarlos con criterios concretos
+<br>
+
+Cada indicador debe responder a un criterio claramente identificado.
+<br>
+
+## Cómo utilizar los indicadores en el aula
+<br>
+Los indicadores pueden emplearse en diferentes instrumentos:
+<br>
+
+- Rúbricas.
+- Listas de control.
+- Escalas de observación.
+- Cuadernos del docente.
+- Autoevaluaciones.
+- Coevaluaciones.
+<br>
+
+Esto permite recoger información desde diferentes perspectivas y mejorar la calidad de la evaluación.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Diseñar indicadores claros y observables.
+- Utilizar un lenguaje sencillo.
+- Relacionarlos con criterios de evaluación concretos.
+- Revisarlos periódicamente.
+- Compartirlos con el alumnado cuando sea posible.
+- Utilizarlos como guía para la mejora del aprendizaje.
+<br>
+
+## Conclusión
+<br>
+Los indicadores de logro son una herramienta fundamental dentro del proceso de evaluación. Gracias a ellos es posible transformar objetivos y criterios generales en comportamientos observables que facilitan la recogida de evidencias.
+<br>
+
+Su correcta elaboración permite evaluar de manera más objetiva, mejorar la retroalimentación al alumnado y garantizar una evaluación coherente con los principios de la LOMLOE.
+<br>
+
+Cuando se utilizan adecuadamente, los indicadores de logro se convierten en un recurso imprescindible para planificar, observar y valorar el aprendizaje de forma eficaz y significativa.
+`
+},
+  {
     slug: "como-disenar-una-rubrica-educacion-fisica",
     title: "Cómo diseñar una rúbrica de evaluación en Educación Física paso a paso",
     metaDescription:
