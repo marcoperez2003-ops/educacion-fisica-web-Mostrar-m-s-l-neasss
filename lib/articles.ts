@@ -4157,6 +4157,310 @@ Su capacidad para valorar distintos niveles de desempeño permite obtener inform
 Cuando se diseñan correctamente y se combinan con otros instrumentos de evaluación, se convierten en una herramienta fundamental para desarrollar una evaluación objetiva, eficaz y coherente con los principios de la LOMLOE.
 `
 },
+{
+  slug: "ejemplo-rubrica-exposicion-oral-primaria",
+  title: "Ejemplo de rúbrica para una exposición oral en Primaria",
+  metaDescription:
+    "Descubre un ejemplo de rúbrica para evaluar exposiciones orales en Educación Primaria y aprende cómo aplicarla en el aula.",
+  category: "evaluacion",
+  subcategory: "rubricas",
+  subject: "evaluacion",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 10,
+  popular: true,
+  excerpt:
+    "Guía práctica para diseñar y aplicar una rúbrica de exposición oral en Primaria, con ejemplos y recomendaciones para una evaluación objetiva.",
+  content: `
+# Ejemplo de rúbrica para una exposición oral en Primaria
+
+## Introducción
+<br>
+Las exposiciones orales se han convertido en una actividad habitual dentro de las aulas de Educación Primaria. A través de ellas, el alumnado desarrolla competencias relacionadas con la comunicación oral, la organización de ideas, la confianza en sí mismo y la capacidad para transmitir información a otras personas.
+<br>
+Sin embargo, para que estas actividades tengan un verdadero valor educativo es necesario contar con instrumentos de evaluación adecuados que permitan valorar el desempeño del alumnado de forma objetiva.
+<br>
+Las rúbricas son uno de los recursos más utilizados para evaluar exposiciones orales porque ayudan a definir claramente qué aspectos se van a valorar y cuáles son los diferentes niveles de logro esperados.
+<br>
+
+## ¿Por qué utilizar una rúbrica para evaluar exposiciones orales?
+<br>
+Las exposiciones orales pueden generar cierta subjetividad si no existen criterios claros de evaluación.
+<br>
+La utilización de una rúbrica permite:
+<br>
+
+- Aumentar la objetividad.
+- Clarificar expectativas.
+- Facilitar la evaluación continua.
+- Favorecer la autoevaluación.
+- Ofrecer una retroalimentación más completa.
+- Mejorar la transparencia del proceso evaluador.
+<br>
+
+Además, el alumnado conoce desde el principio qué aspectos debe trabajar para alcanzar un buen resultado.
+<br>
+
+## Aspectos que se pueden evaluar
+<br>
+
+En una exposición oral pueden evaluarse numerosos elementos.
+<br>
+
+Algunos de los más importantes son:
+<br>
+
+- Claridad en la expresión.
+- Organización de las ideas.
+- Uso adecuado del vocabulario.
+- Contacto visual.
+- Volumen de voz.
+- Participación.
+- Uso de recursos visuales.
+- Capacidad para responder preguntas.
+<br>
+
+La selección de criterios dependerá de los objetivos planteados por el docente.
+<br>
+
+## Ejemplo práctico de rúbrica
+<br>
+
+### Criterio 1: Organización de la exposición
+<br>
+
+Nivel inicial:
+<br>
+
+Presenta las ideas de forma desordenada y resulta difícil seguir la explicación.
+<br>
+
+Nivel básico:
+<br>
+
+Existe cierta organización, aunque aparecen saltos o repeticiones.
+<br>
+
+Nivel adecuado:
+<br>
+
+La exposición sigue una estructura clara con introducción, desarrollo y conclusión.
+<br>
+
+Nivel excelente:
+<br>
+
+Las ideas están perfectamente estructuradas y conectadas entre sí.
+<br>
+
+### Criterio 2: Expresión oral
+<br>
+
+Nivel inicial:
+<br>
+
+Presenta dificultades para expresarse con claridad.
+<br>
+
+Nivel básico:
+<br>
+
+Se expresa de forma comprensible aunque comete algunos errores.
+<br>
+
+Nivel adecuado:
+<br>
+
+Habla con claridad y utiliza un vocabulario apropiado.
+<br>
+
+Nivel excelente:
+<br>
+
+Comunica las ideas con gran claridad, precisión y seguridad.
+<br>
+
+### Criterio 3: Volumen y pronunciación
+<br>
+
+Nivel inicial:
+<br>
+
+El volumen es insuficiente y dificulta la comprensión.
+<br>
+
+Nivel básico:
+<br>
+
+La pronunciación es aceptable aunque aparecen dificultades puntuales.
+<br>
+
+Nivel adecuado:
+<br>
+
+Mantiene un volumen apropiado y una pronunciación clara.
+<br>
+
+Nivel excelente:
+<br>
+
+Utiliza un volumen adecuado en todo momento y una pronunciación excelente.
+<br>
+
+### Criterio 4: Contacto visual
+<br>
+
+Nivel inicial:
+<br>
+
+Evita mirar al público durante la mayor parte de la exposición.
+<br>
+
+Nivel básico:
+<br>
+
+Mantiene contacto visual de manera ocasional.
+<br>
+
+Nivel adecuado:
+<br>
+
+Mira frecuentemente al público mientras expone.
+<br>
+
+Nivel excelente:
+<br>
+
+Mantiene contacto visual constante y favorece la interacción con la audiencia.
+<br>
+
+### Criterio 5: Uso de recursos visuales
+<br>
+
+Nivel inicial:
+<br>
+
+No utiliza apoyos visuales o estos resultan poco útiles.
+<br>
+
+Nivel básico:
+<br>
+
+Los recursos visuales aportan información limitada.
+<br>
+
+Nivel adecuado:
+<br>
+
+Los recursos visuales complementan correctamente la exposición.
+<br>
+
+Nivel excelente:
+<br>
+
+Los recursos visuales enriquecen significativamente la presentación y facilitan la comprensión.
+<br>
+
+## Cómo aplicar esta rúbrica en el aula
+<br>
+
+Antes de la exposición es importante compartir la rúbrica con el alumnado.
+<br>
+
+De esta forma los estudiantes conocen qué aspectos van a ser evaluados y pueden preparar mejor su trabajo.
+<br>
+
+Durante la exposición el docente puede utilizar la rúbrica para registrar evidencias y anotar observaciones relevantes.
+<br>
+
+Una vez finalizada la actividad, la información recogida permitirá proporcionar una retroalimentación detallada.
+<br>
+
+## Uso de la autoevaluación
+<br>
+
+Las rúbricas también pueden utilizarse para que los propios alumnos valoren su desempeño.
+<br>
+
+Este proceso favorece la reflexión y ayuda a desarrollar la capacidad de autorregulación.
+<br>
+
+Al finalizar la exposición, cada estudiante puede revisar los distintos criterios y analizar cuáles son sus puntos fuertes y sus aspectos de mejora.
+<br>
+
+## Uso de la coevaluación
+<br>
+
+La coevaluación consiste en que los compañeros participen en la valoración de la exposición.
+<br>
+
+Cuando se utiliza una rúbrica clara, los estudiantes pueden aportar observaciones útiles y respetuosas sobre el trabajo realizado.
+<br>
+
+Además de mejorar la participación, esta práctica desarrolla habilidades relacionadas con la observación y el pensamiento crítico.
+<br>
+
+## Errores frecuentes al evaluar exposiciones orales
+<br>
+
+### Utilizar criterios poco claros
+<br>
+
+Los estudiantes deben comprender exactamente qué se espera de ellos.
+<br>
+
+### Valorar demasiados aspectos
+<br>
+
+Una rúbrica excesivamente extensa dificulta la evaluación.
+<br>
+
+### No compartir la rúbrica previamente
+<br>
+
+La transparencia es fundamental para que la evaluación resulte útil.
+<br>
+
+### Centrarse únicamente en los errores
+<br>
+
+La retroalimentación debe incluir también aspectos positivos y propuestas de mejora.
+<br>
+
+## Relación con la LOMLOE
+<br>
+
+La LOMLOE promueve una evaluación competencial, continua y formativa.
+<br>
+
+Las exposiciones orales permiten desarrollar competencias relacionadas con la comunicación lingüística, el aprendizaje autónomo y la participación activa.
+<br>
+
+Las rúbricas facilitan la valoración de estas competencias y permiten recoger evidencias de aprendizaje de manera objetiva.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Compartir la rúbrica antes de la actividad.
+- Utilizar criterios sencillos y comprensibles.
+- Limitar el número de aspectos evaluados.
+- Combinar la valoración del docente con procesos de autoevaluación y coevaluación.
+- Utilizar los resultados para mejorar futuras exposiciones.
+<br>
+
+## Conclusión
+<br>
+
+Las rúbricas constituyen una herramienta muy eficaz para evaluar exposiciones orales en Educación Primaria.
+<br>
+
+Gracias a ellas es posible definir expectativas claras, mejorar la objetividad de la evaluación y proporcionar una retroalimentación más completa al alumnado.
+<br>
+
+Cuando se diseñan adecuadamente y se utilizan de forma sistemática, se convierten en un recurso fundamental para desarrollar la competencia comunicativa y favorecer una evaluación coherente con los principios de la LOMLOE.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
