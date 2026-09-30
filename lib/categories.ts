@@ -20,7 +20,8 @@ export const categories: Category[] = [
       { slug: "juegos-de-calentamiento", name: "Juegos de calentamiento" },
       { slug: "juegos-sin-material", name: "Juegos sin material" },
       { slug: "juegos-para-espacios-reducidos", name: "Espacios reducidos" },
-      { slug: "juegos-para-dias-de-lluvia", name: "Días de lluvia" }
+      { slug: "juegos-para-dias-de-lluvia", name: "Días de lluvia" },
+      { slug: "cunas-motrices", name: "Cuñas motrices" }
     ]
   },
   {
