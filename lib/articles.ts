@@ -64,6 +64,107 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
 `
 },
 {
+  slug: "cuna-motriz-los-animales-locos",
+  title: "Cuña motriz: Los animales locos",
+  metaDescription:
+    "Actividad rápida de activación para Primaria en la que el alumnado imita diferentes animales mediante movimientos corporales.",
+  category: "juegos-educacion-fisica",
+  subcategory: "cunas-motrices",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 4,
+  popular: true,
+  excerpt:
+    "Una cuña motriz divertida y sencilla para activar al alumnado durante la jornada escolar mediante la imitación de animales.",
+  content: `
+# Cuña motriz: Los animales locos
+
+## Introducción
+<br>
+Las cuñas motrices son pequeñas pausas activas que permiten introducir movimiento durante la jornada escolar. Su objetivo principal es mejorar la atención, reducir el sedentarismo y favorecer un ambiente de aprendizaje más dinámico.
+<br>
+Esta propuesta está diseñada para Educación Primaria y puede realizarse en el aula sin necesidad de material específico.
+<br>
+
+## Objetivo
+<br>
+Activar físicamente al alumnado mediante movimientos variados inspirados en diferentes animales.
+<br>
+
+## Duración
+<br>
+Entre 3 y 5 minutos.
+<br>
+
+## Material
+<br>
+No se necesita material.
+<br>
+
+## Desarrollo
+<br>
+El docente menciona un animal y el alumnado debe desplazarse o moverse imitando sus características durante unos segundos.
+<br>
+
+Algunos ejemplos:
+<br>
+
+- Canguro: saltos cortos con los pies juntos.
+- Cangrejo: desplazamiento lateral.
+- Rana: saltos agachados.
+- Serpiente: movimiento ondulado sin desplazarse.
+- Elefante: caminar levantando mucho las rodillas y moviendo un brazo como si fuera una trompa.
+- Pingüino: caminar con los pies juntos y los brazos pegados al cuerpo.
+- Mono: pequeños saltos acompañados de movimientos amplios de brazos.
+<br>
+
+Cada animal puede mantenerse durante 15 o 20 segundos antes de pasar al siguiente.
+<br>
+
+## Variantes
+<br>
+
+### Variante 1
+<br>
+Un alumno propone el siguiente animal que deberá imitar toda la clase.
+<br>
+
+### Variante 2
+<br>
+El docente combina dos animales y los alumnos deben alternar ambos movimientos cuando escuchen una señal.
+<br>
+
+### Variante 3
+<br>
+Los estudiantes realizan los movimientos sin desplazarse de su sitio para adaptarlo a espacios reducidos.
+<br>
+
+## Beneficios
+<br>
+
+- Incrementa la atención.
+- Favorece la activación física.
+- Mejora la coordinación motriz.
+- Reduce periodos prolongados de sedentarismo.
+- Genera un clima de aula más dinámico.
+<br>
+
+## Recomendaciones
+<br>
+
+- Seleccionar animales conocidos por el alumnado.
+- Mantener un ritmo dinámico.
+- Priorizar movimientos seguros.
+- Adaptar la intensidad a la edad de los participantes.
+<br>
+
+## Conclusión
+<br>
+"Los animales locos" es una cuña motriz sencilla, divertida y fácil de aplicar en cualquier momento de la jornada escolar. Gracias a su carácter lúdico permite activar al alumnado rápidamente y mejorar la predisposición hacia las siguientes tareas de aprendizaje.
+`
+},
+{
   slug: "15-juegos-vuelta-a-la-calma-educacion-fisica",
   title: "15 juegos de vuelta a la calma para Educación Física",
   metaDescription:
