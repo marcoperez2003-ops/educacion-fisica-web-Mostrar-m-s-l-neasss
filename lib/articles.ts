@@ -64,6 +64,259 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
 `
 },
 {
+  slug: "25-juegos-sin-material-educacion-fisica-primaria",
+  title: "25 juegos sin material para Educación Física en Primaria",
+  metaDescription:
+    "Descubre 25 juegos sin material para Educación Física en Primaria. Actividades divertidas, cooperativas y fáciles de aplicar sin necesidad de recursos deportivos.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-sin-material",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Una recopilación de 25 juegos sin material para Educación Física que permiten desarrollar habilidades motrices, cooperación y diversión sin necesidad de equipamiento.",
+  content: `
+# 25 juegos sin material para Educación Física en Primaria
+
+## Introducción
+<br>
+Uno de los grandes retos de la Educación Física consiste en desarrollar sesiones dinámicas y motivadoras cuando no se dispone de material deportivo. Sin embargo, la falta de recursos no debe limitar las posibilidades educativas ni reducir la participación del alumnado.
+<br>
+Existen numerosos juegos que utilizan únicamente el cuerpo, el movimiento y la interacción entre compañeros para generar experiencias de aprendizaje significativas.
+<br>
+Además de ser económicos y fáciles de organizar, estos juegos favorecen la creatividad, la cooperación, la resolución de problemas y el desarrollo de habilidades motrices básicas.
+<br>
+En este artículo encontrarás 25 juegos sin material ideales para Educación Primaria.
+<br>
+
+## Beneficios de los juegos sin material
+<br>
+
+Los juegos sin material ofrecen numerosas ventajas:
+<br>
+
+- No requieren preparación compleja.
+- Pueden realizarse en cualquier espacio.
+- Favorecen la participación.
+- Permiten trabajar múltiples habilidades motrices.
+- Desarrollan la creatividad.
+- Facilitan la improvisación.
+<br>
+
+Además, resultan especialmente útiles cuando el material disponible es limitado o cuando se necesita adaptar rápidamente una sesión.
+<br>
+
+## Juegos de persecución
+
+### 1. Pilla-pilla clásico
+<br>
+Un alumno intenta atrapar al resto de compañeros.
+<br>
+Quien es atrapado pasa a convertirse en perseguidor o asume el rol definido previamente por el docente.
+<br>
+
+### 2. La cadena
+<br>
+Cuando un jugador es capturado se une al perseguidor formando una cadena humana.
+<br>
+El objetivo es atrapar progresivamente a todos los participantes.
+<br>
+
+### 3. El congelado
+<br>
+Los jugadores atrapados permanecen inmóviles hasta que otro compañero los libera tocándolos.
+<br>
+
+### 4. Tiburones y peces
+<br>
+Uno o varios alumnos actúan como tiburones mientras el resto intenta cruzar de un lado a otro sin ser atrapado.
+<br>
+
+### 5. El cazador
+<br>
+Un alumno persigue al grupo mientras este intenta evitar ser atrapado mediante desplazamientos rápidos y cambios de dirección.
+<br>
+
+## Juegos cooperativos
+
+### 6. El nudo humano
+<br>
+Los participantes forman un círculo, se agarran de las manos aleatoriamente y deben deshacer el nudo sin soltarse.
+<br>
+
+### 7. La isla
+<br>
+Todo el grupo debe permanecer dentro de una zona determinada que se reduce progresivamente.
+<br>
+
+### 8. Puente humano
+<br>
+Los alumnos colaboran para ayudar a otros compañeros a desplazarse utilizando únicamente sus cuerpos.
+<br>
+
+### 9. La máquina humana
+<br>
+Cada participante añade un movimiento repetitivo hasta formar una gran máquina colectiva.
+<br>
+
+### 10. Construcción cooperativa
+<br>
+Los equipos reciben desafíos motrices que deben resolver conjuntamente sin utilizar ningún material.
+<br>
+
+## Juegos de atención y reacción
+
+### 11. Simón dice
+<br>
+Los alumnos solo deben realizar las órdenes cuando comienzan con la expresión "Simón dice".
+<br>
+
+### 12. El semáforo
+<br>
+Los participantes reaccionan a diferentes señales:
+<br>
+
+- Verde: correr.
+- Amarillo: caminar.
+- Rojo: detenerse.
+<br>
+
+### 13. Estatuas
+<br>
+Los alumnos se desplazan libremente y se congelan cuando reciben una señal.
+<br>
+
+### 14. Pasa el movimiento
+<br>
+Un gesto o acción debe transmitirse rápidamente por todo el grupo.
+<br>
+
+### 15. Atrapa el sonido
+<br>
+Cada sonido representa una acción motriz específica que debe ejecutarse inmediatamente.
+<br>
+
+## Juegos de expresión corporal
+
+### 16. Mímica deportiva
+<br>
+Los participantes representan distintos deportes mediante movimientos corporales.
+<br>
+
+### 17. El espejo
+<br>
+Por parejas, un alumno reproduce exactamente los movimientos del compañero.
+<br>
+
+### 18. Historia motriz
+<br>
+El docente narra una historia y el alumnado la representa mediante acciones corporales.
+<br>
+
+### 19. Coreografía cooperativa
+<br>
+Los grupos crean pequeñas secuencias de movimientos y las presentan al resto de la clase.
+<br>
+
+### 20. El director de orquesta
+<br>
+Un alumno dirige movimientos que todo el grupo debe imitar.
+<br>
+
+## Juegos de habilidades motrices
+
+### 21. Carrera de animales
+<br>
+Los estudiantes se desplazan imitando diferentes animales.
+<br>
+
+### 22. Equilibrios imposibles
+<br>
+El docente plantea retos de equilibrio adaptados a la edad del alumnado.
+<br>
+
+### 23. Saltos encadenados
+<br>
+Los participantes realizan secuencias de saltos siguiendo distintos patrones motores.
+<br>
+
+### 24. Giros y desplazamientos
+<br>
+Los alumnos combinan movimientos de giro con diferentes formas de desplazamiento.
+<br>
+
+### 25. Circuito corporal
+<br>
+Se organiza un recorrido compuesto únicamente por acciones corporales como saltar, reptar, girar o mantener equilibrios.
+<br>
+
+## Adaptación por edades
+<br>
+
+### Primer ciclo de Primaria
+<br>
+
+Se recomienda utilizar juegos con reglas sencillas, escasas consignas y gran componente lúdico.
+<br>
+
+### Segundo ciclo de Primaria
+<br>
+
+Pueden incorporarse desafíos cooperativos y actividades que impliquen toma de decisiones.
+<br>
+
+### Tercer ciclo de Primaria
+<br>
+
+Es posible aumentar la complejidad de las tareas, fomentar la autonomía y plantear retos más elaborados.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Establecer normas claras desde el principio.
+- Adaptar los juegos al espacio disponible.
+- Variar las agrupaciones.
+- Garantizar la participación de todo el alumnado.
+- Ajustar la dificultad según la edad y experiencia del grupo.
+<br>
+
+Además, conviene disponer de varias alternativas para responder a imprevistos o cambios en la planificación.
+<br>
+
+## Relación con el currículo
+<br>
+
+Los juegos sin material permiten trabajar numerosos elementos curriculares relacionados con:
+<br>
+
+- Habilidades motrices básicas.
+- Coordinación.
+- Equilibrio.
+- Velocidad de reacción.
+- Expresión corporal.
+- Cooperación.
+- Resolución de problemas motores.
+<br>
+
+Por ello constituyen una herramienta muy valiosa dentro de la programación de Educación Física.
+<br>
+
+## Conclusión
+<br>
+
+La ausencia de material no debe ser un obstáculo para desarrollar sesiones de Educación Física atractivas y educativas.
+<br>
+
+Los 25 juegos presentados en este artículo demuestran que es posible trabajar habilidades motrices, cooperación, creatividad y participación utilizando únicamente el cuerpo y el movimiento.
+<br>
+
+Incorporar este tipo de actividades al repertorio docente permitirá aprovechar mejor cualquier espacio disponible y garantizar experiencias de aprendizaje dinámicas, inclusivas y motivadoras para todo el alumnado.
+`
+},
+{
   slug: "20-juegos-educacion-fisica-para-dias-de-lluvia",
   title: "20 juegos de Educación Física para días de lluvia",
   metaDescription:
