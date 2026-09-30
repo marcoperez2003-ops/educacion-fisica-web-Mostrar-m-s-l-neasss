@@ -6937,7 +6937,7 @@ La LOMLOE ha reforzado esta tendencia al promover una enseñanza basada en la pa
 
 Por ello, comprender qué son las metodologías activas y cómo aplicarlas se ha convertido en una tarea esencial para cualquier docente que aspire a ofrecer una educación adaptada a las necesidades del siglo XXI.
 `
-}
+},
 {
   slug: "que-es-aprendizaje-basado-proyectos-abp-guia-completa",
   title: "Qué es el Aprendizaje Basado en Proyectos (ABP)",
