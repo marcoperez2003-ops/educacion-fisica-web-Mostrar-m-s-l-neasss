@@ -64,6 +64,282 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
 `
 },
 {
+  slug: "20-juegos-educacion-fisica-para-dias-de-lluvia",
+  title: "20 juegos de Educación Física para días de lluvia",
+  metaDescription:
+    "Descubre 20 juegos de Educación Física para días de lluvia. Actividades divertidas, dinámicas y adaptadas a espacios cubiertos para Educación Primaria.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-para-dias-de-lluvia",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 14,
+  popular: true,
+  excerpt:
+    "Una selección de 20 juegos de Educación Física para realizar durante los días de lluvia sin renunciar al movimiento, la diversión y el aprendizaje.",
+  content: `
+# 20 juegos de Educación Física para días de lluvia
+
+## Introducción
+<br>
+La lluvia suele convertirse en uno de los principales inconvenientes para los docentes de Educación Física. Cuando el patio no puede utilizarse o las instalaciones exteriores no son seguras, es necesario adaptar las sesiones a espacios cubiertos sin perder el carácter activo y motivador de la asignatura.
+<br>
+Afortunadamente, existen numerosos juegos que permiten trabajar habilidades motrices, cooperación, atención, coordinación y expresión corporal dentro de gimnasios, salas multiusos e incluso aulas ordinarias.
+<br>
+En este artículo encontrarás 20 juegos de Educación Física ideales para días de lluvia, fáciles de organizar y adaptables a diferentes niveles de Educación Primaria.
+<br>
+
+## ¿Por qué preparar juegos específicos para días de lluvia?
+<br>
+Los días de lluvia no deben convertirse en sesiones teóricas o periodos de inactividad.
+<br>
+Mantener al alumnado en movimiento permite:
+<br>
+
+- Favorecer la concentración.
+- Reducir el sedentarismo.
+- Mejorar la convivencia.
+- Desarrollar habilidades motrices.
+- Mantener la motivación.
+- Aprovechar el tiempo de aprendizaje.
+<br>
+
+Además, planificar actividades adaptadas evita improvisaciones y facilita una mejor gestión del grupo.
+<br>
+
+## 1. Simón dice
+<br>
+Uno de los juegos más conocidos y efectivos.
+<br>
+El docente da instrucciones que únicamente deben realizarse cuando empiezan por "Simón dice".
+<br>
+Permite trabajar atención, escucha activa y coordinación motriz.
+<br>
+
+## 2. El espejo
+<br>
+Por parejas, un alumno realiza movimientos mientras el compañero debe imitarlos exactamente.
+<br>
+Después se intercambian los roles.
+<br>
+Favorece la coordinación, el equilibrio y la expresión corporal.
+<br>
+
+## 3. Estatuas musicales
+<br>
+Mientras suena música, los alumnos se desplazan libremente por el espacio.
+<br>
+Cuando la música se detiene deben permanecer completamente inmóviles.
+<br>
+Desarrolla el control corporal y la atención.
+<br>
+
+## 4. Mímica deportiva
+<br>
+Los participantes representan acciones deportivas mediante gestos sin utilizar palabras.
+<br>
+El resto del grupo debe adivinar el deporte representado.
+<br>
+Estimula la creatividad y la expresión corporal.
+<br>
+
+## 5. Director de orquesta
+<br>
+Un alumno abandona momentáneamente el espacio mientras otro se convierte en director.
+<br>
+El director realiza movimientos que el grupo debe imitar.
+<br>
+El alumno que vuelve debe descubrir quién dirige la acción.
+<br>
+
+## 6. Historias motrices
+<br>
+El docente narra una historia y el alumnado la representa mediante movimientos.
+<br>
+Puede ambientarse en una selva, un viaje espacial o una aventura pirata.
+<br>
+Favorece la imaginación y la participación activa.
+<br>
+
+## 7. El semáforo
+<br>
+Los alumnos se desplazan por el espacio.
+<br>
+Cuando escuchan "verde" corren, con "amarillo" caminan y con "rojo" se detienen.
+<br>
+Es ideal para trabajar la velocidad de reacción.
+<br>
+
+## 8. Busca tu pareja
+<br>
+Cada alumno recibe una tarjeta con una imagen, palabra o número.
+<br>
+Deben encontrar a su pareja correspondiente desplazándose por el espacio.
+<br>
+Permite combinar contenidos de diferentes áreas con actividad física.
+<br>
+
+## 9. Equilibrios imposibles
+<br>
+El docente propone diferentes desafíos de equilibrio.
+<br>
+Por ejemplo:
+<br>
+
+- Mantenerse sobre un pie.
+- Equilibrar un objeto.
+- Adoptar determinadas posturas.
+<br>
+
+Trabaja el control corporal y la estabilidad.
+<br>
+
+## 10. Coreografías cooperativas
+<br>
+Los grupos crean pequeñas secuencias de movimientos acompañadas de música.
+<br>
+Después las presentan al resto de compañeros.
+<br>
+Favorece la creatividad, el trabajo en equipo y la expresión corporal.
+<br>
+
+## 11. La máquina humana
+<br>
+Un alumno inicia un movimiento repetitivo.
+<br>
+Poco a poco se incorporan nuevos compañeros añadiendo movimientos hasta construir una gran máquina colectiva.
+<br>
+
+## 12. Pasa el gesto
+<br>
+Un alumno realiza un gesto que debe reproducirse sucesivamente por toda la fila o círculo.
+<br>
+El objetivo es mantener la secuencia sin errores.
+<br>
+
+## 13. Atrapa el sonido
+<br>
+Los alumnos se desplazan por el espacio siguiendo señales sonoras.
+<br>
+Según el sonido emitido deberán realizar acciones diferentes.
+<br>
+Mejora la atención auditiva y la capacidad de reacción.
+<br>
+
+## 14. El detective
+<br>
+Un participante abandona la sala mientras otro es elegido líder.
+<br>
+El grupo imita discretamente los movimientos del líder.
+<br>
+El detective debe descubrir quién dirige la actividad.
+<br>
+
+## 15. Carrera de animales
+<br>
+Los alumnos se desplazan imitando diferentes animales.
+<br>
+Por ejemplo:
+<br>
+
+- Conejos.
+- Canguros.
+- Cangrejos.
+- Osos.
+- Ranas.
+<br>
+
+Permite trabajar múltiples patrones de movimiento.
+<br>
+
+## 16. El monstruo congelador
+<br>
+Un jugador intenta congelar a los demás mediante el contacto.
+<br>
+Los compañeros pueden liberar a los jugadores congelados realizando una acción motriz determinada.
+<br>
+
+## 17. Circuito sin material
+<br>
+Se organizan estaciones utilizando únicamente movimientos corporales.
+<br>
+Por ejemplo:
+<br>
+
+- Saltos.
+- Equilibrios.
+- Giros.
+- Desplazamientos.
+<br>
+
+Resulta especialmente útil cuando no se dispone de recursos materiales.
+<br>
+
+## 18. El reloj humano
+<br>
+Los alumnos representan las agujas de un reloj utilizando diferentes posiciones corporales.
+<br>
+El docente indica horas y el alumnado debe adoptar la postura correspondiente.
+<br>
+
+## 19. Misión secreta
+<br>
+Cada grupo recibe una serie de retos motores que debe completar en un tiempo determinado.
+<br>
+La cooperación y la organización serán fundamentales para lograr el objetivo.
+<br>
+
+## 20. El tesoro perdido
+<br>
+Se esconden pistas por el gimnasio o aula.
+<br>
+Los alumnos deberán resolver pequeños desafíos físicos para encontrarlas y completar la búsqueda.
+<br>
+
+## Beneficios de los juegos para días de lluvia
+<br>
+Este tipo de actividades permiten:
+<br>
+
+- Mantener la participación activa.
+- Desarrollar habilidades motrices.
+- Mejorar la convivencia.
+- Favorecer la creatividad.
+- Adaptar las sesiones a cualquier espacio.
+- Evitar periodos prolongados de inactividad.
+<br>
+
+Además, ofrecen alternativas muy útiles cuando las condiciones meteorológicas impiden utilizar espacios exteriores.
+<br>
+
+## Recomendaciones para el docente
+<br>
+
+- Adaptar los juegos al espacio disponible.
+- Garantizar la seguridad del alumnado.
+- Priorizar actividades con poco desplazamiento cuando el espacio sea reducido.
+- Mantener una organización clara.
+- Favorecer la participación de todos los estudiantes.
+<br>
+
+También resulta recomendable disponer de una programación específica para días de lluvia dentro de la planificación anual.
+<br>
+
+## Conclusión
+<br>
+Los días de lluvia no tienen por qué limitar las posibilidades de la Educación Física. Con una adecuada planificación es posible desarrollar sesiones dinámicas, divertidas y educativas en espacios cubiertos.
+<br>
+
+Los 20 juegos presentados en este artículo constituyen una excelente alternativa para mantener al alumnado activo, motivado y comprometido con el aprendizaje, incluso cuando las condiciones meteorológicas obligan a modificar la programación inicialmente prevista.
+<br>
+
+Gracias a su sencillez, adaptabilidad y valor educativo, estas propuestas permiten seguir desarrollando competencias motrices, sociales y emocionales en cualquier época del año.
+<br>
+
+Incorporar este tipo de actividades a la planificación docente ayudará a aprovechar al máximo las sesiones de Educación Física y garantizará experiencias de aprendizaje significativas incluso en los días más lluviosos.
+`
+},
+{
   slug: "15-juegos-cooperativos-educacion-fisica-primaria",
   title: "15 juegos cooperativos para Educación Física en Primaria",
   metaDescription:
