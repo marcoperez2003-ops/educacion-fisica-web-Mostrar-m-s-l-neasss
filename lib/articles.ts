@@ -64,6 +64,372 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
 `
 },
 {
+  slug: "10-juegos-persecucion-educacion-fisica-primaria",
+  title: "10 juegos de persecución para Educación Física en Primaria",
+  metaDescription:
+    "Descubre 10 juegos de persecución para Educación Física en Primaria, además de variantes cooperativas, para espacios reducidos y para días de lluvia.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-sin-material",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Una guía completa con juegos de persecución para Primaria, incluyendo variantes cooperativas, para espacios reducidos y para días de lluvia.",
+  content: `
+# 10 juegos de persecución para Educación Física en Primaria
+
+## Introducción
+<br>
+Los juegos de persecución constituyen una de las propuestas más utilizadas en Educación Física debido a su capacidad para combinar diversión, actividad física y desarrollo de habilidades motrices. A través de este tipo de juegos, el alumnado mejora la velocidad de reacción, la orientación espacial, la coordinación y la toma de decisiones, mientras participa en experiencias altamente motivadoras.
+<br>
+Además, son actividades muy versátiles que pueden adaptarse a diferentes edades, espacios y objetivos educativos. Desde simples pilla-pillas hasta versiones cooperativas más complejas, los juegos de persecución permiten trabajar tanto aspectos físicos como sociales.
+<br>
+En este artículo encontrarás diez juegos de persecución ideales para Educación Primaria, además de variantes cooperativas, adaptaciones para espacios reducidos y propuestas específicas para días de lluvia.
+<br>
+
+## Beneficios de los juegos de persecución
+<br>
+
+Los juegos de persecución permiten desarrollar:
+<br>
+
+- Velocidad de desplazamiento.
+- Velocidad de reacción.
+- Coordinación motriz.
+- Orientación espacial.
+- Toma de decisiones.
+- Atención.
+- Cooperación.
+- Respeto a las normas.
+<br>
+
+Además, favorecen una elevada participación y suelen resultar muy motivadores para el alumnado.
+<br>
+
+## 1. Pilla-pilla tradicional
+<br>
+
+El clásico juego de persecución.
+<br>
+
+Un alumno persigue al resto intentando tocarlos. Cuando lo consigue, el compañero atrapado pasa a convertirse en perseguidor.
+<br>
+
+### Variantes
+<br>
+
+- Desplazamientos específicos.
+- Diferentes formas de liberarse.
+- Diversos tipos de persecución.
+<br>
+
+## 2. La cadena
+<br>
+
+Cuando un estudiante es atrapado, se une al perseguidor formando una cadena humana.
+<br>
+
+La cadena continúa creciendo hasta capturar a todos los jugadores.
+<br>
+
+### Objetivos
+<br>
+
+- Cooperación.
+- Velocidad.
+- Coordinación grupal.
+<br>
+
+## 3. Tiburones y peces
+<br>
+
+Uno o varios alumnos actúan como tiburones.
+<br>
+
+El resto intenta cruzar el espacio sin ser atrapado.
+<br>
+
+Cada jugador capturado se convierte en nuevo tiburón.
+<br>
+
+## 4. El congelado
+<br>
+
+Los participantes atrapados permanecen inmóviles hasta que otro compañero los libera mediante un toque.
+<br>
+
+Este juego favorece especialmente la cooperación y la ayuda entre iguales.
+<br>
+
+## 5. El cazador
+<br>
+
+Un alumno recibe el papel de cazador.
+<br>
+
+Su misión consiste en perseguir y tocar a los demás participantes.
+<br>
+
+Quien sea atrapado se une a la persecución.
+<br>
+
+## 6. Persecución por colores
+<br>
+
+El docente asigna diferentes colores a distintas zonas.
+<br>
+
+Cuando se nombra un color determinado, los alumnos deben desplazarse rápidamente hacia él evitando ser atrapados.
+<br>
+
+## 7. El guardaespaldas
+<br>
+
+Cada jugador tiene asignado un compañero que actúa como protector.
+<br>
+
+El perseguidor intenta tocar a un alumno concreto mientras su guardaespaldas trata de impedirlo situándose entre ambos.
+<br>
+
+## 8. Los mensajeros
+<br>
+
+Los estudiantes transportan mensajes imaginarios de un punto a otro.
+<br>
+
+Los perseguidores intentan interceptarlos antes de llegar a su destino.
+<br>
+
+## 9. El cambio de casa
+<br>
+
+Los jugadores ocupan espacios delimitados.
+<br>
+
+Cuando reciben una señal, deben cambiar de lugar rápidamente evitando ser atrapados.
+<br>
+
+## 10. Los exploradores
+<br>
+
+Los participantes deben atravesar distintas zonas protegidas por guardianes.
+<br>
+
+Los guardianes intentan tocar a los exploradores antes de que completen el recorrido.
+<br>
+
+## Juegos de persecución cooperativos
+
+<br>
+
+Estas variantes incorporan objetivos compartidos y favorecen el trabajo en equipo.
+
+<br>
+
+## 11. Rescate cooperativo
+
+<br>
+
+Cuando un jugador es capturado, permanece sentado en el suelo.
+
+<br>
+
+Para liberarlo, dos compañeros deben llegar hasta él y acompañarlo de vuelta a una zona segura.
+
+<br>
+
+### Beneficios
+
+<br>
+
+- Cooperación.
+- Comunicación.
+- Toma de decisiones.
+<br>
+
+## 12. El refugio móvil
+
+<br>
+
+Cada grupo dispone de una zona de refugio representada por varios compañeros unidos de la mano.
+
+<br>
+
+Los jugadores perseguidos pueden refugiarse temporalmente dentro del círculo cooperativo.
+
+<br>
+
+## 13. Misión salvamento
+
+<br>
+
+Los equipos tienen que rescatar compañeros capturados sin ser atrapados durante la misión.
+
+<br>
+
+Favorece el trabajo colectivo y la planificación de estrategias.
+
+<br>
+
+## Juegos de persecución para espacios reducidos
+
+<br>
+
+Cuando el espacio es pequeño resulta necesario disminuir la velocidad y controlar los desplazamientos.
+
+<br>
+
+## 14. El perseguidor silencioso
+
+<br>
+
+Los movimientos se realizan caminando.
+
+<br>
+
+El perseguidor intenta acercarse y tocar al resto sin correr.
+
+<br>
+
+## 15. Sombras perseguidoras
+
+<br>
+
+Los jugadores deben intentar tocar únicamente la sombra imaginaria de otro compañero señalándola con la mano.
+
+<br>
+
+Es una versión segura para espacios limitados.
+
+<br>
+
+## 16. Cambio rápido
+
+<br>
+
+Los participantes ocupan lugares específicos.
+
+<br>
+
+A una señal deben intercambiar posiciones mientras el perseguidor intenta ocupar una plaza libre.
+
+<br>
+
+## Juegos de persecución para días de lluvia
+
+<br>
+
+Estas propuestas pueden realizarse en gimnasios cubiertos o incluso en aulas amplias.
+
+<br>
+
+## 17. Detective perseguido
+
+<br>
+
+Un alumno intenta descubrir quién lidera una serie de movimientos mientras el resto cambia discretamente de acción.
+
+<br>
+
+## 18. El eco perseguidor
+
+<br>
+
+El grupo imita movimientos dirigidos por un líder mientras el perseguidor intenta identificarlo.
+
+<br>
+
+## 19. Mímica en fuga
+
+<br>
+
+Los alumnos representan diferentes acciones corporales mientras evitan ser identificados por el perseguidor.
+
+<br>
+
+## Consejos para aplicar juegos de persecución
+
+<br>
+
+- Explicar claramente las normas.
+- Adaptar el espacio.
+- Garantizar la seguridad.
+- Variar los roles.
+- Favorecer la participación de todo el alumnado.
+- Ajustar la intensidad según la edad.
+<br>
+
+La observación permanente por parte del docente resulta fundamental para garantizar un desarrollo adecuado de la actividad.
+<br>
+
+## Adaptación por ciclos de Primaria
+
+<br>
+
+### Primer ciclo
+
+<br>
+
+- Normas sencillas.
+- Espacios delimitados.
+- Persecuciones breves.
+<br>
+
+### Segundo ciclo
+
+<br>
+
+- Mayor complejidad táctica.
+- Incorporación de refugios.
+- Roles diversos.
+<br>
+
+### Tercer ciclo
+
+<br>
+
+- Estrategias cooperativas.
+- Toma de decisiones.
+- Retos grupales complejos.
+<br>
+
+## Relación con el currículo de Educación Física
+
+<br>
+
+Estos juegos permiten desarrollar competencias relacionadas con:
+<br>
+
+- Resolución de situaciones motrices.
+- Adaptación al entorno.
+- Cooperación.
+- Autonomía.
+- Hábitos saludables.
+- Participación activa.
+<br>
+
+Además, favorecen el desarrollo integral del alumnado mediante experiencias dinámicas y significativas.
+<br>
+
+## Conclusión
+
+<br>
+
+Los juegos de persecución constituyen uno de los recursos más completos y versátiles de la Educación Física en Primaria.
+<br>
+
+Su capacidad para combinar actividad física, diversión, cooperación y aprendizaje los convierte en una herramienta imprescindible para cualquier docente.
+<br>
+
+Las variantes cooperativas, las adaptaciones para espacios reducidos y las propuestas para días de lluvia permiten mantener su utilidad en cualquier contexto educativo.
+<br>
+
+Disponer de un repertorio amplio de juegos de persecución facilitará la planificación de sesiones dinámicas, motivadoras y adaptadas a las necesidades reales del alumnado durante todo el curso escolar.
+`
+},
+{
   slug: "25-juegos-sin-material-educacion-fisica-primaria",
   title: "25 juegos sin material para Educación Física en Primaria",
   metaDescription:
