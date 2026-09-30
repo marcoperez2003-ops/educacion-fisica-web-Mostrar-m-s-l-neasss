@@ -6838,7 +6838,6 @@ Por ello, comprender qué son las metodologías activas y cómo aplicarlas se ha
 `
 }
 ];
-];
 
 export function getArticleBySlug(slug: string) {
   return articles.find((a) => a.slug === slug);
