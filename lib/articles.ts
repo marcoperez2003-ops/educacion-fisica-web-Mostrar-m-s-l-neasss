@@ -64,6 +64,247 @@ El juego del pañuelo sigue siendo una de las actividades más efectivas para di
 `
 },
 {
+  slug: "15-juegos-vuelta-a-la-calma-educacion-fisica",
+  title: "15 juegos de vuelta a la calma para Educación Física",
+  metaDescription:
+    "Descubre 15 juegos de vuelta a la calma para Educación Física en Primaria. Actividades relajantes y divertidas para finalizar las sesiones de forma adecuada.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-de-calentamiento",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 14,
+  popular: true,
+  excerpt:
+    "Una recopilación de 15 juegos de vuelta a la calma para Educación Física que ayudan a reducir la intensidad de la actividad física y favorecer la relajación.",
+  content: `
+# 15 juegos de vuelta a la calma para Educación Física
+
+## Introducción
+<br>
+La vuelta a la calma constituye una parte fundamental de cualquier sesión de Educación Física. Después de realizar actividades de intensidad moderada o alta, resulta necesario dedicar unos minutos a reducir progresivamente el ritmo de trabajo, favorecer la recuperación y preparar al alumnado para regresar a las actividades académicas posteriores.
+<br>
+Sin embargo, esta fase no tiene por qué ser aburrida ni limitarse únicamente a estiramientos tradicionales. Existen numerosos juegos y actividades que permiten disminuir la intensidad física mientras se mantienen la motivación, la participación y el aprendizaje.
+<br>
+En este artículo encontrarás 15 juegos de vuelta a la calma especialmente diseñados para Educación Primaria.
+<br>
+
+## ¿Por qué es importante la vuelta a la calma?
+<br>
+
+La vuelta a la calma permite:
+<br>
+
+- Reducir progresivamente la frecuencia cardíaca.
+- Favorecer la recuperación física.
+- Mejorar la relajación.
+- Reducir la tensión muscular.
+- Desarrollar la conciencia corporal.
+- Facilitar la transición hacia otras actividades escolares.
+<br>
+
+Además, ayuda a crear hábitos saludables relacionados con la práctica de actividad física.
+<br>
+
+## 1. El globo que se desinfla
+<br>
+
+Los alumnos imaginan que son globos inflados.
+<br>
+
+Poco a poco deben ir soltando el aire mediante movimientos lentos hasta terminar tumbados o sentados.
+<br>
+
+Favorece la respiración y la relajación.
+<br>
+
+## 2. El espejo tranquilo
+<br>
+
+Por parejas, un alumno realiza movimientos suaves mientras el compañero los imita.
+<br>
+
+Los movimientos deben ser lentos y controlados.
+<br>
+
+## 3. La nube viajera
+<br>
+
+Los participantes imaginan que flotan como una nube y recorren el espacio con movimientos lentos y suaves.
+<br>
+
+Trabaja respiración y control corporal.
+<br>
+
+## 4. Estatuas relajadas
+<br>
+
+Los alumnos se desplazan suavemente.
+<br>
+
+Cuando escuchan una señal deben detenerse y mantener una postura cómoda durante varios segundos.
+<br>
+
+## 5. El masaje viajero
+<br>
+
+Sentados en círculo, cada alumno realiza suaves masajes sobre la espalda del compañero situado delante.
+<br>
+
+Siempre respetando normas claras y el consentimiento del grupo.
+<br>
+
+## 6. El director de respiración
+<br>
+
+Un alumno dirige ejercicios de inspiración y espiración que el resto debe seguir.
+<br>
+
+Permite trabajar el control respiratorio.
+<br>
+
+## 7. Animales dormidos
+<br>
+
+Los estudiantes representan animales que se preparan para dormir mediante movimientos lentos y posturas relajadas.
+<br>
+
+## 8. El cuento motor relajante
+<br>
+
+El docente narra una historia tranquila mientras los alumnos representan las acciones mediante movimientos suaves.
+<br>
+
+## 9. La tortuga
+<br>
+
+Los participantes se desplazan extremadamente despacio por el espacio.
+<br>
+
+El objetivo consiste en controlar todos los movimientos.
+<br>
+
+## 10. Sigue la música
+<br>
+
+Con música tranquila de fondo, los alumnos realizan movimientos lentos siguiendo el ritmo.
+<br>
+
+Favorece la relajación y la coordinación.
+<br>
+
+## 11. El escultor
+<br>
+
+Por parejas, un alumno adopta una postura mientras el compañero la reproduce de forma lenta y controlada.
+<br>
+
+## 12. El eco suave
+<br>
+
+Los estudiantes repiten movimientos sencillos realizados por el docente manteniendo siempre una intensidad muy baja.
+<br>
+
+## 13. La estrella de mar
+<br>
+
+Los alumnos se tumban en el suelo con brazos y piernas extendidos mientras realizan ejercicios de respiración guiada.
+<br>
+
+## 14. Escucha y siente
+<br>
+
+Con los ojos cerrados, el alumnado identifica sonidos presentes en el entorno.
+<br>
+
+Esta actividad favorece la atención y la relajación.
+<br>
+
+## 15. Viaje imaginario
+<br>
+
+Los alumnos permanecen sentados o tumbados mientras el docente guía una visualización relacionada con una playa, un bosque o un paisaje tranquilo.
+<br>
+
+Resulta ideal para finalizar sesiones intensas.
+<br>
+
+## Beneficios de los juegos de vuelta a la calma
+<br>
+
+La incorporación de actividades lúdicas durante esta fase aporta numerosas ventajas:
+<br>
+
+- Incrementa la motivación.
+- Favorece la recuperación.
+- Mejora la concentración.
+- Reduce el estrés.
+- Desarrolla la conciencia corporal.
+- Refuerza hábitos saludables.
+<br>
+
+Además, ayuda al alumnado a comprender la importancia de finalizar adecuadamente la actividad física.
+<br>
+
+## Adaptación por ciclos de Primaria
+
+### Primer ciclo
+<br>
+
+Se recomienda utilizar actividades sencillas basadas en la imaginación, la respiración y el movimiento lento.
+<br>
+
+### Segundo ciclo
+<br>
+
+Pueden incorporarse dinámicas cooperativas y ejercicios de percepción corporal.
+<br>
+
+### Tercer ciclo
+<br>
+
+Resulta posible trabajar técnicas más complejas de relajación y visualización.
+<br>
+
+## Relación con el currículo
+<br>
+
+Las actividades de vuelta a la calma contribuyen al desarrollo de:
+<br>
+
+- Conciencia corporal.
+- Autonomía.
+- Regulación emocional.
+- Hábitos saludables.
+- Bienestar físico y mental.
+<br>
+
+Además, complementan el trabajo realizado durante el resto de la sesión.
+<br>
+
+## Recomendaciones para el profesorado
+<br>
+
+- Crear un ambiente tranquilo.
+- Reducir estímulos externos.
+- Utilizar un tono de voz relajado.
+- Favorecer la participación de todo el alumnado.
+- Adaptar las actividades a la edad y características del grupo.
+<br>
+
+También puede resultar útil acompañar las actividades con música suave cuando el contexto lo permita.
+<br>
+
+## Conclusión
+<br>
+
+La vuelta a la calma no debe entenderse únicamente como el final de una sesión de Educación Física. Se trata de una fase fundamental para favorecer la recuperación, consolidar hábitos saludables y preparar al alumnado para continuar con el resto de la jornada escolar.
+<br>
+
+Los 15 juegos presentados en este artículo permiten convertir este momento en una experiencia agradable, educativa y motivadora, favoreciendo el bienestar físico y emocional de los estudiantes y enriqueciendo la calidad de las sesiones de Educación Física.
+`
+},
+{
   slug: "10-juegos-persecucion-educacion-fisica-primaria",
   title: "10 juegos de persecución para Educación Física en Primaria",
   metaDescription:
