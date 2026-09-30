@@ -6546,6 +6546,298 @@ Su capacidad para valorar tanto el proceso como el producto final permite obtene
 Cuando se diseñan adecuadamente, favorecen la transparencia, mejoran la calidad de la evaluación y contribuyen a desarrollar una enseñanza coherente con los principios de la LOMLOE.
 `
 },
+{
+  slug: "que-son-las-metodologias-activas-y-por-que-la-lomloe-las-prioriza",
+  title: "Qué son las metodologías activas y por qué la LOMLOE las prioriza",
+  metaDescription:
+    "Descubre qué son las metodologías activas, sus principales características, ventajas y por qué la LOMLOE apuesta por ellas en Educación Primaria.",
+  category: "metodologias-activas",
+  subcategory: "aprendizaje-cooperativo",
+  subject: "metodologias-activas",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Las metodologías activas han transformado la enseñanza actual. Descubre qué son, cuáles son sus ventajas y por qué la LOMLOE las sitúa en el centro del aprendizaje.",
+  content: `
+# Qué son las metodologías activas y por qué la LOMLOE las prioriza
+
+## Introducción
+<br>
+La educación ha experimentado importantes cambios durante las últimas décadas. Los modelos tradicionales basados en la transmisión de información por parte del docente han ido evolucionando hacia propuestas que sitúan al alumnado en el centro del proceso de enseñanza y aprendizaje.
+<br>
+En este contexto surgen las metodologías activas, un conjunto de estrategias pedagógicas que buscan aumentar la participación, la motivación y la implicación del alumnado en la construcción de sus propios aprendizajes.
+<br>
+La llegada de la LOMLOE ha reforzado todavía más esta tendencia al promover una enseñanza centrada en el desarrollo de competencias, la resolución de problemas reales y la participación activa del estudiante.
+<br>
+Por este motivo, las metodologías activas se han convertido en uno de los elementos fundamentales de la educación actual.
+<br>
+
+## ¿Qué son las metodologías activas?
+<br>
+Las metodologías activas son enfoques pedagógicos en los que el alumnado deja de desempeñar un papel pasivo para convertirse en protagonista de su propio aprendizaje.
+<br>
+A diferencia de los modelos tradicionales, donde el docente explica contenidos y el alumnado los memoriza, las metodologías activas buscan que los estudiantes participen, investiguen, experimenten, reflexionen y construyan conocimientos a través de la acción.
+<br>
+El objetivo principal es lograr aprendizajes más significativos, funcionales y duraderos.
+<br>
+
+## Características de las metodologías activas
+<br>
+
+### El alumnado es protagonista
+<br>
+Los estudiantes participan activamente en las tareas, toman decisiones y construyen sus propios aprendizajes.
+<br>
+
+### El docente actúa como guía
+<br>
+El profesor deja de ser únicamente transmisor de información para convertirse en facilitador y orientador del proceso educativo.
+<br>
+
+### Aprendizaje basado en la experiencia
+<br>
+El alumnado aprende haciendo, investigando y resolviendo situaciones reales o simuladas.
+<br>
+
+### Desarrollo de competencias
+<br>
+El foco se sitúa en la aplicación práctica de los conocimientos y no únicamente en la memorización de contenidos.
+<br>
+
+### Participación activa
+<br>
+Las actividades requieren implicación constante por parte del alumnado.
+<br>
+
+### Contextos reales y significativos
+<br>
+Los aprendizajes se vinculan a situaciones cercanas e interesantes para los estudiantes.
+<br>
+
+## ¿Por qué surgen las metodologías activas?
+<br>
+La sociedad actual demanda ciudadanos capaces de resolver problemas, trabajar en equipo, comunicarse eficazmente y adaptarse a contextos cambiantes.
+<br>
+Los modelos educativos tradicionales resultan insuficientes para desarrollar estas capacidades.
+<br>
+Por ello, las metodologías activas surgen como respuesta a la necesidad de formar estudiantes más autónomos, críticos y competentes.
+<br>
+
+## Principales metodologías activas
+<br>
+
+### Aprendizaje Basado en Proyectos (ABP)
+<br>
+El alumnado desarrolla un proyecto para resolver una pregunta o problema relevante.
+<br>
+Durante el proceso investiga, analiza información, toma decisiones y presenta un producto final.
+<br>
+
+### Aprendizaje Cooperativo
+<br>
+Los estudiantes trabajan en pequeños grupos para alcanzar objetivos comunes.
+<br>
+Todos los miembros son responsables de su propio aprendizaje y del aprendizaje de sus compañeros.
+<br>
+
+### Gamificación
+<br>
+Consiste en aplicar elementos propios de los juegos en contextos educativos.
+<br>
+Se utilizan puntos, desafíos, niveles o recompensas para aumentar la motivación.
+<br>
+
+### Aula Invertida
+<br>
+Los contenidos teóricos se trabajan fuera del aula mediante vídeos o materiales digitales.
+<br>
+El tiempo de clase se dedica a actividades prácticas, resolución de dudas y trabajo colaborativo.
+<br>
+
+### Aprendizaje Basado en Retos
+<br>
+El alumnado debe enfrentarse a desafíos reales que requieren investigación y resolución de problemas.
+<br>
+
+### Design Thinking
+<br>
+Metodología centrada en la creatividad y la resolución de problemas mediante procesos de diseño e innovación.
+<br>
+
+### Aprendizaje-Servicio
+<br>
+Combina el aprendizaje curricular con la realización de un servicio útil para la comunidad.
+<br>
+
+### Cuñas Motrices
+<br>
+Pequeñas pausas activas que incorporan movimiento durante la jornada escolar para mejorar la atención y el rendimiento.
+<br>
+
+## Beneficios de las metodologías activas
+<br>
+
+### Mayor motivación
+<br>
+Las actividades suelen resultar más atractivas y cercanas al alumnado.
+<br>
+
+### Aprendizajes significativos
+<br>
+Los estudiantes comprenden mejor los contenidos porque los aplican en contextos reales.
+<br>
+
+### Desarrollo de competencias
+<br>
+Permiten trabajar habilidades fundamentales para la vida cotidiana.
+<br>
+
+### Incremento de la participación
+<br>
+Todos los estudiantes intervienen activamente en el proceso educativo.
+<br>
+
+### Fomento de la autonomía
+<br>
+El alumnado aprende a gestionar su propio aprendizaje.
+<br>
+
+### Mejora de la capacidad de resolución de problemas
+<br>
+Las actividades plantean retos que requieren análisis, reflexión y toma de decisiones.
+<br>
+
+## Metodologías activas y competencias clave
+<br>
+Las metodologías activas facilitan el desarrollo de las competencias clave definidas por el currículo.
+<br>
+Entre ellas destacan:
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia matemática.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia emprendedora.
+- Competencia cultural y artística.
+<br>
+
+La naturaleza práctica de estas metodologías favorece la integración simultánea de varias competencias.
+<br>
+
+## La LOMLOE y las metodologías activas
+<br>
+La LOMLOE apuesta claramente por una enseñanza centrada en el desarrollo de competencias.
+<br>
+Esta ley educativa promueve la utilización de metodologías que permitan al alumnado aplicar conocimientos en contextos reales y significativos.
+<br>
+Por ello, las metodologías activas ocupan un lugar fundamental dentro de las propuestas educativas actuales.
+<br>
+
+La finalidad no consiste únicamente en aprender contenidos, sino en saber utilizarlos para resolver problemas, tomar decisiones y desenvolverse con éxito en diferentes situaciones.
+<br>
+
+## Relación con las situaciones de aprendizaje
+<br>
+Las situaciones de aprendizaje constituyen uno de los elementos centrales de la LOMLOE.
+<br>
+Estas propuestas suelen diseñarse utilizando metodologías activas porque permiten contextualizar los aprendizajes y favorecer el desarrollo competencial.
+<br>
+
+Por ejemplo:
+<br>
+
+- Organizar un mercado escolar.
+- Crear un periódico.
+- Diseñar una campaña medioambiental.
+- Elaborar un podcast.
+- Preparar una exposición.
+<br>
+
+Todas estas actividades requieren participación activa y aplicación práctica de los conocimientos.
+<br>
+
+## Aplicación en Educación Primaria
+<br>
+Las metodologías activas resultan especialmente adecuadas para Educación Primaria debido a las características evolutivas del alumnado.
+<br>
+
+Los niños aprenden mejor cuando:
+<br>
+
+- Participan activamente.
+- Manipulan materiales.
+- Experimentan.
+- Colaboran.
+- Se sienten protagonistas.
+<br>
+
+Por ello, este enfoque encaja perfectamente con las necesidades educativas de esta etapa.
+<br>
+
+## Dificultades en su aplicación
+<br>
+
+### Necesitan planificación
+<br>
+Su diseño requiere más preparación que algunas metodologías tradicionales.
+<br>
+
+### Exigen cambios metodológicos
+<br>
+El profesorado debe asumir nuevos roles dentro del aula.
+<br>
+
+### Requieren evaluación adecuada
+<br>
+Es necesario utilizar instrumentos coherentes con este enfoque, como rúbricas, listas de control o escalas de observación.
+<br>
+
+### Necesitan tiempo
+<br>
+La adaptación inicial puede resultar más compleja tanto para docentes como para estudiantes.
+<br>
+
+## Recomendaciones para empezar
+<br>
+
+- Introducir cambios progresivamente.
+- Seleccionar metodologías adecuadas al contexto.
+- Combinar diferentes enfoques.
+- Diseñar actividades significativas.
+- Favorecer la participación del alumnado.
+- Evaluar mediante instrumentos variados.
+<br>
+
+No es necesario transformar completamente la práctica docente de un día para otro. Pequeños cambios pueden generar grandes mejoras.
+<br>
+
+## El futuro de la educación
+<br>
+Las metodologías activas representan una evolución natural de los modelos educativos tradicionales.
+<br>
+
+Su objetivo no es eliminar los contenidos o sustituir completamente otros enfoques metodológicos, sino enriquecer el aprendizaje y hacerlo más útil para el alumnado.
+<br>
+
+La creciente importancia de las competencias, la tecnología y la personalización del aprendizaje hace prever que estas metodologías continuarán ganando protagonismo durante los próximos años.
+<br>
+
+## Conclusión
+<br>
+Las metodologías activas constituyen uno de los pilares fundamentales de la educación actual. Su capacidad para situar al alumnado en el centro del aprendizaje favorece el desarrollo de competencias, incrementa la motivación y mejora la calidad de los aprendizajes.
+<br>
+
+La LOMLOE ha reforzado esta tendencia al promover una enseñanza basada en la participación, la resolución de problemas y la aplicación práctica de los conocimientos.
+<br>
+
+Por ello, comprender qué son las metodologías activas y cómo aplicarlas se ha convertido en una tarea esencial para cualquier docente que aspire a ofrecer una educación adaptada a las necesidades del siglo XXI.
+`
+}
+];
 ];
 
 export function getArticleBySlug(slug: string) {
