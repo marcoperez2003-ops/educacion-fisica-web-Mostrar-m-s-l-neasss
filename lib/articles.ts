@@ -6938,6 +6938,434 @@ La LOMLOE ha reforzado esta tendencia al promover una enseñanza basada en la pa
 Por ello, comprender qué son las metodologías activas y cómo aplicarlas se ha convertido en una tarea esencial para cualquier docente que aspire a ofrecer una educación adaptada a las necesidades del siglo XXI.
 `
 }
+{
+  slug: "que-es-aprendizaje-basado-proyectos-abp-guia-completa",
+  title: "Qué es el Aprendizaje Basado en Proyectos (ABP): guía completa",
+  metaDescription:
+    "Descubre qué es el Aprendizaje Basado en Proyectos (ABP), sus características, beneficios, fases, ejemplos y aplicación en Educación Primaria según la LOMLOE.",
+  category: "metodologias-activas",
+  subcategory: "aprendizaje-basado-proyectos",
+  subject: "metodologias-activas",
+  date: "2026-09-30",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Guía completa sobre el Aprendizaje Basado en Proyectos (ABP): qué es, cómo se aplica, cuáles son sus beneficios y ejemplos prácticos para Educación Primaria.",
+  content: `
+# Qué es el Aprendizaje Basado en Proyectos (ABP): guía completa
+
+## Introducción
+<br>
+El Aprendizaje Basado en Proyectos, conocido habitualmente por sus siglas ABP, es una de las metodologías activas más utilizadas en los centros educativos de todo el mundo. Su popularidad ha aumentado especialmente tras la llegada de la LOMLOE, que promueve una enseñanza centrada en el desarrollo competencial y en la participación activa del alumnado.
+<br>
+A diferencia de los modelos tradicionales, donde los estudiantes reciben información de forma pasiva, el ABP propone que sean ellos quienes investiguen, exploren, experimenten y construyan conocimiento a través de proyectos significativos.
+<br>
+Este enfoque permite conectar los aprendizajes con la realidad del alumnado y favorece el desarrollo de habilidades esenciales para el siglo XXI.
+<br>
+
+## ¿Qué es el Aprendizaje Basado en Proyectos?
+
+<br>
+
+El Aprendizaje Basado en Proyectos es una metodología activa en la que los estudiantes adquieren conocimientos y competencias mediante la investigación y resolución de una pregunta, reto o problema real.
+<br>
+El alumnado trabaja durante un periodo determinado para planificar, desarrollar y presentar un producto final que responda al desafío planteado.
+<br>
+No se trata únicamente de realizar una actividad o una manualidad. El proyecto constituye el eje central del aprendizaje y permite integrar diferentes áreas del currículo.
+<br>
+
+## Origen del ABP
+
+<br>
+
+Aunque el Aprendizaje Basado en Proyectos ha adquirido gran protagonismo en los últimos años, sus bases se remontan a principios del siglo XX.
+<br>
+Autores como John Dewey defendían la importancia de aprender mediante la experiencia y la resolución de problemas reales.
+<br>
+Posteriormente, William Kilpatrick desarrolló el denominado Método de Proyectos, considerado el precursor directo del ABP moderno.
+<br>
+Estas ideas continúan siendo la base de numerosas propuestas metodológicas actuales.
+<br>
+
+## Características principales del ABP
+
+<br>
+
+### El alumnado es protagonista
+
+<br>
+
+Los estudiantes participan activamente en todas las fases del proyecto.
+<br>
+Investigan, toman decisiones, colaboran y construyen conocimiento.
+<br>
+
+### Existe un reto o pregunta guía
+
+<br>
+
+Todo proyecto se articula alrededor de una cuestión significativa.
+<br>
+
+Por ejemplo:
+<br>
+
+- ¿Cómo podemos reducir los residuos del colegio?
+- ¿Cómo vivían los romanos?
+- ¿Qué podemos hacer para proteger los océanos?
+<br>
+
+### Se trabaja de forma interdisciplinar
+
+<br>
+
+Los proyectos permiten integrar contenidos de diferentes áreas.
+<br>
+
+### Existe un producto final
+
+<br>
+
+El trabajo culmina con una creación tangible que da respuesta al reto planteado.
+<br>
+
+### Aprendizaje significativo
+
+<br>
+
+Los contenidos se vinculan a situaciones reales y cercanas al alumnado.
+<br>
+
+### Desarrollo competencial
+
+<br>
+
+Se trabajan conocimientos, habilidades y actitudes de manera integrada.
+<br>
+
+## ¿Por qué el ABP encaja con la LOMLOE?
+
+<br>
+
+La LOMLOE sitúa el desarrollo de competencias en el centro del aprendizaje.
+<br>
+
+El currículo actual busca que el alumnado sea capaz de aplicar lo aprendido en contextos reales y resolver problemas complejos.
+<br>
+
+El ABP responde perfectamente a esta filosofía porque:
+<br>
+
+- Favorece la aplicación práctica de los conocimientos.
+- Desarrolla competencias clave.
+- Promueve la autonomía.
+- Impulsa el pensamiento crítico.
+- Incrementa la motivación.
+- Facilita la atención a la diversidad.
+<br>
+
+Por este motivo, el Aprendizaje Basado en Proyectos se ha convertido en una de las metodologías más utilizadas dentro de las situaciones de aprendizaje.
+<br>
+
+## Beneficios del Aprendizaje Basado en Proyectos
+
+<br>
+
+### Incrementa la motivación
+
+<br>
+
+Los proyectos suelen partir de problemas interesantes y cercanos a la realidad del alumnado.
+<br>
+
+### Favorece aprendizajes significativos
+
+<br>
+
+Los estudiantes comprenden mejor los contenidos porque los utilizan en situaciones concretas.
+<br>
+
+### Desarrolla la autonomía
+
+<br>
+
+El alumnado toma decisiones y asume responsabilidades.
+<br>
+
+### Potencia el trabajo en equipo
+
+<br>
+
+La cooperación constituye uno de los pilares fundamentales del ABP.
+<br>
+
+### Mejora la competencia digital
+
+<br>
+
+Muchos proyectos incorporan herramientas tecnológicas para investigar, crear y comunicar información.
+<br>
+
+### Desarrolla habilidades para la vida
+
+<br>
+
+Los estudiantes aprenden a organizarse, resolver problemas y comunicarse eficazmente.
+<br>
+
+## Fases del Aprendizaje Basado en Proyectos
+
+<br>
+
+### 1. Planteamiento del reto
+
+<br>
+
+Todo proyecto comienza con una pregunta, problema o desafío.
+<br>
+
+El reto debe resultar motivador y tener conexión con la realidad del alumnado.
+<br>
+
+### 2. Activación de conocimientos previos
+
+<br>
+
+Los estudiantes reflexionan sobre lo que ya saben acerca del tema.
+<br>
+
+Esta fase permite detectar ideas previas y despertar el interés.
+<br>
+
+### 3. Investigación
+
+<br>
+
+El alumnado busca información, consulta fuentes y recoge datos relevantes.
+<br>
+
+### 4. Diseño y planificación
+
+<br>
+
+Los grupos organizan tareas, establecen objetivos y planifican el trabajo.
+<br>
+
+### 5. Desarrollo del proyecto
+
+<br>
+
+Se elaboran propuestas, productos y soluciones relacionadas con el reto.
+<br>
+
+### 6. Presentación del producto final
+
+<br>
+
+Los resultados se comparten con compañeros, docentes o incluso con la comunidad educativa.
+<br>
+
+### 7. Evaluación y reflexión
+
+<br>
+
+El alumnado analiza el proceso seguido y valora los aprendizajes adquiridos.
+<br>
+
+## Ejemplo de ABP en Educación Primaria
+
+<br>
+
+### Proyecto: Creamos un mercado escolar sostenible
+
+<br>
+
+Pregunta guía:
+<br>
+
+¿Cómo podemos fomentar el consumo responsable en nuestro colegio?
+<br>
+
+Actividades:
+<br>
+
+- Investigar hábitos de consumo.
+- Analizar productos locales.
+- Diseñar carteles informativos.
+- Elaborar presupuestos.
+- Organizar un mercado escolar.
+<br>
+
+Áreas implicadas:
+<br>
+
+- Matemáticas.
+- Lengua.
+- Ciencias Sociales.
+- Ciencias Naturales.
+- Educación Artística.
+<br>
+
+Producto final:
+<br>
+
+Organización de un mercado sostenible abierto a la comunidad educativa.
+<br>
+
+## El papel del docente en el ABP
+
+<br>
+
+Uno de los cambios más importantes que introduce esta metodología afecta al rol del profesorado.
+<br>
+
+En lugar de ser el único transmisor de conocimientos, el docente se convierte en:
+<br>
+
+- Guía.
+- Orientador.
+- Facilitador.
+- Diseñador de experiencias de aprendizaje.
+<br>
+
+Su función consiste en acompañar al alumnado durante el proceso y proporcionar las herramientas necesarias para avanzar.
+<br>
+
+## El papel del alumnado
+
+<br>
+
+Dentro del ABP, los estudiantes asumen un papel protagonista.
+<br>
+
+Participan activamente en:
+<br>
+
+- Investigación.
+- Resolución de problemas.
+- Trabajo cooperativo.
+- Toma de decisiones.
+- Presentación de resultados.
+<br>
+
+Esto favorece una mayor implicación y una actitud más positiva hacia el aprendizaje.
+<br>
+
+## Evaluación en el Aprendizaje Basado en Proyectos
+
+<br>
+
+La evaluación debe ser coherente con la metodología utilizada.
+<br>
+
+Por ello, suele combinar diferentes instrumentos:
+<br>
+
+- Rúbricas.
+- Listas de control.
+- Escalas de observación.
+- Portafolios.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+La evaluación no debe centrarse únicamente en el producto final, sino también en el proceso seguido por el alumnado.
+<br>
+
+## Dificultades habituales del ABP
+
+<br>
+
+### Requiere planificación
+
+<br>
+
+Diseñar proyectos de calidad exige tiempo y preparación.
+<br>
+
+### Necesita coordinación
+
+<br>
+
+Los proyectos interdisciplinares requieren colaboración entre diferentes docentes.
+<br>
+
+### Cambio de mentalidad
+
+<br>
+
+Tanto profesorado como alumnado deben adaptarse a nuevas dinámicas de trabajo.
+<br>
+
+### Gestión del tiempo
+
+<br>
+
+Los proyectos suelen ocupar más tiempo que otras actividades tradicionales.
+<br>
+
+## Consejos para empezar a trabajar con ABP
+
+<br>
+
+- Comenzar con proyectos sencillos.
+- Elegir retos cercanos al alumnado.
+- Integrar varias áreas curriculares.
+- Establecer objetivos claros.
+- Diseñar buenos instrumentos de evaluación.
+- Favorecer el trabajo cooperativo.
+- Reservar tiempo para la reflexión.
+<br>
+
+No es necesario transformar completamente la práctica docente desde el primer momento.
+<br>
+
+Pequeños proyectos pueden servir para familiarizarse con esta metodología.
+<br>
+
+## Diferencias entre ABP y Aprendizaje Basado en Retos
+
+<br>
+
+Aunque ambos enfoques comparten muchas características, existen diferencias importantes.
+<br>
+
+El ABP suele centrarse en la elaboración de un producto final después de un proceso de investigación.
+<br>
+
+El Aprendizaje Basado en Retos pone un mayor énfasis en la búsqueda de soluciones concretas para problemas reales.
+<br>
+
+Ambas metodologías son compatibles y pueden complementarse.
+<br>
+
+## Relación con las situaciones de aprendizaje
+
+<br>
+
+Las situaciones de aprendizaje propuestas por la LOMLOE encuentran en el ABP una metodología ideal para su desarrollo.
+<br>
+
+Gracias a los proyectos, el alumnado puede aplicar conocimientos en contextos reales, movilizar competencias y desarrollar aprendizajes significativos.
+<br>
+
+Por ello, gran parte de las situaciones de aprendizaje actuales incorporan elementos característicos del Aprendizaje Basado en Proyectos.
+<br>
+
+## Conclusión
+
+<br>
+
+El Aprendizaje Basado en Proyectos se ha consolidado como una de las metodologías activas más eficaces para desarrollar una enseñanza competencial, motivadora y centrada en el alumnado.
+<br>
+
+Su capacidad para conectar los contenidos con la realidad, fomentar la participación activa y desarrollar competencias clave explica por qué la LOMLOE apuesta decididamente por este enfoque.
+<br>
+
+Cuando se diseña adecuadamente, el ABP permite transformar el aula en un espacio donde aprender deja de consistir únicamente en memorizar contenidos y pasa a convertirse en una experiencia significativa, práctica y relevante para los estudiantes.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
