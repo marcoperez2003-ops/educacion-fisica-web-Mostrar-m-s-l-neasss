@@ -2,7 +2,7 @@ export type Article = {
   slug: string;
   title: string;
   metaDescription: string;
-  category: "juegos-educacion-fisica" | "situaciones-aprendizaje" | "evaluacion";
+  category: "juegos-educacion-fisica" | "situaciones-aprendizaje" | "evaluacion" | "metodologias-activas";
   subcategory: string;
   subject: string; // slug de la asignatura, ver lib/subjects.ts
   date: string; // ISO
