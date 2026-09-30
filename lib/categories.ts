@@ -52,6 +52,28 @@ export const categories: Category[] = [
       { slug: "escalas-de-observacion", name: "Escalas de observación" },
       { slug: "instrumentos-de-evaluacion", name: "Instrumentos de evaluación" }
     ]
+  },
+  {
+    slug: "metodologias-activas",
+    name: "Metodologías Activas",
+    description:
+      "Guías prácticas sobre ABP, gamificación, aula invertida, aprendizaje cooperativo y otras metodologías activas, alineadas con la LOMLOE y pensadas para docentes, opositores y estudiantes de Magisterio.",
+    color: "primary",
+    emoji: "🧩",
+    subcategories: [
+      { slug: "abp", name: "Aprendizaje Basado en Proyectos (ABP)" },
+      { slug: "gamificacion", name: "Gamificación" },
+      { slug: "aula-invertida", name: "Aula Invertida (Flipped Classroom)" },
+      { slug: "aprendizaje-cooperativo", name: "Aprendizaje Cooperativo" },
+      { slug: "aprendizaje-basado-en-retos", name: "Aprendizaje Basado en Retos (ABR)" },
+      { slug: "design-thinking", name: "Design Thinking" },
+      { slug: "thinking-based-learning", name: "Aprendizaje Basado en el Pensamiento" },
+      { slug: "aprendizaje-servicio", name: "Aprendizaje-Servicio (ApS)" },
+      { slug: "rutinas-de-pensamiento", name: "Rutinas de Pensamiento" },
+      { slug: "tertulias-dialogicas", name: "Tertulias Dialógicas" },
+      { slug: "aprendizaje-por-indagacion", name: "Aprendizaje Basado en la Indagación" },
+      { slug: "inteligencias-multiples", name: "Inteligencias Múltiples" }
+    ]
   }
 ];
 
