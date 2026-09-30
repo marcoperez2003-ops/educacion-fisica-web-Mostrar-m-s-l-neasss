@@ -340,6 +340,280 @@ Incorporar este tipo de actividades a la planificación docente ayudará a aprov
 `
 },
 {
+  slug: "15-juegos-para-espacios-reducidos-educacion-fisica",
+  title: "15 juegos para espacios reducidos en Educación Física",
+  metaDescription:
+    "Descubre 15 juegos para espacios reducidos en Educación Física. Actividades dinámicas, seguras y divertidas para Primaria cuando el espacio es limitado.",
+  category: "juegos-educacion-fisica",
+  subcategory: "juegos-para-espacios-reducidos",
+  subject: "educacion-fisica",
+  date: "2026-09-22",
+  author: "Marco Pérez",
+  readingTime: 13,
+  popular: true,
+  excerpt:
+    "Una selección de juegos para espacios reducidos ideales para Educación Física en Primaria, adaptados a gimnasios pequeños, aulas y salas polivalentes.",
+  content: `
+# 15 juegos para espacios reducidos en Educación Física
+
+## Introducción
+<br>
+Uno de los desafíos más frecuentes para los docentes de Educación Física consiste en adaptar las actividades cuando el espacio disponible es limitado. No todos los centros educativos disponen de grandes instalaciones deportivas y, en muchas ocasiones, es necesario desarrollar sesiones en gimnasios pequeños, salas polivalentes o incluso dentro del aula.
+<br>
+Sin embargo, un espacio reducido no debe ser un obstáculo para que el alumnado disfrute, se mantenga activo y continúe desarrollando habilidades motrices fundamentales.
+<br>
+Con una buena planificación es posible organizar actividades dinámicas, seguras y motivadoras que permitan trabajar coordinación, equilibrio, velocidad de reacción, cooperación y expresión corporal.
+<br>
+A continuación encontrarás una selección de 15 juegos especialmente diseñados para espacios reducidos y adaptados a Educación Primaria.
+<br>
+
+## Beneficios de los juegos en espacios reducidos
+<br>
+Este tipo de actividades permiten:
+<br>
+
+- Mantener la actividad física incluso cuando el espacio es limitado.
+- Mejorar la capacidad de adaptación motriz.
+- Favorecer la concentración.
+- Incrementar la participación.
+- Desarrollar habilidades sociales.
+- Potenciar la creatividad.
+<br>
+
+Además, ayudan al docente a aprovechar cualquier entorno disponible para desarrollar una sesión de calidad.
+<br>
+
+## 1. Simón dice
+<br>
+Uno de los juegos más conocidos para trabajar la atención y el control corporal.
+<br>
+El alumnado solo debe ejecutar las órdenes cuando vayan precedidas de la expresión "Simón dice".
+<br>
+Permite trabajar movimientos articulares, desplazamientos cortos y coordinación.
+<br>
+
+## 2. El espejo
+<br>
+Por parejas, un participante realiza movimientos y el compañero debe imitarlos exactamente.
+<br>
+Posteriormente se intercambian los papeles.
+<br>
+Es ideal para desarrollar coordinación, percepción corporal y concentración.
+<br>
+
+## 3. Estatuas musicales
+<br>
+Mientras suena música, los alumnos se desplazan libremente por el espacio.
+<br>
+Cuando la música se detiene deben permanecer completamente inmóviles.
+<br>
+Favorece el control corporal y la capacidad de reacción.
+<br>
+
+## 4. El director de orquesta
+<br>
+Un estudiante abandona momentáneamente la sala.
+<br>
+Otro compañero será elegido director y realizará diferentes movimientos que el resto deberá imitar.
+<br>
+El objetivo consiste en descubrir quién dirige la actividad.
+<br>
+
+## 5. Mímica deportiva
+<br>
+Cada alumno representa un deporte mediante movimientos y gestos sin utilizar palabras.
+<br>
+El resto debe adivinar de qué actividad se trata.
+<br>
+Permite trabajar expresión corporal y creatividad.
+<br>
+
+## 6. Animales en movimiento
+<br>
+El docente propone diferentes animales y el alumnado debe desplazarse imitándolos.
+<br>
+Por ejemplo:
+<br>
+
+- Canguro.
+- Cangrejo.
+- Rana.
+- Serpiente.
+- Oso.
+<br>
+
+Esta actividad desarrolla la coordinación y la variedad motriz.
+<br>
+
+## 7. Pasa el movimiento
+<br>
+Los estudiantes forman un círculo.
+<br>
+Un participante realiza un movimiento que debe repetirse por todos los compañeros hasta completar la secuencia.
+<br>
+Trabaja atención, memoria y coordinación.
+<br>
+
+## 8. El semáforo
+<br>
+Los alumnos se desplazan por el espacio mientras escuchan diferentes señales.
+<br>
+Por ejemplo:
+<br>
+
+- Verde: avanzar.
+- Amarillo: caminar lentamente.
+- Rojo: detenerse.
+<br>
+
+Permite trabajar velocidad de reacción y control corporal.
+<br>
+
+## 9. Equilibrios imposibles
+<br>
+El docente plantea diferentes retos relacionados con el equilibrio.
+<br>
+Algunos ejemplos son:
+<br>
+
+- Mantenerse sobre una pierna.
+- Adoptar una postura determinada.
+- Permanecer inmóvil durante varios segundos.
+<br>
+
+Desarrolla estabilidad y conciencia corporal.
+<br>
+
+## 10. Historia motriz
+<br>
+El alumnado representa mediante movimientos una historia narrada por el docente.
+<br>
+Puede tratarse de una aventura espacial, un viaje por la selva o una búsqueda del tesoro.
+<br>
+Favorece la imaginación y la expresión del movimiento.
+<br>
+
+## 11. El detective
+<br>
+Un alumno sale momentáneamente mientras otro se convierte en líder.
+<br>
+El líder realiza movimientos que el resto debe imitar.
+<br>
+El detective deberá descubrir quién dirige la acción.
+<br>
+
+## 12. Coreografía cooperativa
+<br>
+Los grupos crean pequeñas secuencias de movimientos utilizando música.
+<br>
+Posteriormente presentan sus creaciones al resto de compañeros.
+<br>
+Desarrolla creatividad, trabajo cooperativo y ritmo.
+<br>
+
+## 13. El reloj humano
+<br>
+Los alumnos representan diferentes horas utilizando posiciones corporales.
+<br>
+El docente indica una hora concreta y los estudiantes deberán formar las agujas con su cuerpo.
+<br>
+
+## 14. La máquina humana
+<br>
+Un participante inicia un movimiento repetitivo.
+<br>
+Poco a poco se incorporan nuevos compañeros añadiendo acciones diferentes hasta construir una máquina colectiva.
+<br>
+Permite trabajar coordinación y cooperación.
+<br>
+
+## 15. El tesoro escondido
+<br>
+Se distribuyen pistas por el espacio disponible.
+<br>
+Los estudiantes deberán resolver pequeños retos motrices para encontrarlas y completar la búsqueda.
+<br>
+Es una actividad muy motivadora y adaptable a cualquier entorno.
+<br>
+
+## Recomendaciones de seguridad
+<br>
+Cuando se trabaja en espacios reducidos es especialmente importante:
+<br>
+
+- Controlar los desplazamientos.
+- Mantener una distancia adecuada entre participantes.
+- Evitar carreras excesivamente rápidas.
+- Delimitar claramente las zonas de juego.
+- Seleccionar actividades adaptadas al espacio disponible.
+<br>
+
+Estas medidas ayudan a prevenir accidentes y favorecen un desarrollo seguro de la sesión.
+<br>
+
+## Adaptación por niveles
+<br>
+
+### Primer ciclo de Primaria
+<br>
+
+Se recomienda utilizar juegos sencillos con normas básicas y movimientos fáciles de ejecutar.
+<br>
+
+### Segundo ciclo de Primaria
+<br>
+
+Pueden incorporarse retos cooperativos y actividades que impliquen toma de decisiones.
+<br>
+
+### Tercer ciclo de Primaria
+<br>
+
+Resulta posible aumentar la complejidad y favorecer mayores niveles de autonomía.
+<br>
+
+## Relación con el currículo
+<br>
+Los juegos para espacios reducidos permiten trabajar numerosos elementos curriculares relacionados con:
+<br>
+
+- Habilidades motrices.
+- Coordinación.
+- Equilibrio.
+- Expresión corporal.
+- Cooperación.
+- Resolución de problemas.
+- Competencia personal y social.
+<br>
+
+Por ello constituyen una herramienta muy útil dentro de la planificación de Educación Física.
+<br>
+
+## Ventajas para el docente
+<br>
+
+- Facilitan la adaptación a cualquier espacio.
+- Requieren pocos recursos materiales.
+- Favorecen la organización del grupo.
+- Permiten mantener la actividad física en cualquier circunstancia.
+- Se adaptan fácilmente a diferentes edades.
+<br>
+
+Además, proporcionan alternativas muy útiles para situaciones imprevistas durante el curso escolar.
+<br>
+
+## Conclusión
+<br>
+Disponer de poco espacio no significa renunciar a desarrollar sesiones activas y motivadoras de Educación Física.
+<br>
+
+Los 15 juegos presentados en este artículo demuestran que es posible trabajar habilidades motrices, cooperación, creatividad y expresión corporal utilizando espacios reducidos de forma segura y eficaz.
+<br>
+
+Incorporar este tipo de propuestas a la programación permitirá al profesorado responder con éxito a diferentes contextos escolares y garantizar experiencias de aprendizaje enriquecedoras para todo el alumnado.
+`
+},
+{
   slug: "15-juegos-cooperativos-educacion-fisica-primaria",
   title: "15 juegos cooperativos para Educación Física en Primaria",
   metaDescription:
