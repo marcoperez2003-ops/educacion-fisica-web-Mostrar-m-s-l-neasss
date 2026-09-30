@@ -6940,12 +6940,12 @@ Por ello, comprender qué son las metodologías activas y cómo aplicarlas se ha
 }
 {
   slug: "que-es-aprendizaje-basado-proyectos-abp-guia-completa",
-  title: "Qué es el Aprendizaje Basado en Proyectos (ABP): guía completa",
+  title: "Qué es el Aprendizaje Basado en Proyectos (ABP)",
   metaDescription:
     "Descubre qué es el Aprendizaje Basado en Proyectos (ABP), sus características, beneficios, fases, ejemplos y aplicación en Educación Primaria según la LOMLOE.",
   category: "metodologias-activas",
-  subcategory: "aprendizaje-basado-proyectos",
-  subject: "metodologias-activas",
+  subject: "educacion-fisica",
+  subcategory: "abp",
   date: "2026-09-30",
   author: "Marco Pérez",
   readingTime: 18,
