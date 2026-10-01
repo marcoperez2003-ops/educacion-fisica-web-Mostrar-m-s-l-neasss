@@ -7768,9 +7768,9 @@ Gracias a su flexibilidad y a su alineación con los principios promovidos por l
   metaDescription:
     "Descubre qué es el aula invertida o Flipped Classroom, cómo funciona, cuáles son sus beneficios y ejemplos prácticos para Educación Primaria según la LOMLOE.",
   category: "metodologias-activas",
-  subcategory: "flipped-classroom",
+  subcategory: "aula-invertida",
   subject: "metodologias-activas",
-  date: "2026-09-30",
+  date: "2026-10-01",
   author: "Marco Pérez",
   readingTime: 16,
   popular: true,
@@ -8691,7 +8691,7 @@ Cuando se aplica correctamente, permite construir aulas más participativas, inc
   metaDescription:
     "Descubre las diferencias entre el Aprendizaje Basado en Proyectos (ABP) y el Aprendizaje Basado en Retos (ABR), sus características, ventajas y aplicación en Primaria.",
   category: "metodologias-activas",
-  subcategory: "aprendizaje-basado-retos",
+  subcategory: "aprendizaje-basado-en-retos",
   subject: "metodologias-activas",
   date: "2026-10-01",
   author: "Marco Pérez",
