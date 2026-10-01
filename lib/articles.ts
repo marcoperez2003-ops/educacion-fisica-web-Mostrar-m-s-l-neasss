@@ -8205,6 +8205,486 @@ Además, encaja plenamente con los principios de la LOMLOE al promover una ense�
 Cuando se aplica adecuadamente, el Flipped Classroom permite transformar el aula en un espacio más dinámico, participativo y adaptado a las ecesidades reales del alumnado del siglo XXI.
 `
 },
+{
+  slug: "que-es-aprendizaje-cooperativo-tecnicas-y-estructuras-basicas",
+  title: "Qué es el aprendizaje cooperativo: técnicas y estructuras básicas",
+  metaDescription:
+    "Descubre qué es el aprendizaje cooperativo, sus características, beneficios, técnicas más utilizadas y cómo aplicarlo en Educación Primaria según la LOMLOE.",
+  category: "metodologias-activas",
+  subcategory: "aprendizaje-cooperativo",
+  subject: "metodologias-activas",
+  date: "2026-09-30",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Guía completa sobre aprendizaje cooperativo en Primaria: qué es, cómo funciona, principales técnicas y beneficios para el alumnado.",
+  content: `
+# Qué es el aprendizaje cooperativo: técnicas y estructuras básicas
+
+## Introducción
+<br>
+El aprendizaje cooperativo se ha convertido en una de las metodologías activas más importantes dentro de los centros educativos. Su creciente presencia en las aulas responde a la necesidad de desarrollar no solo conocimientos académicos, sino también habilidades personales y sociales esenciales para la vida.
+<br>
+Actualmente, las demandas educativas van mucho más allá de la simple memorización de contenidos. Los estudiantes necesitan aprender a colaborar, comunicarse, resolver problemas y trabajar con otras personas para alcanzar objetivos comunes.
+<br>
+En este contexto, el aprendizaje cooperativo ofrece una respuesta eficaz y coherente con los principios metodológicos promovidos por la LOMLOE.
+<br>
+
+## ¿Qué es el aprendizaje cooperativo?
+<br>
+
+El aprendizaje cooperativo es una metodología activa basada en el trabajo conjunto de pequeños grupos de estudiantes para alcanzar objetivos comunes.
+<br>
+
+Los miembros del grupo trabajan de forma coordinada y colaborativa, compartiendo responsabilidades y ayudándose mutuamente para lograr el éxito colectivo.
+<br>
+
+A diferencia del trabajo en grupo tradicional, el aprendizaje cooperativo implica una estructura organizada donde cada alumno desempeña un papel importante dentro del proceso.
+<br>
+
+## Diferencia entre trabajo en grupo y aprendizaje cooperativo
+<br>
+
+Uno de los errores más frecuentes consiste en pensar que cualquier actividad grupal constituye aprendizaje cooperativo.
+<br>
+
+Sin embargo, existen diferencias importantes.
+<br>
+
+En un trabajo en grupo tradicional:
+<br>
+
+- Algunos alumnos pueden asumir todo el trabajo.
+- La responsabilidad suele repartirse de forma desigual.
+- No siempre existe interdependencia.
+<br>
+
+En el aprendizaje cooperativo:
+<br>
+
+- Todos participan.
+- Todos son responsables.
+- Existe ayuda mutua.
+- El éxito depende del grupo completo.
+<br>
+
+Por este motivo, el aprendizaje cooperativo requiere planificación y estructuras específicas.
+<br>
+
+## Objetivos del aprendizaje cooperativo
+<br>
+
+Esta metodología persigue múltiples objetivos:
+<br>
+
+- Mejorar el rendimiento académico.
+- Favorecer la inclusión.
+- Desarrollar habilidades sociales.
+- Incrementar la participación.
+- Promover la autonomía.
+- Mejorar la convivencia escolar.
+- Potenciar la comunicación.
+- Fomentar la empatía.
+<br>
+
+Además, contribuye al desarrollo integral del alumnado.
+<br>
+
+## Características principales
+<br>
+
+### Interdependencia positiva
+<br>
+
+Los miembros del grupo necesitan colaborar para alcanzar los objetivos propuestos.
+<br>
+
+Ningún alumno puede completar la tarea completamente solo.
+<br>
+
+### Responsabilidad individual
+<br>
+
+Cada estudiante es responsable de una parte del trabajo.
+<br>
+
+El éxito del grupo depende de la aportación de todos.
+<br>
+
+### Interacción promotora
+<br>
+
+Los compañeros se ayudan mutuamente durante el proceso de aprendizaje.
+<br>
+
+### Desarrollo de habilidades sociales
+<br>
+
+La comunicación, la cooperación y la resolución de conflictos forman parte esencial de la metodología.
+<br>
+
+### Evaluación del trabajo grupal
+<br>
+
+El propio grupo analiza su funcionamiento para identificar fortalezas y aspectos de mejora.
+<br>
+
+## Fundamentos del aprendizaje cooperativo
+<br>
+
+El aprendizaje cooperativo se apoya en numerosas investigaciones pedagógicas y psicológicas.
+<br>
+
+Autores como David Johnson y Roger Johnson demostraron que los estudiantes que trabajan cooperativamente suelen obtener mejores resultados académicos y desarrollar relaciones sociales más positivas.
+<br>
+
+Sus investigaciones han servido de base para gran parte de las propuestas cooperativas utilizadas actualmente en los centros educativos.
+<br>
+
+## Beneficios del aprendizaje cooperativo
+<br>
+
+### Mejora el rendimiento académico
+<br>
+
+Numerosos estudios muestran que el alumnado aprende mejor cuando trabaja cooperativamente.
+<br>
+
+### Favorece la inclusión educativa
+<br>
+
+Todos los estudiantes pueden participar independientemente de sus características o capacidades.
+<br>
+
+### Aumenta la motivación
+<br>
+
+La interacción social favorece una actitud más positiva hacia el aprendizaje.
+<br>
+
+### Desarrolla habilidades sociales
+<br>
+
+Los alumnos practican constantemente la comunicación y la cooperación.
+<br>
+
+### Potencia la autonomía
+<br>
+
+La responsabilidad compartida fomenta la capacidad para tomar decisiones.
+<br>
+
+### Mejora la convivencia
+<br>
+
+Las relaciones entre compañeros suelen fortalecerse mediante experiencias cooperativas.
+<br>
+
+## Aprendizaje cooperativo y LOMLOE
+<br>
+
+La LOMLOE apuesta claramente por metodologías que sitúan al alumnado en el centro del aprendizaje.
+<br>
+
+Dentro de este enfoque, el aprendizaje cooperativo desempeña un papel fundamental porque permite trabajar competencias específicas y competencias clave de manera integrada.
+<br>
+
+Esta metodología fomenta:
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+Por este motivo, aparece de forma habitual en situaciones de aprendizaje y propuestas metodológicas actuales.
+<br>
+
+## Principales técnicas de aprendizaje cooperativo
+<br>
+
+### Folio giratorio
+<br>
+
+Los estudiantes escriben por turnos en una misma hoja aportando ideas, respuestas o soluciones.
+<br>
+
+Esta dinámica favorece la participación equilibrada.
+<br>
+
+### Lápices al centro
+<br>
+
+Los miembros del equipo dialogan sobre una actividad mientras mantienen los lápices en el centro de la mesa.
+<br>
+
+Solo pueden escribir cuando todos comprenden la tarea.
+<br>
+
+### Cabezas numeradas
+<br>
+
+Cada alumno recibe un número.
+<br>
+
+Tras trabajar una actividad conjuntamente, el docente selecciona un número al azar y el estudiante correspondiente responde en nombre del grupo.
+<br>
+
+### Lectura compartida
+<br>
+
+Los participantes leen un texto por turnos y comentan la información obtenida.
+<br>
+
+### 1-2-4
+<br>
+
+Primero cada alumno reflexiona individualmente.
+<br>
+
+Después comparte sus ideas en parejas.
+<br>
+
+Finalmente se trabaja en grupos de cuatro.
+<br>
+
+### Rompecabezas o Jigsaw
+<br>
+
+Cada estudiante se convierte en experto en una parte de la información.
+<br>
+
+Posteriormente comparte sus conocimientos con el resto del equipo.
+<br>
+
+Es una de las técnicas cooperativas más conocidas.
+<br>
+
+## Estructuras cooperativas simples
+<br>
+
+Las estructuras cooperativas son formas concretas de organizar la interacción dentro del grupo.
+<br>
+
+Algunas de las más utilizadas son:
+<br>
+
+- Lápices al centro.
+- Uno para todos.
+- Parada de tres minutos.
+- Cabezas numeradas.
+- Parejas cooperativas.
+- Folio giratorio.
+<br>
+
+Estas estructuras pueden incorporarse fácilmente a cualquier área curricular.
+<br>
+
+## Estructuras cooperativas complejas
+<br>
+
+Las estructuras complejas suelen requerir más tiempo y organización.
+<br>
+
+Entre las más conocidas destacan:
+<br>
+
+- Rompecabezas.
+- Investigación grupal.
+- Proyectos cooperativos.
+- Tutoría entre iguales.
+- Equipos de aprendizaje.
+<br>
+
+Permiten desarrollar aprendizajes especialmente significativos.
+<br>
+
+## Roles dentro del grupo cooperativo
+<br>
+
+Una estrategia habitual consiste en asignar roles específicos.
+<br>
+
+Algunos ejemplos son:
+<br>
+
+### Coordinador
+<br>
+
+Organiza el trabajo y distribuye las tareas.
+<br>
+
+### Secretario
+<br>
+
+Registra acuerdos e información relevante.
+<br>
+
+### Portavoz
+<br>
+
+Representa al grupo y comunica conclusiones.
+<br>
+
+### Responsable del material
+<br>
+
+Gestiona los recursos necesarios para la actividad.
+<br>
+
+La asignación de roles mejora la participación y evita desequilibrios dentro del grupo.
+<br>
+
+## Cómo implantar el aprendizaje cooperativo en Primaria
+<br>
+
+### Comenzar con actividades sencillas
+<br>
+
+Es recomendable introducir dinámicas básicas antes de utilizar estructuras más complejas.
+<br>
+
+### Enseñar habilidades sociales
+<br>
+
+El alumnado necesita aprender a escuchar, dialogar y colaborar.
+<br>
+
+### Organizar grupos equilibrados
+<br>
+
+La composición de los equipos influye considerablemente en el funcionamiento del aprendizaje cooperativo.
+<br>
+
+### Revisar el funcionamiento del grupo
+<br>
+
+La reflexión final ayuda a mejorar futuras experiencias cooperativas.
+<br>
+
+## Ejemplo práctico en Lengua
+<br>
+
+El alumnado trabaja una noticia periodística.
+<br>
+
+Cada miembro del grupo analiza una parte diferente:
+<br>
+
+- Titular.
+- Entradilla.
+- Cuerpo.
+- Imágenes.
+<br>
+
+Posteriormente comparten la información y elaboran una noticia conjunta.
+<br>
+
+## Ejemplo práctico en Matemáticas
+<br>
+
+Los equipos resuelven problemas cooperativamente.
+<br>
+
+Cada alumno asume una responsabilidad diferente durante el proceso de resolución.
+<br>
+
+## Ejemplo práctico en Ciencias
+<br>
+
+Los estudiantes investigan distintos ecosistemas.
+<br>
+
+Posteriormente comparten resultados y elaboran una presentación grupal.
+<br>
+
+## Ejemplo práctico en Educación Física
+<br>
+
+Los grupos deben superar retos motores que requieren colaboración y toma de decisiones conjuntas.
+<br>
+
+Por ejemplo:
+<br>
+
+- Transporte cooperativo de objetos.
+- Circuitos de confianza.
+- Juegos de estrategia.
+- Retos de equilibrio grupal.
+<br>
+
+## Cómo evaluar el aprendizaje cooperativo
+<br>
+
+La evaluación debe valorar tanto el producto final como el proceso seguido por el alumnado.
+<br>
+
+Resulta recomendable utilizar:
+<br>
+
+- Rúbricas.
+- Listas de control.
+- Escalas de observación.
+- Autoevaluaciones.
+- Coevaluaciones.
+<br>
+
+De esta forma se obtiene una visión más completa del aprendizaje.
+<br>
+
+## Errores frecuentes
+<br>
+
+### Pensar que cualquier actividad grupal es cooperativa
+<br>
+
+El aprendizaje cooperativo requiere estructuras específicas.
+<br>
+
+### No enseñar habilidades sociales
+<br>
+
+La cooperación debe aprenderse y practicarse.
+<br>
+
+### Mantener siempre los mismos roles
+<br>
+
+Conviene rotarlos periódicamente.
+<br>
+
+### Crear grupos excesivamente grandes
+<br>
+
+Los equipos pequeños suelen funcionar mejor.
+<br>
+
+## Relación con las situaciones de aprendizaje
+<br>
+
+Las situaciones de aprendizaje propuestas por la LOMLOE encuentran en el aprendizaje cooperativo una metodología especialmente adecuada.
+<br>
+
+Los retos, proyectos y actividades competenciales suelen requerir colaboración, toma de decisiones compartida y trabajo en equipo.
+<br>
+
+Por ello, ambas propuestas aparecen habitualmente vinculadas dentro de la práctica docente actual.
+<br>
+
+## Conclusión
+<br>
+
+El aprendizaje cooperativo constituye una de las metodologías activas más efectivas para desarrollar aprendizajes significativos y competencias clave en Educación Primaria.
+<br>
+
+Su capacidad para combinar rendimiento académico, inclusión, convivencia y desarrollo personal explica por qué ocupa un lugar tan importante dentro de la educación actual.
+<br>
+
+Cuando se aplica correctamente, permite construir aulas más participativas, inclusivas y dinámicas, donde el éxito individual y el éxito colectivo avanzan siempre de la mano.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
