@@ -9108,6 +9108,449 @@ La principal diferencia reside en que el ABP gira alrededor de la creación de u
 Conocer estas diferencias permitirá a los a los docentes seleccionar el enfoque más adecuado para cada situación y diseñar experiencias de aprendizaje más auténticas, motivadoras y alineadas con los principios de la LOMLOE.
 `
 },
+{
+  slug: "que-es-aprendizaje-servicio-aps-y-como-aplicarlo-en-primaria",
+  title: "Qué es el Aprendizaje-Servicio (ApS) y cómo aplicarlo en Primaria",
+  metaDescription:
+    "Descubre qué es el Aprendizaje-Servicio (ApS), sus beneficios, características y ejemplos prácticos para aplicarlo en Educación Primaria según la LOMLOE.",
+  category: "metodologias-activas",
+  subcategory: "aprendizaje-servicio",
+  subject: "metodologias-activas",
+  date: "2026-10-01",
+  author: "Marco Pérez",
+  readingTime: 15,
+  popular: true,
+  excerpt:
+    "Guía completa sobre el Aprendizaje-Servicio (ApS): qué es, cómo funciona, beneficios, ejemplos y aplicación en Educación Primaria.",
+  content: `
+# Qué es el Aprendizaje-Servicio (ApS) y cómo aplicarlo en Primaria
+
+## Introducción
+<br>
+Las metodologías activas han adquirido un gran protagonismo en los últimos años debido a su capacidad para conectar los aprendizajes escolares con situaciones reales. Entre ellas destaca el Aprendizaje-Servicio, conocido habitualmente por sus siglas ApS, una propuesta educativa que combina el aprendizaje académico con la realización de acciones orientadas a mejorar la comunidad.
+<br>
+Esta metodología permite al alumnado aprender contenidos curriculares mientras participa en proyectos con utilidad social, desarrollando al mismo tiempo valores relacionados con la solidaridad, la responsabilidad y la ciudadanía activa.
+<br>
+Gracias a su enfoque práctico y participativo, el Aprendizaje-Servicio encaja perfectamente con los principios promovidos por la LOMLOE y se ha convertido en una de las metodologías activas más valoradas dentro de los centros educativos.
+<br>
+
+## ¿Qué es el Aprendizaje-Servicio?
+<br>
+
+El Aprendizaje-Servicio es una metodología activa que combina los objetivos de aprendizaje con la realización de un servicio útil para la comunidad.
+<br>
+
+Los estudiantes adquieren conocimientos, desarrollan competencias y trabajan contenidos curriculares mientras llevan a cabo acciones destinadas a mejorar una necesidad real detectada en su entorno.
+<br>
+
+El elemento diferencial del ApS es que aprendizaje y servicio aparecen completamente integrados.
+<br>
+
+No se trata únicamente de realizar actividades solidarias ni solo de aprender contenidos académicos, sino de unir ambas dimensiones en una única experiencia educativa.
+<br>
+
+## Características del Aprendizaje-Servicio
+<br>
+
+### Existe una necesidad real
+<br>
+
+El proyecto debe responder a una situación concreta que requiera algún tipo de intervención.
+<br>
+
+### El alumnado es protagonista
+<br>
+
+Los estudiantes participan activamente en la planificación, desarrollo y evaluación del proyecto.
+<br>
+
+### Existe una finalidad social
+<br>
+
+Las acciones realizadas generan beneficios para otras personas o para la comunidad.
+<br>
+
+### El aprendizaje curricular está presente
+<br>
+
+Las actividades desarrolladas permiten trabajar competencias, contenidos y criterios de evaluación.
+<br>
+
+### Se fomenta la reflexión
+<br>
+
+El alumnado analiza continuamente el sentido y el impacto de las acciones realizadas.
+<br>
+
+## Origen del Aprendizaje-Servicio
+<br>
+
+El Aprendizaje-Servicio tiene sus raíces en las corrientes pedagógicas que defienden el aprendizaje a través de la experiencia.
+<br>
+
+Autores como John Dewey ya defendían la importancia de conectar la escuela con la realidad social.
+<br>
+
+Con el paso del tiempo, numerosos sistemas educativos incorporaron propuestas que combinaban el compromiso social con los procesos de aprendizaje.
+<br>
+
+Actualmente, el ApS se encuentra ampliamente extendido en centros educativos de todo el mundo.
+<br>
+
+## Diferencia entre voluntariado y Aprendizaje-Servicio
+<br>
+
+Aunque ambos conceptos comparten elementos comunes, no son exactamente iguales.
+<br>
+
+En el voluntariado:
+<br>
+
+- La prioridad es la ayuda a otras personas.
+- Puede no existir una conexión curricular.
+<br>
+
+En el Aprendizaje-Servicio:
+<br>
+
+- Existe una finalidad social.
+- Se desarrollan aprendizajes curriculares concretos.
+- El aprendizaje forma parte esencial del proyecto.
+<br>
+
+Por tanto, el ApS combina servicio y aprendizaje de forma equilibrada.
+<br>
+
+## Objetivos del Aprendizaje-Servicio
+<br>
+
+Entre sus principales objetivos destacan:
+<br>
+
+- Desarrollar competencias.
+- Favorecer el compromiso social.
+- Mejorar la participación del alumnado.
+- Promover valores solidarios.
+- Conectar la escuela con la comunidad.
+- Fomentar la responsabilidad ciudadana.
+- Potenciar la autonomía.
+<br>
+
+## Beneficios del Aprendizaje-Servicio
+<br>
+
+### Aprendizaje más significativo
+<br>
+
+El alumnado comprende mejor los contenidos cuando los aplica en situaciones reales.
+<br>
+
+### Mayor motivación
+<br>
+
+Los proyectos suelen resultar especialmente atractivos porque tienen una finalidad auténtica.
+<br>
+
+### Desarrollo de valores
+<br>
+
+Se trabajan aspectos relacionados con la solidaridad, el respeto y la empatía.
+<br>
+
+### Participación activa
+<br>
+
+Los estudiantes se convierten en protagonistas del proceso educativo.
+<br>
+
+### Mejora de la convivencia
+<br>
+
+El trabajo cooperativo fortalece las relaciones entre compañeros.
+<br>
+
+### Conexión con el entorno
+<br>
+
+La escuela se relaciona directamente con las necesidades de la comunidad.
+<br>
+
+## Relación del ApS con la LOMLOE
+<br>
+
+La LOMLOE apuesta por un enfoque competencial en el que el alumnado debe aprender a aplicar conocimientos en contextos reales.
+<br>
+
+El Aprendizaje-Servicio responde perfectamente a este planteamiento porque:
+<br>
+
+- Favorece la participación.
+- Desarrolla competencias clave.
+- Conecta los aprendizajes con la realidad.
+- Promueve la ciudadanía activa.
+- Impulsa el aprendizaje significativo.
+<br>
+
+Por ello, muchos proyectos de ApS pueden desarrollarse dentro de las situaciones de aprendizaje propuestas por la normativa actual.
+<br>
+
+## Competencias que desarrolla el Aprendizaje-Servicio
+<br>
+
+Esta metodología facilita especialmente el desarrollo de:
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia digital.
+<br>
+
+Además, permite integrar varias competencias simultáneamente.
+<br>
+
+## Fases de un proyecto de Aprendizaje-Servicio
+<br>
+
+### 1. Identificación de una necesidad
+<br>
+
+El primer paso consiste en detectar una situación o problema que afecte a la comunidad.
+<br>
+
+Por ejemplo:
+<br>
+
+- Problemas medioambientales.
+- Necesidades de determinados colectivos.
+- Falta de información sobre hábitos saludables.
+<br>
+
+### 2. Planificación del proyecto
+<br>
+
+El alumnado analiza la situación y diseña posibles actuaciones.
+<br>
+
+### 3. Investigación
+<br>
+
+Los estudiantes recopilan información relacionada con el problema identificado.
+<br>
+
+### 4. Desarrollo de las acciones
+<br>
+
+Se ponen en marcha las medidas previstas para responder a la necesidad detectada.
+<br>
+
+### 5. Reflexión
+<br>
+
+El alumnado analiza continuamente el proceso seguido y los aprendizajes adquiridos.
+<br>
+
+### 6. Evaluación
+<br>
+
+Se valoran tanto los aprendizajes desarrollados como el impacto generado.
+<br>
+
+## Ejemplo de Aprendizaje-Servicio en Primaria
+<br>
+
+### Proyecto: Cuidamos nuestro entorno
+<br>
+
+Necesidad detectada:
+<br>
+
+Presencia de residuos en parques cercanos al centro.
+<br>
+
+Actividades:
+<br>
+
+- Investigación sobre reciclaje.
+- Análisis de los residuos encontrados.
+- Elaboración de campañas de sensibilización.
+- Organización de jornadas de limpieza.
+<br>
+
+Aprendizajes trabajados:
+<br>
+
+- Ciencias Naturales.
+- Lengua.
+- Competencia digital.
+- Competencia ciudadana.
+<br>
+
+Servicio realizado:
+<br>
+
+Mejora del entorno local y concienciación de la comunidad.
+<br>
+
+## Ejemplo relacionado con hábitos saludables
+<br>
+
+El alumnado detecta la necesidad de promover hábitos de vida saludable dentro del centro escolar.
+<br>
+
+Tras investigar sobre alimentación y actividad física:
+<br>
+
+- Diseñan carteles informativos.
+- Elaboran vídeos divulgativos.
+- Organizan actividades de sensibilización.
+<br>
+
+De esta forma aprenden contenidos curriculares mientras generan un beneficio real para la comunidad educativa.
+<br>
+
+## Ejemplo relacionado con personas mayores
+<br>
+
+Los estudiantes colaboran con una residencia cercana.
+<br>
+
+Pueden:
+<br>
+
+- Realizar entrevistas.
+- Elaborar materiales audiovisuales.
+- Organizar actividades culturales.
+- Crear proyectos de memoria histórica.
+<br>
+
+Además de desarrollar competencias, fortalecen las relaciones intergeneracionales.
+<br>
+
+## Papel del docente
+<br>
+
+En el Aprendizaje-Servicio el profesorado actúa principalmente como:
+<br>
+
+- Guía.
+- Facilitador.
+- Orientador.
+- Coordinador.
+<br>
+
+Su labor consiste en acompañar al alumnado durante todo el proceso y garantizar que exista una adecuada conexión entre aprendizaje y servicio.
+<br>
+
+## Papel del alumnado
+<br>
+
+Los estudiantes participan activamente en:
+<br>
+
+- Identificación de necesidades.
+- Toma de decisiones.
+- Investigación.
+- Desarrollo de acciones.
+- Evaluación del proyecto.
+<br>
+
+Esto contribuye a aumentar su autonomía y compromiso.
+<br>
+
+## Evaluación en el Aprendizaje-Servicio
+<br>
+
+La evaluación debe valorar tanto el aprendizaje como el servicio realizado.
+<br>
+
+Resulta recomendable utilizar:
+<br>
+
+- Rúbricas.
+- Escalas de observación.
+- Listas de control.
+- Portafolios.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+La reflexión continua constituye también una herramienta fundamental dentro del proceso evaluador.
+<br>
+
+## Dificultades habituales
+<br>
+
+### Necesidad de coordinación
+<br>
+
+La planificación de proyectos de ApS suele requerir colaboración entre distintos agentes.
+<br>
+
+### Gestión del tiempo
+<br>
+
+La organización adecuada resulta fundamental para el éxito del proyecto.
+<br>
+
+### Búsqueda de necesidades reales
+<br>
+
+La identificación de problemas significativos exige un análisis previo del entorno.
+<br>
+
+### Evaluación compleja
+<br>
+
+Es necesario valorar tanto aprendizajes como impacto social.
+<br>
+
+## Recomendaciones para empezar
+<br>
+
+- Comenzar con proyectos sencillos.
+- Seleccionar necesidades cercanas al alumnado.
+- Colaborar con entidades del entorno.
+- Favorecer la participación activa.
+- Integrar el proyecto dentro del currículo.
+- Dedicar tiempo a la reflexión.
+<br>
+
+Estas acciones facilitan una implantación progresiva y eficaz de la metodología.
+<br>
+
+## Relación con otras metodologías activas
+<br>
+
+El Aprendizaje-Servicio puede combinarse fácilmente con:
+<br>
+
+- Aprendizaje Basado en Proyectos.
+- Aprendizaje Cooperativo.
+- Gamificación.
+- Aprendizaje Basado en Retos.
+- Aula Invertida.
+<br>
+
+La integración de diferentes metodologías permite diseñar experiencias especialmente enriquecedoras.
+<br>
+
+## Conclusión
+<br>
+
+El Aprendizaje-Servicio es una metodología activa que conecta el aprendizaje escolar con la mejora de la comunidad.
+<br>
+
+Su capacidad para desarrollar competencias, promover valores y ofrecer experiencias auténticas lo convierte en una de las propuestas más completas dentro de la educación actual.
+<br>
+
+Además, encaja perfectamente con los principios de la LOMLOE al favorecer la participación activa, el aprendizaje significativo y la aplicación práctica de los conocimientos.
+<br>
+
+Cuando se diseña adecuadamente, el Aprendizaje-Servicio transforma el aula en un espacio donde aprender y contribuir al bienestar de la comunidad se convierten en objetivos inseparables.
+`
+},
 ];
 
 export function getArticleBySlug(slug: string) {
