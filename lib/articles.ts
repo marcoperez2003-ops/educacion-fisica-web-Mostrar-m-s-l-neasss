@@ -3914,6 +3914,332 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
 `
 },
 {
+  slug: "situacion-aprendizaje-cooperacion-educacion-fisica-6-primaria",
+  title: "Situación de aprendizaje sobre la cooperación en Educación Física para 6º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Física para 6º de Primaria centrada en la cooperación, el trabajo en equipo y la resolución de retos cooperativos.",
+  category: "situaciones-aprendizaje",
+  subcategory: "sexto-de-primaria",
+  subject: "educacion-fisica",
+  date: "2026-10-05",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje completa para 6º de Primaria donde el alumnado desarrolla la cooperación, la comunicación y la resolución de problemas mediante retos cooperativos.",
+  content: `
+# Situación de aprendizaje sobre la cooperación en Educación Física para 6º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje está diseñada para alumnado de 6º de Educación Primaria y tiene como finalidad desarrollar la cooperación, la comunicación, la resolución de problemas y el trabajo en equipo a través de diferentes retos motores cooperativos.
+<br>
+A lo largo de varias sesiones, los estudiantes deberán enfrentarse a desafíos en los que el éxito dependerá de su capacidad para colaborar, organizarse y tomar decisiones conjuntas.
+<br>
+
+## Justificación
+<br>
+La cooperación constituye una competencia fundamental tanto dentro como fuera del ámbito escolar. En una sociedad caracterizada por la necesidad de trabajar con otras personas para alcanzar objetivos comunes, resulta imprescindible que el alumnado aprenda a escuchar, comunicarse, respetar opiniones diferentes y colaborar eficazmente.
+<br>
+La Educación Física ofrece un contexto ideal para desarrollar estas habilidades, ya que permite plantear situaciones reales donde el éxito individual depende directamente del trabajo colectivo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+6º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Diseño, planificación y superación por equipos de una gran misión cooperativa compuesta por diferentes retos motores que deberán resolver conjuntamente.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar habilidades de cooperación y trabajo en equipo.
+- Mejorar la comunicación entre iguales.
+- Resolver problemas motores de forma conjunta.
+- Participar activamente en retos cooperativos.
+- Respetar las opiniones y aportaciones de los compañeros.
+- Potenciar la autonomía y la toma de decisiones compartida.
+- Valorar la cooperación como elemento clave para alcanzar objetivos comunes.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas de Educación Física
+<br>
+
+- Resolver situaciones motrices individuales y colectivas adaptando las acciones a las condiciones cambiantes de la actividad.
+- Participar en actividades físicas mostrando habilidades sociales de respeto, cooperación e inclusión.
+- Desarrollar comportamientos responsables durante la práctica motriz.
+<br>
+
+## Saberes básicos
+<br>
+
+- Habilidades motrices básicas.
+- Resolución de problemas motores.
+- Cooperación y trabajo en equipo.
+- Estrategias de comunicación.
+- Participación activa e inclusiva.
+- Juegos y actividades cooperativas.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Colaborar activamente en los retos planteados.
+- Participar respetando las normas establecidas.
+- Proponer soluciones eficaces ante problemas motores.
+- Comunicarse adecuadamente con los compañeros.
+- Mostrar actitudes de respeto, apoyo y cooperación.
+- Contribuir al éxito colectivo del grupo.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Resolución de problemas motores.
+- Retos cooperativos.
+- Evaluación formativa.
+- Aprendizaje basado en la experiencia.
+<br>
+
+El alumnado asumirá un papel protagonista en la toma de decisiones y en la resolución de los desafíos planteados.
+<br>
+
+## Sesión 1. ¿Qué significa cooperar?
+<br>
+
+### Actividad inicial
+<br>
+
+Debate guiado sobre la diferencia entre competir y cooperar.
+<br>
+
+### Actividad principal
+<br>
+
+Juego cooperativo "La isla que se encoge".
+<br>
+
+Los estudiantes deberán permanecer dentro de un espacio que se reduce progresivamente.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué estrategias permitieron al grupo conseguir el objetivo?
+<br>
+
+## Sesión 2. Comunicación y confianza
+<br>
+
+### Calentamiento
+<br>
+
+Juego "El espejo".
+<br>
+
+### Actividad principal
+<br>
+
+Circuito cooperativo donde un miembro del equipo realiza una tarea guiado verbalmente por sus compañeros.
+<br>
+
+### Reflexión
+<br>
+
+Importancia de la comunicación eficaz.
+<br>
+
+## Sesión 3. Resolución de problemas cooperativos
+<br>
+
+### Actividad principal
+<br>
+
+Retos cooperativos:
+<br>
+
+- El nudo humano.
+- Cruza el río.
+- Transporte imposible.
+<br>
+
+Cada grupo deberá buscar soluciones sin recibir instrucciones directas del docente.
+<br>
+
+### Reflexión final
+<br>
+
+Análisis de las decisiones tomadas.
+<br>
+
+## Sesión 4. Estrategia en equipo
+<br>
+
+### Actividad principal
+<br>
+
+Serie de desafíos cooperativos con tiempo limitado.
+<br>
+
+Los equipos deberán:
+<br>
+
+- Organizarse.
+- Distribuir funciones.
+- Diseñar estrategias.
+<br>
+
+### Puesta en común
+<br>
+
+Análisis de las estrategias utilizadas por cada grupo.
+<br>
+
+## Sesión 5. Diseñamos nuestros retos
+<br>
+
+Cada equipo crea un reto cooperativo para el resto de la clase.
+<br>
+
+Deberán:
+<br>
+
+- Explicar las normas.
+- Garantizar la seguridad.
+- Comprobar su viabilidad.
+<br>
+
+Posteriormente, los demás equipos intentarán resolver los desafíos.
+<br>
+
+## Sesión 6. Gran misión cooperativa
+<br>
+
+Todos los grupos participan en una misión final que combina los aprendizajes desarrollados durante las sesiones anteriores.
+<br>
+
+La actividad incluye:
+<br>
+
+- Retos de comunicación.
+- Desafíos motrices.
+- Resolución de problemas.
+- Trabajo cooperativo.
+<br>
+
+El éxito solo será posible mediante la colaboración de todos los participantes.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se adoptarán medidas para garantizar la participación de todo el alumnado:
+<br>
+
+- Adaptación de tareas.
+- Flexibilización de normas.
+- Diferentes niveles de dificultad.
+- Agrupamientos heterogéneos.
+- Ayudas visuales y verbales.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos de evaluación
+<br>
+
+- Rúbrica de cooperación.
+- Lista de control.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Escucha y respeta a los compañeros.
+- Propone soluciones ante problemas motores.
+- Colabora para alcanzar objetivos comunes.
+- Mantiene una actitud positiva durante los retos.
+<br>
+
+## Relación con la vida real
+<br>
+
+La cooperación es una habilidad esencial en múltiples ámbitos de la vida cotidiana.
+<br>
+
+A través de esta situación de aprendizaje, el alumnado comprende que muchos objetivos no pueden alcanzarse individualmente y que la colaboración permite obtener mejores resultados.
+<br>
+
+Estas experiencias ayudan a preparar a los estudiantes para desenvolverse de forma responsable, respetuosa y eficaz en contextos sociales cada vez más complejos.
+<br>
+
+## Conclusión
+<br>
+
+Esta situación de aprendizaje permite trabajar la cooperación de forma práctica, significativa y motivadora utilizando el movimiento como herramienta principal.
+<br>
+
+A través de retos motores y dinámicas cooperativas, el alumnado de 6º de Primaria desarrolla competencias personales, sociales y motrices fundamentales para su formación integral.
+<br>
+
+Además, la propuesta se encuentra plenamente alineada con los principios de la LOMLOE, favoreciendo la participación activa, la inclusión, la autonomía y el desarrollo de competencias clave a través de situaciones reales de cooperación.
+<br>
+
+La experiencia adquirida durante las distintas sesiones permitirá al alumnado comprender que la comunicación, la empatía y el trabajo en equipo son herramientas fundamentales para alcanzar objetivos comunes tanto dentro como fuera del contexto escolar.
+<br>
+
+A través de la gran misión cooperativa final, los estudiantes podrán poner en práctica todos los aprendizajes desarrollados, reforzando valores relacionados con el respeto, la solidaridad y la responsabilidad compartida.
+<br>
+
+De este modo, la situación de aprendizaje no solo contribuye al desarrollo motriz, sino también a la formación de ciudadanos capaces de colaborar eficazmente, resolver problemas de manera conjunta y participar de forma activa y positiva en la sociedad.
+`
+},
+{
   slug: "ejemplo-situacion-aprendizaje-matematicas-6-primaria",
   title: "Ejemplo de Situación de Aprendizaje de Matemáticas para 6º de Primaria (LOMLOE)",
   metaDescription:
