@@ -3914,6 +3914,333 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
 `
 },
 {
+  slug: "situacion-aprendizaje-halloween-educacion-artistica-2-primaria",
+  title: "Situación de aprendizaje de Halloween para Educación Artística en 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa para 2º de Primaria en Educación Artística inspirada en Halloween. Incluye actividades creativas, producto final, evaluación y competencias según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "2-primaria",
+  subject: "educacion-artistica",
+  date: "2026-09-30",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Halloween para 2º de Primaria centrada en la creatividad, la expresión artística y el trabajo cooperativo mediante actividades plásticas adaptadas a la edad.",
+  content: `
+# Situación de aprendizaje de Halloween para Educación Artística en 2º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje está dirigida al alumnado de 2º de Educación Primaria y utiliza la temática de Halloween como hilo conductor para desarrollar la creatividad, la imaginación y la expresión artística mediante actividades plásticas adaptadas a su edad.
+<br>
+A través de una serie de propuestas manipulativas, el alumnado elaborará decoraciones, personajes y producciones artísticas relacionadas con Halloween que formarán parte de una exposición colectiva final.
+<br>
+
+## Justificación
+<br>
+La Educación Artística favorece el desarrollo de la creatividad, la expresión de emociones y la exploración de diferentes materiales y técnicas.
+<br>
+La temática de Halloween resulta especialmente motivadora para el alumnado de estas edades, permitiendo diseñar actividades significativas que potencian la imaginación y la participación activa.
+<br>
+Además, las propuestas cooperativas favorecen la convivencia, el respeto y el aprendizaje compartido.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+2º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Artística.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una exposición artística denominada:
+<br>
+
+**"Nuestro pasillo encantado de Halloween"**
+<br>
+
+La muestra incluirá:
+<br>
+
+- Calabazas decoradas.
+- Fantasmas de papel.
+- Murciélagos creativos.
+- Monstruos imaginarios.
+- Un mural cooperativo gigante.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar la creatividad mediante actividades artísticas.
+- Experimentar con diferentes materiales y técnicas plásticas.
+- Expresar ideas e imaginación a través de producciones visuales.
+- Participar activamente en proyectos cooperativos.
+- Respetar y valorar las creaciones propias y de los compañeros.
+- Mejorar la motricidad fina mediante tareas manipulativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar diferentes posibilidades de expresión artística.
+- Crear producciones visuales utilizando distintos materiales.
+- Participar en proyectos artísticos individuales y colectivos.
+- Desarrollar la creatividad y la imaginación mediante el arte.
+<br>
+
+## Saberes básicos
+<br>
+
+- Formas, colores y texturas.
+- Técnicas básicas de dibujo y pintura.
+- Recorte y pegado.
+- Creación artística individual y colectiva.
+- Experimentación con materiales diversos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Utiliza adecuadamente los materiales.
+- Desarrolla producciones creativas y originales.
+- Respeta el trabajo de los demás.
+- Colabora en tareas grupales.
+- Cuida los espacios y materiales utilizados.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Trabajo cooperativo.
+- Experimentación artística.
+- Juego creativo.
+- Evaluación formativa.
+<br>
+
+El alumnado aprenderá principalmente a través de la manipulación y la creación.
+<br>
+
+## Sesión 1. Descubrimos Halloween
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación guiada sobre Halloween.
+<br>
+
+Los alumnos observan imágenes relacionadas con:
+<br>
+
+- Calabazas.
+- Fantasmas.
+- Murciélagos.
+- Casas encantadas.
+<br>
+
+### Actividad principal
+<br>
+
+Realización de dibujos libres inspirados en Halloween.
+<br>
+
+## Sesión 2. Creamos fantasmas divertidos
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de fantasmas utilizando:
+<br>
+
+- Papel.
+- Algodón.
+- Cartulina blanca.
+- Rotuladores.
+<br>
+
+### Objetivo
+<br>
+
+Experimentar con formas, texturas y materiales.
+<br>
+
+## Sesión 3. Diseñamos monstruos imaginarios
+<br>
+
+### Actividad principal
+<br>
+
+Cada alumno crea un monstruo inventado utilizando materiales variados.
+<br>
+
+Podrán elegir:
+<br>
+
+- Número de ojos.
+- Colores.
+- Formas.
+- Accesorios.
+<br>
+
+### Objetivo
+<br>
+
+Estimular la creatividad y la imaginación.
+<br>
+
+## Sesión 4. El gran mural de Halloween
+<br>
+
+### Actividad principal
+<br>
+
+Toda la clase participa en la elaboración de un mural gigante.
+<br>
+
+El mural incluirá:
+<br>
+
+- Árboles misteriosos.
+- Calabazas.
+- Murciélagos.
+- Fantasmas.
+- Personajes creados por el alumnado.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar el trabajo cooperativo.
+<br>
+
+## Sesión 5. Exposición final
+<br>
+
+### Organización
+<br>
+
+Montaje de la exposición artística.
+<br>
+
+### Presentación
+<br>
+
+Cada alumno explica brevemente una de sus creaciones.
+<br>
+
+### Celebración
+<br>
+
+Visita del resto de clases al pasillo decorado.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se adoptarán medidas como:
+<br>
+
+- Actividades abiertas con diferentes niveles de dificultad.
+- Adaptación de materiales.
+- Ayudas visuales.
+- Apoyo individual cuando sea necesario.
+- Agrupamientos flexibles.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Portfolio de trabajos.
+- Autoevaluación sencilla.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa en las actividades propuestas.
+- Utiliza correctamente los materiales.
+- Completa las producciones artísticas.
+- Coopera con sus compañeros.
+- Muestra interés por las actividades.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+Esta situación puede relacionarse con:
+<br>
+
+- Lengua: cuentos y vocabulario de Halloween.
+- Inglés: palabras básicas relacionadas con la festividad.
+- Matemáticas: reconocimiento de formas geométricas.
+- Música: canciones temáticas.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende cómo el arte permite expresar ideas, emociones e historias mediante imágenes, colores y formas.
+<br>
+
+Además, aprende a valorar el trabajo creativo y a colaborar en proyectos comunes.
+<br>
+
+## Conclusión
+<br>
+
+Esta situación de aprendizaje convierte Halloween en una oportunidad para desarrollar la creatividad, la expresión artística y la imaginación del alumnado de 2º de Primaria.
+<br>
+
+A través de experiencias manipulativas y proyectos cooperativos, los estudiantes exploran diferentes materiales y técnicas mientras crean producciones originales adaptadas a su edad.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo la participación activa, la inclusión, el aprendizaje competencial y el disfrute de las manifestaciones artísticas desde edades tempranas.
+`
+},
+{
   slug: "situacion-aprendizaje-halloween-primaria",
   title: "Situación de aprendizaje de Halloween para Primaria",
   metaDescription:
