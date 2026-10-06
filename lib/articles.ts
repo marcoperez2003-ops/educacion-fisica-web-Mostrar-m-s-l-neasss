@@ -3914,6 +3914,2859 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
 `
 },
 {
+  slug: "situacion-aprendizaje-el-circo-de-los-movimientos-1-primaria",
+  title: "Situación de aprendizaje: El circo de los movimientos para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Física para 1º de Primaria basada en el mundo del circo. Incluye competencias, actividades, evaluación y producto final según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "educacion-fisica",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado descubre el mundo del circo mediante juegos motrices, equilibrio, coordinación y expresión corporal.",
+  content: `
+# Situación de aprendizaje: El circo de los movimientos para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone una inmersión en el mundo del circo a través del movimiento, la creatividad y el juego. El alumnado se convertirá en artista de circo y deberá superar diferentes desafíos relacionados con el equilibrio, la coordinación, la expresión corporal y las habilidades motrices básicas.
+<br>
+Durante las sesiones, los estudiantes descubrirán diferentes personajes circenses y prepararán un pequeño espectáculo final donde mostrarán las habilidades aprendidas.
+<br>
+
+## Justificación
+<br>
+El circo constituye una temática altamente motivadora para el alumnado de 1º de Primaria. Sus personajes, juegos y desafíos permiten trabajar contenidos fundamentales de Educación Física de forma lúdica y significativa.
+<br>
+Además, favorece el desarrollo de las habilidades motrices básicas, la autonomía, la creatividad y la confianza en uno mismo mediante propuestas adaptadas a las características evolutivas de esta etapa.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Realización de un pequeño espectáculo circense donde cada grupo representará diferentes personajes y habilidades trabajadas durante las sesiones.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar las habilidades motrices básicas.
+- Desarrollar la coordinación y el equilibrio.
+- Participar activamente en actividades físicas.
+- Expresar emociones e ideas mediante el movimiento.
+- Respetar las normas de juego.
+- Cooperar con los compañeros.
+- Incrementar la confianza y la autonomía personal.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en conciencia y expresión culturales.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas de Educación Física
+<br>
+
+- Participar en situaciones motrices variadas.
+- Resolver retos motores sencillos.
+- Desarrollar hábitos de convivencia positiva.
+- Explorar posibilidades expresivas del cuerpo y del movimiento.
+<br>
+
+## Saberes básicos
+<br>
+
+- Desplazamientos.
+- Saltos.
+- Giros.
+- Equilibrio.
+- Coordinación.
+- Expresión corporal.
+- Juego motor.
+- Participación y cooperación.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Ejecuta acciones motrices básicas adaptadas a la tarea.
+- Respeta las normas establecidas.
+- Coopera con los compañeros.
+- Muestra interés y disfrute durante la práctica.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en el juego.
+- Descubrimiento guiado.
+- Retos motores.
+- Expresión corporal.
+- Evaluación formativa.
+<br>
+
+Todas las actividades estarán contextualizadas dentro de una narrativa relacionada con el mundo del circo.
+<br>
+
+## Sesión 1. Llegamos al circo
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la historia.
+<br>
+
+El alumnado descubre que ha sido seleccionado para formar parte de un gran circo.
+<br>
+
+### Actividad principal
+<br>
+
+Juegos de desplazamientos imitando diferentes personajes:
+<br>
+
+- Payasos.
+- Acróbatas.
+- Malabaristas.
+- Domadores.
+<br>
+
+### Vuelta a la calma
+<br>
+
+Representación libre de personajes circenses.
+<br>
+
+## Sesión 2. Los equilibristas
+<br>
+
+### Actividad principal
+<br>
+
+Retos relacionados con:
+<br>
+
+- Caminar sobre líneas.
+- Mantener posturas de equilibrio.
+- Desplazarse transportando objetos.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar el equilibrio y el control corporal.
+<br>
+
+## Sesión 3. Los acróbatas
+<br>
+
+### Actividad principal
+<br>
+
+Circuito de habilidades motrices:
+<br>
+
+- Saltos.
+- Giros.
+- Reptaciones.
+- Desplazamientos variados.
+<br>
+
+### Objetivo
+<br>
+
+Mejorar la coordinación general y la confianza motriz.
+<br>
+
+## Sesión 4. Los artistas del circo
+<br>
+
+### Actividad principal
+<br>
+
+Pequeñas actividades de expresión corporal donde el alumnado representa diferentes personajes.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Preparación de escenas sencillas para el espectáculo final.
+<br>
+
+## Sesión 5. El gran espectáculo
+<br>
+
+### Actividad principal
+<br>
+
+Realización del espectáculo circense.
+<br>
+
+Los grupos muestran:
+<br>
+
+- Equilibrios.
+- Desplazamientos.
+- Representaciones.
+- Retos motrices.
+<br>
+
+### Reflexión final
+<br>
+
+Puesta en común sobre los aprendizajes desarrollados.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán medidas como:
+<br>
+
+- Adaptación de la dificultad de las tareas.
+- Agrupamientos flexibles.
+- Apoyos visuales.
+- Consignas sencillas y claras.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Autoevaluación oral sencilla.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa en los juegos propuestos.
+- Respeta normas y compañeros.
+- Realiza acciones motrices básicas con seguridad.
+- Colabora con el grupo.
+- Muestra interés durante las actividades.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Educación Artística: creación de máscaras y carteles del circo.
+- Lengua: cuentos y personajes circenses.
+- Música: canciones y ritmos relacionados con el circo.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las habilidades trabajadas ayudan al alumnado a mejorar su coordinación, autonomía y confianza en situaciones cotidianas.
+<br>
+
+Además, favorecen la comunicación, la creatividad y la convivencia positiva con los demás.
+<br>
+
+## Conclusión
+<br>
+
+"El circo de los movimientos" constituye una situación de aprendizaje motivadora y adaptada a las características del alumnado de 1º de Primaria.
+<br>
+
+A través del juego, el movimiento y la imaginación, los estudiantes desarrollan habilidades motrices, expresivas y sociales fundamentales para su crecimiento personal.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo la participación activa, el aprendizaje significativo y el desarrollo integral del alumnado a través de experiencias motrices adaptadas a sus características evolutivas.
+<br>
+
+Mediante el juego, la imaginación y la exploración del movimiento, los niños y niñas descubren nuevas posibilidades corporales mientras desarrollan habilidades motrices básicas fundamentales para su crecimiento.
+<br>
+
+Además, la temática del circo favorece un entorno motivador y creativo en el que todos los estudiantes pueden participar, expresarse y disfrutar del aprendizaje junto a sus compañeros.
+<br>
+
+Esta situación de aprendizaje convierte la Educación Física en una experiencia divertida, inclusiva y significativa que contribuye al desarrollo físico, social y emocional del alumnado de 1º de Primaria.
+`
+},
+{
+  slug: "situacion-aprendizaje-cuentos-y-palabras-primero-primaria",
+  title: "Situación de aprendizaje: Cuentos y palabras",
+  metaDescription:
+    "Situación de aprendizaje completa para 1.º de Primaria en Lengua Castellana y Literatura centrada en la lectura, comprensión oral y expresión escrita.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primer-primaria",
+  subject: "lengua",
+  date: "2026-09-30",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Lengua para 1.º de Primaria basada en cuentos, comprensión lectora, vocabulario y creación de historias sencillas.",
+  content: `
+# Situación de aprendizaje: Cuentos y palabras
+
+## Justificación
+<br>
+Durante el primer curso de Educación Primaria, el desarrollo de la lectura y la escritura constituye uno de los pilares fundamentales del aprendizaje. El alumnado comienza a adquirir progresivamente las habilidades necesarias para comprender textos, expresar ideas y comunicarse de manera eficaz.
+<br>
+Esta situación de aprendizaje parte de un elemento muy cercano y motivador para los niños: los cuentos. A través de historias adaptadas a su edad, el alumnado desarrollará competencias relacionadas con la comprensión oral y escrita, el vocabulario y la creatividad.
+<br>
+Además, la propuesta se ajusta a los principios de la LOMLOE al promover una enseñanza activa, participativa y basada en situaciones significativas.
+<br>
+
+## Contextualización
+<br>
+La situación de aprendizaje está diseñada para alumnado de 1.º de Educación Primaria dentro del área de Lengua Castellana y Literatura.
+<br>
+Se desarrollará durante el primer trimestre, aunque puede adaptarse a cualquier momento del curso.
+<br>
+
+## Título
+<br>
+
+**Cuentos y palabras**
+<br>
+
+## Temporalización
+<br>
+
+8 sesiones de 45 minutos.
+<br>
+
+## Área
+<br>
+
+Lengua Castellana y Literatura.
+<br>
+
+## Producto final
+<br>
+
+Creación colectiva de un cuento ilustrado elaborado por toda la clase.
+<br>
+
+## Objetivos de aprendizaje
+<br>
+
+- Comprender narraciones sencillas.
+- Identificar personajes, lugares y acciones.
+- Ampliar el vocabulario.
+- Expresar ideas oralmente.
+- Iniciarse en la producción de textos escritos breves.
+- Desarrollar la creatividad.
+- Escuchar y respetar las intervenciones de los compañeros.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia cultural y artística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos orales y escritos adecuados a su edad.
+- Expresarse oralmente de forma comprensible.
+- Producir textos escritos sencillos.
+- Participar activamente en intercambios comunicativos.
+<br>
+
+## Saberes básicos
+<br>
+
+- Escucha activa.
+- Comprensión oral.
+- Lectura compartida.
+- Vocabulario básico.
+- Creación de textos sencillos.
+- Elementos básicos de los cuentos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprender la información principal de un cuento.
+- Identificar personajes y escenarios.
+- Participar en conversaciones respetando turnos.
+- Utilizar vocabulario adecuado.
+- Elaborar frases sencillas con coherencia.
+- Colaborar en la creación del producto final.
+<br>
+
+# Sesión 1. Descubrimos los cuentos
+
+## Objetivo
+<br>
+
+Identificar las características básicas de los cuentos.
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación guiada sobre los cuentos favoritos del alumnado.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura compartida de un cuento adaptado a la edad.
+<br>
+
+### Actividad final
+<br>
+
+Identificación de:
+<br>
+
+- Personajes.
+- Lugares.
+- Acciones principales.
+<br>
+
+# Sesión 2. Conocemos a los personajes
+
+## Objetivo
+<br>
+
+Reconocer y describir personajes.
+<br>
+
+### Actividad principal
+<br>
+
+Los alumnos describen personajes utilizando adjetivos sencillos.
+<br>
+
+Ejemplos:
+<br>
+
+- Alto.
+- Alegre.
+- Valiente.
+- Divertido.
+<br>
+
+### Actividad final
+<br>
+
+Dibujo y descripción oral de un personaje.
+<br>
+
+# Sesión 3. Jugamos con las palabras
+
+## Objetivo
+<br>
+
+Ampliar vocabulario relacionado con los cuentos.
+<br>
+
+### Actividades
+<br>
+
+- Clasificación de palabras.
+- Juegos de asociación.
+- Tarjetas de vocabulario.
+<br>
+
+### Cierre
+<br>
+
+Creación de un mural con palabras aprendidas.
+<br>
+
+# Sesión 4. Inventamos escenarios
+
+## Objetivo
+<br>
+
+Identificar y crear escenarios para historias.
+<br>
+
+### Actividad principal
+<br>
+
+Los alumnos imaginan dónde podría desarrollarse un cuento:
+<br>
+
+- Bosque.
+- Castillo.
+- Fondo del mar.
+- Espacio.
+<br>
+
+### Actividad final
+<br>
+
+Ilustración individual del escenario elegido.
+<br>
+
+# Sesión 5. Creamos una historia
+
+## Objetivo
+<br>
+
+Construir una narración sencilla de forma cooperativa.
+<br>
+
+### Desarrollo
+<br>
+
+Entre todos se decide:
+<br>
+
+- Personaje principal.
+- Lugar.
+- Problema.
+- Solución.
+<br>
+
+El docente actúa como guía durante el proceso.
+<br>
+
+# Sesión 6. Escribimos nuestro cuento
+
+## Objetivo
+<br>
+
+Participar en la producción de un texto sencillo.
+<br>
+
+### Actividad principal
+<br>
+
+Redacción colectiva del cuento mediante frases breves adaptadas al nivel del alumnado.
+<br>
+
+# Sesión 7. Ilustramos el cuento
+
+## Objetivo
+<br>
+
+Representar visualmente las escenas principales.
+<br>
+
+### Actividad principal
+<br>
+
+Cada alumno ilustra una parte de la historia.
+<br>
+
+Posteriormente se recopilan todas las ilustraciones.
+<br>
+
+# Sesión 8. Presentamos nuestra obra
+
+## Objetivo
+<br>
+
+Compartir el producto final con el grupo.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura colectiva del cuento elaborado.
+<br>
+
+### Reflexión final
+<br>
+
+Los alumnos comentan:
+<br>
+
+- Qué han aprendido.
+- Qué les ha gustado más.
+- Qué palabras nuevas han descubierto.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se basa en:
+<br>
+
+- Aprendizaje activo.
+- Aprendizaje cooperativo.
+- Lectura compartida.
+- Descubrimiento guiado.
+- Expresión oral.
+<br>
+
+El alumnado participa continuamente en la construcción de los aprendizajes.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplan medidas como:
+<br>
+
+- Adaptación de textos.
+- Apoyo visual.
+- Agrupamientos flexibles.
+- Refuerzo verbal.
+- Actividades con diferentes niveles de dificultad.
+<br>
+
+Todo el alumnado podrá participar según sus posibilidades.
+<br>
+
+## Instrumentos de evaluación
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica sencilla.
+- Producciones escritas.
+- Participación oral.
+<br>
+
+## Rúbrica simplificada
+
+### Comprensión oral
+<br>
+
+Nivel excelente:
+<br>
+
+Comprende la historia y responde correctamente a las preguntas.
+<br>
+
+Nivel adecuado:
+<br>
+
+Comprende la mayor parte de la información.
+<br>
+
+Nivel básico:
+<br>
+
+Necesita ayuda para identificar elementos importantes.
+<br>
+
+Nivel inicial:
+<br>
+
+Presenta dificultades significativas de comprensión.
+<br>
+
+### Expresión oral
+<br>
+
+Nivel excelente:
+<br>
+
+Participa activamente utilizando vocabulario adecuado.
+<br>
+
+Nivel adecuado:
+<br>
+
+Interviene de forma comprensible.
+<br>
+
+Nivel básico:
+<br>
+
+Necesita apoyo frecuente.
+<br>
+
+Nivel inicial:
+<br>
+
+Participa muy poco en las actividades orales.
+<br>
+
+## Conclusión
+<br>
+
+Esta situación de aprendizaje permite desarrollar las habilidades lingüísticas fundamentales de 1.º de Primaria a través de una propuesta motivadora basada en los cuentos.
+<br>
+
+La lectura, la expresión oral, la ampliación del vocabulario y la creación colectiva favorecen aprendizajes significativos y adaptados a las características evolutivas del alumnado.
+<br>
+
+Además, la elaboración de un cuento ilustrado como producto final promueve la creatividad, la participación y el gusto por la lectura desde las primeras etapas de la escolarización.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-piratas-de-los-numeros-1-primaria",
+  title: "Situación de aprendizaje: Los piratas de los números para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 1º de Primaria basada en una aventura pirata para trabajar numeración, conteo y resolución de problemas según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado se convierte en pirata y aprende matemáticas mediante juegos, retos y búsqueda de tesoros.",
+  content: `
+# Situación de aprendizaje: Los piratas de los números para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje invita al alumnado a convertirse en una tripulación pirata que deberá recorrer diferentes islas matemáticas para encontrar un gran tesoro escondido.
+<br>
+A través de juegos, retos de conteo, resolución de problemas sencillos y actividades manipulativas, los estudiantes trabajarán contenidos matemáticos adaptados a 1º de Primaria de forma lúdica y significativa.
+<br>
+
+## Justificación
+<br>
+Las matemáticas en los primeros cursos de Primaria deben estar vinculadas a experiencias cercanas, manipulativas y motivadoras que faciliten la comprensión de los números y las operaciones básicas.
+<br>
+La temática pirata despierta el interés del alumnado y permite contextualizar los aprendizajes dentro de una aventura donde cada reto matemático ayuda a avanzar en la búsqueda del tesoro.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un mapa del tesoro matemático donde cada equipo incorporará las pruebas superadas hasta localizar el cofre final.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Reconocer y utilizar números naturales adaptados al nivel.
+- Realizar conteos de forma correcta.
+- Resolver situaciones problemáticas sencillas.
+- Utilizar estrategias matemáticas básicas.
+- Participar activamente en actividades individuales y grupales.
+- Desarrollar la confianza en las propias capacidades matemáticas.
+- Aplicar aprendizajes matemáticos en contextos lúdicos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver problemas sencillos relacionados con situaciones cotidianas.
+- Utilizar el razonamiento matemático en experiencias prácticas.
+- Comprender y emplear diferentes formas de representación numérica.
+- Participar activamente en actividades de investigación y descubrimiento matemático.
+<br>
+
+## Saberes básicos
+<br>
+
+- Números naturales.
+- Conteo y numeración.
+- Comparación de cantidades.
+- Sumas sencillas.
+- Resolución de problemas.
+- Orientación espacial básica.
+- Patrones y secuencias.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Reconoce números trabajados durante la situación de aprendizaje.
+- Realiza conteos correctamente.
+- Resuelve problemas sencillos adaptados a su nivel.
+- Participa activamente en las actividades.
+- Utiliza diferentes estrategias para encontrar soluciones.
+- Colabora respetuosamente con sus compañeros.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en el juego.
+- Gamificación.
+- Manipulación de materiales.
+- Resolución de problemas.
+- Aprendizaje cooperativo.
+<br>
+
+La narrativa pirata actuará como elemento motivador durante toda la experiencia.
+<br>
+
+## Sesión 1. La llegada al barco pirata
+<br>
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta del capitán anunciando la búsqueda de un tesoro perdido.
+<br>
+
+### Actividad principal
+<br>
+
+Juego de reconocimiento numérico donde los estudiantes deben identificar diferentes números escondidos por el aula.
+<br>
+
+### Reto
+<br>
+
+Completar el primer fragmento del mapa del tesoro.
+<br>
+
+## Sesión 2. La isla de los números perdidos
+<br>
+
+### Actividad principal
+<br>
+
+Los alumnos realizan actividades de conteo utilizando:
+<br>
+
+- Monedas piratas.
+- Cofres.
+- Gemas.
+- Objetos manipulativos.
+<br>
+
+### Objetivo
+<br>
+
+Relacionar cantidad y número.
+<br>
+
+## Sesión 3. El cofre de las sumas mágicas
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de pequeñas sumas contextualizadas dentro de la aventura.
+<br>
+
+Por ejemplo:
+<br>
+
+"Si el capitán encuentra 4 monedas y después encuentra 3 más, ¿cuántas tiene en total?"
+<br>
+
+### Objetivo
+<br>
+
+Introducir el cálculo básico de forma significativa.
+<br>
+
+## Sesión 4. El laberinto del tesoro
+<br>
+
+### Actividad principal
+<br>
+
+Circuito matemático donde los estudiantes deben resolver pequeños desafíos para avanzar por un mapa pirata gigante.
+<br>
+
+### Aspectos trabajados
+<br>
+
+- Orientación espacial.
+- Conteo.
+- Resolución de problemas.
+<br>
+
+## Sesión 5. La búsqueda del gran tesoro
+<br>
+
+### Actividad principal
+<br>
+
+Gran reto cooperativo donde cada equipo utiliza todas las pistas recopiladas para localizar el tesoro escondido.
+<br>
+
+Cada prueba superada exigirá aplicar los conocimientos matemáticos trabajados durante la situación.
+<br>
+
+### Celebración final
+<br>
+
+Apertura simbólica del cofre del tesoro.
+<br>
+
+## Atención a la diversidad
+<br>
+
+La situación contempla:
+<br>
+
+- Adaptación de actividades.
+- Diferentes niveles de dificultad.
+- Uso de materiales manipulativos.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escalas de observación.
+- Registro anecdótico.
+- Actividades prácticas.
+- Autoevaluación oral sencilla.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce los números trabajados.
+- Realiza conteos correctamente.
+- Resuelve sumas sencillas.
+- Participa activamente en las actividades.
+- Colabora con los compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: lectura de pistas y mensajes piratas.
+- Educación Artística: elaboración de mapas del tesoro.
+- Música: canciones relacionadas con el mar y los piratas.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las matemáticas aparecen constantemente en situaciones cotidianas relacionadas con contar, comparar cantidades y resolver pequeños problemas.
+<br>
+
+Esta situación permite al alumnado comprender la utilidad de los números mediante experiencias cercanas y motivadoras.
+<br>
+
+## Conclusión
+<br>
+
+"Los piratas de los números" transforma el aprendizaje matemático en una aventura emocionante donde el alumnado aprende jugando y resolviendo desafíos adaptados a su nivel.
+<br>
+
+A través de experiencias manipulativas, cooperativas y significativas, los estudiantes desarrollan competencias matemáticas fundamentales mientras disfrutan de una búsqueda del tesoro llena de retos y descubrimientos.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo el aprendizaje competencial, la participación activa y la motivación del alumnado desde las primeras etapas educativas.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-exploradores-de-la-naturaleza-1-primaria",
+  title: "Situación de aprendizaje: Los exploradores de la naturaleza para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias de la Naturaleza para 1º de Primaria basada en la observación y exploración del entorno natural según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "ciencias-naturales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria en la que el alumnado se convierte en explorador para descubrir animales, plantas y elementos del entorno natural.",
+  content: `
+# Situación de aprendizaje: Los exploradores de la naturaleza para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje invita al alumnado a convertirse en pequeños exploradores de la naturaleza. A través de diferentes actividades prácticas, observaciones y experiencias cercanas, los estudiantes descubrirán plantas, animales y elementos del entorno mientras desarrollan habilidades de observación e investigación adaptadas a su edad.
+<br>
+
+## Justificación
+<br>
+Los niños y niñas sienten una curiosidad natural por el mundo que les rodea. Aprovechar este interés permite desarrollar aprendizajes significativos relacionados con la observación, el respeto por la naturaleza y el conocimiento básico de los seres vivos.
+<br>
+La propuesta está diseñada para acercar al alumnado al medio natural mediante experiencias prácticas que favorezcan la exploración y el descubrimiento.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias de la Naturaleza.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de un mural colectivo denominado:
+<br>
+
+**"Nuestro gran libro de la naturaleza"**
+<br>
+
+Cada alumno aportará dibujos, observaciones e información sobre los elementos naturales estudiados.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar elementos básicos del entorno natural.
+- Diferenciar seres vivos y elementos no vivos.
+- Conocer características de animales y plantas.
+- Desarrollar habilidades de observación.
+- Respetar el medio ambiente.
+- Participar activamente en actividades de investigación sencillas.
+- Expresar descubrimientos utilizando diferentes formatos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Observar y explorar el entorno próximo.
+- Identificar características básicas de seres vivos.
+- Formular preguntas sencillas sobre fenómenos naturales.
+- Participar en experiencias de investigación adaptadas a la edad.
+<br>
+
+## Saberes básicos
+<br>
+
+- Los seres vivos.
+- Animales y plantas.
+- El entorno natural.
+- Observación y clasificación.
+- Respeto y cuidado del medio ambiente.
+- Curiosidad científica.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica elementos naturales del entorno.
+- Reconoce animales y plantas cercanos.
+- Participa en actividades de observación.
+- Formula preguntas relacionadas con la naturaleza.
+- Muestra interés y respeto por el medio natural.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en la exploración.
+- Descubrimiento guiado.
+- Observación directa.
+- Aprendizaje cooperativo.
+- Actividades manipulativas.
+<br>
+
+## Sesión 1. Nos convertimos en exploradores
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la misión exploradora.
+<br>
+
+El alumnado recibe un carnet simbólico de explorador de la naturaleza.
+<br>
+
+### Actividad principal
+<br>
+
+Observación de imágenes de diferentes paisajes, animales y plantas.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué elementos encontramos en la naturaleza?
+<br>
+
+## Sesión 2. Descubrimos los animales
+<br>
+
+### Actividad principal
+<br>
+
+Clasificación sencilla de animales según:
+<br>
+
+- Dónde viven.
+- Cómo se desplazan.
+- Qué comen.
+<br>
+
+### Juego final
+<br>
+
+Adivinanzas de animales.
+<br>
+
+## Sesión 3. Investigamos las plantas
+<br>
+
+### Actividad principal
+<br>
+
+Observación de hojas, flores y plantas del entorno.
+<br>
+
+Los alumnos describen:
+<br>
+
+- Color.
+- Forma.
+- Tamaño.
+<br>
+
+### Registro
+<br>
+
+Dibujo de las plantas observadas.
+<br>
+
+## Sesión 4. Somos científicos
+<br>
+
+### Actividad principal
+<br>
+
+Pequeña investigación:
+<br>
+
+¿Qué necesitan las plantas para vivir?
+<br>
+
+Los estudiantes observan ejemplos y formulan hipótesis sencillas.
+<br>
+
+### Puesta en común
+<br>
+
+Compartir descubrimientos con los compañeros.
+<br>
+
+## Sesión 5. Creamos nuestro gran libro de la naturaleza
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración del mural colectivo.
+<br>
+
+Cada alumno incorpora:
+<br>
+
+- Dibujos.
+- Observaciones.
+- Curiosidades.
+- Clasificaciones realizadas durante las sesiones.
+<br>
+
+### Exposición final
+<br>
+
+Presentación del mural al resto de la clase.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se aplicarán medidas como:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Material manipulativo.
+- Agrupamientos flexibles.
+- Adaptación de tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Producciones del alumnado.
+- Autoevaluación oral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Reconoce animales y plantas del entorno.
+- Realiza observaciones sencillas.
+- Respeta el entorno natural.
+- Comparte sus descubrimientos con los compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: descripción de animales y plantas.
+- Educación Artística: elaboración de dibujos y murales.
+- Matemáticas: clasificación y conteo de elementos naturales.
+<br>
+
+## Relación con la vida real
+<br>
+
+El conocimiento del entorno natural ayuda al alumnado a comprender mejor el mundo que le rodea y a desarrollar hábitos responsables relacionados con el cuidado del medio ambiente.
+<br>
+
+Además, fomenta la curiosidad, la observación y el pensamiento científico desde edades tempranas.
+<br>
+
+## Conclusión
+<br>
+
+"Los exploradores de la naturaleza" permite al alumnado de 1º de Primaria acercarse al mundo natural mediante experiencias significativas y adaptadas a sus características evolutivas.
+<br>
+
+A través de la observación, el descubrimiento y el juego, los estudiantes desarrollan conocimientos científicos básicos mientras fortalecen su curiosidad y respeto por el entorno.
+<br>
+
+La situación de aprendizaje se encuentra alineada con los principios de la LOMLOE, favoreciendo el aprendizaje competencial, la participación activa y la exploración del medio como fuente de conocimiento.
+`
+},
+{
+  slug: "situacion-aprendizaje-mi-barrio-y-mi-ciudad-1-primaria",
+  title: "Situación de aprendizaje: Mi barrio y mi ciudad para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Sociales para 1º de Primaria centrada en el conocimiento del barrio, los servicios y las personas que forman parte de la comunidad.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "ciencias-sociales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado descubre su barrio, los servicios públicos y las personas que forman parte de su entorno más cercano.",
+  content: `
+# Situación de aprendizaje: Mi barrio y mi ciudad para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje permite al alumnado conocer mejor el entorno en el que vive. A través de actividades prácticas, observaciones, juegos y trabajos cooperativos, los estudiantes descubrirán las principales características de su barrio, los servicios que utilizan en su vida diaria y las personas que contribuyen al funcionamiento de la comunidad.
+<br>
+La propuesta busca desarrollar el sentido de pertenencia y el conocimiento del entorno más próximo mediante experiencias significativas adaptadas a la edad del alumnado.
+<br>
+
+## Justificación
+<br>
+El conocimiento del entorno cercano constituye uno de los primeros aprendizajes de las Ciencias Sociales. Comprender dónde vivimos, qué servicios existen y quiénes trabajan para mejorar nuestra calidad de vida ayuda al alumnado a interpretar la realidad que les rodea.
+<br>
+Además, favorece el desarrollo de actitudes de respeto, convivencia y participación ciudadana desde edades tempranas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una maqueta colaborativa del barrio o localidad donde se sitúa el centro educativo.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar elementos característicos del entorno próximo.
+- Conocer algunos servicios presentes en el barrio o localidad.
+- Reconocer profesiones relacionadas con la comunidad.
+- Desarrollar habilidades básicas de observación.
+- Participar en actividades cooperativas.
+- Respetar y valorar el entorno donde viven.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer características básicas del entorno social próximo.
+- Identificar espacios, servicios y profesiones de la comunidad.
+- Participar en actividades relacionadas con la observación de la realidad social.
+- Desarrollar comportamientos responsables hacia el entorno.
+<br>
+
+## Saberes básicos
+<br>
+
+- El barrio y la localidad.
+- Servicios públicos.
+- Profesiones del entorno.
+- Normas básicas de convivencia.
+- Espacios comunitarios.
+- Observación y exploración del entorno.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica elementos presentes en su entorno próximo.
+- Reconoce servicios básicos de la comunidad.
+- Participa activamente en las actividades.
+- Colabora con los compañeros.
+- Respeta las normas de convivencia.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en experiencias.
+- Observación guiada.
+- Aprendizaje cooperativo.
+- Actividades manipulativas.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Descubrimos nuestro entorno
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación sobre dónde vive cada alumno.
+<br>
+
+### Actividad principal
+<br>
+
+Observación de fotografías relacionadas con:
+<br>
+
+- Calles.
+- Parques.
+- Tiendas.
+- Colegios.
+- Centros de salud.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué lugares visitamos con más frecuencia?
+<br>
+
+## Sesión 2. Los lugares importantes
+<br>
+
+### Actividad principal
+<br>
+
+Clasificación de espacios del barrio según su función.
+<br>
+
+Por ejemplo:
+<br>
+
+- Aprender.
+- Jugar.
+- Comprar.
+- Recibir ayuda médica.
+<br>
+
+### Actividad final
+<br>
+
+Dibujo de su lugar favorito del barrio.
+<br>
+
+## Sesión 3. Las personas que nos ayudan
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de profesiones importantes para la comunidad:
+<br>
+
+- Policía.
+- Bombero.
+- Médico.
+- Maestro.
+- Comerciante.
+<br>
+
+### Juego
+<br>
+
+Adivinar profesiones mediante imágenes y descripciones.
+<br>
+
+## Sesión 4. Construimos nuestra localidad
+<br>
+
+### Actividad principal
+<br>
+
+Creación de edificios y espacios utilizando:
+<br>
+
+- Cartulina.
+- Papel.
+- Dibujos.
+- Material reciclado.
+<br>
+
+### Objetivo
+<br>
+
+Preparar la maqueta colaborativa.
+<br>
+
+## Sesión 5. Presentamos nuestra maqueta
+<br>
+
+### Actividad principal
+<br>
+
+Montaje final del barrio o ciudad.
+<br>
+
+Cada alumno explica la función del elemento que ha elaborado.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué hemos aprendido sobre nuestro entorno?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se aplicarán medidas como:
+<br>
+
+- Material visual adaptado.
+- Actividades multinivel.
+- Apoyos gráficos.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Producciones del alumnado.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce espacios del entorno próximo.
+- Identifica profesiones básicas.
+- Participa activamente en las tareas.
+- Colabora con el grupo.
+- Respeta las normas establecidas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: descripción de lugares y profesiones.
+- Educación Artística: construcción de la maqueta.
+- Matemáticas: orientación espacial y formas geométricas.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende mejor los espacios y servicios que utiliza diariamente, desarrollando actitudes de respeto y responsabilidad hacia la comunidad.
+<br>
+
+Además, aprende la importancia de las personas que trabajan para garantizar el bienestar colectivo.
+<br>
+
+## Conclusión
+<br>
+
+"Mi barrio y mi ciudad" permite acercar las Ciencias Sociales a la realidad cotidiana del alumnado de 1º de Primaria mediante experiencias prácticas, cercanas y significativas.
+<br>
+
+A través de la observación, la exploración y el trabajo cooperativo, los estudiantes desarrollan conocimientos básicos sobre su entorno y fortalecen su sentido de pertenencia a la comunidad.
+<br>
+
+La propuesta se ajusta a los principios de la LOMLOE al fomentar un aprendizaje activo, competencial y conectado con la realidad más próxima del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-my-first-english-adventure-1-primaria",
+  title: "Situación de aprendizaje: My First English Adventure para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Inglés para 1º de Primaria centrada en el vocabulario básico, la comunicación oral y el aprendizaje mediante el juego según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "ingles",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado descubre el inglés mediante juegos, canciones, retos y actividades comunicativas adaptadas a su edad.",
+  content: `
+# Situación de aprendizaje: My First English Adventure para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje introduce al alumnado de 1º de Primaria en el uso del inglés mediante una aventura llena de juegos, canciones y desafíos adaptados a su nivel.
+<br>
+Los estudiantes acompañarán a un personaje viajero llamado Tommy Explorer, que necesita ayuda para recorrer diferentes lugares mientras aprende nuevas palabras y expresiones en inglés.
+<br>
+
+## Justificación
+<br>
+El aprendizaje de una lengua extranjera debe estar basado en experiencias motivadoras, cercanas y significativas para el alumnado.
+<br>
+Durante los primeros cursos de Primaria resulta fundamental fomentar la comprensión y expresión oral mediante actividades lúdicas que favorezcan la participación y la confianza.
+<br>
+La propuesta utiliza el juego como elemento central para desarrollar habilidades comunicativas básicas en lengua inglesa.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Extranjera: Inglés.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un pasaporte de aventuras en inglés donde el alumnado recogerá palabras, dibujos y expresiones aprendidas durante el viaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender vocabulario básico relacionado con el entorno cercano.
+- Utilizar expresiones sencillas en inglés.
+- Participar en juegos y dinámicas comunicativas.
+- Mejorar la pronunciación mediante canciones y repeticiones.
+- Desarrollar una actitud positiva hacia el aprendizaje del inglés.
+- Participar activamente en actividades cooperativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender palabras y expresiones sencillas de uso frecuente.
+- Interactuar de forma básica utilizando vocabulario conocido.
+- Participar en situaciones comunicativas adaptadas a su edad.
+- Utilizar recursos visuales y gestuales para comprender mensajes.
+<br>
+
+## Saberes básicos
+<br>
+
+- Greetings.
+- Colours.
+- Numbers.
+- Classroom objects.
+- Animals.
+- Basic commands.
+- Songs and rhymes.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Reconoce vocabulario básico trabajado durante las sesiones.
+- Comprende instrucciones sencillas.
+- Participa en canciones y juegos en inglés.
+- Utiliza expresiones básicas de comunicación.
+- Muestra interés por la lengua extranjera.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en el juego.
+- Canciones y dramatizaciones.
+- Total Physical Response (TPR).
+- Aprendizaje cooperativo.
+- Actividades manipulativas.
+<br>
+
+## Sesión 1. Hello, explorers!
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación del personaje Tommy Explorer.
+<br>
+
+### Actividad principal
+<br>
+
+Aprendizaje de saludos básicos:
+<br>
+
+- Hello.
+- Hi.
+- Goodbye.
+- See you.
+<br>
+
+### Juego final
+<br>
+
+Greeting Circle.
+<br>
+
+## Sesión 2. The Colours Island
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento de colores mediante:
+<br>
+
+- Flashcards.
+- Canciones.
+- Juegos de búsqueda.
+<br>
+
+### Vocabulario
+<br>
+
+- Red.
+- Blue.
+- Yellow.
+- Green.
+- Orange.
+<br>
+
+## Sesión 3. The Numbers Treasure
+<br>
+
+### Actividad principal
+<br>
+
+Búsqueda del tesoro utilizando números.
+<br>
+
+### Vocabulario
+<br>
+
+Numbers 1 to 10.
+<br>
+
+### Juego
+<br>
+
+Count and Find.
+<br>
+
+## Sesión 4. The Animal Forest
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de animales sencillos:
+<br>
+
+- Dog.
+- Cat.
+- Bird.
+- Fish.
+- Rabbit.
+<br>
+
+### Actividad final
+<br>
+
+Imitación y representación de animales.
+<br>
+
+## Sesión 5. My English Passport
+<br>
+
+### Actividad principal
+<br>
+
+El alumnado completa su pasaporte de aventuras.
+<br>
+
+Incluye:
+<br>
+
+- Colores.
+- Números.
+- Animales.
+- Expresiones básicas.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de explorador de inglés.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Apoyos visuales.
+- Repeticiones guiadas.
+- Material manipulativo.
+- Agrupamientos flexibles.
+- Diferentes niveles de apoyo.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Observación directa.
+- Actividades prácticas.
+- Participación oral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce vocabulario básico.
+- Participa en canciones y juegos.
+- Comprende instrucciones sencillas.
+- Utiliza expresiones trabajadas.
+- Muestra interés por comunicarse en inglés.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Educación Artística: creación del pasaporte.
+- Música: canciones en inglés.
+- Matemáticas: números.
+- Ciencias Naturales: animales.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comienza a comprender que el inglés es una herramienta que permite comunicarse con personas de diferentes lugares y culturas.
+<br>
+
+Las expresiones trabajadas forman parte de situaciones cotidianas y cercanas a su realidad.
+<br>
+
+## Conclusión
+<br>
+
+"My First English Adventure" permite acercar el inglés al alumnado de 1º de Primaria de forma divertida, participativa y significativa.
+<br>
+
+A través de juegos, canciones y experiencias comunicativas sencillas, los estudiantes desarrollan sus primeras habilidades lingüísticas mientras ganan confianza y motivación hacia el aprendizaje de la lengua extranjera.
+<br>
+
+La propuesta se adapta a las características evolutivas del alumnado de 1º de Primaria y favorece un primer contacto positivo con la lengua inglesa mediante experiencias significativas y contextualizadas.
+<br>
+
+Además, el desarrollo de actividades basadas en el juego, la comunicación oral y la participación activa permite que los estudiantes adquieran vocabulario y expresiones básicas de forma natural y motivadora.
+<br>
+
+La creación del pasaporte final de aventuras constituye una evidencia visible de los aprendizajes alcanzados y ayuda a reforzar la confianza del alumnado en sus capacidades para comunicarse en inglés.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-museo-de-los-colores-1-primaria",
+  title: "Situación de aprendizaje: El museo de los colores para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Artística para 1º de Primaria centrada en los colores, la creatividad y la expresión artística según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "educacion-artistica",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado explora los colores y desarrolla su creatividad para crear un museo artístico en el aula.",
+  content: `
+# Situación de aprendizaje: El museo de los colores para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje invita al alumnado a convertirse en pequeños artistas que deberán ayudar a recuperar los colores de un museo mágico que ha perdido toda su pintura.
+<br>
+A través de actividades manipulativas, experimentación artística y creación de producciones visuales, los estudiantes descubrirán los colores, las formas y diferentes técnicas de expresión plástica adaptadas a su edad.
+<br>
+
+## Justificación
+<br>
+La Educación Artística desempeña un papel fundamental en el desarrollo de la creatividad, la expresión personal y la imaginación del alumnado.
+<br>
+Durante los primeros cursos de Primaria resulta especialmente importante ofrecer experiencias manipulativas que permitan explorar materiales, texturas y colores de manera libre y significativa.
+<br>
+La propuesta utiliza una narrativa sencilla y motivadora que favorece la participación y el desarrollo de las capacidades artísticas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Artística.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un museo artístico en el aula donde se expondrán todas las obras realizadas durante la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Reconocer y utilizar colores básicos.
+- Experimentar con diferentes materiales artísticos.
+- Desarrollar la creatividad mediante producciones plásticas.
+- Expresar ideas y emociones a través del arte.
+- Participar activamente en actividades artísticas individuales y grupales.
+- Valorar las creaciones propias y las de los compañeros.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar técnicas y materiales artísticos diversos.
+- Crear producciones visuales sencillas.
+- Participar en proyectos artísticos individuales y colectivos.
+- Utilizar el arte como medio de expresión.
+<br>
+
+## Saberes básicos
+<br>
+
+- Los colores básicos.
+- Las formas.
+- Técnicas de pintura.
+- Dibujo y expresión visual.
+- Materiales artísticos elementales.
+- Creación individual y colectiva.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades artísticas.
+- Utiliza adecuadamente los materiales.
+- Reconoce colores y formas básicas.
+- Desarrolla producciones creativas.
+- Respeta las obras de los compañeros.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Experimentación artística.
+- Aprendizaje manipulativo.
+- Juego creativo.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. El museo sin colores
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de una historia donde un museo mágico ha perdido todos sus colores.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación y clasificación de colores básicos.
+<br>
+
+### Actividad final
+<br>
+
+Colorear elementos del museo utilizando diferentes técnicas.
+<br>
+
+## Sesión 2. Descubrimos los colores
+<br>
+
+### Actividad principal
+<br>
+
+Experimentación utilizando:
+<br>
+
+- Pinturas.
+- Ceras.
+- Rotuladores.
+- Témperas.
+<br>
+
+### Objetivo
+<br>
+
+Explorar las posibilidades expresivas de cada material.
+<br>
+
+## Sesión 3. Creamos con formas
+<br>
+
+### Actividad principal
+<br>
+
+Composición de dibujos utilizando:
+<br>
+
+- Círculos.
+- Cuadrados.
+- Triángulos.
+- Rectángulos.
+<br>
+
+### Objetivo
+<br>
+
+Relacionar formas geométricas y arte.
+<br>
+
+## Sesión 4. La gran obra colectiva
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de un mural cooperativo.
+<br>
+
+Cada alumno añadirá elementos decorativos utilizando técnicas artísticas trabajadas durante las sesiones anteriores.
+<br>
+
+## Sesión 5. Inauguramos el museo
+<br>
+
+### Actividad principal
+<br>
+
+Montaje de la exposición artística.
+<br>
+
+### Presentación
+<br>
+
+Cada estudiante explica una de sus obras al resto de compañeros.
+<br>
+
+### Celebración final
+<br>
+
+Visita al museo creado por la clase.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se aplicarán medidas como:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Adaptación de materiales.
+- Agrupamientos flexibles.
+- Diferentes ritmos de ejecución.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Observación directa.
+- Portfolio artístico.
+- Registro anecdótico.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa en las actividades propuestas.
+- Utiliza materiales de forma adecuada.
+- Reconoce colores básicos.
+- Completa producciones artísticas sencillas.
+- Coopera en actividades grupales.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Matemáticas: formas geométricas.
+- Lengua: descripción de obras.
+- Música: audición de piezas musicales durante la creación artística.
+<br>
+
+## Relación con la vida real
+<br>
+
+El arte forma parte de la vida cotidiana y constituye una herramienta fundamental para expresar ideas, sentimientos y emociones.
+<br>
+
+A través de esta situación, el alumnado descubre diferentes formas de comunicación visual y desarrolla su sensibilidad artística desde edades tempranas.
+<br>
+
+## Conclusión
+<br>
+
+"El museo de los colores" permite al alumnado de 1º de Primaria iniciarse en la expresión artística mediante experiencias creativas, manipulativas y motivadoras.
+<br>
+
+A través de la exploración de colores, formas y materiales, los estudiantes desarrollan habilidades artísticas fundamentales mientras disfrutan creando y compartiendo sus producciones.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo la creatividad, la participación activa y el desarrollo integral del alumnado mediante experiencias artísticas significativas.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-superheroes-de-los-buenos-valores-1-primaria",
+  title: "Situación de aprendizaje: Los superhéroes de los buenos valores para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Valores Cívicos y Éticos para 1º de Primaria centrada en el respeto, la empatía, la amistad y la convivencia según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "valores-civicos",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado se convierte en superhéroe de los buenos valores mediante actividades relacionadas con el respeto, la empatía y la convivencia.",
+  content: `
+# Situación de aprendizaje: Los superhéroes de los buenos valores para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone que el alumnado se convierta en un grupo de superhéroes cuya misión será ayudar a mejorar la convivencia en la escuela mediante la práctica de valores positivos.
+<br>
+A través de cuentos, juegos, dinámicas cooperativas y actividades de reflexión, los estudiantes descubrirán la importancia del respeto, la empatía, la amistad, la ayuda mutua y la responsabilidad.
+<br>
+
+## Justificación
+<br>
+La educación en valores constituye uno de los pilares fundamentales del desarrollo integral del alumnado. Durante los primeros cursos de Primaria es especialmente importante trabajar habilidades sociales y emocionales que favorezcan la convivencia y el bienestar común.
+<br>
+Las experiencias prácticas permiten comprender mejor la importancia de comportamientos como escuchar, respetar, ayudar o compartir.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Valores Cívicos y Éticos.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación del mural:
+<br>
+
+**"La Liga de los Superhéroes de los Buenos Valores"**
+<br>
+
+Cada alumno diseñará su propio superhéroe asociado a un valor trabajado durante la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar valores positivos para la convivencia.
+- Desarrollar actitudes de respeto hacia los demás.
+- Reconocer la importancia de la empatía.
+- Participar en actividades cooperativas.
+- Resolver pequeños conflictos mediante el diálogo.
+- Fomentar la responsabilidad y la ayuda mutua.
+- Valorar la diversidad dentro del grupo.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer comportamientos adecuados para la convivencia.
+- Desarrollar habilidades de comunicación respetuosa.
+- Participar en situaciones de colaboración y ayuda.
+- Mostrar actitudes de empatía y respeto hacia otras personas.
+<br>
+
+## Saberes básicos
+<br>
+
+- El respeto.
+- La amistad.
+- La empatía.
+- La cooperación.
+- La responsabilidad.
+- La convivencia escolar.
+- Normas básicas de relación.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Respeta las opiniones y turnos de palabra.
+- Colabora con sus compañeros.
+- Identifica comportamientos positivos.
+- Aplica valores básicos en situaciones cotidianas.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en experiencias.
+- Juego cooperativo.
+- Cuentos y narraciones.
+- Dinámicas de grupo.
+- Aprendizaje cooperativo.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Descubrimos a los superhéroes de los valores
+<br>
+
+### Actividad inicial
+<br>
+
+Lectura de un cuento sobre un superhéroe que ayuda a los demás.
+<br>
+
+### Actividad principal
+<br>
+
+Conversación guiada:
+<br>
+
+- ¿Qué significa ayudar?
+- ¿Qué significa respetar?
+- ¿Qué es un buen compañero?
+<br>
+
+### Actividad final
+<br>
+
+Diseño del carnet de superhéroe.
+<br>
+
+## Sesión 2. El poder del respeto
+<br>
+
+### Actividad principal
+<br>
+
+Juegos relacionados con:
+<br>
+
+- Escuchar a los compañeros.
+- Respetar turnos.
+- Resolver pequeños desacuerdos.
+<br>
+
+### Reflexión
+<br>
+
+¿Por qué es importante respetar a los demás?
+<br>
+
+## Sesión 3. El poder de la empatía
+<br>
+
+### Actividad principal
+<br>
+
+Representación de situaciones cotidianas:
+<br>
+
+- Un compañero triste.
+- Un compañero que necesita ayuda.
+- Un compañero nuevo.
+<br>
+
+### Objetivo
+<br>
+
+Aprender a ponerse en el lugar de otras personas.
+<br>
+
+## Sesión 4. El poder de la amistad
+<br>
+
+### Actividad principal
+<br>
+
+Retos cooperativos donde el alumnado debe colaborar para alcanzar objetivos comunes.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué acciones ayudan a construir amistades?
+<br>
+
+## Sesión 5. La gran liga de los valores
+<br>
+
+### Actividad principal
+<br>
+
+Creación del mural colectivo.
+<br>
+
+Cada estudiante presenta:
+<br>
+
+- Su superhéroe.
+- El valor que representa.
+- Una acción relacionada con ese valor.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de guardián de los buenos valores.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Agrupamientos flexibles.
+- Apoyos visuales.
+- Actividades abiertas.
+- Adaptación de materiales.
+- Diversas formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Autoevaluación oral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa en las actividades.
+- Respeta a compañeros y docentes.
+- Coopera en tareas grupales.
+- Identifica valores positivos.
+- Aplica comportamientos adecuados en situaciones cotidianas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: cuentos y diálogos.
+- Educación Artística: diseño de superhéroes.
+- Educación Física: juegos cooperativos.
+- Música: canciones relacionadas con la amistad y la convivencia.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los valores trabajados forman parte de la vida diaria del alumnado y son esenciales para establecer relaciones positivas dentro y fuera de la escuela.
+<br>
+
+Aprender a respetar, escuchar, ayudar y colaborar contribuye a mejorar la convivencia y el bienestar colectivo.
+<br>
+
+## Conclusión
+<br>
+
+"Los superhéroes de los buenos valores" permite trabajar competencias sociales y emocionales fundamentales mediante actividades significativas y adaptadas a 1º de Primaria.
+<br>
+
+A través del juego, la reflexión y la cooperación, el alumnado descubre que cada persona puede contribuir a crear una convivencia más respetuosa, amable e inclusiva.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo el desarrollo integral del alumnado y la construcción de una ciudadanía responsable desde las primeras etapas educativas.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-jardin-de-las-buenas-acciones-1-primaria",
+  title: "Situación de aprendizaje: El jardín de las buenas acciones para 1º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Religión para 1º de Primaria centrada en el amor, la amistad, el cuidado de los demás y las buenas acciones según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "primero-de-primaria",
+  subject: "religion",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 16,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 1º de Primaria donde el alumnado descubre la importancia del amor, la amistad y las buenas acciones a través de experiencias significativas y adaptadas a su edad.",
+  content: `
+# Situación de aprendizaje: El jardín de las buenas acciones para 1º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado crear un jardín simbólico formado por flores, plantas y mensajes relacionados con las buenas acciones y los valores cristianos.
+<br>
+A través de cuentos, dinámicas cooperativas, actividades artísticas y momentos de reflexión, los estudiantes comprenderán la importancia de ayudar a los demás, compartir, respetar y mostrar amor hacia las personas de su entorno.
+<br>
+
+## Justificación
+<br>
+La enseñanza religiosa en los primeros cursos de Primaria debe favorecer el desarrollo de valores relacionados con el amor, la solidaridad, el respeto y la convivencia.
+<br>
+Mediante experiencias cercanas y significativas, el alumnado puede comprender cómo pequeñas acciones cotidianas contribuyen al bienestar de las personas y reflejan valores presentes en el mensaje cristiano.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+1º de Primaria.
+<br>
+
+### Área
+<br>
+
+Religión.
+<br>
+
+### Temporalización
+<br>
+
+5 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un gran mural denominado:
+<br>
+
+**"El jardín de las buenas acciones"**
+<br>
+
+Cada alumno añadirá flores, hojas y dibujos que representen acciones positivas realizadas en su vida diaria.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar acciones relacionadas con el amor y la ayuda a los demás.
+- Conocer ejemplos sencillos de valores cristianos.
+- Desarrollar actitudes de respeto y convivencia.
+- Participar en actividades cooperativas.
+- Reflexionar sobre la importancia de las buenas acciones.
+- Expresar sentimientos y experiencias positivas.
+- Valorar la amistad y el compañerismo.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer valores presentes en situaciones cotidianas.
+- Identificar comportamientos relacionados con el amor y la solidaridad.
+- Participar en experiencias de convivencia positiva.
+- Expresar de forma sencilla ideas y sentimientos relacionados con los valores trabajados.
+<br>
+
+## Saberes básicos
+<br>
+
+- El valor de la amistad.
+- El respeto hacia los demás.
+- La ayuda y la colaboración.
+- El amor al prójimo.
+- Las buenas acciones.
+- La convivencia positiva.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica comportamientos adecuados hacia otras personas.
+- Participa activamente en las actividades propuestas.
+- Colabora con compañeros y docentes.
+- Expresa acciones positivas mediante dibujos y explicaciones sencillas.
+- Respeta las normas de convivencia.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en experiencias.
+- Narraciones y cuentos.
+- Trabajo cooperativo.
+- Actividades artísticas.
+- Reflexión guiada.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Descubrimos el jardín especial
+<br>
+
+### Actividad inicial
+<br>
+
+Lectura de un cuento relacionado con la amistad y la ayuda a los demás.
+<br>
+
+### Actividad principal
+<br>
+
+Conversación guiada sobre acciones positivas realizadas en casa y en el colegio.
+<br>
+
+### Actividad final
+<br>
+
+Diseño de una flor personal para el jardín.
+<br>
+
+## Sesión 2. Las flores de la amistad
+<br>
+
+### Actividad principal
+<br>
+
+Dinámicas cooperativas donde el alumnado realiza acciones de ayuda y colaboración.
+<br>
+
+### Reflexión
+<br>
+
+¿Cómo nos sentimos cuando ayudamos a otra persona?
+<br>
+
+## Sesión 3. Las hojas del respeto
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de situaciones relacionadas con:
+<br>
+
+- Escuchar.
+- Compartir.
+- Respetar turnos.
+- Cuidar a los compañeros.
+<br>
+
+### Actividad artística
+<br>
+
+Creación de hojas decoradas con mensajes positivos.
+<br>
+
+## Sesión 4. Sembramos buenas acciones
+<br>
+
+### Actividad principal
+<br>
+
+Cada alumno propone acciones sencillas que puede realizar para ayudar a otras personas.
+<br>
+
+### Elaboración
+<br>
+
+Incorporación de estas acciones al mural colectivo.
+<br>
+
+## Sesión 5. Inauguramos el jardín
+<br>
+
+### Actividad principal
+<br>
+
+Montaje y presentación del mural final.
+<br>
+
+### Exposición
+<br>
+
+Cada estudiante explica una acción positiva representada en su flor o en su hoja.
+<br>
+
+### Celebración final
+<br>
+
+Valoración conjunta del trabajo realizado.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se aplicarán medidas como:
+<br>
+
+- Apoyos visuales.
+- Adaptación de materiales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Producciones realizadas por el alumnado.
+- Autoevaluación oral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Reconoce acciones positivas.
+- Colabora con sus compañeros.
+- Expresa ideas relacionadas con los valores trabajados.
+- Respeta las normas de convivencia.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Educación Artística: elaboración del mural.
+- Lengua: cuentos y expresión oral.
+- Valores Cívicos y Éticos: convivencia y respeto.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los aprendizajes desarrollados ayudan al alumnado a comprender que las buenas acciones forman parte de la vida cotidiana y contribuyen a construir relaciones positivas con familiares, amigos y compañeros.
+<br>
+
+Además, favorecen la adquisición de hábitos relacionados con el respeto, la empatía y la ayuda mutua.
+<br>
+
+## Conclusión
+<br>
+
+"El jardín de las buenas acciones" permite al alumnado de 1º de Primaria descubrir la importancia de valores como la amistad, el respeto y la solidaridad mediante experiencias cercanas y significativas.
+<br>
+
+A través de actividades cooperativas, reflexiones sencillas y producciones artísticas, los estudiantes desarrollan actitudes positivas que favorecen una convivencia respetuosa y enriquecedora.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y contribuye al desarrollo integral del alumnado mediante experiencias educativas basadas en valores y en el crecimiento personal.
+`
+},
+{
   slug: "situacion-aprendizaje-halloween-educacion-artistica-2-primaria",
   title: "Situación de aprendizaje de Halloween para Educación Artística en 2º de Primaria",
   metaDescription:
