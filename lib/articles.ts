@@ -6767,6 +6767,4833 @@ La propuesta se encuentra alineada con los principios de la LOMLOE y contribuye 
 `
 },
 {
+  slug: "situacion-aprendizaje-periodistas-del-colegio-segundo-primaria",
+  title: "Situación de aprendizaje: Periodistas del colegio para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Lengua Castellana y Literatura para 2º de Primaria centrada en la comunicación oral, la lectura y la elaboración de noticias.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "lengua",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 2º de Primaria en la que el alumnado se convierte en periodista para investigar, redactar y presentar noticias del entorno escolar.",
+  content: `
+# Situación de aprendizaje: Periodistas del colegio para 2º de Primaria
+
+## Descripción
+<br>
+En esta situación de aprendizaje, el alumnado asumirá el papel de periodistas escolares con la misión de investigar acontecimientos de su entorno cercano, entrevistar a miembros de la comunidad educativa y elaborar noticias sencillas para compartir con sus compañeros.
+<br>
+A través de esta propuesta se trabajarán la lectura, la expresión oral, la escritura y la comprensión de textos informativos mediante actividades motivadoras y significativas.
+<br>
+
+## Justificación
+<br>
+La comunicación constituye una herramienta esencial para el desarrollo personal y académico del alumnado. Durante 2º de Primaria resulta especialmente importante consolidar la lectura comprensiva, ampliar el vocabulario y mejorar la capacidad de expresión oral y escrita.
+<br>
+La elaboración de noticias permite trabajar estos aspectos desde una perspectiva funcional y cercana, favoreciendo además la creatividad, la investigación y el aprendizaje cooperativo.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+Creación de un pequeño periódico escolar o mural informativo elaborado por toda la clase.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender textos informativos sencillos.
+- Identificar las partes básicas de una noticia.
+- Mejorar la expresión oral mediante entrevistas y exposiciones.
+- Desarrollar la expresión escrita.
+- Ampliar el vocabulario relacionado con la comunicación.
+- Trabajar de forma cooperativa.
+- Presentar información de manera clara y organizada.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos escritos adecuados a su edad.
+- Producir textos breves con intención comunicativa.
+- Participar en intercambios orales respetando las normas de comunicación.
+- Utilizar diferentes recursos para obtener información.
+<br>
+
+## Saberes básicos
+<br>
+
+- Comprensión lectora.
+- Expresión oral.
+- Expresión escrita.
+- Vocabulario relacionado con la comunicación.
+- Tipologías textuales básicas.
+- Escucha activa.
+- Normas de interacción comunicativa.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende la información principal de textos breves.
+- Identifica elementos básicos de una noticia.
+- Participa activamente en actividades orales.
+- Redacta textos sencillos y comprensibles.
+- Respeta las normas de comunicación y convivencia.
+- Colabora en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Aprendizaje basado en proyectos.
+- Descubrimiento guiado.
+- Lectura compartida.
+- Actividades manipulativas.
+<br>
+
+El alumnado asumirá un papel activo durante todo el proceso de aprendizaje.
+<br>
+
+## Sesión 1. ¿Qué hacen los periodistas?
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación guiada sobre los medios de comunicación.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura y análisis de noticias adaptadas a la edad del alumnado.
+<br>
+
+### Actividad final
+<br>
+
+Identificación de:
+<br>
+
+- Titular.
+- Imagen.
+- Información principal.
+<br>
+
+## Sesión 2. Investigamos nuestro colegio
+<br>
+
+### Actividad principal
+<br>
+
+Los alumnos identifican posibles noticias relacionadas con:
+<br>
+
+- Actividades escolares.
+- Deportes.
+- Excursiones.
+- Celebraciones.
+<br>
+
+### Actividad final
+<br>
+
+Selección de temas para trabajar durante el proyecto.
+<br>
+
+## Sesión 3. Aprendemos a entrevistar
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de preguntas sencillas para realizar entrevistas.
+<br>
+
+Ejemplos:
+<br>
+
+- ¿Cuál es tu actividad favorita?
+- ¿Qué es lo que más te gusta del colegio?
+- ¿Qué aprendiste en la última excursión?
+<br>
+
+### Juego práctico
+<br>
+
+Simulación de entrevistas por parejas.
+<br>
+
+## Sesión 4. Escribimos nuestras noticias
+<br>
+
+### Actividad principal
+<br>
+
+Redacción de noticias breves con ayuda del docente.
+<br>
+
+Estructura:
+<br>
+
+- Titular.
+- Información principal.
+- Imagen o dibujo.
+<br>
+
+### Actividad complementaria
+<br>
+
+Revisión colectiva de los textos.
+<br>
+
+## Sesión 5. Diseñamos el periódico
+<br>
+
+### Actividad principal
+<br>
+
+Organización de las noticias elaboradas.
+<br>
+
+Los alumnos:
+<br>
+
+- Decoran.
+- Ilustran.
+- Ordenan contenidos.
+- Elaboran el diseño final.
+<br>
+
+## Sesión 6. Presentamos nuestras noticias
+<br>
+
+### Actividad principal
+<br>
+
+Presentación oral del periódico escolar.
+<br>
+
+Cada grupo expone su noticia al resto de compañeros.
+<br>
+
+### Reflexión final
+<br>
+
+Los estudiantes comentan:
+<br>
+
+- Qué han aprendido.
+- Qué les ha resultado más interesante.
+- Qué les gustaría investigar en el futuro.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Textos adaptados a diferentes niveles.
+- Apoyos visuales.
+- Lectura compartida.
+- Agrupamientos flexibles.
+- Refuerzos individualizados cuando sea necesario.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Observación directa.
+- Producciones escritas.
+- Exposiciones orales.
+- Rúbrica de evaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende textos informativos sencillos.
+- Utiliza vocabulario adecuado.
+- Participa activamente en entrevistas y debates.
+- Redacta noticias breves con coherencia.
+- Colabora positivamente con sus compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La situación de aprendizaje puede relacionarse con:
+<br>
+
+- Educación Artística: diseño del periódico.
+- Ciencias Sociales: acontecimientos del entorno.
+- Competencia Digital: búsqueda guiada de información.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado descubre cómo se transmite la información en la sociedad y comprende la importancia de la comunicación para conocer acontecimientos de su entorno.
+<br>
+
+La elaboración de noticias permite conectar los aprendizajes escolares con situaciones reales presentes en su vida cotidiana.
+<br>
+
+## Conclusión
+<br>
+
+"Periodistas del colegio" constituye una situación de aprendizaje motivadora y significativa para 2º de Primaria. A través de la investigación, la lectura, la escritura y la comunicación oral, el alumnado desarrolla competencias lingüísticas fundamentales mientras participa activamente en la creación de un periódico escolar.
+<br>
+
+La propuesta favorece la autonomía, la creatividad y el trabajo cooperativo, permitiendo que los estudiantes comprendan la utilidad real de la lengua como herramienta para informar, comunicar y compartir experiencias con los demás.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-detectives-de-las-formas-y-los-numeros-2-primaria",
+  title: "Situación de aprendizaje: Los detectives de las formas y los números para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 2º de Primaria centrada en la resolución de problemas, la numeración, las formas geométricas y el razonamiento matemático.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 17,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 2º de Primaria donde el alumnado se convierte en detective matemático para resolver enigmas relacionados con números, operaciones y formas geométricas.",
+  content: `
+# Situación de aprendizaje: Los detectives de las formas y los números para 2º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje convierte al alumnado en un equipo de detectives matemáticos que deberá resolver una serie de misterios utilizando números, cálculos, formas geométricas y estrategias de razonamiento.
+<br>
+A través de desafíos, misiones y pruebas adaptadas a su edad, los estudiantes desarrollarán competencias matemáticas mientras colaboran para descubrir quién ha robado las piezas de un valioso mapa matemático.
+<br>
+
+## Justificación
+<br>
+Las matemáticas adquieren mayor significado cuando se presentan a través de situaciones motivadoras y cercanas al alumnado.
+<br>
+La resolución de enigmas y problemas favorece el razonamiento lógico, la autonomía y la participación activa, aspectos fundamentales dentro del enfoque competencial promovido por la LOMLOE.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+2º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Reconstrucción de un gran mapa matemático compuesto por diferentes piezas obtenidas tras superar cada uno de los retos planteados durante la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Consolidar la numeración hasta el nivel correspondiente al curso.
+- Resolver problemas matemáticos sencillos.
+- Utilizar estrategias personales de cálculo.
+- Reconocer figuras geométricas básicas.
+- Interpretar información numérica.
+- Desarrollar el razonamiento lógico.
+- Participar activamente en actividades cooperativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver situaciones problemáticas utilizando estrategias adecuadas.
+- Aplicar conocimientos matemáticos en contextos cercanos.
+- Utilizar diferentes representaciones matemáticas.
+- Comunicar procesos y soluciones de forma sencilla.
+<br>
+
+## Saberes básicos
+<br>
+
+- Numeración.
+- Sumas y restas.
+- Resolución de problemas.
+- Figuras geométricas.
+- Medidas básicas.
+- Patrones y secuencias.
+- Razonamiento lógico.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Utiliza estrategias para resolver problemas.
+- Reconoce números y cantidades.
+- Realiza cálculos adaptados al nivel.
+- Identifica figuras geométricas básicas.
+- Participa activamente en los retos propuestos.
+- Colabora con el equipo en la resolución de las tareas.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en retos.
+- Gamificación.
+- Aprendizaje cooperativo.
+- Resolución de problemas.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Comienza la investigación
+<br>
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta donde se informa de la desaparición de las piezas de un mapa matemático.
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de enigmas relacionados con números y cantidades.
+<br>
+
+### Recompensa
+<br>
+
+Obtención de la primera pieza del mapa.
+<br>
+
+## Sesión 2. El misterio de los números perdidos
+<br>
+
+### Actividad principal
+<br>
+
+Completar series numéricas.
+<br>
+
+Ordenar números.
+<br>
+
+Comparar cantidades utilizando símbolos matemáticos sencillos.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar la comprensión numérica.
+<br>
+
+## Sesión 3. Los secretos de las operaciones
+<br>
+
+### Actividad principal
+<br>
+
+Retos relacionados con:
+<br>
+
+- Sumas.
+- Restas.
+- Resolución de situaciones cotidianas.
+<br>
+
+### Objetivo
+<br>
+
+Aplicar operaciones básicas para resolver problemas.
+<br>
+
+## Sesión 4. La búsqueda de las figuras misteriosas
+<br>
+
+### Actividad principal
+<br>
+
+Identificación y clasificación de:
+<br>
+
+- Círculos.
+- Cuadrados.
+- Triángulos.
+- Rectángulos.
+<br>
+
+### Reto final
+<br>
+
+Construcción de figuras utilizando materiales manipulativos.
+<br>
+
+## Sesión 5. El laboratorio de los detectives
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de problemas matemáticos cooperativos.
+<br>
+
+Cada equipo deberá interpretar pistas para encontrar una nueva pieza del mapa.
+<br>
+
+## Sesión 6. Reconstruimos el mapa matemático
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos unen las piezas obtenidas durante toda la investigación.
+<br>
+
+### Desafío final
+<br>
+
+Resolver un último reto matemático para completar la misión.
+<br>
+
+### Celebración
+<br>
+
+Entrega del diploma de detective matemático.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Material manipulativo.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes niveles de dificultad.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica simplificada.
+- Actividades prácticas.
+- Autoevaluación guiada.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa en las actividades.
+- Resuelve problemas adaptados a su nivel.
+- Utiliza correctamente los números.
+- Reconoce formas geométricas.
+- Coopera con el grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: lectura de pistas y enigmas.
+- Educación Artística: diseño del mapa matemático.
+- Ciencias Sociales: orientación espacial.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los contenidos trabajados permiten al alumnado utilizar las matemáticas para interpretar y resolver situaciones presentes en su entorno cotidiano.
+<br>
+
+Las habilidades relacionadas con el cálculo, la observación y el razonamiento resultan útiles tanto dentro como fuera de la escuela.
+<br>
+
+## Conclusión
+<br>
+
+"Los detectives de las formas y los números" transforma el aprendizaje matemático en una aventura motivadora donde el alumnado investiga, resuelve problemas y colabora con sus compañeros para alcanzar un objetivo común.
+<br>
+
+A través de experiencias significativas y contextualizadas, los estudiantes desarrollan competencias matemáticas fundamentales mientras fortalecen su autonomía, su razonamiento lógico y su confianza para afrontar nuevos desafíos.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con la realidad del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-guardianes-del-planeta-2-primaria",
+  title: "Situación de aprendizaje: Los guardianes del planeta para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Naturales para 2º de Primaria centrada en el cuidado del medio ambiente, los seres vivos y la protección de la naturaleza según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "ciencias-naturales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 17,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 2º de Primaria donde el alumnado se convierte en guardián del planeta y aprende a cuidar la naturaleza mediante retos, experimentos y actividades cooperativas.",
+  content: `
+# Situación de aprendizaje: Los guardianes del planeta para 2º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje convierte al alumnado en un equipo de guardianes del planeta cuya misión será proteger la naturaleza mediante acciones responsables relacionadas con el cuidado de los seres vivos y del medio ambiente.
+<br>
+A través de actividades prácticas, observaciones, investigaciones sencillas y retos cooperativos, los estudiantes descubrirán la importancia de conservar el entorno natural y adoptar hábitos sostenibles.
+<br>
+
+## Justificación
+<br>
+El cuidado del medio ambiente constituye uno de los grandes desafíos de la sociedad actual. Desde edades tempranas es fundamental desarrollar actitudes de respeto hacia la naturaleza, favoreciendo la adquisición de hábitos responsables que contribuyan a la conservación del planeta.
+<br>
+Las Ciencias Naturales ofrecen una excelente oportunidad para acercar estos aprendizajes al alumnado mediante experiencias significativas y contextualizadas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+2º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Naturales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un "Manual de los Guardianes del Planeta" donde el alumnado recogerá normas, consejos, dibujos y compromisos relacionados con el cuidado del medio ambiente.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar elementos del medio natural.
+- Reconocer la importancia de proteger el entorno.
+- Diferenciar acciones beneficiosas y perjudiciales para la naturaleza.
+- Conocer necesidades básicas de animales y plantas.
+- Participar en actividades de observación e investigación.
+- Fomentar hábitos sostenibles.
+- Desarrollar actitudes de respeto hacia los seres vivos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Observar y explorar el entorno natural.
+- Comprender algunas relaciones básicas entre seres vivos y medio ambiente.
+- Adoptar comportamientos responsables con el entorno.
+- Participar en experiencias científicas sencillas.
+<br>
+
+## Saberes básicos
+<br>
+
+- Los seres vivos.
+- Animales y plantas.
+- Necesidades de los seres vivos.
+- El medio ambiente.
+- Hábitos sostenibles.
+- Observación científica.
+- Protección de la naturaleza.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica características básicas de animales y plantas.
+- Reconoce acciones relacionadas con el cuidado del medio ambiente.
+- Participa activamente en actividades de investigación.
+- Muestra actitudes responsables hacia el entorno.
+- Colabora en actividades grupales.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje por indagación.
+- Observación directa.
+- Aprendizaje cooperativo.
+- Resolución de retos.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Recibimos la misión
+<br>
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta donde se solicita ayuda para proteger el planeta.
+<br>
+
+### Actividad principal
+<br>
+
+Lluvia de ideas sobre problemas medioambientales cercanos.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué podemos hacer para ayudar al planeta?
+<br>
+
+## Sesión 2. Descubrimos los seres vivos
+<br>
+
+### Actividad principal
+<br>
+
+Clasificación de elementos según:
+<br>
+
+- Seres vivos.
+- Elementos no vivos.
+<br>
+
+### Actividad final
+<br>
+
+Elaboración de fichas sencillas sobre animales y plantas.
+<br>
+
+## Sesión 3. Investigamos las necesidades de las plantas
+<br>
+
+### Actividad principal
+<br>
+
+Pequeño experimento relacionado con el crecimiento de una planta.
+<br>
+
+### Observación
+<br>
+
+Registro de cambios y características observadas.
+<br>
+
+## Sesión 4. Detectives del reciclaje
+<br>
+
+### Actividad principal
+<br>
+
+Clasificación de residuos en diferentes contenedores.
+<br>
+
+### Juego
+<br>
+
+Carrera de reciclaje por equipos.
+<br>
+
+## Sesión 5. Los superhéroes ecológicos
+<br>
+
+### Actividad principal
+<br>
+
+Diseño de carteles con acciones para proteger el medio ambiente.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Creación de compromisos ecológicos para la clase.
+<br>
+
+## Sesión 6. Elaboramos el manual del planeta
+<br>
+
+### Actividad principal
+<br>
+
+Creación y presentación del Manual de los Guardianes del Planeta.
+<br>
+
+### Exposición
+<br>
+
+Cada grupo explica las recomendaciones elaboradas.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de Guardián del Planeta.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Apoyos visuales.
+- Actividades multinivel.
+- Material manipulativo.
+- Agrupamientos flexibles.
+- Adaptación de tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Cuaderno de observación.
+- Producciones del alumnado.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce seres vivos del entorno.
+- Identifica acciones de cuidado ambiental.
+- Participa en investigaciones sencillas.
+- Colabora con sus compañeros.
+- Muestra actitudes responsables hacia la naturaleza.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: elaboración de normas y textos sencillos.
+- Educación Artística: diseño de carteles ecológicos.
+- Matemáticas: clasificación y representación de datos.
+- Ciencias Sociales: cuidado de espacios comunes.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los aprendizajes desarrollados ayudan al alumnado a comprender que las acciones individuales influyen directamente en el estado del medio ambiente.
+<br>
+
+A través de hábitos sencillos, los estudiantes descubren que pueden contribuir activamente a la protección de la naturaleza.
+<br>
+
+## Conclusión
+<br>
+
+"Los guardianes del planeta" permite acercar las Ciencias Naturales al alumnado de 2º de Primaria mediante experiencias prácticas relacionadas con el cuidado del entorno y de los seres vivos.
+<br>
+
+A través de retos, observaciones e investigaciones sencillas, los estudiantes desarrollan conocimientos científicos básicos mientras fortalecen actitudes de respeto, responsabilidad y compromiso con la naturaleza.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con los retos ambientales del mundo actual.
+`
+},
+{
+  slug: "situacion-aprendizaje-descubrimos-nuestro-entorno-segundo-primaria",
+  title: "Situación de aprendizaje: Descubrimos nuestro entorno para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Sociales para 2º de Primaria centrada en el entorno cercano, los servicios de la localidad y la orientación espacial según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "ciencias-sociales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Ciencias Sociales para 2º de Primaria en la que el alumnado explora su entorno, identifica servicios y elabora un plano sencillo de su localidad.",
+  content: `
+# Situación de aprendizaje: Descubrimos nuestro entorno para 2º de Primaria
+
+## Descripción
+<br>
+En esta situación de aprendizaje, el alumnado se convertirá en explorador de su localidad para descubrir los lugares, servicios y espacios más importantes de su entorno cercano.
+<br>
+A través de actividades de observación, investigación y representación gráfica, los estudiantes conocerán mejor el lugar donde viven y desarrollarán competencias relacionadas con la orientación espacial y la ciudadanía.
+<br>
+
+## Justificación
+<br>
+Comprender el entorno próximo resulta fundamental durante los primeros cursos de Educación Primaria. Los estudiantes comienzan a desarrollar una mayor autonomía y necesitan conocer los elementos que forman parte de su vida cotidiana.
+<br>
+Esta propuesta favorece que el alumnado identifique servicios, edificios y espacios importantes de la comunidad mientras desarrolla habilidades de observación, análisis y representación espacial.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+Elaboración de un gran plano ilustrado del entorno cercano donde aparezcan los principales edificios, servicios y espacios de interés de la localidad.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar elementos relevantes del entorno próximo.
+- Reconocer los principales servicios de la localidad.
+- Comprender la utilidad de los espacios públicos.
+- Desarrollar habilidades de observación y orientación.
+- Representar espacios mediante planos sencillos.
+- Fomentar el respeto hacia el entorno.
+- Participar activamente en actividades cooperativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Identificar características del entorno cercano.
+- Reconocer elementos básicos de organización social y territorial.
+- Interpretar representaciones espaciales sencillas.
+- Participar activamente en actividades relacionadas con el entorno.
+<br>
+
+## Saberes básicos
+<br>
+
+- La localidad.
+- Servicios públicos.
+- Espacios de convivencia.
+- Orientación espacial.
+- Representaciones gráficas sencillas.
+- Normas de convivencia y respeto.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica elementos del entorno próximo.
+- Reconoce servicios y edificios públicos.
+- Utiliza vocabulario relacionado con la localidad.
+- Participa activamente en investigaciones sencillas.
+- Interpreta y representa espacios básicos.
+- Colabora con sus compañeros en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Observación directa.
+- Descubrimiento guiado.
+- Actividades manipulativas.
+<br>
+
+El alumnado actuará como protagonista del proceso de aprendizaje.
+<br>
+
+## Sesión 1. Conocemos nuestra localidad
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación guiada sobre los lugares que los alumnos conocen de su localidad.
+<br>
+
+### Actividad principal
+<br>
+
+Clasificación de imágenes relacionadas con:
+<br>
+
+- Ayuntamiento.
+- Colegio.
+- Biblioteca.
+- Centro de salud.
+- Parque.
+<br>
+
+### Actividad final
+<br>
+
+Creación de un mural inicial de ideas previas.
+<br>
+
+## Sesión 2. Los servicios que nos ayudan
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de diferentes servicios públicos.
+<br>
+
+Los alumnos analizan:
+<br>
+
+- Para qué sirven.
+- Quién trabaja allí.
+- Cómo ayudan a la población.
+<br>
+
+### Juego
+<br>
+
+"Adivina el servicio".
+<br>
+
+## Sesión 3. Exploradores del entorno
+<br>
+
+### Actividad principal
+<br>
+
+Observación de fotografías o recorrido guiado por los alrededores del centro.
+<br>
+
+Los estudiantes anotan elementos importantes que observan.
+<br>
+
+### Registro
+<br>
+
+- Edificios.
+- Calles.
+- Monumentos.
+- Zonas verdes.
+<br>
+
+## Sesión 4. Aprendemos a orientarnos
+<br>
+
+### Actividad principal
+<br>
+
+Trabajo sobre conceptos espaciales básicos:
+<br>
+
+- Delante.
+- Detrás.
+- Cerca.
+- Lejos.
+- Derecha.
+- Izquierda.
+<br>
+
+### Actividad práctica
+<br>
+
+Juegos de orientación dentro del aula o patio.
+<br>
+
+## Sesión 5. Diseñamos nuestro plano
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos comienzan la elaboración de un plano sencillo del entorno.
+<br>
+
+Deberán incluir:
+<br>
+
+- Lugares importantes.
+- Calles principales.
+- Espacios públicos.
+<br>
+
+### Actividad complementaria
+<br>
+
+Decoración e incorporación de leyendas y símbolos.
+<br>
+
+## Sesión 6. Presentamos nuestro entorno
+<br>
+
+### Actividad principal
+<br>
+
+Exposición de los planos realizados.
+<br>
+
+Cada grupo explica:
+<br>
+
+- Los lugares representados.
+- Su importancia.
+- Los servicios que ofrece cada espacio.
+<br>
+
+### Reflexión final
+<br>
+
+Debate sobre cómo podemos cuidar y respetar nuestro entorno.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Apoyos visuales.
+- Material manipulativo.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Adaptación de tareas según necesidades.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica.
+- Producciones gráficas.
+- Participación oral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce espacios y servicios de su entorno.
+- Utiliza vocabulario específico.
+- Participa en las actividades de investigación.
+- Interpreta representaciones espaciales básicas.
+- Colabora en el trabajo grupal.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La situación puede relacionarse con:
+<br>
+
+- Lengua: descripción de lugares.
+- Matemáticas: orientación y posiciones espaciales.
+- Educación Artística: elaboración del plano.
+- Educación en Valores: convivencia y respeto.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado trabaja sobre espacios y situaciones que forman parte de su vida cotidiana, favoreciendo aprendizajes cercanos y significativos.
+<br>
+
+La propuesta ayuda a comprender mejor la organización del entorno y la importancia de los servicios que facilitan la vida en comunidad.
+<br>
+
+## Conclusión
+<br>
+
+"Descubrimos nuestro entorno" permite que el alumnado de 2º de Primaria desarrolle competencias sociales y espaciales mediante experiencias prácticas y cercanas a su realidad.
+<br>
+
+A través de la investigación, la observación y la elaboración de un plano colectivo, los estudiantes conocen mejor la localidad en la que viven y aprenden a valorar los espacios y servicios que forman parte de su día a día.
+<br>
+
+La situación de aprendizaje favorece la participación activa, la cooperación y el aprendizaje significativo, alineándose plenamente con los principios metodológicos y competenciales establecidos por la LOMLOE.
+`
+},
+{
+  slug: "situacion-aprendizaje-my-town-and-community-segundo-primaria",
+  title: "Situación de aprendizaje: My Town and Community para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Inglés para 2º de Primaria centrada en los lugares de la ciudad, las profesiones y la comunicación oral según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "ingles",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Inglés para 2º de Primaria en la que el alumnado descubre su ciudad, sus servicios y profesiones mediante juegos y actividades comunicativas.",
+  content: `
+# Situación de aprendizaje: My Town and Community para 2º de Primaria
+
+## Descripción
+<br>
+En esta situación de aprendizaje el alumnado se convertirá en pequeño explorador de una ciudad imaginaria donde deberá descubrir diferentes lugares, servicios y profesiones utilizando vocabulario y expresiones básicas en lengua inglesa.
+<br>
+A través de juegos, dramatizaciones, canciones y actividades cooperativas, los estudiantes desarrollarán habilidades comunicativas relacionadas con su entorno más cercano.
+<br>
+
+## Justificación
+<br>
+Durante 2º de Primaria resulta fundamental ampliar progresivamente el vocabulario y las estructuras básicas de comunicación en lengua extranjera.
+<br>
+Trabajar contenidos relacionados con la ciudad y la comunidad permite conectar el aprendizaje con situaciones reales y cercanas al alumnado, facilitando la comprensión y la participación activa.
+<br>
+Además, esta temática favorece el desarrollo de la competencia comunicativa mediante actividades significativas y motivadoras.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Extranjera: Inglés.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+Creación de una maqueta colaborativa de una ciudad y presentación oral sencilla de diferentes lugares y profesiones en inglés.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender vocabulario relacionado con la ciudad.
+- Identificar profesiones básicas.
+- Utilizar expresiones sencillas de localización.
+- Mejorar la comprensión y expresión oral.
+- Participar activamente en juegos comunicativos.
+- Desarrollar una actitud positiva hacia el uso del inglés.
+- Colaborar en la elaboración del producto final.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender palabras y expresiones relacionadas con el entorno.
+- Participar en intercambios comunicativos sencillos.
+- Utilizar vocabulario conocido en situaciones cercanas.
+- Comprender instrucciones y mensajes breves.
+<br>
+
+## Saberes básicos
+<br>
+
+- Places in town.
+- Jobs and professions.
+- Basic directions.
+- Simple questions and answers.
+- Classroom interaction.
+- Songs and chants.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Reconoce vocabulario relacionado con la ciudad.
+- Comprende instrucciones básicas.
+- Participa en situaciones comunicativas sencillas.
+- Utiliza expresiones trabajadas en clase.
+- Colabora con sus compañeros en actividades grupales.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en el juego.
+- Total Physical Response (TPR).
+- Aprendizaje cooperativo.
+- Canciones y dramatizaciones.
+- Actividades manipulativas.
+<br>
+
+El alumnado participará constantemente mediante actividades activas y comunicativas.
+<br>
+
+## Sesión 1. Welcome to My Town
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de una ciudad imaginaria mediante imágenes y flashcards.
+<br>
+
+### Vocabulario
+<br>
+
+- School.
+- Park.
+- Hospital.
+- Supermarket.
+- Library.
+<br>
+
+### Juego
+<br>
+
+Point and Say.
+<br>
+
+Los alumnos señalan imágenes y nombran los lugares.
+<br>
+
+## Sesión 2. Around the City
+<br>
+
+### Actividad principal
+<br>
+
+Aprendizaje de expresiones sencillas de localización.
+<br>
+
+- Next to.
+- In front of.
+- Behind.
+- Near.
+<br>
+
+### Juego
+<br>
+
+City Explorer.
+<br>
+
+El alumnado sigue indicaciones para encontrar diferentes lugares.
+<br>
+
+## Sesión 3. Community Helpers
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de profesiones básicas.
+<br>
+
+- Teacher.
+- Doctor.
+- Police officer.
+- Firefighter.
+- Shop assistant.
+<br>
+
+### Actividad final
+<br>
+
+Representación mediante mímica.
+<br>
+
+## Sesión 4. Let's Ask and Answer
+<br>
+
+### Actividad principal
+<br>
+
+Producción oral mediante preguntas sencillas.
+<br>
+
+- Where is the park?
+- Where is the hospital?
+- Who works here?
+<br>
+
+### Juego
+<br>
+
+Find the Place.
+<br>
+
+## Sesión 5. Building Our Town
+<br>
+
+### Actividad principal
+<br>
+
+Creación cooperativa de una maqueta o mural de la ciudad.
+<br>
+
+Cada grupo realiza:
+<br>
+
+- Edificios.
+- Profesiones.
+- Señales.
+- Carteles.
+<br>
+
+### Lenguaje trabajado
+<br>
+
+- This is a school.
+- This is a park.
+- This is a hospital.
+<br>
+
+## Sesión 6. Presentation Day
+<br>
+
+### Actividad principal
+<br>
+
+Presentación oral de la ciudad creada.
+<br>
+
+Cada grupo explica los elementos trabajados utilizando expresiones simples.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de City Explorer.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplan:
+<br>
+
+- Apoyos visuales.
+- Repeticiones guiadas.
+- Material manipulativo.
+- Diferentes niveles de participación.
+- Agrupamientos flexibles.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Observación directa.
+- Actividades orales.
+- Producciones grupales.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce vocabulario de la ciudad.
+- Comprende instrucciones básicas.
+- Participa en actividades comunicativas.
+- Utiliza expresiones sencillas en inglés.
+- Colabora activamente con el grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: servicios de la localidad.
+- Educación Artística: construcción de la maqueta.
+- Matemáticas: orientación espacial.
+- Educación en Valores: convivencia y ciudadanía.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado trabaja vocabulario relacionado con lugares y profesiones que forman parte de su vida cotidiana.
+<br>
+
+Esto facilita la comprensión del inglés como herramienta útil para comunicarse y comprender el entorno.
+<br>
+
+## Conclusión
+<br>
+
+"My Town and Community" permite desarrollar la comunicación oral en inglés mediante actividades cercanas, significativas y adaptadas a las características de 2º de Primaria.
+<br>
+
+A través del juego, la cooperación y la exploración del entorno, el alumnado amplía su vocabulario, mejora su comprensión y adquiere confianza para utilizar la lengua inglesa en contextos sencillos y cotidianos.
+<br>
+
+La creación de una ciudad colaborativa convierte el aprendizaje del inglés en una experiencia práctica y cercana que permite al alumnado utilizar el vocabulario y las expresiones trabajadas en contextos significativos.
+<br>
+
+A través del juego, la exploración y la interacción con sus compañeros, los estudiantes mejoran progresivamente su comprensión y expresión oral, desarrollando confianza para comunicarse en lengua inglesa.
+<br>
+
+Además, la propuesta favorece el trabajo cooperativo, la creatividad y la conexión entre el aprendizaje del idioma y la realidad cotidiana del alumnado.
+<br>
+
+"My Town and Community" se encuentra alineada con los principios de la LOMLOE, promoviendo una enseñanza competencial, activa e inclusiva donde el alumnado aprende inglés participando, comunicándose y construyendo conocimientos de manera significativa.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-constructores-de-la-convivencia-2-primaria",
+  title: "Situación de aprendizaje: Los constructores de la convivencia para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Valores Cívicos y Éticos para 2º de Primaria centrada en la convivencia, el respeto, la empatía y la resolución pacífica de conflictos según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "valores-civicos",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 17,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 2º de Primaria donde el alumnado aprende a mejorar la convivencia escolar mediante actividades cooperativas, reflexión y resolución de conflictos.",
+  content: `
+# Situación de aprendizaje: Los constructores de la convivencia para 2º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone que el alumnado se convierta en un equipo de constructores encargado de crear una escuela donde predominen el respeto, la amistad, la empatía y la cooperación.
+<br>
+A través de juegos, dinámicas cooperativas, cuentos, dramatizaciones y actividades de reflexión, los estudiantes desarrollarán habilidades para convivir de forma positiva y resolver pequeños conflictos de manera pacífica.
+<br>
+
+## Justificación
+<br>
+La convivencia escolar constituye uno de los pilares fundamentales del desarrollo personal y social del alumnado.
+<br>
+Durante los primeros cursos de Primaria resulta esencial trabajar habilidades relacionadas con el respeto, la empatía, la resolución de conflictos y la cooperación para favorecer un clima positivo tanto dentro como fuera del aula.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+2º de Primaria.
+<br>
+
+### Área
+<br>
+
+Valores Cívicos y Éticos.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un mural cooperativo denominado:
+<br>
+
+**"La escuela de la buena convivencia"**
+<br>
+
+El alumnado diseñará diferentes espacios donde aparecerán normas, acciones positivas y ejemplos de convivencia respetuosa.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Reconocer comportamientos adecuados para la convivencia.
+- Desarrollar actitudes de respeto hacia los demás.
+- Practicar la empatía en situaciones cotidianas.
+- Resolver conflictos sencillos mediante el diálogo.
+- Participar en actividades cooperativas.
+- Valorar la diversidad presente en el grupo.
+- Fomentar la responsabilidad personal.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer valores relacionados con la convivencia democrática.
+- Participar en situaciones cooperativas respetando las normas.
+- Desarrollar habilidades de diálogo y escucha activa.
+- Identificar emociones propias y ajenas en situaciones cotidianas.
+<br>
+
+## Saberes básicos
+<br>
+
+- El respeto.
+- La empatía.
+- La amistad.
+- La cooperación.
+- La diversidad.
+- Las normas de convivencia.
+- Resolución pacífica de conflictos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Respeta las opiniones de los demás.
+- Coopera en tareas grupales.
+- Identifica comportamientos adecuados e inadecuados.
+- Utiliza el diálogo para resolver situaciones de conflicto.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Aprendizaje basado en experiencias.
+- Dramatizaciones.
+- Juegos de rol.
+- Reflexión guiada.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Construimos una buena convivencia
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación sobre qué significa convivir con otras personas.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de acciones positivas y negativas en diferentes situaciones escolares.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué podemos hacer para mejorar nuestra clase?
+<br>
+
+## Sesión 2. El poder del respeto
+<br>
+
+### Actividad principal
+<br>
+
+Dinámicas relacionadas con:
+<br>
+
+- Escuchar.
+- Esperar turnos.
+- Respetar opiniones.
+- Cuidar materiales comunes.
+<br>
+
+### Objetivo
+<br>
+
+Comprender la importancia del respeto mutuo.
+<br>
+
+## Sesión 3. Aprendemos a ponernos en el lugar de los demás
+<br>
+
+### Actividad principal
+<br>
+
+Juegos y dramatizaciones sobre situaciones cotidianas.
+<br>
+
+Por ejemplo:
+<br>
+
+- Un compañero que necesita ayuda.
+- Un compañero que está solo.
+- Un desacuerdo en el recreo.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar la empatía.
+<br>
+
+## Sesión 4. Resolvemos conflictos hablando
+<br>
+
+### Actividad principal
+<br>
+
+Representación de pequeños conflictos escolares.
+<br>
+
+El alumnado buscará soluciones mediante:
+<br>
+
+- El diálogo.
+- La escucha.
+- El respeto.
+<br>
+
+## Sesión 5. Cooperamos para construir
+<br>
+
+### Actividad principal
+<br>
+
+Retos cooperativos donde el éxito depende del trabajo conjunto.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué ocurre cuando colaboramos?
+<br>
+
+## Sesión 6. Creamos nuestra escuela ideal
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración del mural cooperativo.
+<br>
+
+Cada alumno aporta:
+<br>
+
+- Dibujos.
+- Normas positivas.
+- Acciones relacionadas con la convivencia.
+<br>
+
+### Presentación final
+<br>
+
+Explicación del mural al resto del grupo.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Apoyos visuales.
+- Actividades multinivel.
+- Diferentes formas de participación.
+- Agrupamientos flexibles.
+- Adaptación de materiales.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Autoevaluación guiada.
+- Producciones realizadas por el alumnado.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Muestra comportamientos respetuosos.
+- Coopera con sus compañeros.
+- Identifica emociones y necesidades de otras personas.
+- Utiliza estrategias pacíficas para resolver conflictos.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: expresión oral y diálogo.
+- Educación Artística: elaboración del mural final.
+- Educación Física: juegos cooperativos.
+- Religión: valores relacionados con el respeto y la ayuda a los demás.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los aprendizajes desarrollados forman parte de numerosas situaciones que el alumnado experimenta diariamente en la escuela, la familia y otros contextos sociales.
+<br>
+
+Comprender la importancia del respeto, la empatía y la cooperación favorece relaciones más positivas y una mejor convivencia.
+<br>
+
+## Conclusión
+<br>
+
+"Los constructores de la convivencia" permite al alumnado de 2º de Primaria desarrollar habilidades sociales y emocionales fundamentales mediante experiencias prácticas y significativas.
+<br>
+
+A través del diálogo, la cooperación y la reflexión, los estudiantes aprenden a convivir de forma respetuosa y responsable mientras fortalecen valores esenciales para su desarrollo personal y social.
+<br>
+
+La creación de una escuela ideal ayuda al alumnado a comprender que cada persona puede contribuir a construir un entorno más amable, inclusivo y seguro mediante pequeñas acciones cotidianas.
+<br>
+
+Además, las actividades propuestas favorecen la empatía, la escucha activa y la resolución pacífica de conflictos, aspectos fundamentales para el bienestar individual y colectivo.
+<br>
+
+"Los constructores de la convivencia" se encuentra alineada con los principios de la LOMLOE y promueve una educación basada en valores, el respeto a los demás y la participación activa dentro de la comunidad educativa.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-amigos-de-jesus-2-primaria",
+  title: "Situación de aprendizaje: Los amigos de Jesús para 2º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Religión para 2º de Primaria centrada en la amistad, la ayuda a los demás y los valores cristianos según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "segundo-de-primaria",
+  subject: "religion",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 17,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 2º de Primaria donde el alumnado descubre cómo Jesús enseñó valores como la amistad, la solidaridad y el respeto hacia los demás.",
+  content: `
+# Situación de aprendizaje: Los amigos de Jesús para 2º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje invita al alumnado a descubrir quiénes fueron los amigos de Jesús y qué enseñanzas transmitió sobre la amistad, la ayuda mutua, la solidaridad y el amor hacia los demás.
+<br>
+A través de relatos bíblicos adaptados, dinámicas cooperativas, actividades artísticas y momentos de reflexión, los estudiantes comprenderán la importancia de construir relaciones positivas basadas en el respeto y la empatía.
+<br>
+
+## Justificación
+<br>
+La amistad constituye una experiencia fundamental en la vida de los niños y niñas. La enseñanza religiosa ofrece una oportunidad para reflexionar sobre los valores que ayudan a construir relaciones sanas y respetuosas.
+<br>
+Las enseñanzas de Jesús permiten trabajar aspectos relacionados con la ayuda a los demás, el perdón, la generosidad y la convivencia positiva desde situaciones cercanas al alumnado.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+2º de Primaria.
+<br>
+
+### Área
+<br>
+
+Religión.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un mural colaborativo denominado:
+<br>
+
+**"El árbol de la amistad"**
+<br>
+
+Cada alumno añadirá hojas con acciones relacionadas con la amistad y los valores trabajados durante la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Conocer algunas enseñanzas de Jesús relacionadas con la amistad.
+- Identificar comportamientos basados en el respeto y la ayuda mutua.
+- Valorar la importancia de compartir y colaborar.
+- Participar activamente en actividades cooperativas.
+- Reflexionar sobre las propias acciones hacia los demás.
+- Fomentar actitudes de convivencia positiva.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer valores presentes en las enseñanzas cristianas.
+- Identificar ejemplos de convivencia positiva.
+- Participar en experiencias de ayuda y cooperación.
+- Expresar ideas y sentimientos relacionados con la amistad y el respeto.
+<br>
+
+## Saberes básicos
+<br>
+
+- Jesús y sus amigos.
+- La amistad.
+- La ayuda a los demás.
+- La generosidad.
+- El respeto.
+- La convivencia.
+- Los valores cristianos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica valores relacionados con las enseñanzas de Jesús.
+- Participa activamente en las actividades propuestas.
+- Coopera con los compañeros.
+- Reconoce comportamientos adecuados para la convivencia.
+- Expresa ideas relacionadas con la amistad y el respeto.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Narraciones bíblicas adaptadas.
+- Aprendizaje cooperativo.
+- Actividades artísticas.
+- Reflexión guiada.
+- Dinámicas participativas.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Conocemos a los amigos de Jesús
+<br>
+
+### Actividad inicial
+<br>
+
+Narración adaptada sobre algunos discípulos y amigos de Jesús.
+<br>
+
+### Actividad principal
+<br>
+
+Conversación sobre qué significa ser un buen amigo.
+<br>
+
+### Actividad final
+<br>
+
+Dibujo de una situación de amistad.
+<br>
+
+## Sesión 2. Jesús enseña a ayudar
+<br>
+
+### Actividad principal
+<br>
+
+Lectura y explicación de una historia sencilla relacionada con la ayuda a los demás.
+<br>
+
+### Reflexión
+<br>
+
+¿A quién podemos ayudar cada día?
+<br>
+
+## Sesión 3. Compartimos con los demás
+<br>
+
+### Actividad principal
+<br>
+
+Dinámicas cooperativas relacionadas con compartir materiales y colaborar.
+<br>
+
+### Objetivo
+<br>
+
+Comprender la importancia de la generosidad.
+<br>
+
+## Sesión 4. Aprendemos a perdonar
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de pequeñas situaciones cotidianas donde es necesario pedir perdón o aceptar errores.
+<br>
+
+### Debate guiado
+<br>
+
+¿Por qué es importante perdonar?
+<br>
+
+## Sesión 5. Construimos nuestro árbol
+<br>
+
+### Actividad principal
+<br>
+
+El alumnado escribe o dibuja acciones relacionadas con:
+<br>
+
+- Ayudar.
+- Compartir.
+- Respetar.
+- Escuchar.
+- Perdonar.
+<br>
+
+### Elaboración
+<br>
+
+Creación colectiva del árbol de la amistad.
+<br>
+
+## Sesión 6. Celebramos la amistad
+<br>
+
+### Actividad principal
+<br>
+
+Presentación del mural final.
+<br>
+
+Cada alumno explica una acción positiva que puede realizar para ser mejor compañero.
+<br>
+
+### Reflexión final
+<br>
+
+¿Cómo podemos seguir creciendo como amigos?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de materiales.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Registro anecdótico.
+- Autoevaluación oral.
+- Producciones del alumnado.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente.
+- Identifica valores positivos.
+- Coopera con sus compañeros.
+- Expresa ideas relacionadas con la amistad.
+- Muestra actitudes de respeto y ayuda.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua: comprensión de relatos y expresión oral.
+- Educación Artística: elaboración del mural.
+- Valores Cívicos y Éticos: convivencia y respeto.
+- Educación Física: juegos cooperativos.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las enseñanzas trabajadas ayudan al alumnado a mejorar sus relaciones personales dentro de la escuela, la familia y otros contextos sociales.
+<br>
+
+Comprender la importancia de la amistad, la ayuda y el respeto favorece la construcción de una convivencia más positiva y enriquecedora.
+<br>
+
+## Conclusión
+<br>
+
+"Los amigos de Jesús" permite al alumnado de 2º de Primaria descubrir valores fundamentales para la convivencia mediante experiencias cercanas, significativas y adaptadas a su edad.
+<br>
+
+A través de actividades cooperativas, reflexiones y relatos, los estudiantes comprenden la importancia de ayudar, compartir y respetar a los demás, desarrollando actitudes positivas para su vida diaria.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación integral basada en valores, convivencia y crecimiento personal.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-reporteros-del-colegio-3-primaria",
+  title: "Situación de aprendizaje: Los reporteros del colegio para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Lengua Castellana y Literatura para 3º de Primaria centrada en la comunicación, la expresión escrita, la lectura y la elaboración de un periódico escolar según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "lengua",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado se convierte en periodista y elabora un periódico escolar desarrollando la lectura, la escritura y la expresión oral.",
+  content: `
+# Situación de aprendizaje: Los reporteros del colegio para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje convierte al alumnado en un equipo de periodistas encargado de crear un periódico escolar para informar sobre acontecimientos, actividades y curiosidades relacionadas con el centro educativo.
+<br>
+A través de diferentes tareas de investigación, lectura, escritura y comunicación oral, los estudiantes desarrollarán competencias lingüísticas mientras elaboran noticias y reportajes adaptados a su nivel.
+<br>
+
+## Justificación
+<br>
+La comunicación forma parte de la vida cotidiana del alumnado. Aprender a expresarse adecuadamente, comprender textos y transmitir información de forma organizada constituye una competencia fundamental dentro de la Educación Primaria.
+<br>
+La creación de un periódico escolar proporciona un contexto auténtico para trabajar habilidades comunicativas de forma motivadora y significativa.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de un periódico escolar donde el alumnado publicará noticias, entrevistas, recomendaciones de lectura y reportajes relacionados con la vida del centro.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la comprensión lectora.
+- Desarrollar la expresión escrita.
+- Utilizar correctamente normas básicas de escritura.
+- Ampliar el vocabulario.
+- Expresarse oralmente con claridad.
+- Participar en actividades cooperativas.
+- Elaborar textos informativos sencillos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia digital.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos escritos adecuados a la edad.
+- Producir textos sencillos con intención comunicativa.
+- Participar en intercambios orales respetando normas básicas de comunicación.
+- Seleccionar y organizar información relevante.
+<br>
+
+## Saberes básicos
+<br>
+
+- Comprensión lectora.
+- Producción escrita.
+- La noticia.
+- La entrevista.
+- Vocabulario.
+- Normas ortográficas básicas.
+- Expresión oral.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende textos trabajados durante la situación.
+- Produce escritos sencillos con coherencia.
+- Participa en actividades orales.
+- Utiliza vocabulario adecuado.
+- Colabora en el producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Investigación guiada.
+- Producción de textos.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Conocemos el mundo del periodismo
+<br>
+
+### Actividad inicial
+<br>
+
+Análisis de diferentes periódicos y revistas adaptadas.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de:
+<br>
+
+- Titulares.
+- Noticias.
+- Fotografías.
+- Entrevistas.
+<br>
+
+### Reflexión
+<br>
+
+¿Para qué sirve un periódico?
+<br>
+
+## Sesión 2. Aprendemos a escribir noticias
+<br>
+
+### Actividad principal
+<br>
+
+Lectura y análisis de noticias sencillas.
+<br>
+
+### Taller de escritura
+<br>
+
+Redacción de pequeñas noticias relacionadas con la vida escolar.
+<br>
+
+## Sesión 3. Somos entrevistadores
+<br>
+
+### Actividad principal
+<br>
+
+Preparación de preguntas para entrevistar a docentes, compañeros o personal del centro.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar la expresión oral y la escucha activa.
+<br>
+
+## Sesión 4. Reporteros en acción
+<br>
+
+### Actividad principal
+<br>
+
+Recogida de información sobre acontecimientos del colegio.
+<br>
+
+### Elaboración
+<br>
+
+Redacción de reportajes breves.
+<br>
+
+## Sesión 5. Diseñamos el periódico
+<br>
+
+### Actividad principal
+<br>
+
+Organización de secciones:
+<br>
+
+- Noticias.
+- Entrevistas.
+- Recomendaciones.
+- Curiosidades.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Maquetación del periódico.
+<br>
+
+## Sesión 6. Publicamos nuestro periódico
+<br>
+
+### Actividad principal
+<br>
+
+Presentación del periódico escolar.
+<br>
+
+### Lectura
+<br>
+
+Los grupos comparten algunos de los textos elaborados.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del carnet de reportero escolar.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Textos adaptados.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Actividades multinivel.
+- Diferentes formatos de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de escritura.
+- Lista de control.
+- Escala de observación.
+- Producciones escritas.
+- Autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende información de textos sencillos.
+- Produce escritos organizados.
+- Participa en intercambios orales.
+- Respeta normas básicas de escritura.
+- Colabora en el trabajo grupal.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: noticias del entorno.
+- Educación Artística: diseño y presentación del periódico.
+- Competencia Digital: elaboración de contenidos digitales.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende cómo se difunde la información y desarrolla habilidades comunicativas útiles para expresar ideas, comprender mensajes y participar activamente en la sociedad.
+<br>
+
+Además, aprende a comunicar hechos de manera clara, organizada y responsable.
+<br>
+
+## Conclusión
+<br>
+
+"Los reporteros del colegio" convierte el aprendizaje de la Lengua Castellana y Literatura en una experiencia práctica, significativa y motivadora para el alumnado de 3º de Primaria.
+<br>
+
+A través de la lectura, la escritura, la investigación y la comunicación oral, los estudiantes desarrollan competencias lingüísticas esenciales mientras crean un producto real con utilidad dentro de la comunidad educativa.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo el aprendizaje competencial, la participación activa y el desarrollo integral del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-la-expedicion-del-tesoro-matematico-3-primaria",
+  title: "Situación de aprendizaje: La expedición del tesoro matemático para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 3º de Primaria centrada en la resolución de problemas, el cálculo, la numeración y el razonamiento lógico según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Matemáticas para 3º de Primaria donde el alumnado se convierte en explorador y resuelve desafíos matemáticos para encontrar un tesoro perdido.",
+  content: `
+# Situación de aprendizaje: La expedición del tesoro matemático para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje transforma al alumnado en un grupo de exploradores que deberá recorrer diferentes territorios matemáticos para encontrar un antiguo tesoro escondido.
+<br>
+Durante la aventura, los estudiantes resolverán problemas, realizarán cálculos, interpretarán pistas y aplicarán estrategias matemáticas para avanzar en la expedición.
+<br>
+
+## Justificación
+<br>
+Las matemáticas resultan más significativas cuando se presentan mediante retos y contextos cercanos que permitan al alumnado aplicar sus conocimientos para resolver situaciones reales.
+<br>
+La temática de exploración y búsqueda de tesoros aumenta la motivación y favorece el desarrollo del razonamiento lógico, la autonomía y la capacidad de resolución de problemas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un gran mapa matemático del tesoro donde se irán incorporando las pruebas superadas y las pistas obtenidas durante toda la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Aplicar estrategias de resolución de problemas.
+- Mejorar la competencia en cálculo mental.
+- Utilizar operaciones básicas en situaciones contextualizadas.
+- Interpretar información matemática.
+- Desarrollar el razonamiento lógico.
+- Participar activamente en tareas cooperativas.
+- Valorar las matemáticas como herramienta para resolver situaciones reales.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver problemas aplicando diferentes estrategias.
+- Utilizar procedimientos matemáticos adecuados para cada situación.
+- Comunicar razonamientos y soluciones.
+- Aplicar conocimientos matemáticos en contextos cotidianos.
+<br>
+
+## Saberes básicos
+<br>
+
+- Numeración.
+- Sumas y restas con números naturales.
+- Multiplicación.
+- Resolución de problemas.
+- Magnitudes y medidas.
+- Geometría básica.
+- Razonamiento matemático.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Resuelve problemas utilizando estrategias adecuadas.
+- Realiza operaciones básicas con precisión.
+- Interpreta información numérica correctamente.
+- Participa activamente en las actividades.
+- Coopera con sus compañeros durante los retos.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en retos.
+- Gamificación.
+- Aprendizaje cooperativo.
+- Resolución de problemas.
+- Evaluación formativa.
+<br>
+
+La narrativa de la búsqueda del tesoro actuará como eje motivador de toda la experiencia.
+<br>
+
+## Sesión 1. Comienza la expedición
+<br>
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta de un antiguo explorador que solicita ayuda para encontrar un tesoro matemático perdido.
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de pistas relacionadas con numeración y ordenación de números.
+<br>
+
+### Recompensa
+<br>
+
+Obtención del primer fragmento del mapa.
+<br>
+
+## Sesión 2. La montaña de los cálculos
+<br>
+
+### Actividad principal
+<br>
+
+Retos relacionados con:
+<br>
+
+- Cálculo mental.
+- Sumas.
+- Restas.
+- Estrategias de estimación.
+<br>
+
+### Objetivo
+<br>
+
+Superar pruebas para ascender la montaña matemática.
+<br>
+
+## Sesión 3. El valle de las multiplicaciones
+<br>
+
+### Actividad principal
+<br>
+
+Desafíos relacionados con las tablas de multiplicar y situaciones prácticas de agrupación.
+<br>
+
+### Juego
+<br>
+
+Búsqueda de combinaciones correctas para descifrar un código secreto.
+<br>
+
+## Sesión 4. El puente de los problemas
+<br>
+
+### Actividad principal
+<br>
+
+Resolución cooperativa de problemas contextualizados.
+<br>
+
+Cada problema resuelto permitirá avanzar hacia el siguiente punto del recorrido.
+<br>
+
+## Sesión 5. El bosque de las formas y las medidas
+<br>
+
+### Actividad principal
+<br>
+
+Pruebas relacionadas con:
+<br>
+
+- Figuras geométricas.
+- Perímetros sencillos.
+- Longitudes.
+- Comparaciones de medidas.
+<br>
+
+### Objetivo
+<br>
+
+Localizar la penúltima pista del tesoro.
+<br>
+
+## Sesión 6. El gran descubrimiento
+<br>
+
+### Actividad principal
+<br>
+
+Los equipos reúnen todas las pistas obtenidas y completan un desafío matemático final.
+<br>
+
+### Producto final
+<br>
+
+Reconstrucción del mapa y localización del tesoro matemático.
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de explorador matemático.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Material manipulativo.
+- Actividades multinivel.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de resolución de problemas.
+- Lista de control.
+- Escala de observación.
+- Cuaderno de trabajo.
+- Autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Resuelve problemas adecuados a su nivel.
+- Utiliza correctamente las operaciones trabajadas.
+- Aplica estrategias matemáticas variadas.
+- Participa activamente en los retos.
+- Coopera con su grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: orientación y uso de mapas.
+- Lengua Castellana: lectura e interpretación de pistas.
+- Educación Artística: diseño del mapa del tesoro.
+- Educación Física: gymkanas matemáticas.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las habilidades desarrolladas ayudan al alumnado a resolver situaciones cotidianas relacionadas con cantidades, medidas, cálculos y toma de decisiones.
+<br>
+
+Además, fomentan el pensamiento crítico, la perseverancia y la capacidad para afrontar desafíos de manera organizada.
+<br>
+
+## Conclusión
+<br>
+
+"La expedición del tesoro matemático" convierte las matemáticas en una aventura emocionante donde el alumnado aprende resolviendo retos y colaborando con sus compañeros.
+<br>
+
+A través de experiencias prácticas y contextualizadas, los estudiantes desarrollan competencias matemáticas esenciales mientras fortalecen su autonomía, confianza y capacidad de razonamiento.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, significativo y conectado con la realidad del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-investigadores-del-cuerpo-humano-3-primaria",
+  title: "Situación de aprendizaje: Los investigadores del cuerpo humano para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Naturales para 3º de Primaria centrada en el cuerpo humano, los hábitos saludables y el funcionamiento de los principales sistemas del organismo.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "ciencias-naturales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado se convierte en investigador científico para descubrir el funcionamiento del cuerpo humano y la importancia de los hábitos saludables.",
+  content: `
+# Situación de aprendizaje: Los investigadores del cuerpo humano para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje transforma al alumnado en un equipo de investigadores científicos cuya misión será descubrir los secretos del cuerpo humano.
+<br>
+A través de experimentos sencillos, actividades manipulativas, observaciones y retos cooperativos, los estudiantes explorarán las principales partes del cuerpo, algunos sistemas básicos y la importancia de mantener hábitos saludables para cuidar su salud.
+<br>
+
+## Justificación
+<br>
+Comprender el funcionamiento del cuerpo humano resulta fundamental para que el alumnado adopte hábitos de vida saludables y desarrolle actitudes responsables hacia su bienestar.
+<br>
+Las Ciencias Naturales permiten abordar estos contenidos de forma práctica y significativa, favoreciendo la curiosidad científica y el conocimiento de uno mismo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Naturales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de un gran mural interactivo del cuerpo humano donde el alumnado incorporará información sobre diferentes órganos, sistemas y hábitos saludables.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar las principales partes del cuerpo humano.
+- Conocer la función básica de algunos órganos y sistemas.
+- Comprender la importancia de los hábitos saludables.
+- Desarrollar habilidades de observación e investigación.
+- Participar en actividades cooperativas.
+- Fomentar la curiosidad científica.
+- Adoptar comportamientos responsables relacionados con la salud.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar y comprender el funcionamiento básico del cuerpo humano.
+- Interpretar información científica sencilla.
+- Formular preguntas e hipótesis relacionadas con fenómenos naturales.
+- Adoptar hábitos responsables para el cuidado de la salud.
+<br>
+
+## Saberes básicos
+<br>
+
+- El cuerpo humano.
+- Los órganos principales.
+- El aparato locomotor.
+- El aparato digestivo.
+- El aparato respiratorio.
+- Hábitos saludables.
+- Observación e investigación científica.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica las principales partes del cuerpo humano.
+- Reconoce funciones básicas de algunos órganos.
+- Participa en investigaciones sencillas.
+- Comprende la importancia de los hábitos saludables.
+- Colabora activamente en actividades grupales.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje por indagación.
+- Aprendizaje basado en proyectos.
+- Experimentación.
+- Trabajo cooperativo.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Comienza la investigación
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la misión científica.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de las principales partes del cuerpo humano mediante juegos y actividades manipulativas.
+<br>
+
+### Reto
+<br>
+
+Completar el esquema corporal inicial.
+<br>
+
+## Sesión 2. Los huesos y los músculos
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento del aparato locomotor.
+<br>
+
+### Experimentación
+<br>
+
+Observación de los movimientos del cuerpo y análisis de cómo actúan huesos y músculos.
+<br>
+
+### Actividad final
+<br>
+
+Montaje de un esqueleto sencillo con materiales manipulativos.
+<br>
+
+## Sesión 3. El viaje de los alimentos
+<br>
+
+### Actividad principal
+<br>
+
+Estudio básico del aparato digestivo.
+<br>
+
+### Actividad práctica
+<br>
+
+Representación del recorrido que siguen los alimentos dentro del cuerpo.
+<br>
+
+### Reflexión
+<br>
+
+¿Por qué es importante comer de forma saludable?
+<br>
+
+## Sesión 4. Respiramos para vivir
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento del aparato respiratorio.
+<br>
+
+### Experimento
+<br>
+
+Observación de los cambios producidos en la respiración durante diferentes actividades.
+<br>
+
+### Registro
+<br>
+
+Anotación de resultados y conclusiones.
+<br>
+
+## Sesión 5. Somos expertos en hábitos saludables
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de acciones relacionadas con:
+<br>
+
+- Alimentación.
+- Descanso.
+- Higiene.
+- Actividad física.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Elaboración de recomendaciones saludables.
+<br>
+
+## Sesión 6. Creamos nuestro mural científico
+<br>
+
+### Actividad principal
+<br>
+
+Creación del mural interactivo del cuerpo humano.
+<br>
+
+### Presentación
+<br>
+
+Cada grupo explica la información trabajada sobre un sistema corporal.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de investigador del cuerpo humano.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Actividades multinivel.
+- Materiales manipulativos.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Cuaderno de investigación.
+- Rúbrica de participación.
+- Autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce las principales partes del cuerpo.
+- Identifica funciones básicas de órganos y sistemas.
+- Participa en investigaciones propuestas.
+- Aplica hábitos saludables.
+- Coopera con sus compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Educación Física: actividad física y salud.
+- Lengua Castellana: elaboración de textos informativos.
+- Educación Artística: diseño del mural científico.
+- Matemáticas: recogida e interpretación de datos sencillos.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende cómo funciona su propio cuerpo y adquiere herramientas para cuidar su salud mediante hábitos adecuados relacionados con la alimentación, la higiene, el descanso y la actividad física.
+<br>
+
+Estos aprendizajes contribuyen a mejorar su bienestar personal y su calidad de vida.
+<br>
+
+## Conclusión
+<br>
+
+"Los investigadores del cuerpo humano" convierte las Ciencias Naturales en una experiencia práctica, participativa y motivadora para el alumnado de 3º de Primaria.
+<br>
+
+A través de la observación, la experimentación y el trabajo cooperativo, los estudiantes descubren cómo funciona su cuerpo y desarrollan hábitos saludables fundamentales para su crecimiento y bienestar.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con la realidad cotidiana del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-viajeros-del-tiempo-3-primaria",
+  title: "Situación de aprendizaje: Viajeros del tiempo para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Sociales para 3º de Primaria centrada en el paso del tiempo, la historia personal y los cambios en la sociedad según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "ciencias-sociales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado se convierte en viajero del tiempo para descubrir cómo han cambiado las personas, las familias y la sociedad a lo largo de los años.",
+  content: `
+# Situación de aprendizaje: Viajeros del tiempo para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en viajeros del tiempo para investigar cómo era la vida en diferentes épocas y comprender los cambios producidos a lo largo del tiempo.
+<br>
+A través del análisis de fotografías, objetos, testimonios familiares y actividades de investigación, los estudiantes descubrirán cómo evolucionan las personas, las familias, los medios de transporte, las viviendas y las costumbres.
+<br>
+
+## Justificación
+<br>
+La comprensión del paso del tiempo constituye uno de los pilares fundamentales de las Ciencias Sociales en Educación Primaria.
+<br>
+Conocer el pasado permite al alumnado comprender mejor el presente, desarrollar el pensamiento histórico y valorar los cambios experimentados por la sociedad.
+<br>
+Además, favorece el desarrollo de habilidades de investigación, observación y análisis adaptadas a su nivel educativo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una línea del tiempo gigante donde el alumnado representará diferentes momentos históricos relacionados con su vida, su familia y la evolución de la sociedad.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender el concepto de paso del tiempo.
+- Diferenciar pasado, presente y futuro.
+- Identificar cambios producidos en la sociedad.
+- Analizar fuentes sencillas de información histórica.
+- Conocer elementos básicos de la historia personal y familiar.
+- Participar en investigaciones cooperativas.
+- Valorar la evolución de las formas de vida.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Interpretar cambios y permanencias a lo largo del tiempo.
+- Utilizar fuentes sencillas para obtener información.
+- Comprender acontecimientos relacionados con la historia personal y colectiva.
+- Participar en proyectos de investigación adaptados al nivel.
+<br>
+
+## Saberes básicos
+<br>
+
+- El paso del tiempo.
+- Pasado, presente y futuro.
+- La historia personal y familiar.
+- Cambios sociales y tecnológicos.
+- Líneas del tiempo.
+- Fuentes históricas básicas.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Diferencia pasado, presente y futuro.
+- Identifica cambios producidos a lo largo del tiempo.
+- Utiliza información obtenida mediante observación e investigación.
+- Participa activamente en las actividades.
+- Colabora con sus compañeros.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Investigación guiada.
+- Observación y análisis de fuentes.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Activamos la máquina del tiempo
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de una máquina del tiempo imaginaria.
+<br>
+
+### Actividad principal
+<br>
+
+Reflexión sobre:
+<br>
+
+- Qué es el pasado.
+- Qué es el presente.
+- Qué es el futuro.
+<br>
+
+### Actividad final
+<br>
+
+Ordenación de imágenes según diferentes momentos temporales.
+<br>
+
+## Sesión 2. Mi historia personal
+<br>
+
+### Actividad principal
+<br>
+
+Construcción de una pequeña línea del tiempo individual.
+<br>
+
+Los alumnos representarán momentos importantes de su vida.
+<br>
+
+### Objetivo
+<br>
+
+Comprender la secuencia temporal.
+<br>
+
+## Sesión 3. Investigamos a nuestras familias
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de fotografías antiguas aportadas por las familias.
+<br>
+
+### Observación
+<br>
+
+Identificación de cambios relacionados con:
+<br>
+
+- La ropa.
+- Los juegos.
+- Las viviendas.
+- Los medios de transporte.
+<br>
+
+## Sesión 4. Cómo ha cambiado nuestro mundo
+<br>
+
+### Actividad principal
+<br>
+
+Comparación entre objetos antiguos y actuales.
+<br>
+
+Por ejemplo:
+<br>
+
+- Teléfonos.
+- Televisores.
+- Ordenadores.
+- Medios de transporte.
+<br>
+
+### Debate
+<br>
+
+¿Qué ventajas tenemos hoy?
+<br>
+
+## Sesión 5. Construimos la línea del tiempo
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración cooperativa de la línea del tiempo gigante.
+<br>
+
+Cada grupo se encargará de una etapa concreta.
+<br>
+
+### Objetivo
+<br>
+
+Representar visualmente los cambios estudiados.
+<br>
+
+## Sesión 6. Exposición de los viajeros del tiempo
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de la línea del tiempo al resto de compañeros.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué cambios han sido los más importantes?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de viajero del tiempo.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Adaptación de materiales.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Cuaderno de investigación.
+- Rúbrica simplificada.
+- Autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Diferencia pasado, presente y futuro.
+- Identifica cambios históricos sencillos.
+- Participa en las investigaciones.
+- Utiliza información procedente de fuentes básicas.
+- Coopera con el grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: entrevistas y narraciones.
+- Educación Artística: elaboración de la línea del tiempo.
+- Matemáticas: secuencias y cronologías.
+- Competencia Digital: búsqueda guiada de información.
+<br>
+
+## Relación con la vida real
+<br>
+
+Comprender el paso del tiempo ayuda al alumnado a interpretar mejor los cambios que se producen en su entorno y en la sociedad.
+<br>
+
+Además, favorece la valoración de la historia familiar y el reconocimiento de la evolución tecnológica y social.
+<br>
+
+## Conclusión
+<br>
+
+"Viajeros del tiempo" permite al alumnado de 3º de Primaria aproximarse a las Ciencias Sociales mediante experiencias significativas relacionadas con su propia historia y la evolución de la sociedad.
+<br>
+
+A través de la investigación, la observación y el trabajo cooperativo, los estudiantes desarrollan competencias relacionadas con el pensamiento histórico y la comprensión del paso del tiempo.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con la realidad del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-travel-around-the-world-tercero-primaria",
+  title: "Situación de aprendizaje: Travel Around the World para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Inglés para 3º de Primaria centrada en los países, culturas, medios de transporte y comunicación oral según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "ingles",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria en la que el alumnado realiza un viaje alrededor del mundo mientras aprende vocabulario, expresiones y aspectos culturales en inglés.",
+  content: `
+# Situación de aprendizaje: Travel Around the World para 3º de Primaria
+
+## Descripción
+<br>
+En esta situación de aprendizaje el alumnado se convertirá en un grupo de exploradores internacionales que deberá recorrer distintos países del mundo descubriendo costumbres, monumentos, medios de transporte y expresiones básicas en inglés.
+<br>
+A través de retos cooperativos, juegos comunicativos y actividades de investigación adaptadas a su nivel, los estudiantes ampliarán su vocabulario y desarrollarán sus habilidades comunicativas en contextos cercanos y motivadores.
+<br>
+
+## Justificación
+<br>
+En 3º de Primaria el alumnado comienza a desenvolverse con mayor autonomía en lengua inglesa y puede utilizar estructuras más complejas relacionadas con situaciones cotidianas.
+<br>
+La temática de los viajes permite trabajar contenidos culturales, lingüísticos y sociales al mismo tiempo, favoreciendo el interés por otras realidades y desarrollando competencias comunicativas de forma significativa.
+<br>
+Además, esta propuesta se ajusta al enfoque competencial promovido por la LOMLOE mediante actividades activas y contextualizadas.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+3º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Extranjera: Inglés.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+Creación de una agencia de viajes internacional donde cada grupo elaborará una presentación sobre un país y realizará una exposición oral sencilla en inglés.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Ampliar el vocabulario relacionado con países y viajes.
+- Comprender información básica sobre diferentes lugares del mundo.
+- Utilizar expresiones sencillas para describir países y monumentos.
+- Mejorar la comprensión oral y escrita.
+- Participar en situaciones comunicativas significativas.
+- Desarrollar habilidades de trabajo cooperativo.
+- Fomentar la curiosidad por otras culturas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia plurilingüe.
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos orales y escritos breves relacionados con situaciones cotidianas.
+- Expresarse oralmente utilizando estructuras sencillas.
+- Interactuar con compañeros en actividades comunicativas.
+- Utilizar estrategias básicas para comprender mensajes en lengua inglesa.
+<br>
+
+## Saberes básicos
+<br>
+
+- Countries.
+- Flags.
+- Cities.
+- Means of transport.
+- Monuments.
+- Basic descriptions.
+- Oral interaction.
+- Cultural diversity.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Reconoce vocabulario relacionado con los viajes.
+- Comprende información sencilla sobre diferentes países.
+- Utiliza expresiones básicas en inglés.
+- Participa activamente en actividades orales.
+- Colabora en las tareas grupales.
+- Presenta información de forma comprensible.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Gamificación.
+- Actividades comunicativas.
+- Investigación guiada.
+<br>
+
+El alumnado será protagonista de su propio aprendizaje.
+<br>
+
+## Sesión 1. Welcome Travellers
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la misión: dar la vuelta al mundo.
+<br>
+
+### Actividad principal
+<br>
+
+Introducción del vocabulario:
+<br>
+
+- Country.
+- City.
+- Plane.
+- Train.
+- Passport.
+- Travel.
+<br>
+
+### Juego
+<br>
+
+World Quiz.
+<br>
+
+## Sesión 2. Exploring Countries
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento de diferentes países:
+<br>
+
+- Spain.
+- France.
+- United Kingdom.
+- Italy.
+- Australia.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Relacionar banderas, países y monumentos.
+<br>
+
+## Sesión 3. Let's Travel!
+<br>
+
+### Actividad principal
+<br>
+
+Aprendizaje de medios de transporte:
+<br>
+
+- Plane.
+- Bus.
+- Train.
+- Ship.
+- Bicycle.
+<br>
+
+### Juego
+<br>
+
+Transport Race.
+<br>
+
+## Sesión 4. Amazing Landmarks
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento de monumentos conocidos:
+<br>
+
+- Eiffel Tower.
+- Big Ben.
+- Colosseum.
+- Sydney Opera House.
+<br>
+
+### Actividad oral
+<br>
+
+Descripción sencilla de monumentos.
+<br>
+
+## Sesión 5. Travel Agency Project
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo prepara una pequeña presentación sobre un país.
+<br>
+
+Incluyen:
+<br>
+
+- Nombre.
+- Bandera.
+- Monumento.
+- Medio de transporte recomendado.
+- Curiosidades.
+<br>
+
+### Preparación de la exposición
+<br>
+
+Utilización de frases sencillas:
+<br>
+
+- This is...
+- It is in...
+- You can visit...
+<br>
+
+## Sesión 6. Travel Fair
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de los proyectos al resto de compañeros.
+<br>
+
+### Actividad final
+<br>
+
+Feria internacional de viajes donde cada grupo muestra su trabajo.
+<br>
+
+### Reflexión
+<br>
+
+Los alumnos comentan:
+<br>
+
+- What did you learn?
+- What country did you like most?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Flashcards.
+- Apoyos visuales.
+- Frases modelo.
+- Actividades graduadas.
+- Agrupamientos flexibles.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Observación directa.
+- Producciones grupales.
+- Exposición oral.
+- Rúbrica.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Utiliza vocabulario relacionado con los viajes.
+- Comprende información básica sobre países.
+- Participa en actividades comunicativas.
+- Coopera con sus compañeros.
+- Presenta información oral sencilla.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La situación puede relacionarse con:
+<br>
+
+- Ciencias Sociales: países y culturas.
+- Educación Artística: banderas y monumentos.
+- Competencia Digital: búsqueda guiada de información.
+- Lengua Castellana: exposiciones orales.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende que el inglés es una lengua internacional que permite comunicarse con personas de diferentes países y conocer otras culturas.
+<br>
+
+La temática de los viajes conecta con experiencias cercanas y atractivas para los estudiantes.
+<br>
+
+## Conclusión
+<br>
+
+"Travel Around the World" permite desarrollar las competencias comunicativas en inglés mediante una experiencia motivadora basada en la exploración de diferentes países y culturas.
+<br>
+
+La combinación de investigación, cooperación y comunicación oral favorece aprendizajes significativos y ayuda al alumnado de 3º de Primaria a utilizar la lengua inglesa en contextos reales y funcionales.
+<br>
+
+Además, la creación de una agencia de viajes convierte el aprendizaje en una aventura participativa y alineada con los principios competenciales de la LOMLOE.
+`
+},
+{
+  slug: "situacion-aprendizaje-la-fabrica-de-la-navidad-3-primaria",
+  title: "Situación de aprendizaje: La fábrica de la Navidad para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Artística para 3º de Primaria inspirada en la Navidad. Incluye creatividad, expresión artística, trabajo cooperativo y un producto final según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "educacion-artistica",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado se convierte en diseñador navideño y crea decoraciones, tarjetas y una exposición artística de Navidad.",
+  content: `
+# Situación de aprendizaje: La fábrica de la Navidad para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado transformarse en un equipo de diseñadores y artistas encargados de poner en marcha una gran fábrica navideña.
+<br>
+A través de diferentes talleres creativos, los estudiantes elaborarán decoraciones, tarjetas, murales y elementos artísticos inspirados en la Navidad mientras desarrollan su creatividad y capacidad de expresión.
+<br>
+
+## Justificación
+<br>
+La Navidad constituye una temática cercana y motivadora para el alumnado que permite trabajar contenidos de Educación Artística desde una perspectiva creativa y significativa.
+<br>
+Además, favorece el desarrollo de la imaginación, la expresión visual, el trabajo cooperativo y la valoración de las producciones propias y ajenas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Artística.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Organización de una exposición artística navideña abierta a la comunidad educativa con las producciones realizadas por el alumnado.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar la creatividad mediante proyectos artísticos.
+- Experimentar con técnicas plásticas diversas.
+- Elaborar producciones visuales relacionadas con la Navidad.
+- Participar en proyectos cooperativos.
+- Valorar el arte como medio de comunicación y expresión.
+- Mejorar la motricidad fina y la capacidad de planificación.
+- Mostrar respeto por las creaciones propias y las de los demás.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar posibilidades creativas mediante diferentes técnicas artísticas.
+- Crear producciones visuales originales.
+- Participar en proyectos artísticos individuales y colectivos.
+- Expresar emociones e ideas utilizando lenguajes artísticos.
+<br>
+
+## Saberes básicos
+<br>
+
+- Elementos del lenguaje visual.
+- Color y composición.
+- Técnicas plásticas.
+- Creación artística individual y colectiva.
+- Diseño y elaboración de producciones visuales.
+- Expresión creativa.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Utiliza diferentes técnicas artísticas.
+- Desarrolla producciones originales y creativas.
+- Coopera en proyectos colectivos.
+- Cuida y respeta los materiales utilizados.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Experimentación artística.
+- Trabajo cooperativo.
+- Aprendizaje manipulativo.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Bienvenidos a la fábrica navideña
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la misión artística.
+<br>
+
+### Actividad principal
+<br>
+
+Observación y análisis de decoraciones navideñas.
+<br>
+
+### Actividad final
+<br>
+
+Diseño de bocetos para futuras creaciones.
+<br>
+
+## Sesión 2. Creamos adornos navideños
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de adornos utilizando:
+<br>
+
+- Cartulinas.
+- Papel reciclado.
+- Pinturas.
+- Materiales reutilizados.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar la creatividad y la precisión manual.
+<br>
+
+## Sesión 3. Diseñamos tarjetas navideñas
+<br>
+
+### Actividad principal
+<br>
+
+Creación de tarjetas originales para felicitar las fiestas.
+<br>
+
+### Aspectos trabajados
+<br>
+
+- Composición.
+- Color.
+- Creatividad.
+- Expresión artística.
+<br>
+
+## Sesión 4. El gran mural de Navidad
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de un mural cooperativo.
+<br>
+
+Cada grupo será responsable de una parte de la composición.
+<br>
+
+### Objetivo
+<br>
+
+Desarrollar el trabajo en equipo.
+<br>
+
+## Sesión 5. Taller de decoración
+<br>
+
+### Actividad principal
+<br>
+
+Creación de elementos decorativos para ambientar el aula o los espacios comunes del centro.
+<br>
+
+### Productos posibles
+<br>
+
+- Estrellas.
+- Árboles.
+- Guirnaldas.
+- Copos de nieve.
+<br>
+
+## Sesión 6. Exposición artística de Navidad
+<br>
+
+### Actividad principal
+<br>
+
+Montaje de la exposición final.
+<br>
+
+### Presentación
+<br>
+
+Cada grupo explica sus producciones al resto de visitantes.
+<br>
+
+### Celebración
+<br>
+
+Inauguración de la exposición artística navideña.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Actividades multinivel.
+- Adaptación de materiales.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica artística.
+- Lista de control.
+- Escala de observación.
+- Portfolio de trabajos.
+- Autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las tareas.
+- Utiliza técnicas artísticas variadas.
+- Realiza producciones creativas.
+- Coopera en las actividades grupales.
+- Valora el trabajo propio y el de los compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: escritura de felicitaciones.
+- Música: villancicos y audiciones navideñas.
+- Matemáticas: simetrías y formas geométricas en los diseños.
+- Valores Cívicos y Éticos: solidaridad y convivencia.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las actividades permiten al alumnado comprender cómo el arte está presente en celebraciones y acontecimientos culturales.
+<br>
+
+Además, favorecen la creatividad, la comunicación visual y la participación en proyectos colectivos.
+<br>
+
+## Conclusión
+<br>
+
+"La fábrica de la Navidad" convierte la Educación Artística en una experiencia creativa, motivadora y significativa para el alumnado de 3º de Primaria.
+<br>
+
+A través de proyectos individuales y cooperativos, los estudiantes desarrollan su imaginación y capacidad expresiva mientras crean producciones relacionadas con una celebración cercana y motivadora.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación artística basada en la creatividad, la participación activa y el desarrollo integral del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-convivimos-y-crecemos-juntos-tercero-primaria",
+  title: "Situación de aprendizaje: Convivimos y crecemos juntos para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Valores Cívicos y Éticos para 3º de Primaria centrada en la convivencia, el respeto, la empatía y la resolución pacífica de conflictos.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "valores-civicos",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 17,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado aprende a convivir, respetar las diferencias y resolver conflictos mediante el diálogo y la cooperación.",
+  content: `
+# Situación de aprendizaje: Convivimos y crecemos juntos para 3º de Primaria
+
+## Descripción
+<br>
+En esta situación de aprendizaje, el alumnado descubrirá la importancia del respeto, la empatía, la cooperación y la convivencia positiva mediante actividades prácticas relacionadas con la vida cotidiana.
+<br>
+A través de juegos, debates, retos cooperativos y dinámicas de reflexión, los estudiantes aprenderán a identificar conflictos, expresar emociones y buscar soluciones pacíficas que favorezcan el bienestar común.
+<br>
+
+## Justificación
+<br>
+La convivencia constituye uno de los pilares fundamentales de la educación. Durante 3º de Primaria, los alumnos empiezan a desarrollar relaciones sociales más complejas y necesitan herramientas que les permitan convivir de forma respetuosa y responsable.
+<br>
+Esta situación de aprendizaje pretende ayudar al alumnado a comprender la importancia de los valores cívicos y éticos a través de experiencias cercanas a su realidad.
+<br>
+Además, responde al enfoque competencial de la LOMLOE al favorecer el desarrollo personal, social y ciudadano.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+3º de Primaria.
+<br>
+
+### Área
+<br>
+Valores Cívicos y Éticos.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+Elaboración de un "Manual de la Buena Convivencia" creado por toda la clase que recoja acuerdos, normas y compromisos para mejorar la convivencia escolar.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender la importancia del respeto hacia los demás.
+- Identificar emociones propias y ajenas.
+- Desarrollar conductas basadas en la empatía.
+- Resolver conflictos mediante el diálogo.
+- Participar en actividades cooperativas.
+- Valorar la diversidad como elemento enriquecedor.
+- Favorecer una convivencia positiva dentro del aula.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer emociones y sentimientos propios y ajenos.
+- Participar activamente en situaciones de convivencia democrática.
+- Resolver conflictos mediante el diálogo y el respeto.
+- Valorar la diversidad presente en la sociedad.
+<br>
+
+## Saberes básicos
+<br>
+
+- Respeto y convivencia.
+- Empatía.
+- Derechos y deberes.
+- Resolución pacífica de conflictos.
+- Cooperación.
+- Igualdad.
+- Diversidad.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Respeta las opiniones de los demás.
+- Participa activamente en las actividades propuestas.
+- Demuestra actitudes de cooperación.
+- Identifica emociones en situaciones cotidianas.
+- Propone soluciones pacíficas ante conflictos.
+- Colabora en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Aprendizaje basado en retos.
+- Debates guiados.
+- Dinámicas de grupo.
+- Reflexión individual y colectiva.
+<br>
+
+El alumnado participará activamente en la construcción de los aprendizajes.
+<br>
+
+## Sesión 1. Todos somos importantes
+<br>
+
+### Actividad inicial
+<br>
+
+Dinámica de presentación y reconocimiento de cualidades positivas de los compañeros.
+<br>
+
+### Actividad principal
+<br>
+
+Creación del mural:
+<br>
+
+"Lo mejor de nuestra clase".
+<br>
+
+### Reflexión final
+<br>
+
+¿Por qué todas las personas son importantes?
+<br>
+
+## Sesión 2. Descubrimos las emociones
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de emociones mediante imágenes y situaciones cotidianas.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Representación de emociones mediante pequeñas dramatizaciones.
+<br>
+
+### Debate
+<br>
+
+¿Cómo podemos ayudar a alguien cuando se siente mal?
+<br>
+
+## Sesión 3. Aprendemos a escuchar
+<br>
+
+### Actividad inicial
+<br>
+
+Juego de escucha activa por parejas.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de situaciones donde la falta de escucha genera conflictos.
+<br>
+
+### Conclusión
+<br>
+
+Elaboración de normas para una comunicación respetuosa.
+<br>
+
+## Sesión 4. Resolvemos conflictos
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de situaciones conflictivas habituales:
+<br>
+
+- Discusiones en el recreo.
+- Problemas durante juegos.
+- Desacuerdos en trabajos grupales.
+<br>
+
+### Dinámica
+<br>
+
+Los grupos proponen soluciones mediante el diálogo y el respeto.
+<br>
+
+## Sesión 5. Construimos una convivencia positiva
+<br>
+
+### Actividad principal
+<br>
+
+Diseño cooperativo de propuestas para mejorar el clima del aula.
+<br>
+
+Los alumnos crean:
+<br>
+
+- Normas positivas.
+- Compromisos personales.
+- Acuerdos grupales.
+<br>
+
+### Preparación del producto final
+<br>
+
+Selección de las mejores propuestas.
+<br>
+
+## Sesión 6. Nuestro manual de convivencia
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración y presentación del Manual de la Buena Convivencia.
+<br>
+
+### Exposición
+<br>
+
+Los grupos explican las normas y compromisos acordados.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué podemos hacer para que nuestra clase sea un lugar mejor?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplan:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+- Adaptaciones metodológicas cuando sea necesario.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Rúbrica.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Respeta las opiniones de los demás.
+- Identifica emociones correctamente.
+- Propone soluciones pacíficas a conflictos.
+- Colabora con el grupo.
+- Demuestra actitudes de empatía y respeto.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La situación puede relacionarse con:
+<br>
+
+- Lengua Castellana: expresión oral y debates.
+- Educación Artística: elaboración del manual.
+- Educación Física: juegos cooperativos.
+- Tutoría: educación emocional.
+<br>
+
+## Relación con la vida real
+<br>
+
+Todas las actividades parten de situaciones cotidianas que el alumnado experimenta diariamente dentro y fuera de la escuela.
+<br>
+
+Esto favorece que los aprendizajes puedan transferirse a contextos reales de convivencia.
+<br>
+
+## Conclusión
+<br>
+
+"Convivimos y crecemos juntos" permite al alumnado de 3º de Primaria desarrollar habilidades fundamentales para la vida en sociedad mediante experiencias cercanas, participativas y significativas.
+<br>
+
+A través de la empatía, la cooperación y el diálogo, los estudiantes aprenden a construir relaciones positivas y a resolver conflictos de forma pacífica.
+<br>
+
+La elaboración del Manual de la Buena Convivencia convierte los aprendizajes en compromisos reales y contribuye a crear un clima de aula más respetuoso, inclusivo y alineado con los principios de la LOMLOE.
+`
+},
+{
+  slug: "situacion-aprendizaje-las-parabolas-de-jesus-3-primaria",
+  title: "Situación de aprendizaje: Las parábolas de Jesús para 3º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Religión para 3º de Primaria centrada en las parábolas de Jesús, los valores cristianos y la aplicación de sus enseñanzas a la vida cotidiana.",
+  category: "situaciones-aprendizaje",
+  subcategory: "tercero-de-primaria",
+  subject: "religion",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 3º de Primaria donde el alumnado descubre las parábolas de Jesús y reflexiona sobre valores como la solidaridad, el perdón y la ayuda a los demás.",
+  content: `
+# Situación de aprendizaje: Las parábolas de Jesús para 3º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje permite al alumnado conocer algunas de las parábolas más importantes de Jesús y comprender los valores que transmiten.
+<br>
+A través de lecturas adaptadas, actividades cooperativas, dramatizaciones y producciones creativas, los estudiantes descubrirán mensajes relacionados con la solidaridad, la misericordia, el perdón y la ayuda a los demás.
+<br>
+
+## Justificación
+<br>
+Las parábolas constituyen una herramienta fundamental dentro de la enseñanza cristiana porque permiten transmitir valores y enseñanzas mediante relatos sencillos y cercanos.
+<br>
+Durante 3º de Primaria, el alumnado ya dispone de la madurez necesaria para comprender el significado de estas historias y relacionarlas con situaciones de la vida cotidiana.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+3º de Primaria.
+<br>
+
+### Área
+<br>
+
+Religión.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un libro ilustrado de parábolas donde cada grupo representará una enseñanza de Jesús mediante textos, dibujos y reflexiones.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Conocer algunas de las parábolas más importantes de Jesús.
+- Comprender los valores presentes en las enseñanzas cristianas.
+- Relacionar las parábolas con situaciones cotidianas.
+- Desarrollar la capacidad de reflexión personal.
+- Participar activamente en actividades cooperativas.
+- Expresar ideas y opiniones de forma respetuosa.
+- Valorar la importancia de ayudar a los demás.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender relatos bíblicos adaptados a la edad.
+- Identificar valores presentes en las enseñanzas de Jesús.
+- Aplicar principios de convivencia positiva en situaciones cotidianas.
+- Participar en actividades de reflexión y diálogo.
+<br>
+
+## Saberes básicos
+<br>
+
+- Jesús y sus enseñanzas.
+- Las parábolas.
+- La solidaridad.
+- El perdón.
+- La ayuda a los demás.
+- La convivencia.
+- Los valores cristianos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende el mensaje principal de las parábolas trabajadas.
+- Participa activamente en las actividades propuestas.
+- Relaciona los valores estudiados con situaciones reales.
+- Coopera con sus compañeros.
+- Expresa opiniones y reflexiones de forma respetuosa.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Lectura comprensiva.
+- Dramatización.
+- Aprendizaje basado en proyectos.
+- Reflexión guiada.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Descubrimos las parábolas
+<br>
+
+### Actividad inicial
+<br>
+
+Conversación sobre historias que enseñan valores.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura adaptada de una parábola sencilla.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué enseñanza nos transmite?
+<br>
+
+## Sesión 2. El buen samaritano
+<br>
+
+### Actividad principal
+<br>
+
+Lectura y análisis de la parábola del Buen Samaritano.
+<br>
+
+### Debate
+<br>
+
+¿Cómo podemos ayudar a otras personas en nuestro día a día?
+<br>
+
+### Actividad final
+<br>
+
+Elaboración de una ficha de reflexión.
+<br>
+
+## Sesión 3. La oveja perdida
+<br>
+
+### Actividad principal
+<br>
+
+Lectura dramatizada de la parábola.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Representación mediante pequeñas escenas teatrales.
+<br>
+
+### Objetivo
+<br>
+
+Comprender la importancia de cuidar y valorar a las personas.
+<br>
+
+## Sesión 4. El sembrador
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de la parábola del sembrador.
+<br>
+
+### Actividad creativa
+<br>
+
+Creación de dibujos relacionados con las semillas y los valores positivos.
+<br>
+
+## Sesión 5. Creamos nuestro libro de parábolas
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo selecciona una parábola y elabora:
+<br>
+
+- Un resumen.
+- Una ilustración.
+- Una enseñanza principal.
+- Un ejemplo de aplicación a la vida cotidiana.
+<br>
+
+## Sesión 6. Presentamos nuestras enseñanzas
+<br>
+
+### Actividad principal
+<br>
+
+Exposición de los trabajos realizados.
+<br>
+
+### Reflexión final
+<br>
+
+¿Cómo podemos aplicar las enseñanzas de Jesús en nuestra vida diaria?
+<br>
+
+### Celebración
+<br>
+
+Presentación del libro ilustrado de parábolas.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Textos adaptados.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica de participación.
+- Producciones del alumnado.
+- Autoevaluación guiada.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende las parábolas trabajadas.
+- Identifica valores presentes en los relatos.
+- Participa activamente en los diálogos.
+- Coopera con su grupo.
+- Relaciona las enseñanzas con situaciones cotidianas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: comprensión lectora y expresión escrita.
+- Educación Artística: ilustración del libro de parábolas.
+- Valores Cívicos y Éticos: convivencia, respeto y solidaridad.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las enseñanzas trabajadas permiten al alumnado reflexionar sobre comportamientos presentes en la vida diaria relacionados con la ayuda a los demás, la empatía, el respeto y el perdón.
+<br>
+
+Estas habilidades favorecen una convivencia más positiva dentro y fuera del entorno escolar.
+<br>
+
+## Conclusión
+<br>
+
+"Las parábolas de Jesús" permite acercar al alumnado de 3º de Primaria a algunas de las enseñanzas más importantes del cristianismo mediante experiencias participativas y significativas.
+<br>
+
+A través de la lectura, la reflexión, la dramatización y el trabajo cooperativo, los estudiantes descubren valores que pueden aplicar en su vida cotidiana para mejorar sus relaciones con los demás.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación integral centrada en el desarrollo personal, la convivencia y los valores cristianos.
+`
+},
+{
   slug: "situacion-aprendizaje-halloween-educacion-artistica-2-primaria",
   title: "Situación de aprendizaje de Halloween para Educación Artística en 2º de Primaria",
   metaDescription:
