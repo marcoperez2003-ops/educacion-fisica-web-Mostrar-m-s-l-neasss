@@ -3914,6 +3914,357 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
 `
 },
 {
+  slug: "situacion-aprendizaje-halloween-primaria",
+  title: "Situación de aprendizaje de Halloween para Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa para Primaria inspirada en Halloween. Incluye objetivos, competencias, actividades, evaluación y producto final según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "6-primaria",
+  subject: "educacion-fisica",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje de Halloween para 6º de Primaria en Educación Física basada en retos cooperativos, resolución de problemas y aventuras motrices.",
+  content: `
+# Situación de aprendizaje de Halloween para Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje está diseñada para alumnado de 6º de Educación Primaria y se desarrolla en torno a la celebración de Halloween. A través de una aventura motriz tematizada, los estudiantes deberán superar diferentes retos físicos, cooperativos y estratégicos para ayudar a los habitantes de un castillo encantado a recuperar los fragmentos de una antigua llave mágica.
+<br>
+La propuesta combina actividad física, trabajo cooperativo, resolución de problemas y creatividad, favoreciendo aprendizajes significativos a través de una temática altamente motivadora para el alumnado.
+<br>
+
+## Justificación
+<br>
+Las celebraciones y acontecimientos culturales constituyen excelentes oportunidades para contextualizar el aprendizaje y aumentar la implicación del alumnado.
+<br>
+Halloween permite diseñar situaciones motrices cargadas de imaginación, misterio y aventura que favorecen la participación activa de todos los estudiantes.
+<br>
+Además, esta temática facilita el desarrollo de habilidades sociales, motrices y emocionales mediante propuestas cooperativas adaptadas a Educación Primaria.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+6º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Superación de una gran misión cooperativa denominada:
+<br>
+
+**"La búsqueda de la llave del castillo encantado"**
+<br>
+
+Los equipos deberán superar diferentes pruebas motrices para recuperar las piezas de una llave mágica y abrir el cofre final.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Participar activamente en retos motores relacionados con Halloween.
+- Mejorar las habilidades motrices básicas.
+- Potenciar la cooperación y el trabajo en equipo.
+- Resolver problemas motores de forma creativa.
+- Desarrollar estrategias grupales.
+- Respetar normas y compañeros durante las actividades.
+- Valorar la actividad física como fuente de diversión y aprendizaje.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas de Educación Física
+<br>
+
+- Resolver situaciones motrices individuales y colectivas.
+- Participar en actividades físicas mostrando valores de cooperación y respeto.
+- Adaptar las acciones motrices a diferentes contextos y retos.
+- Adoptar hábitos de participación activa y responsable.
+<br>
+
+## Saberes básicos
+<br>
+
+- Habilidades motrices básicas.
+- Coordinación.
+- Equilibrio.
+- Resolución de problemas motores.
+- Estrategias cooperativas.
+- Juegos motores.
+- Participación inclusiva.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Coopera con su grupo para resolver retos.
+- Aplica habilidades motrices de manera eficaz.
+- Respeta las normas y a los compañeros.
+- Contribuye al logro de los objetivos colectivos.
+- Mantiene una actitud positiva durante la práctica física.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Gamificación.
+- Retos motores.
+- Resolución de problemas.
+- Evaluación formativa.
+<br>
+
+Toda la propuesta estará ambientada en una aventura narrativa relacionada con Halloween.
+<br>
+
+## Narrativa
+<br>
+
+Una antigua llave mágica que protege el castillo encantado ha sido destruida en varias piezas.
+<br>
+
+Los guardianes del castillo necesitan ayuda para recuperarla antes de la noche de Halloween.
+<br>
+
+Cada reto superado permitirá conseguir un fragmento de la llave hasta completar la misión final.
+<br>
+
+## Sesión 1. El despertar del castillo encantado
+<br>
+
+### Calentamiento
+<br>
+
+Juego "Monstruos congelados".
+<br>
+
+Cuando el docente menciona un personaje de Halloween, los estudiantes representan diferentes movimientos.
+<br>
+
+### Actividad principal
+<br>
+
+Circuito de exploración donde los alumnos deben recorrer diferentes zonas del castillo.
+<br>
+
+### Reto final
+<br>
+
+Localizar el primer fragmento de la llave.
+<br>
+
+## Sesión 2. El laboratorio secreto de la bruja
+<br>
+
+### Actividad principal
+<br>
+
+Retos de coordinación y velocidad.
+<br>
+
+Los equipos deben transportar ingredientes mágicos representados por objetos adaptados.
+<br>
+
+### Objetivo
+<br>
+
+Preparar una poción que revele la ubicación del siguiente fragmento.
+<br>
+
+## Sesión 3. La cueva de los fantasmas
+<br>
+
+### Actividad principal
+<br>
+
+Pruebas de equilibrio y orientación espacial.
+<br>
+
+Los alumnos atraviesan caminos encantados evitando zonas prohibidas.
+<br>
+
+### Reto cooperativo
+<br>
+
+Todo el grupo debe conseguir cruzar la cueva sin perder ningún miembro del equipo.
+<br>
+
+## Sesión 4. El bosque embrujado
+<br>
+
+### Actividad principal
+<br>
+
+Retos cooperativos:
+<br>
+
+- Cruza el pantano.
+- Transporte fantasma.
+- El puente de las calabazas.
+<br>
+
+### Objetivo
+<br>
+
+Conseguir nuevos fragmentos de la llave.
+<br>
+
+## Sesión 5. El cementerio de las sombras
+<br>
+
+### Actividad principal
+<br>
+
+Gran gymkana con diferentes estaciones.
+<br>
+
+Cada prueba superada permite obtener pistas para localizar la pieza final.
+<br>
+
+### Habilidades trabajadas
+<br>
+
+- Velocidad de reacción.
+- Cooperación.
+- Estrategia.
+- Resolución de problemas.
+<br>
+
+## Sesión 6. La búsqueda de la llave mágica
+<br>
+
+### Gran misión final
+<br>
+
+Todos los equipos deben unir los fragmentos obtenidos durante las sesiones anteriores.
+<br>
+
+Posteriormente participan en una aventura cooperativa compuesta por pruebas motrices relacionadas con:
+<br>
+
+- Saltos.
+- Lanzamientos.
+- Equilibrio.
+- Coordinación.
+- Velocidad.
+<br>
+
+### Desenlace
+<br>
+
+Apertura del cofre encantado y resolución de la misión.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se aplicarán medidas de inclusión mediante:
+<br>
+
+- Diferentes niveles de dificultad.
+- Adaptación de las tareas.
+- Agrupamientos heterogéneos.
+- Apoyos visuales.
+- Flexibilidad en la participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de cooperación.
+- Lista de control.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Colabora con sus compañeros.
+- Respeta las normas del juego.
+- Resuelve situaciones motrices de forma adecuada.
+- Contribuye al éxito colectivo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+Esta situación de aprendizaje puede complementarse con:
+<br>
+
+- Lengua: creación de relatos de Halloween.
+- Educación Artística: decoración del castillo encantado.
+- Inglés: vocabulario relacionado con Halloween.
+- Matemáticas: resolución de enigmas y códigos.
+<br>
+
+## Relación con la vida real
+<br>
+
+Aunque la narrativa se desarrolla en un contexto fantástico, los aprendizajes están relacionados con habilidades fundamentales para la vida cotidiana:
+<br>
+
+- Cooperación.
+- Comunicación.
+- Resolución de problemas.
+- Trabajo en equipo.
+- Autonomía.
+<br>
+
+## Conclusión
+<br>
+
+Esta situación de aprendizaje convierte las sesiones de Educación Física en una aventura motivadora donde el alumnado participa activamente en retos motores y cooperativos ambientados en Halloween.
+<br>
+
+A través de la narrativa, el juego y la resolución de desafíos, los estudiantes desarrollan competencias motrices, sociales y personales mientras disfrutan de experiencias significativas y adaptadas a sus intereses.
+<br>
+
+Además, la propuesta se encuentra plenamente alineada con los principios de la LOMLOE, favoreciendo la participación, la inclusión, la cooperación y el desarrollo competencial mediante situaciones de aprendizaje contextualizadas y motivadoras.
+`
+},
+{
   slug: "situacion-aprendizaje-cooperacion-educacion-fisica-6-primaria",
   title: "Situación de aprendizaje sobre la cooperación en Educación Física para 6º de Primaria",
   metaDescription:
