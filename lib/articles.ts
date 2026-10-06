@@ -3919,7 +3919,7 @@ Con una buena planificación y una evaluación coherente, las situaciones de apr
   metaDescription:
     "Situación de aprendizaje completa para 2º de Primaria en Educación Artística inspirada en Halloween. Incluye actividades creativas, producto final, evaluación y competencias según la LOMLOE.",
   category: "situaciones-aprendizaje",
-  subcategory: "2-primaria",
+  subcategory: "segundo-de-primaria",
   subject: "educacion-artistica",
   date: "2026-09-30",
   author: "Marco Pérez",
@@ -4246,7 +4246,7 @@ La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo
   metaDescription:
     "Situación de aprendizaje completa para Primaria inspirada en Halloween. Incluye objetivos, competencias, actividades, evaluación y producto final según la LOMLOE.",
   category: "situaciones-aprendizaje",
-  subcategory: "6-primaria",
+  subcategory: "sexto-de-primaria",
   subject: "educacion-fisica",
   date: "2026-10-06",
   author: "Marco Pérez",
