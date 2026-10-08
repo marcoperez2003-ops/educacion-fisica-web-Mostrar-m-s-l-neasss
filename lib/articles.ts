@@ -11921,6 +11921,357 @@ La propuesta se encuentra alineada con los principios de la LOMLOE, favoreciendo
 `
 },
 {
+  slug: "situacion-aprendizaje-los-misterios-del-castillo-encantado-4-primaria",
+  title: "Situación de aprendizaje: Los misterios del castillo encantado para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Lengua Castellana y Literatura para 4º de Primaria inspirada en Halloween. Incluye comprensión lectora, escritura creativa, expresión oral y trabajo cooperativo.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "lengua",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 19,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado se convierte en detective y escritor para resolver un misterio ambientado en un castillo encantado.",
+  content: `
+# Situación de aprendizaje: Los misterios del castillo encantado para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en un grupo de detectives literarios encargados de resolver un misterioso caso ocurrido en un antiguo castillo encantado.
+<br>
+A lo largo de varias sesiones, los estudiantes leerán pistas, analizarán textos, escribirán relatos de misterio, desarrollarán su expresión oral y trabajarán de forma cooperativa para descubrir qué ocurrió en el castillo.
+<br>
+La temática de Halloween se utiliza como elemento motivador para fomentar la lectura, la creatividad y la producción escrita.
+<br>
+
+## Justificación
+<br>
+Durante 4º de Primaria es fundamental consolidar las competencias comunicativas relacionadas con la comprensión lectora, la expresión escrita y la comunicación oral.
+<br>
+Los relatos de misterio y suspense despiertan el interés del alumnado y permiten trabajar múltiples aspectos lingüísticos de forma significativa.
+<br>
+Además, la narrativa de Halloween favorece la creatividad y la participación activa de los estudiantes.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de un libro colectivo de relatos titulado:
+<br>
+
+**"Los misterios del castillo encantado"**
+<br>
+
+Cada grupo creará una historia de misterio ilustrada ambientada en Halloween.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la comprensión lectora.
+- Desarrollar la expresión escrita mediante relatos narrativos.
+- Identificar elementos propios de los textos de misterio.
+- Ampliar el vocabulario.
+- Fomentar la creatividad literaria.
+- Mejorar la expresión oral.
+- Participar activamente en tareas cooperativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia personal, social y de aprender a aprender.
+- Competencia digital.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos narrativos adecuados a la edad.
+- Elaborar textos escritos coherentes y creativos.
+- Participar en interacciones orales expresando ideas con claridad.
+- Utilizar estrategias de búsqueda e interpretación de información.
+<br>
+
+## Saberes básicos
+<br>
+
+- Comprensión lectora.
+- Narración.
+- Descripción.
+- Vocabulario.
+- Expresión oral.
+- Planificación y revisión de textos.
+- Literatura infantil.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende textos narrativos y localiza información relevante.
+- Utiliza vocabulario adecuado en sus producciones.
+- Escribe relatos coherentes con estructura narrativa.
+- Participa activamente en actividades orales.
+- Coopera en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Escritura creativa.
+- Lectura compartida.
+- Trabajo cooperativo.
+- Gamificación.
+- Evaluación formativa.
+<br>
+
+La narrativa del castillo encantado servirá como hilo conductor de todas las actividades.
+<br>
+
+## Sesión 1. La llegada al castillo encantado
+<br>
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta misteriosa que solicita ayuda para resolver un extraño suceso ocurrido en un castillo abandonado.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura de un relato breve de misterio.
+<br>
+
+### Actividad final
+<br>
+
+Identificación de:
+<br>
+
+- Personajes.
+- Escenario.
+- Problema principal.
+- Pistas encontradas.
+<br>
+
+## Sesión 2. Los secretos del castillo
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de textos descriptivos relacionados con:
+<br>
+
+- Habitaciones secretas.
+- Pasadizos.
+- Bibliotecas antiguas.
+- Objetos misteriosos.
+<br>
+
+### Taller de escritura
+<br>
+
+Creación de descripciones propias utilizando vocabulario específico.
+<br>
+
+## Sesión 3. Somos detectives literarios
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de enigmas y lectura de pistas escondidas.
+<br>
+
+Cada grupo deberá interpretar la información para avanzar en la investigación.
+<br>
+
+### Objetivo
+<br>
+
+Trabajar la comprensión lectora y la inferencia.
+<br>
+
+## Sesión 4. Escribimos nuestro misterio
+<br>
+
+### Actividad principal
+<br>
+
+Planificación de un relato de misterio.
+<br>
+
+Los grupos decidirán:
+<br>
+
+- Personajes.
+- Escenario.
+- Conflicto.
+- Pistas.
+- Solución final.
+<br>
+
+### Producción escrita
+<br>
+
+Redacción del borrador.
+<br>
+
+## Sesión 5. Revisamos e ilustramos
+<br>
+
+### Actividad principal
+<br>
+
+Corrección colectiva de los relatos.
+<br>
+
+### Actividad artística
+<br>
+
+Creación de ilustraciones para acompañar las historias.
+<br>
+
+### Objetivo
+<br>
+
+Preparar el libro colectivo.
+<br>
+
+## Sesión 6. La noche de los misterios
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de los relatos al resto de compañeros.
+<br>
+
+Cada grupo leerá fragmentos de su historia.
+<br>
+
+### Producto final
+<br>
+
+Montaje del libro colectivo:
+<br>
+
+**"Los misterios del castillo encantado"**
+<br>
+
+### Celebración final
+<br>
+
+Exposición de los trabajos realizados.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Lecturas adaptadas.
+- Apoyos visuales.
+- Organizadores gráficos.
+- Agrupamientos flexibles.
+- Diferentes niveles de complejidad en las tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de escritura.
+- Lista de control.
+- Escala de observación.
+- Producciones escritas.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende textos narrativos.
+- Utiliza adecuadamente el vocabulario trabajado.
+- Escribe relatos con estructura coherente.
+- Participa en las actividades orales.
+- Colabora con su grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Educación Artística: ilustración de relatos.
+- Inglés: vocabulario de Halloween.
+- Competencia Digital: creación digital de portadas.
+- Valores Cívicos: trabajo cooperativo y respeto.
+<br>
+
+## Relación con la vida real
+<br>
+
+La lectura y la escritura son herramientas fundamentales para comprender el mundo y comunicar ideas.
+<br>
+
+Mediante la creación de textos de misterio, el alumnado desarrolla su imaginación, pensamiento crítico y capacidad de expresión.
+<br>
+
+## Conclusión
+<br>
+
+"Los misterios del castillo encantado" permite trabajar los contenidos de Lengua Castellana y Literatura de forma motivadora y significativa mediante una temática cercana al alumnado como Halloween.
+<br>
+
+A través de la lectura, la investigación y la creación literaria, los estudiantes desarrollan competencias comunicativas fundamentales mientras disfrutan resolviendo enigmas y construyendo sus propias historias.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, creativo y competencial donde el alumnado se convierte en protagonista de su propio proceso de aprendizaje.
+`
+},
+{
   slug: "situacion-aprendizaje-halloween-primaria",
   title: "Situación de aprendizaje de Halloween para Primaria",
   metaDescription:
@@ -12269,6 +12620,3289 @@ A través de la narrativa, el juego y la resolución de desafíos, los estudiant
 <br>
 
 Además, la propuesta se encuentra plenamente alineada con los principios de la LOMLOE, favoreciendo la participación, la inclusión, la cooperación y el desarrollo competencial mediante situaciones de aprendizaje contextualizadas y motivadoras.
+`
+},
+{
+  slug: "situacion-aprendizaje-las-olimpiadas-cooperativas-4-primaria",
+  title: "Situación de aprendizaje: Las olimpiadas cooperativas para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Física para 4º de Primaria centrada en la cooperación, el trabajo en equipo, la resolución de retos y el desarrollo de habilidades motrices según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "educacion-fisica",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 20,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado participa en unas olimpiadas cooperativas superando retos motrices mediante el trabajo en equipo.",
+  content: `
+# Situación de aprendizaje: Las olimpiadas cooperativas para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado participar en unas olimpiadas muy especiales donde el objetivo principal no será ganar a otros equipos, sino colaborar para superar retos colectivos.
+<br>
+A lo largo de diferentes sesiones, los estudiantes deberán resolver desafíos motrices, participar en pruebas cooperativas y desarrollar habilidades relacionadas con la comunicación, la estrategia y el trabajo en equipo.
+<br>
+
+## Justificación
+<br>
+La Educación Física constituye un contexto privilegiado para desarrollar valores relacionados con la cooperación, la inclusión y el respeto.
+<br>
+Las actividades cooperativas permiten que todo el alumnado participe activamente independientemente de su nivel motor, favoreciendo además la cohesión grupal y el aprendizaje significativo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Celebración de una gran jornada de Olimpiadas Cooperativas donde todos los equipos deberán superar conjuntamente una serie de desafíos físicos para conseguir el máximo número de puntos de convivencia y cooperación.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar habilidades de cooperación y trabajo en equipo.
+- Mejorar las habilidades motrices básicas.
+- Resolver problemas motores de manera colectiva.
+- Potenciar la comunicación y la toma de decisiones compartida.
+- Fomentar la participación activa de todo el alumnado.
+- Valorar el esfuerzo colectivo por encima del resultado individual.
+- Respetar las normas y los compañeros durante la práctica física.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver situaciones motrices individuales y colectivas.
+- Participar activamente en actividades cooperativas.
+- Desarrollar estrategias para superar retos motores.
+- Mostrar comportamientos responsables durante la práctica física.
+<br>
+
+## Saberes básicos
+<br>
+
+- Habilidades motrices básicas.
+- Cooperación y trabajo en equipo.
+- Juegos motores.
+- Resolución de problemas motores.
+- Estrategias de comunicación.
+- Participación activa e inclusiva.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Coopera con sus compañeros durante los retos.
+- Aplica habilidades motrices adecuadas.
+- Respeta las normas y acuerdos establecidos.
+- Propone estrategias para resolver problemas motores.
+- Contribuye al éxito colectivo del grupo.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Retos motores.
+- Resolución de problemas.
+- Gamificación.
+- Evaluación formativa.
+<br>
+
+La narrativa consistirá en unas olimpiadas donde todos los participantes pertenecen al mismo gran equipo y deben colaborar para conseguir medallas de cooperación.
+<br>
+
+## Sesión 1. Inauguración de las olimpiadas
+<br>
+
+### Calentamiento
+<br>
+
+Juego "Los relevos cooperativos".
+<br>
+
+Los equipos transportan materiales de un punto a otro colaborando para completar una misión conjunta.
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de las olimpiadas cooperativas.
+<br>
+
+Creación de equipos, elección de nombre, lema y escudo.
+<br>
+
+### Reto cooperativo
+<br>
+
+"Construimos nuestra bandera olímpica".
+<br>
+
+Cada grupo debe transportar diferentes piezas y montar una bandera común.
+<br>
+
+### Vuelta a la calma
+<br>
+
+Asamblea sobre qué significa cooperar.
+<br>
+
+## Sesión 2. Desafíos de coordinación
+<br>
+
+### Calentamiento
+<br>
+
+Circuito de desplazamientos variados.
+<br>
+
+### Actividad principal
+<br>
+
+Prueba 1: El transporte imposible.
+<br>
+
+Los equipos deben trasladar objetos utilizando únicamente determinados materiales.
+<br>
+
+### Prueba 2
+<br>
+
+Carrera de conos cooperativa.
+<br>
+
+Todos los miembros deben llegar juntos a la meta.
+<br>
+
+### Prueba 3
+<br>
+
+Laberinto humano.
+<br>
+
+Los alumnos ayudan a un compañero a atravesar un recorrido mediante instrucciones verbales.
+<br>
+
+### Reflexión
+<br>
+
+Importancia de la comunicación dentro del equipo.
+<br>
+
+## Sesión 3. Retos de confianza y equilibrio
+<br>
+
+### Calentamiento
+<br>
+
+Juego de parejas cooperativas.
+<br>
+
+### Actividad principal
+<br>
+
+Prueba 1: El puente humano.
+<br>
+
+Los equipos crean estructuras corporales para superar un recorrido.
+<br>
+
+### Prueba 2
+<br>
+
+Equilibrios cooperativos por grupos.
+<br>
+
+### Prueba 3
+<br>
+
+El círculo perfecto.
+<br>
+
+Todos los miembros deben mantener una postura colectiva de equilibrio.
+<br>
+
+### Vuelta a la calma
+<br>
+
+Análisis de las dificultades encontradas.
+<br>
+
+## Sesión 4. Olimpiadas de estrategia
+<br>
+
+### Calentamiento
+<br>
+
+Juego de reacción cooperativa.
+<br>
+
+### Actividad principal
+<br>
+
+Prueba 1: Cruza el río.
+<br>
+
+El grupo debe atravesar una zona utilizando únicamente determinados espacios seguros.
+<br>
+
+### Prueba 2
+<br>
+
+La torre cooperativa.
+<br>
+
+Construcción colectiva utilizando material deportivo.
+<br>
+
+### Prueba 3
+<br>
+
+Rescate olímpico.
+<br>
+
+Los equipos deben idear estrategias para recuperar distintos objetos distribuidos por el espacio.
+<br>
+
+### Reflexión
+<br>
+
+¿Cómo tomamos decisiones dentro del grupo?
+<br>
+
+## Sesión 5. Preparación de la gran final
+<br>
+
+### Calentamiento
+<br>
+
+Juegos cooperativos de persecución.
+<br>
+
+### Actividad principal
+<br>
+
+Rotación por estaciones:
+<br>
+
+- Estación de precisión.
+- Estación de coordinación.
+- Estación de equilibrio.
+- Estación de estrategia.
+- Estación de velocidad cooperativa.
+<br>
+
+### Reto final
+<br>
+
+Ensayo de la ceremonia olímpica.
+<br>
+
+### Vuelta a la calma
+<br>
+
+Valoración de los progresos obtenidos.
+<br>
+
+## Sesión 6. Gran jornada olímpica cooperativa
+<br>
+
+### Ceremonia de apertura
+<br>
+
+Presentación de equipos, lemas y banderas.
+<br>
+
+### Desafíos finales
+<br>
+
+- Transporte gigante.
+- Construcción colectiva.
+- Relevos cooperativos.
+- Carrera de la amistad.
+- Misión final olímpica.
+<br>
+
+### Producto final
+<br>
+
+Superación conjunta de todos los retos propuestos.
+<br>
+
+### Ceremonia de clausura
+<br>
+
+Entrega de diplomas relacionados con:
+<br>
+
+- Cooperación.
+- Esfuerzo.
+- Compañerismo.
+- Participación.
+- Trabajo en equipo.
+<br>
+
+### Reflexión final
+<br>
+
+Debate sobre los aprendizajes desarrollados durante las olimpiadas.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Diferentes niveles de dificultad.
+- Adaptación de materiales.
+- Agrupamientos heterogéneos.
+- Apoyos visuales y verbales.
+- Diversas formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de cooperación.
+- Lista de control.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Coopera con el grupo.
+- Respeta las normas establecidas.
+- Propone soluciones a los retos.
+- Contribuye al éxito colectivo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Valores Cívicos: cooperación y convivencia.
+- Lengua Castellana: creación de lemas y normas.
+- Educación Artística: diseño de escudos y banderas.
+- Matemáticas: puntuaciones y clasificación cooperativa.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las habilidades desarrolladas durante la situación ayudan al alumnado a comprender la importancia del trabajo en equipo, la comunicación y la cooperación para alcanzar objetivos comunes.
+<br>
+
+Además, favorecen la inclusión, el respeto y la participación activa en distintos contextos sociales.
+<br>
+
+## Conclusión
+<br>
+
+"Las olimpiadas cooperativas" permite al alumnado de 4º de Primaria desarrollar competencias motrices, sociales y personales mediante experiencias motivadoras y significativas.
+<br>
+
+A través de retos físicos y desafíos cooperativos, los estudiantes descubren que la colaboración y la ayuda mutua son herramientas fundamentales para alcanzar metas comunes.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una Educación Física inclusiva, participativa y centrada en el desarrollo integral del alumnado.
+`
+},
+{
+  slug: "situacion-aprendizaje-la-mision-del-codigo-secreto-4-primaria",
+  title: "Situación de aprendizaje: La misión del código secreto para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 4º de Primaria centrada en la resolución de problemas, el cálculo, el razonamiento lógico y el trabajo cooperativo según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 20,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado se convierte en agente secreto y debe resolver desafíos matemáticos para descifrar un código oculto.",
+  content: `
+# Situación de aprendizaje: La misión del código secreto para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje convierte al alumnado en agentes secretos que deberán resolver diferentes desafíos matemáticos para descifrar un importante código oculto.
+<br>
+A través de enigmas, pruebas de cálculo, retos lógicos y misiones cooperativas, los estudiantes aplicarán conocimientos matemáticos en situaciones motivadoras y significativas.
+<br>
+
+## Justificación
+<br>
+Las matemáticas adquieren mayor significado cuando se presentan mediante retos que exigen aplicar conocimientos para resolver situaciones concretas.
+<br>
+La temática de los agentes secretos favorece la motivación del alumnado y permite desarrollar habilidades relacionadas con el razonamiento lógico, la resolución de problemas y el trabajo cooperativo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Desciframiento de un gran código secreto formado por diferentes claves matemáticas obtenidas durante todas las sesiones.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la capacidad de resolución de problemas.
+- Utilizar estrategias de cálculo mental y escrito.
+- Aplicar operaciones básicas en diferentes contextos.
+- Interpretar información numérica.
+- Desarrollar el razonamiento lógico.
+- Trabajar de manera cooperativa.
+- Valorar las matemáticas como herramienta para resolver desafíos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver problemas utilizando estrategias variadas.
+- Comunicar procesos y resultados matemáticos.
+- Aplicar conocimientos numéricos en situaciones reales.
+- Interpretar y analizar información matemática.
+<br>
+
+## Saberes básicos
+<br>
+
+- Numeración.
+- Operaciones básicas.
+- Resolución de problemas.
+- Magnitudes y medidas.
+- Geometría.
+- Organización e interpretación de datos.
+- Razonamiento lógico.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Resuelve situaciones problemáticas de forma adecuada.
+- Utiliza correctamente las operaciones trabajadas.
+- Explica estrategias utilizadas.
+- Interpreta datos y resultados.
+- Participa activamente en actividades cooperativas.
+- Aplica el razonamiento matemático para resolver retos.
+<br>
+
+## Metodología
+<br>
+
+La situación se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en retos.
+- Gamificación.
+- Aprendizaje cooperativo.
+- Resolución de problemas.
+- Evaluación formativa.
+<br>
+
+La narrativa girará en torno a una misión secreta que solo podrá resolverse mediante el uso de las matemáticas.
+<br>
+
+## Sesión 1. Reclutamiento de agentes secretos
+<br>
+
+### Actividad inicial
+<br>
+
+Los alumnos reciben un mensaje cifrado donde se les informa de que han sido seleccionados para formar parte de una agencia secreta internacional.
+<br>
+
+### Calentamiento matemático
+<br>
+
+Retos rápidos de cálculo mental por equipos.
+<br>
+
+### Actividad principal
+<br>
+
+Pruebas relacionadas con:
+<br>
+
+- Lectura y escritura de números.
+- Comparación de cantidades.
+- Ordenación numérica.
+<br>
+
+### Misión final
+<br>
+
+Obtención de la primera cifra del código secreto.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué estrategias nos han ayudado a resolver los desafíos?
+<br>
+
+## Sesión 2. El laboratorio de operaciones
+<br>
+
+### Calentamiento
+<br>
+
+Juego de cálculo cooperativo.
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de misiones relacionadas con:
+<br>
+
+- Sumas.
+- Restas.
+- Multiplicaciones.
+<br>
+
+### Desafío especial
+<br>
+
+Los equipos deben resolver una serie de operaciones para desbloquear una caja con pistas.
+<br>
+
+### Código obtenido
+<br>
+
+Segunda clave de la misión.
+<br>
+
+## Sesión 3. El robo de los planos secretos
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de un problema contextualizado.
+<br>
+
+### Actividad principal
+<br>
+
+Resolución de problemas matemáticos relacionados con:
+<br>
+
+- Compras.
+- Distancias.
+- Repartos.
+- Cantidades.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Comparación y explicación de estrategias utilizadas.
+<br>
+
+### Recompensa
+<br>
+
+Nueva pieza del código secreto.
+<br>
+
+## Sesión 4. La sala de las medidas
+<br>
+
+### Calentamiento
+<br>
+
+Estimaciones rápidas de longitud y peso.
+<br>
+
+### Actividad principal
+<br>
+
+Estaciones de aprendizaje:
+<br>
+
+- Medición de objetos.
+- Comparación de magnitudes.
+- Conversión de unidades sencillas.
+- Resolución de retos prácticos.
+<br>
+
+### Misión cooperativa
+<br>
+
+Descifrar una clave utilizando resultados obtenidos en las mediciones.
+<br>
+
+## Sesión 5. El enigma geométrico
+<br>
+
+### Calentamiento
+<br>
+
+Reconocimiento rápido de figuras geométricas.
+<br>
+
+### Actividad principal
+<br>
+
+Retos relacionados con:
+<br>
+
+- Polígonos.
+- Perímetros.
+- Simetrías.
+- Orientación espacial.
+<br>
+
+### Desafío final
+<br>
+
+Construcción de una figura secreta siguiendo instrucciones matemáticas.
+<br>
+
+### Resultado
+<br>
+
+Obtención de la penúltima clave.
+<br>
+
+## Sesión 6. La misión final
+<br>
+
+### Actividad inicial
+<br>
+
+Recopilación de todas las pistas obtenidas.
+<br>
+
+### Actividad principal
+<br>
+
+Gran Escape Room Matemático donde los grupos deberán:
+<br>
+
+- Resolver operaciones.
+- Interpretar gráficos.
+- Descifrar mensajes.
+- Resolver problemas.
+- Aplicar contenidos trabajados.
+<br>
+
+### Producto final
+<br>
+
+Desciframiento completo del código secreto.
+<br>
+
+### Ceremonia de clausura
+<br>
+
+Entrega de diplomas de agente matemático.
+<br>
+
+### Reflexión final
+<br>
+
+Valoración de los aprendizajes desarrollados durante la misión.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Actividades multinivel.
+- Material manipulativo.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de resolución de problemas.
+- Lista de control.
+- Escala de observación.
+- Cuaderno de trabajo.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Utiliza correctamente las operaciones matemáticas.
+- Resuelve problemas adecuados al nivel.
+- Explica procedimientos matemáticos.
+- Participa en los retos planteados.
+- Coopera con el equipo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: interpretación de mensajes y pistas.
+- Competencia Digital: uso de códigos y claves.
+- Educación Artística: diseño de credenciales secretas.
+- Ciencias Sociales: orientación y localización espacial.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las matemáticas permiten resolver numerosos problemas presentes en la vida cotidiana relacionados con cantidades, medidas, organización de información y toma de decisiones.
+<br>
+
+La situación muestra al alumnado cómo aplicar los conocimientos matemáticos en contextos prácticos y motivadores.
+<br>
+
+## Conclusión
+<br>
+
+"La misión del código secreto" convierte el aprendizaje matemático en una experiencia emocionante donde el alumnado debe pensar, cooperar y resolver desafíos para alcanzar un objetivo común.
+<br>
+
+A través de retos progresivos y situaciones contextualizadas, los estudiantes desarrollan competencias matemáticas fundamentales mientras fortalecen su razonamiento lógico, autonomía y capacidad para trabajar en equipo.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, significativo y competencial.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-exploradores-de-los-ecosistemas-4-primaria",
+  title: "Situación de aprendizaje: Los exploradores de los ecosistemas para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Naturales para 4º de Primaria centrada en los ecosistemas, los seres vivos y la conservación del medio ambiente según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "ciencias-naturales",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado investiga los ecosistemas, las relaciones entre seres vivos y la importancia de proteger el medio ambiente.",
+  content: `
+# Situación de aprendizaje: Los exploradores de los ecosistemas para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje convierte al alumnado en un equipo de exploradores científicos cuya misión será investigar diferentes ecosistemas del planeta para comprender cómo interactúan los seres vivos con su entorno.
+<br>
+A través de investigaciones, observaciones, experimentos y actividades cooperativas, los estudiantes descubrirán la importancia de conservar la biodiversidad y proteger el medio ambiente.
+<br>
+
+## Justificación
+<br>
+Los ecosistemas constituyen un contenido fundamental dentro de las Ciencias Naturales, ya que permiten comprender las relaciones existentes entre los seres vivos y el medio en el que habitan.
+<br>
+Además, favorecen el desarrollo de actitudes responsables relacionadas con la sostenibilidad y la protección del entorno natural.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Naturales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una feria científica de los ecosistemas donde cada grupo presentará una investigación sobre un ecosistema determinado mediante maquetas, murales y exposiciones orales.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar los elementos que forman un ecosistema.
+- Comprender las relaciones entre los seres vivos y el medio.
+- Reconocer diferentes tipos de ecosistemas.
+- Analizar la importancia de la biodiversidad.
+- Desarrollar habilidades de investigación científica.
+- Fomentar actitudes de respeto hacia la naturaleza.
+- Participar activamente en proyectos cooperativos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Analizar características de seres vivos y ecosistemas.
+- Obtener información mediante observación e investigación.
+- Comprender relaciones entre organismos y entorno.
+- Adoptar hábitos relacionados con la sostenibilidad ambiental.
+<br>
+
+## Saberes básicos
+<br>
+
+- Los ecosistemas.
+- Factores bióticos y abióticos.
+- Cadenas alimentarias.
+- Biodiversidad.
+- Adaptación de los seres vivos.
+- Conservación del medio ambiente.
+- Investigación científica.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica los elementos de un ecosistema.
+- Explica relaciones entre seres vivos y entorno.
+- Reconoce diferentes ecosistemas.
+- Participa activamente en investigaciones.
+- Propone acciones para proteger el medio ambiente.
+- Coopera con el grupo durante el proyecto.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje por indagación.
+- Trabajo cooperativo.
+- Observación científica.
+- Resolución de retos.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Comienza la expedición científica
+<br>
+
+### Actividad inicial
+<br>
+
+Presentación de la misión de investigación.
+<br>
+
+### Actividad principal
+<br>
+
+Introducción al concepto de ecosistema mediante vídeos, imágenes y actividades guiadas.
+<br>
+
+### Actividad final
+<br>
+
+Identificación de elementos bióticos y abióticos.
+<br>
+
+## Sesión 2. Descubrimos distintos ecosistemas
+<br>
+
+### Actividad principal
+<br>
+
+Investigación sobre diferentes ecosistemas:
+<br>
+
+- Bosque.
+- Desierto.
+- Selva.
+- Océano.
+- Montaña.
+<br>
+
+### Objetivo
+<br>
+
+Comparar características de cada ecosistema.
+<br>
+
+## Sesión 3. Las cadenas alimentarias
+<br>
+
+### Actividad principal
+<br>
+
+Estudio de las relaciones alimentarias entre los seres vivos.
+<br>
+
+### Taller práctico
+<br>
+
+Construcción de cadenas alimentarias utilizando tarjetas e ilustraciones.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué ocurre si desaparece una especie?
+<br>
+
+## Sesión 4. Adaptaciones sorprendentes
+<br>
+
+### Actividad principal
+<br>
+
+Investigación de las adaptaciones que permiten a los seres vivos sobrevivir en diferentes ecosistemas.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Creación de fichas informativas.
+<br>
+
+## Sesión 5. Protegemos la biodiversidad
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de amenazas ambientales:
+<br>
+
+- Contaminación.
+- Deforestación.
+- Cambio climático.
+- Pérdida de hábitats.
+<br>
+
+### Debate
+<br>
+
+¿Cómo podemos ayudar a proteger el planeta?
+<br>
+
+## Sesión 6. Feria científica de los ecosistemas
+<br>
+
+### Actividad principal
+<br>
+
+Exposición de los proyectos realizados.
+<br>
+
+Cada grupo presentará:
+<br>
+
+- Su ecosistema.
+- Sus seres vivos.
+- Las cadenas alimentarias.
+- Problemas ambientales.
+- Posibles soluciones.
+<br>
+
+### Celebración final
+<br>
+
+Entrega simbólica del diploma de explorador científico.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Apoyos visuales.
+- Actividades multinivel.
+- Material manipulativo.
+- Agrupamientos flexibles.
+- Adaptación de tareas según necesidades.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de investigación.
+- Lista de control.
+- Escala de observación.
+- Cuaderno científico.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifica ecosistemas y sus características.
+- Explica relaciones entre los seres vivos.
+- Participa en actividades de investigación.
+- Muestra actitudes de respeto ambiental.
+- Coopera en el trabajo grupal.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Matemáticas: representación de datos.
+- Lengua Castellana y Literatura: elaboración de informes.
+- Educación Artística: diseño de maquetas y murales.
+- Competencia Digital: búsqueda guiada de información.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los ecosistemas forman parte del entorno en el que vivimos y condicionan la vida de todos los seres vivos.
+<br>
+
+Comprender su funcionamiento ayuda al alumnado a desarrollar una mayor conciencia ambiental y a adoptar hábitos sostenibles desde edades tempranas.
+<br>
+
+## Conclusión
+<br>
+
+"Los exploradores de los ecosistemas" permite al alumnado de 4º de Primaria comprender la complejidad de las relaciones existentes en la naturaleza mediante experiencias prácticas e investigaciones científicas.
+<br>
+
+A través de la observación, la cooperación y el análisis de problemas ambientales, los estudiantes desarrollan competencias científicas fundamentales y adquieren herramientas para convertirse en ciudadanos comprometidos con la protección del planeta.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, significativo y conectado con los desafíos ambientales actuales.
+`
+},
+{
+  slug: "situacion-aprendizaje-exploradores-de-espana-y-europa-4-primaria",
+  title: "Situación de aprendizaje: Exploradores de España y Europa para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Sociales para 4º de Primaria centrada en la geografía de España y Europa, la orientación espacial, los paisajes y el trabajo cooperativo según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "ciencias-sociales",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 21,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado se convierte en explorador geográfico y descubre España y Europa mediante mapas, retos y proyectos cooperativos.",
+  content: `
+# Situación de aprendizaje: Exploradores de España y Europa para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado formar parte de una expedición geográfica cuyo objetivo será recorrer España y Europa para descubrir sus principales características físicas, territoriales, culturales y humanas.
+<br>
+A través de mapas, actividades de investigación, retos cooperativos y recursos digitales, los estudiantes desarrollarán conocimientos relacionados con la geografía y la organización territorial mientras completan un cuaderno de exploración.
+<br>
+
+## Justificación
+<br>
+El conocimiento del entorno geográfico resulta esencial para comprender el mundo que nos rodea. Durante 4º de Primaria, el alumnado comienza a desarrollar una visión más amplia del territorio y puede interpretar información cartográfica de mayor complejidad.
+<br>
+Esta propuesta favorece el aprendizaje significativo mediante actividades prácticas y contextualizadas que permiten comprender la diversidad geográfica de España y Europa.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de un gran atlas cooperativo titulado:
+<br>
+
+**"Guía de exploradores de España y Europa"**
+<br>
+
+Cada equipo será responsable de una parte del atlas que posteriormente se unirá en una obra colectiva.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Localizar España en Europa y en el mundo.
+- Interpretar mapas físicos y políticos.
+- Conocer las características básicas del territorio español y europeo.
+- Identificar elementos geográficos relevantes.
+- Utilizar herramientas cartográficas sencillas.
+- Desarrollar habilidades de investigación.
+- Participar en proyectos cooperativos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+<br>
+
+## Competencias específicas
+<br>
+
+- Interpretar información geográfica procedente de mapas y otras fuentes.
+- Comprender la organización territorial de España.
+- Identificar características básicas de Europa.
+- Utilizar instrumentos y recursos para orientarse en el espacio.
+<br>
+
+## Saberes básicos
+<br>
+
+- España en Europa.
+- Organización territorial de España.
+- Comunidades autónomas.
+- Relieve y paisajes.
+- Mapas físicos y políticos.
+- Europa y sus principales países.
+- Orientación espacial.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Localiza elementos geográficos básicos en mapas.
+- Utiliza conceptos espaciales adecuados.
+- Interpreta información cartográfica sencilla.
+- Participa activamente en actividades de investigación.
+- Coopera con sus compañeros.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Investigación guiada.
+- Uso de mapas y recursos digitales.
+- Resolución de retos geográficos.
+<br>
+
+## Sesión 1. Comienza la expedición
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta de una organización internacional de exploradores que solicita ayuda para elaborar una nueva guía geográfica.
+<br>
+
+### Actividad principal
+<br>
+
+Observación de mapas físicos y políticos de Europa.
+<br>
+
+Los estudiantes deberán:
+<br>
+
+- Localizar España.
+- Identificar países vecinos.
+- Diferenciar mar, océano y continente.
+- Reconocer símbolos cartográficos básicos.
+<br>
+
+### Reto de exploración
+<br>
+
+Completar un mapa mudo señalando:
+<br>
+
+- España.
+- Francia.
+- Portugal.
+- Mar Mediterráneo.
+- Océano Atlántico.
+<br>
+
+### Reflexión final
+<br>
+
+¿Por qué son importantes los mapas?
+<br>
+
+## Sesión 2. Descubrimos España
+
+### Calentamiento geográfico
+<br>
+
+Juego rápido de localización territorial.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación sobre:
+<br>
+
+- Comunidades autónomas.
+- Capitales.
+- Provincias.
+<br>
+
+Cada equipo recibe una zona de España para estudiarla.
+<br>
+
+### Taller práctico
+<br>
+
+Montaje de un gran mapa colaborativo de España.
+<br>
+
+Los alumnos colocan:
+<br>
+
+- Nombres.
+- Capitales.
+- Símbolos representativos.
+- Fotografías.
+<br>
+
+### Cierre
+<br>
+
+Puesta en común de descubrimientos.
+<br>
+
+## Sesión 3. Los paisajes de nuestro país
+
+### Actividad inicial
+<br>
+
+Visualización de imágenes de distintos paisajes españoles.
+<br>
+
+### Actividad principal
+<br>
+
+Estudio de:
+<br>
+
+- Montañas.
+- Mesetas.
+- Costas.
+- Ríos.
+- Islas.
+<br>
+
+### Estaciones de aprendizaje
+<br>
+
+Estación 1:
+<br>
+
+Identificación de relieves.
+<br>
+
+Estación 2:
+<br>
+
+Clasificación de paisajes.
+<br>
+
+Estación 3:
+<br>
+
+Interpretación de mapas físicos.
+<br>
+
+Estación 4:
+<br>
+
+Relacionar paisajes con actividades humanas.
+<br>
+
+### Producto parcial
+<br>
+
+Ficha del explorador sobre paisajes de España.
+<br>
+
+## Sesión 4. Viajamos por Europa
+
+### Actividad inicial
+<br>
+
+Presentación interactiva sobre Europa.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación cooperativa sobre diferentes países europeos.
+<br>
+
+Cada grupo estudia:
+<br>
+
+- Bandera.
+- Capital.
+- Idioma.
+- Monumentos.
+- Curiosidades.
+<br>
+
+### Reto
+<br>
+
+Quiz geográfico por equipos.
+<br>
+
+### Actividad final
+<br>
+
+Creación de fichas informativas para el atlas.
+<br>
+
+## Sesión 5. Grandes desafíos cartográficos
+
+### Calentamiento
+<br>
+
+Juego de orientación espacial.
+<br>
+
+### Actividad principal
+<br>
+
+Escape Room Geográfico.
+<br>
+
+Los alumnos deberán superar pruebas relacionadas con:
+<br>
+
+- Coordenadas sencillas.
+- Interpretación de mapas.
+- Relieve.
+- Países europeos.
+- Comunidades autónomas.
+<br>
+
+### Misión cooperativa
+<br>
+
+Reconstruir un mapa gigante fragmentado.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué estrategias han ayudado al equipo?
+<br>
+
+## Sesión 6. Elaboramos nuestro atlas
+
+### Actividad principal
+<br>
+
+Organización y montaje de todos los materiales elaborados durante el proyecto.
+<br>
+
+Cada grupo completa:
+<br>
+
+- Mapas.
+- Fichas geográficas.
+- Fotografías.
+- Curiosidades.
+- Símbolos.
+<br>
+
+### Presentación final
+<br>
+
+Exposición oral por equipos explicando la información investigada.
+<br>
+
+### Producto final
+<br>
+
+Creación del atlas cooperativo:
+<br>
+
+**"Guía de exploradores de España y Europa"**
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del carnet de explorador geográfico.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Mapas adaptados.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica del proyecto.
+- Cuaderno del explorador.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Localiza elementos geográficos básicos.
+- Interpreta mapas correctamente.
+- Utiliza vocabulario geográfico adecuado.
+- Participa activamente en las investigaciones.
+- Coopera con el grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana: elaboración de textos informativos.
+- Matemáticas: escalas, coordenadas y orientación.
+- Educación Artística: diseño del atlas.
+- Competencia Digital: búsqueda de información geográfica.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los conocimientos geográficos permiten comprender mejor el mundo actual, interpretar información espacial y conocer la diversidad cultural y territorial de Europa.
+<br>
+
+Además, ayudan al alumnado a orientarse y entender la organización del territorio donde vive.
+<br>
+
+## Conclusión
+<br>
+
+"Exploradores de España y Europa" permite acercar la geografía al alumnado mediante experiencias prácticas, proyectos cooperativos e investigaciones adaptadas a su nivel educativo.
+<br>
+
+A través del uso de mapas, la interpretación de información geográfica y el trabajo colaborativo, los estudiantes desarrollan competencias esenciales para comprender la organización territorial de España y la diversidad cultural y geográfica de Europa.
+<br>
+
+La elaboración del atlas final favorece la integración de los aprendizajes adquiridos durante todas las sesiones, permitiendo al alumnado comunicar sus descubrimientos y consolidar los conocimientos trabajados de una manera visual, significativa y motivadora.
+<br>
+
+Además, la propuesta contribuye al desarrollo del pensamiento crítico, la orientación espacial, la competencia digital y la autonomía personal mediante tareas que conectan directamente con la realidad y el entorno en el que viven los estudiantes.
+<br>
+
+Esta situación de aprendizaje se encuentra plenamente alineada con los principios de la LOMLOE, promoviendo un aprendizaje activo, competencial e inclusivo en el que el alumnado participa como protagonista de su propio proceso de construcción del conocimiento.
+`
+},
+{
+  slug: "situacion-aprendizaje-halloween-mystery-academy-4-primaria",
+  title: "Situación de aprendizaje: Halloween Mystery Academy para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Inglés para 4º de Primaria inspirada en Halloween. Incluye comprensión oral y escrita, vocabulario temático, comunicación oral y proyecto final según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "ingles",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 22,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado se convierte en detective y aprendiz de una academia misteriosa para resolver secretos de Halloween utilizando el inglés.",
+  content: `
+# Situación de aprendizaje: Halloween Mystery Academy para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje invita al alumnado a formar parte de la Halloween Mystery Academy, una escuela secreta donde jóvenes detectives deben resolver diferentes misterios relacionados con Halloween utilizando el inglés como herramienta de comunicación.
+<br>
+A lo largo de las sesiones, los estudiantes descifrarán mensajes ocultos, interpretarán pistas, ampliarán vocabulario temático y desarrollarán habilidades de comprensión y expresión oral y escrita mientras avanzan en una historia de misterio.
+<br>
+
+## Justificación
+<br>
+Halloween constituye una temática altamente motivadora para el alumnado y ofrece múltiples posibilidades para trabajar contenidos lingüísticos de manera significativa.
+<br>
+La narrativa de misterio favorece la participación activa, la comprensión de textos, el uso funcional del vocabulario y la comunicación oral en contextos cercanos y atractivos.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Extranjera: Inglés.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un expediente secreto titulado:
+<br>
+
+**"Halloween Mystery Case"**
+<br>
+
+Cada equipo resolverá un misterio y elaborará una presentación oral explicando las pistas encontradas y la solución del caso.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Ampliar el vocabulario relacionado con Halloween.
+- Comprender textos orales y escritos sencillos en inglés.
+- Utilizar expresiones básicas para describir personajes y situaciones.
+- Participar en intercambios comunicativos.
+- Mejorar la pronunciación y la fluidez oral.
+- Trabajar de forma cooperativa.
+- Utilizar el inglés para resolver problemas y desafíos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia plurilingüe.
+- Competencia personal, social y de aprender a aprender.
+- Competencia digital.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender mensajes orales y escritos relacionados con situaciones conocidas.
+- Expresarse oralmente utilizando vocabulario y estructuras sencillas.
+- Participar en actividades comunicativas cooperativas.
+- Utilizar estrategias para comprender y producir mensajes en lengua extranjera.
+<br>
+
+## Saberes básicos
+<br>
+
+- Halloween vocabulary.
+- Descriptions.
+- Daily communication.
+- Reading comprehension.
+- Listening comprehension.
+- Oral interaction.
+- Simple written production.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende vocabulario relacionado con Halloween.
+- Participa activamente en actividades orales.
+- Utiliza expresiones sencillas en inglés.
+- Comprende instrucciones y pistas.
+- Produce mensajes escritos breves.
+- Coopera con su equipo en la resolución de desafíos.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Gamificación.
+- Aprendizaje basado en retos.
+- Aprendizaje cooperativo.
+- Storytelling.
+- Total Physical Response (TPR).
+- Evaluación formativa.
+<br>
+
+Toda la propuesta estará ambientada en una academia de detectives especializada en misterios de Halloween.
+<br>
+
+## Sesión 1. Welcome to Halloween Mystery Academy
+
+### Actividad inicial
+<br>
+
+Los alumnos reciben una carta de admisión a la academia de detectives.
+<br>
+
+### Presentación del contexto
+<br>
+
+El director de la academia explica que una misteriosa llave ha desaparecido y será necesario resolver diferentes desafíos para recuperarla.
+<br>
+
+### Vocabulario trabajado
+<br>
+
+- Witch.
+- Ghost.
+- Vampire.
+- Skeleton.
+- Pumpkin.
+- Haunted House.
+- Bat.
+- Monster.
+<br>
+
+### Actividad principal
+<br>
+
+Flashcards, juegos de asociación y bingo de vocabulario.
+<br>
+
+### Listening Challenge
+<br>
+
+Escucha de descripciones sencillas para identificar personajes de Halloween.
+<br>
+
+### Actividad final
+<br>
+
+Creación del carnet de detective.
+<br>
+
+## Sesión 2. The Haunted Mansion
+
+### Warm Up
+<br>
+
+Halloween Simon Says.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura guiada de un pequeño texto ambientado en una mansión encantada.
+<br>
+
+### Comprensión lectora
+<br>
+
+Los equipos deberán localizar información relacionada con:
+<br>
+
+- Characters.
+- Places.
+- Objects.
+- Clues.
+<br>
+
+### Detective Mission
+<br>
+
+Búsqueda de pistas ocultas en diferentes rincones del aula.
+<br>
+
+Cada pista contiene vocabulario y pequeñas preguntas en inglés.
+<br>
+
+### Speaking Activity
+<br>
+
+Descripción de habitaciones misteriosas utilizando:
+<br>
+
+- There is...
+- There are...
+- I can see...
+<br>
+
+## Sesión 3. The Secret Monsters File
+
+### Warm Up
+<br>
+
+Guess the Monster.
+<br>
+
+### Actividad principal
+<br>
+
+Cada equipo recibe una ficha secreta sobre un personaje de Halloween.
+<br>
+
+### Reading Task
+<br>
+
+Lectura de descripciones sencillas.
+<br>
+
+### Writing Task
+<br>
+
+Completar una ficha con:
+<br>
+
+- Name.
+- Appearance.
+- Powers.
+- Favourite place.
+<br>
+
+### Speaking Challenge
+<br>
+
+Presentar el monstruo al resto de la clase sin decir su nombre.
+<br>
+
+Los compañeros deberán adivinarlo.
+<br>
+
+## Sesión 4. The Missing Pumpkin Mystery
+
+### Actividad inicial
+<br>
+
+Aparece una calabaza desaparecida y los alumnos deben investigar qué ha ocurrido.
+<br>
+
+### Listening Activity
+<br>
+
+Audición de pistas grabadas por diferentes personajes.
+<br>
+
+### Cooperative Investigation
+<br>
+
+Los equipos analizan:
+<br>
+
+- Suspects.
+- Evidence.
+- Clues.
+- Locations.
+<br>
+
+### Problem Solving
+<br>
+
+Completar diferentes pruebas lingüísticas:
+<br>
+
+- Vocabulary puzzles.
+- Word searches.
+- Secret codes.
+- Matching activities.
+<br>
+
+### Conclusion
+<br>
+
+Cada grupo plantea su hipótesis.
+<br>
+
+## Sesión 5. Preparing the Final Case
+
+### Warm Up
+<br>
+
+Halloween Quiz Competition.
+<br>
+
+### Actividad principal
+<br>
+
+Organización del expediente final de investigación.
+<br>
+
+Cada equipo elabora:
+<br>
+
+- Characters.
+- Main clues.
+- Location.
+- Solution.
+<br>
+
+### Writing Workshop
+<br>
+
+Redacción de pequeños textos utilizando estructuras trabajadas durante las sesiones anteriores.
+<br>
+
+### Oral Rehearsal
+<br>
+
+Preparación de la exposición final.
+<br>
+
+## Sesión 6. Halloween Mystery Awards
+
+### Opening Mission
+<br>
+
+Último reto cooperativo para obtener la clave final del misterio.
+<br>
+
+### Final Presentation
+<br>
+
+Cada equipo presenta su caso en inglés explicando:
+<br>
+
+- What happened?
+- Who was involved?
+- Where did it happen?
+- How was the mystery solved?
+<br>
+
+### Product Final
+<br>
+
+Exposición de todos los expedientes:
+<br>
+
+**"Halloween Mystery Case"**
+<br>
+
+### Graduation Ceremony
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Halloween Mystery Detective**
+<br>
+
+### Final Reflection
+<br>
+
+Los alumnos comentan:
+<br>
+
+- What did you learn?
+- What was your favourite activity?
+- What vocabulary do you remember?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Flashcards visuales.
+- Andamiaje lingüístico.
+- Frases modelo.
+- Agrupamientos flexibles.
+- Actividades multinivel.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica de comunicación oral.
+- Producciones escritas.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende el vocabulario trabajado.
+- Participa en actividades comunicativas.
+- Produce mensajes sencillos.
+- Comprende textos y audiciones básicas.
+- Colabora con su grupo.
+- Utiliza el inglés para resolver los retos planteados.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: relatos de misterio.
+- Educación Artística: creación de personajes y escenarios.
+- Competencia Digital: recursos interactivos de Halloween.
+- Valores Cívicos: cooperación y trabajo en equipo.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado utiliza el inglés en situaciones comunicativas contextualizadas y significativas, comprendiendo que una lengua extranjera sirve para interactuar, investigar y resolver problemas.
+<br>
+
+Además, descubre elementos culturales presentes en celebraciones internacionales como Halloween.
+<br>
+
+## Conclusión
+<br>
+
+"Halloween Mystery Academy" transforma el aprendizaje del inglés en una aventura de investigación donde el alumnado utiliza la lengua extranjera para descifrar enigmas, comprender mensajes y comunicarse con sus compañeros.
+<br>
+
+ través de una narrativa motivadora y una gran variedad de retos lingüísticos, misiones cooperativas y desafíos de investigación, los estudiantes desarrollan progresivamente sus habilidades de comprensión y expresión oral y escrita en lengua inglesa.
+<br>
+
+La ambientación de Halloween favorece la participación activa del alumnado y proporciona un contexto atractivo para utilizar el inglés como herramienta de comunicación real, permitiendo que el aprendizaje se desarrolle de forma significativa y funcional.
+<br>
+
+Asimismo, la resolución de misterios fomenta la colaboración, el pensamiento crítico y la creatividad, aspectos fundamentales para el desarrollo integral del alumnado en esta etapa educativa.
+<br>
+
+La elaboración del expediente final de investigación permite integrar todos los aprendizajes adquiridos durante el proyecto y constituye una evidencia auténtica del progreso realizado por los estudiantes.
+<br>
+
+"Halloween Mystery Academy" se encuentra alineada con los principios de la LOMLOE y promueve una enseñanza activa, competencial e inclusiva en la que el alumnado aprende inglés a través de experiencias motivadoras, cooperativas y conectadas con sus intereses.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-museo-del-terror-4-primaria",
+  title: "Situación de aprendizaje: El museo del terror para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Artística para 4º de Primaria inspirada en Halloween. Incluye creatividad, técnicas plásticas, trabajo cooperativo y una exposición final según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "educacion-artistica",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 22,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado se convierte en artista y comisario de un museo temático de Halloween mediante proyectos creativos individuales y colectivos.",
+  content: `
+# Situación de aprendizaje: El museo del terror para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en artistas y organizadores de una exposición temática inspirada en Halloween.
+<br>
+A través de diferentes talleres creativos, los estudiantes explorarán técnicas plásticas, desarrollarán su imaginación y elaborarán obras originales relacionadas con personajes, escenarios y elementos propios de Halloween.
+<br>
+El proyecto culminará con la creación de un museo del terror que podrá ser visitado por otros cursos o por las familias.
+<br>
+
+## Justificación
+<br>
+La Educación Artística favorece el desarrollo de la creatividad, la capacidad de expresión y la apreciación estética.
+<br>
+La temática de Halloween resulta especialmente motivadora para el alumnado y permite trabajar de forma integrada aspectos relacionados con la representación visual, el diseño, la composición y la comunicación artística.
+<br>
+Además, el proyecto fomenta la cooperación y la valoración de las producciones propias y ajenas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Artística.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación del:
+<br>
+
+**"Museo del Terror"**
+<br>
+
+Una exposición artística donde se mostrarán todas las obras realizadas durante el proyecto.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar la creatividad mediante producciones artísticas originales.
+- Experimentar con diferentes materiales y técnicas plásticas.
+- Utilizar el lenguaje visual para comunicar ideas y emociones.
+- Mejorar la planificación de proyectos artísticos.
+- Participar en propuestas cooperativas.
+- Valorar las manifestaciones artísticas propias y de los compañeros.
+- Potenciar la expresión personal mediante el arte.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar distintas posibilidades expresivas mediante recursos artísticos.
+- Crear producciones plásticas utilizando diversas técnicas.
+- Participar en proyectos artísticos colectivos.
+- Utilizar el arte para comunicar ideas y emociones.
+<br>
+
+## Saberes básicos
+<br>
+
+- Elementos del lenguaje visual.
+- Color y composición.
+- Técnicas de dibujo y pintura.
+- Collage y construcción artística.
+- Creación individual y colectiva.
+- Expresión artística y creatividad.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Utiliza técnicas y materiales de forma adecuada.
+- Desarrolla producciones originales y creativas.
+- Coopera con sus compañeros.
+- Explica el significado de sus creaciones.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Experimentación artística.
+- Trabajo cooperativo.
+- Aprendizaje manipulativo.
+- Evaluación formativa.
+<br>
+
+La narrativa girará en torno a la creación de un museo temático donde cada alumno se convertirá en artista profesional.
+<br>
+
+## Sesión 1. Se inaugura el museo
+
+### Actividad inicial
+<br>
+
+Presentación de la misión artística.
+<br>
+
+El director del museo comunica al alumnado que necesita artistas capaces de crear una gran exposición de Halloween.
+<br>
+
+### Observación artística
+<br>
+
+Análisis de imágenes relacionadas con:
+<br>
+
+- Casas encantadas.
+- Fantasmas.
+- Calabazas.
+- Murciélagos.
+- Bosques misteriosos.
+<br>
+
+### Actividad principal
+<br>
+
+Lluvia de ideas sobre posibles obras para la exposición.
+<br>
+
+### Taller creativo
+<br>
+
+Diseño de bocetos iniciales en el cuaderno del artista.
+<br>
+
+### Reflexión final
+<br>
+
+Selección de las mejores propuestas para la exposición.
+<br>
+
+## Sesión 2. El taller de los personajes fantásticos
+
+### Actividad inicial
+<br>
+
+Presentación de personajes clásicos de Halloween.
+<br>
+
+### Actividad principal
+<br>
+
+Creación de personajes originales utilizando:
+<br>
+
+- Cartulina.
+- Rotuladores.
+- Témperas.
+- Papel de colores.
+<br>
+
+### Desafío creativo
+<br>
+
+Cada alumno debe inventar:
+<br>
+
+- Nombre.
+- Aspecto.
+- Historia.
+- Habilidad especial.
+<br>
+
+### Exposición rápida
+<br>
+
+Presentación de personajes al resto de la clase.
+<br>
+
+## Sesión 3. Construimos escenarios terroríficos
+
+### Calentamiento artístico
+<br>
+
+Observación de escenarios cinematográficos y literarios relacionados con el misterio.
+<br>
+
+### Actividad principal
+<br>
+
+Creación de escenarios utilizando técnicas de collage y composición.
+<br>
+
+Los estudiantes diseñarán:
+<br>
+
+- Mansiones encantadas.
+- Cementerios.
+- Bosques misteriosos.
+- Castillos abandonados.
+<br>
+
+### Trabajo técnico
+<br>
+
+Aplicación del color para crear luces, sombras y profundidad.
+<br>
+
+### Producto parcial
+<br>
+
+Galería provisional de escenarios.
+<br>
+
+## Sesión 4. Esculturas del museo del terror
+
+### Actividad inicial
+<br>
+
+Exploración de pequeñas esculturas y construcciones artísticas.
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración de figuras tridimensionales utilizando:
+<br>
+
+- Material reciclado.
+- Plastilina.
+- Cartón.
+- Papel.
+<br>
+
+### Desafío cooperativo
+<br>
+
+Cada grupo construirá una instalación artística para el museo.
+<br>
+
+### Puesta en común
+<br>
+
+Explicación de las decisiones artísticas realizadas.
+<br>
+
+## Sesión 5. Diseñamos la exposición
+
+### Actividad inicial
+<br>
+
+Planificación de los espacios del museo.
+<br>
+
+### Actividad principal
+<br>
+
+Los equipos organizarán:
+<br>
+
+- Zonas temáticas.
+- Carteles informativos.
+- Paneles explicativos.
+- Decoraciones.
+<br>
+
+### Taller de diseño
+<br>
+
+Creación de entradas, invitaciones y señalización para visitantes.
+<br>
+
+### Ensayo
+<br>
+
+Simulación de una visita guiada al museo.
+<br>
+
+## Sesión 6. Inauguración del museo del terror
+
+### Actividad inicial
+<br>
+
+Montaje final de la exposición.
+<br>
+
+### Actividad principal
+<br>
+
+Apertura oficial del Museo del Terror.
+<br>
+
+Cada grupo actúa como guía explicando:
+<br>
+
+- Sus obras.
+- Los materiales utilizados.
+- El proceso creativo.
+- El significado artístico.
+<br>
+
+### Producto final
+<br>
+
+Exposición colectiva:
+<br>
+
+**"Museo del Terror"**
+<br>
+
+### Celebración
+<br>
+
+Entrega de diplomas de artista del museo.
+<br>
+
+### Reflexión final
+<br>
+
+Valoración de la experiencia artística y de los aprendizajes adquiridos.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se incorporarán:
+<br>
+
+- Adaptación de materiales.
+- Actividades multinivel.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Diferentes formas de expresión artística.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica artística.
+- Lista de control.
+- Escala de observación.
+- Portfolio artístico.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Utiliza técnicas artísticas variadas.
+- Realiza producciones creativas.
+- Coopera en trabajos grupales.
+- Explica sus creaciones con claridad.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: relatos de misterio y terror.
+- Inglés: vocabulario relacionado con Halloween.
+- Competencia Digital: diseño de carteles digitales.
+- Valores Cívicos: cooperación y respeto por las producciones de los demás.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende que el arte es una herramienta de comunicación capaz de transmitir emociones, historias e ideas mediante imágenes, colores y formas.
+<br>
+
+Además, aprende a organizar una exposición artística similar a las que existen en museos y galerías reales.
+<br>
+
+## Conclusión
+<br>
+
+"El museo del terror" transforma la Educación Artística en una experiencia creativa, inmersiva y altamente motivadora donde el alumnado desarrolla su imaginación mediante proyectos inspirados en Halloween.
+<br>
+
+A través de técnicas variadas, trabajo cooperativo y procesos de creación auténticos, los estudiantes exploran diferentes formas de expresión visual y descubren el valor del arte como medio de comunicación.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación artística activa, inclusiva y competencial donde cada alumno se convierte en protagonista de su proceso creativo.
+`
+},
+{
+  slug: "situacion-aprendizaje-ciudadanos-del-mundo-4-primaria",
+  title: "Situación de aprendizaje: Ciudadanos del mundo para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Valores Cívicos para 4º de Primaria centrada en los derechos, deberes, la convivencia, la igualdad y la participación ciudadana según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "valores-civicos",
+  date: "2026-10-06",
+  author: "Marco Pérez",
+  readingTime: 18,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado descubre la importancia de los derechos, los deberes, la igualdad y la participación para construir una sociedad mejor.",
+  content: `
+# Situación de aprendizaje: Ciudadanos del mundo para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en ciudadanos responsables encargados de construir una sociedad más justa, respetuosa e inclusiva.
+<br>
+A través de actividades cooperativas, análisis de situaciones reales, debates y retos grupales, los estudiantes reflexionarán sobre la convivencia, la igualdad, los derechos, los deberes y la participación activa dentro de la comunidad.
+<br>
+
+## Justificación
+<br>
+La educación en valores resulta fundamental para formar ciudadanos comprometidos con la sociedad y capaces de convivir respetando las diferencias.
+<br>
+Durante 4º de Primaria, el alumnado comienza a comprender mejor las normas que regulan la vida en comunidad y la importancia de participar activamente para mejorar su entorno.
+<br>
+Esta propuesta permite desarrollar competencias personales y sociales mediante experiencias cercanas y significativas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Valores Cívicos.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una "Carta de la Buena Ciudadanía" elaborada por toda la clase, donde se recogerán compromisos, derechos, deberes y acciones para mejorar la convivencia dentro y fuera del centro educativo.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender la importancia de la convivencia democrática.
+- Identificar derechos y deberes presentes en la vida cotidiana.
+- Valorar la igualdad y el respeto hacia todas las personas.
+- Desarrollar habilidades de diálogo y resolución pacífica de conflictos.
+- Participar activamente en actividades cooperativas.
+- Fomentar actitudes responsables y solidarias.
+- Reflexionar sobre la participación ciudadana.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Reconocer la importancia de las normas para la convivencia.
+- Participar activamente en situaciones de cooperación y diálogo.
+- Identificar comportamientos responsables y respetuosos.
+- Valorar la diversidad como elemento enriquecedor.
+<br>
+
+## Saberes básicos
+<br>
+
+- Derechos y deberes.
+- Igualdad y respeto.
+- Convivencia democrática.
+- Participación ciudadana.
+- Resolución pacífica de conflictos.
+- Solidaridad.
+- Diversidad e inclusión.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica derechos y deberes básicos.
+- Participa activamente en debates y actividades.
+- Propone soluciones pacíficas ante conflictos.
+- Muestra actitudes de respeto e inclusión.
+- Coopera con sus compañeros.
+- Contribuye a la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Aprendizaje basado en proyectos.
+- Debates guiados.
+- Resolución de problemas.
+- Aprendizaje basado en experiencias.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. ¿Qué significa ser un buen ciudadano?
+<br>
+
+### Actividad inicial
+<br>
+
+Lluvia de ideas sobre qué características debe tener una persona para convivir adecuadamente con los demás.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de situaciones relacionadas con:
+<br>
+
+- Respeto.
+- Solidaridad.
+- Responsabilidad.
+- Cooperación.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué podemos hacer para mejorar nuestro entorno?
+<br>
+
+## Sesión 2. Nuestros derechos
+<br>
+
+### Actividad principal
+<br>
+
+Descubrimiento de algunos derechos fundamentales adaptados a la edad del alumnado.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Representación gráfica de diferentes derechos mediante dibujos y carteles.
+<br>
+
+## Sesión 3. También tenemos deberes
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de responsabilidades en:
+<br>
+
+- Casa.
+- Escuela.
+- Comunidad.
+<br>
+
+### Debate
+<br>
+
+¿Por qué es importante cumplir nuestras obligaciones?
+<br>
+
+## Sesión 4. Aprendemos a resolver conflictos
+<br>
+
+### Actividad principal
+<br>
+
+Estudio de situaciones habituales relacionadas con desacuerdos y conflictos.
+<br>
+
+### Dinámica
+<br>
+
+Búsqueda de soluciones utilizando:
+<br>
+
+- Diálogo.
+- Escucha activa.
+- Empatía.
+- Respeto.
+<br>
+
+## Sesión 5. Construimos una sociedad mejor
+<br>
+
+### Actividad principal
+<br>
+
+Diseño de propuestas para mejorar:
+<br>
+
+- La convivencia en clase.
+- El cuidado de los espacios comunes.
+- La participación del alumnado.
+<br>
+
+### Preparación del producto final
+<br>
+
+Selección de compromisos y acuerdos.
+<br>
+
+## Sesión 6. La Carta de la Buena Ciudadanía
+<br>
+
+### Actividad principal
+<br>
+
+Elaboración y presentación de la carta final.
+<br>
+
+### Exposición
+<br>
+
+Cada grupo presenta una propuesta para mejorar la convivencia.
+<br>
+
+### Reflexión final
+<br>
+
+¿Cómo podemos contribuir a una sociedad mejor?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de materiales.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica.
+- Lista de control.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Respeta las opiniones de los demás.
+- Identifica derechos y deberes.
+- Propone soluciones dialogadas.
+- Demuestra actitudes de cooperación y respeto.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: debates y exposiciones orales.
+- Ciencias Sociales: organización de la sociedad.
+- Educación Artística: elaboración de carteles y murales.
+- Educación Física: juegos cooperativos y resolución de conflictos.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los contenidos trabajados aparecen diariamente en contextos escolares, familiares y sociales.
+<br>
+
+Comprender la importancia de los derechos, los deberes y la convivencia ayuda al alumnado a participar de forma responsable en la sociedad y a construir relaciones más positivas con las personas de su entorno.
+<br>
+
+## Conclusión
+<br>
+
+"Ciudadanos del mundo" permite al alumnado de 4º de Primaria desarrollar valores relacionados con la participación, la responsabilidad y la convivencia democrática mediante experiencias prácticas y significativas.
+<br>
+
+A través de la reflexión, el diálogo y el trabajo cooperativo, los estudiantes aprenden a respetar las diferencias, ejercer sus derechos y asumir sus responsabilidades como miembros activos de la comunidad.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y contribuye al desarrollo integral del alumnado mediante una educación basada en valores, ciudadanía y convivencia positiva.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-valores-de-jesus-en-accion-4-primaria",
+  title: "Situación de aprendizaje: Los valores de Jesús en acción para 4º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Religión para 4º de Primaria centrada en las enseñanzas de Jesús, la solidaridad, la empatía, el servicio a los demás y la aplicación de los valores cristianos en la vida cotidiana.",
+  category: "situaciones-aprendizaje",
+  subcategory: "cuarto-de-primaria",
+  subject: "religion",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 21,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 4º de Primaria donde el alumnado descubre cómo aplicar en su vida diaria los valores presentes en las enseñanzas de Jesús mediante proyectos y acciones solidarias.",
+  content: `
+# Situación de aprendizaje: Los valores de Jesús en acción para 4º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado descubrir cómo las enseñanzas de Jesús continúan teniendo aplicación en la sociedad actual.
+<br>
+A través del análisis de relatos evangélicos, actividades cooperativas, debates, dinámicas de reflexión y pequeños proyectos solidarios, los estudiantes explorarán valores como la empatía, la solidaridad, el perdón, la justicia y la ayuda a los demás.
+<br>
+El proyecto culminará con la elaboración de un mural de compromisos y un plan de buenas acciones para aplicar dentro y fuera del centro educativo.
+<br>
+
+## Justificación
+<br>
+La enseñanza de la Religión contribuye al desarrollo integral del alumnado mediante la reflexión sobre valores universales que favorecen la convivencia y el crecimiento personal.
+<br>
+En 4º de Primaria los estudiantes comienzan a comprender situaciones sociales más complejas y pueden analizar cómo las enseñanzas cristianas se relacionan con experiencias presentes en su vida cotidiana.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+4º de Primaria.
+<br>
+
+### Área
+<br>
+
+Religión.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación del proyecto:
+<br>
+
+**"Nuestro mural de valores y compromiso"**
+<br>
+
+Cada alumno elaborará compromisos personales basados en los valores trabajados durante la situación de aprendizaje.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Conocer enseñanzas de Jesús relacionadas con la convivencia.
+- Comprender la importancia de la solidaridad y la ayuda a los demás.
+- Reflexionar sobre la aplicación de los valores cristianos.
+- Desarrollar actitudes de respeto y empatía.
+- Participar en actividades cooperativas.
+- Fomentar la responsabilidad social.
+- Relacionar las enseñanzas religiosas con situaciones reales.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender relatos y enseñanzas cristianas.
+- Reflexionar sobre valores presentes en los Evangelios.
+- Aplicar comportamientos responsables y solidarios.
+- Participar activamente en actividades de diálogo y cooperación.
+<br>
+
+## Saberes básicos
+<br>
+
+- Jesús y sus enseñanzas.
+- Los Evangelios.
+- La solidaridad.
+- La empatía.
+- El perdón.
+- La ayuda al prójimo.
+- La convivencia positiva.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende las enseñanzas trabajadas.
+- Identifica valores presentes en los relatos evangélicos.
+- Participa activamente en actividades de reflexión.
+- Coopera con sus compañeros.
+- Relaciona los aprendizajes con situaciones cotidianas.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje cooperativo.
+- Lectura comprensiva.
+- Aprendizaje basado en proyectos.
+- Debates guiados.
+- Reflexión personal.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Descubrimos los valores de Jesús
+
+### Actividad inicial
+<br>
+
+Lluvia de ideas sobre valores importantes para convivir.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura adaptada de diferentes enseñanzas de Jesús.
+<br>
+
+### Trabajo en grupos
+<br>
+
+Identificación de valores presentes en los relatos.
+<br>
+
+### Actividad final
+<br>
+
+Creación de un mapa conceptual de valores.
+<br>
+
+### Reflexión
+<br>
+
+¿Por qué siguen siendo importantes hoy?
+<br>
+
+## Sesión 2. El Buen Samaritano en el siglo XXI
+
+### Actividad inicial
+<br>
+
+Lectura dramatizada de la parábola del Buen Samaritano.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de situaciones actuales donde una persona ayuda a otra.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Los grupos resuelven casos prácticos relacionados con:
+<br>
+
+- Solidaridad.
+- Compañerismo.
+- Inclusión.
+- Ayuda mutua.
+<br>
+
+### Debate
+<br>
+
+¿Cómo podemos ser buenos samaritanos en nuestro colegio?
+<br>
+
+## Sesión 3. Aprendemos a perdonar
+
+### Actividad inicial
+<br>
+
+Presentación de situaciones cotidianas de conflicto.
+<br>
+
+### Actividad principal
+<br>
+
+Reflexión guiada sobre:
+<br>
+
+- El perdón.
+- La reconciliación.
+- El respeto.
+<br>
+
+### Dinámica grupal
+<br>
+
+Representación teatral de situaciones donde es necesario dialogar para resolver problemas.
+<br>
+
+### Conclusión
+<br>
+
+Elaboración de estrategias para mejorar la convivencia.
+<br>
+
+## Sesión 4. Jesús y el cuidado de los demás
+
+### Actividad inicial
+<br>
+
+Lectura y análisis de relatos donde Jesús ayuda a otras personas.
+<br>
+
+### Actividad principal
+<br>
+
+Estaciones de aprendizaje:
+<br>
+
+Estación 1:
+<br>
+
+Empatía.
+<br>
+
+Estación 2:
+<br>
+
+Generosidad.
+<br>
+
+Estación 3:
+<br>
+
+Servicio.
+<br>
+
+Estación 4:
+<br>
+
+Respeto.
+<br>
+
+### Producto parcial
+<br>
+
+Registro de ejemplos de buenas acciones.
+<br>
+
+## Sesión 5. Diseñamos nuestro compromiso
+
+### Actividad inicial
+<br>
+
+Revisión de los valores trabajados.
+<br>
+
+### Actividad principal
+<br>
+
+Cada alumno elabora un compromiso personal relacionado con:
+<br>
+
+- Ayudar.
+- Compartir.
+- Respetar.
+- Escuchar.
+- Colaborar.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Diseño del mural colectivo.
+<br>
+
+### Preparación final
+<br>
+
+Organización de las aportaciones para la exposición.
+<br>
+
+## Sesión 6. Construimos una comunidad mejor
+
+### Actividad principal
+<br>
+
+Montaje del mural:
+<br>
+
+**"Nuestro mural de valores y compromiso"**
+<br>
+
+### Presentación
+<br>
+
+Cada estudiante explica el valor elegido y cómo piensa aplicarlo en su vida cotidiana.
+<br>
+
+### Dinámica final
+<br>
+
+Firma colectiva de un compromiso de convivencia positiva.
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Embajador de los Valores**
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué podemos hacer cada día para mejorar nuestro entorno?
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Textos adaptados.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Diario de reflexión.
+- Rúbrica del proyecto.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende los valores trabajados.
+- Participa en las actividades propuestas.
+- Coopera con los compañeros.
+- Relaciona las enseñanzas de Jesús con situaciones reales.
+- Desarrolla compromisos personales coherentes.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Valores Cívicos: convivencia y ciudadanía.
+- Lengua Castellana: comprensión lectora y expresión oral.
+- Educación Artística: elaboración del mural.
+- Educación Física: juegos cooperativos.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los valores trabajados aparecen diariamente en la escuela, la familia y la comunidad.
+<br>
+
+Comprender la importancia de ayudar, respetar y colaborar favorece relaciones más positivas y una mejor convivencia.
+<br>
+
+## Conclusión
+<br>
+
+"Los valores de Jesús en acción" permite al alumnado de 4º de Primaria descubrir que las enseñanzas cristianas continúan siendo una guía útil para afrontar situaciones cotidianas relacionadas con la convivencia y el respeto.
+<br>
+
+A través de la reflexión, el diálogo y la puesta en práctica de acciones solidarias, los estudiantes comprenden cómo los valores pueden transformar positivamente su entorno.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación integral centrada en el crecimiento personal, la convivencia y el compromiso con los demás.
 `
 },
 {
