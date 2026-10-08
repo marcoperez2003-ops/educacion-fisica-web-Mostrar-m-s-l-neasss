@@ -16232,6 +16232,2289 @@ De este modo, la situación de aprendizaje no solo contribuye al desarrollo motr
 `
 },
 {
+  slug: "situacion-aprendizaje-la-liga-de-los-deportes-del-mundo-5-primaria",
+  title: "Situación de aprendizaje: La liga de los deportes del mundo para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Física para 5º de Primaria centrada en la práctica de deportes, la cooperación, el respeto y el conocimiento de actividades físicas de diferentes culturas según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "educacion-fisica",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 23,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado descubre deportes de diferentes países mientras desarrolla habilidades motrices, valores deportivos y trabajo en equipo.",
+  content: `
+# Situación de aprendizaje: La liga de los deportes del mundo para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado participar en una competición internacional donde deberá conocer y practicar diferentes modalidades deportivas procedentes de distintos lugares del mundo.
+<br>
+A lo largo del proyecto, los estudiantes desarrollarán habilidades motrices, capacidades físicas básicas, estrategias de cooperación y actitudes de respeto mientras descubren la riqueza cultural del deporte.
+<br>
+
+## Justificación
+<br>
+La Educación Física constituye una herramienta fundamental para promover estilos de vida activos y saludables.
+<br>
+Al mismo tiempo, permite trabajar valores esenciales como el respeto, la cooperación, la igualdad y el juego limpio.
+<br>
+La temática internacional aporta un componente cultural que favorece la motivación y amplía el conocimiento del alumnado sobre distintas manifestaciones deportivas presentes en el mundo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Organización de unas jornadas deportivas internacionales donde cada equipo representará un país y participará en diferentes pruebas físicas y cooperativas.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar habilidades motrices específicas.
+- Mejorar la coordinación y el control corporal.
+- Participar activamente en juegos y deportes.
+- Conocer manifestaciones deportivas de diferentes países.
+- Fomentar hábitos de vida saludable.
+- Desarrollar actitudes de respeto y deportividad.
+- Trabajar la cooperación y el juego limpio.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia emprendedora.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver situaciones motrices en diferentes contextos.
+- Participar activamente en juegos y deportes.
+- Adoptar comportamientos responsables durante la actividad física.
+- Valorar la práctica deportiva como parte de un estilo de vida saludable.
+<br>
+
+## Saberes básicos
+<br>
+
+- Habilidades motrices específicas.
+- Juegos y deportes.
+- Capacidades físicas básicas.
+- Cooperación y oposición.
+- Estrategias de juego.
+- Vida activa y saludable.
+- Respeto y deportividad.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Aplica habilidades motrices de forma adecuada.
+- Coopera con sus compañeros.
+- Respeta normas y adversarios.
+- Demuestra actitudes de deporte limpio.
+- Utiliza estrategias durante el juego.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en retos.
+- Aprendizaje cooperativo.
+- Juegos modificados.
+- Descubrimiento guiado.
+- Evaluación formativa.
+<br>
+
+Cada sesión permitirá descubrir deportes y actividades procedentes de diferentes culturas.
+<br>
+
+## Sesión 1. Inauguración de la liga internacional
+
+### Activación inicial
+<br>
+
+Presentación de los países participantes.
+<br>
+
+Los alumnos se distribuyen en equipos y cada uno representa simbólicamente una nación.
+<br>
+
+### Calentamiento
+<br>
+
+Juego dinámico de relevos multiculturales.
+<br>
+
+### Actividad principal
+<br>
+
+Introducción a los valores del proyecto:
+<br>
+
+- Respeto.
+- Esfuerzo.
+- Cooperación.
+- Deportividad.
+<br>
+
+### Desafío cooperativo
+<br>
+
+Construcción de una identidad de equipo:
+<br>
+
+- Nombre.
+- Bandera.
+- Lema.
+<br>
+
+### Vuelta a la calma
+<br>
+
+Reflexión grupal sobre la importancia del juego limpio.
+<br>
+
+## Sesión 2. Deportes de invasión
+
+### Calentamiento
+<br>
+
+Juegos de persecución y ocupación de espacios.
+<br>
+
+### Actividad principal
+<br>
+
+Situaciones adaptadas inspiradas en:
+<br>
+
+- Balonmano.
+- Rugby tag.
+- Ultimate.
+<br>
+
+### Reto táctico
+<br>
+
+Los equipos deben organizar estrategias para conservar la posesión y progresar hacia zonas objetivo.
+<br>
+
+### Mini competición
+<br>
+
+Partidos reducidos con normas adaptadas.
+<br>
+
+### Reflexión final
+<br>
+
+Análisis de la comunicación dentro del equipo.
+<br>
+
+## Sesión 3. Deportes de precisión
+
+### Calentamiento
+<br>
+
+Circuito coordinativo con lanzamientos y recepciones.
+<br>
+
+### Actividad principal
+<br>
+
+Práctica de actividades inspiradas en:
+<br>
+
+- Petanca.
+- Boccia.
+- Curling adaptado.
+<br>
+
+### Estaciones de aprendizaje
+<br>
+
+Estación 1:
+<br>
+
+Lanzamientos de precisión.
+<br>
+
+Estación 2:
+<br>
+
+Control de fuerza.
+<br>
+
+Estación 3:
+<br>
+
+Cálculo de puntuaciones.
+<br>
+
+### Desafío final
+<br>
+
+Torneo cooperativo por equipos.
+<br>
+
+## Sesión 4. Juegos tradicionales del mundo
+
+### Activación inicial
+<br>
+
+Breve presentación de juegos tradicionales de diferentes países.
+<br>
+
+### Actividad principal
+<br>
+
+Práctica de diversos juegos:
+<br>
+
+- Juegos africanos de persecución.
+- Juegos europeos tradicionales.
+- Juegos asiáticos de coordinación.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Los alumnos analizan semejanzas y diferencias entre los juegos.
+<br>
+
+### Desafío cultural
+<br>
+
+Diseño de una variante propia de uno de los juegos practicados.
+<br>
+
+## Sesión 5. Preparación de las jornadas deportivas
+
+### Calentamiento
+<br>
+
+Circuito global de habilidades motrices.
+<br>
+
+### Actividad principal
+<br>
+
+Rotación por estaciones:
+<br>
+
+- Velocidad.
+- Lanzamientos.
+- Saltos.
+- Equilibrio.
+- Coordinación.
+- Retos cooperativos.
+<br>
+
+### Organización
+<br>
+
+Preparación de las pruebas para la jornada final.
+<br>
+
+### Ensayo general
+<br>
+
+Simulación de las competiciones y reparto de responsabilidades.
+<br>
+
+## Sesión 6. Jornadas deportivas internacionales
+
+### Ceremonia de apertura
+<br>
+
+Presentación de equipos y países representados.
+<br>
+
+### Desarrollo de pruebas
+<br>
+
+- Carrera cooperativa.
+- Reto de precisión.
+- Circuito de habilidades.
+- Juego colectivo.
+- Desafío estratégico final.
+<br>
+
+### Producto final
+<br>
+
+Celebración de la Liga de los Deportes del Mundo.
+<br>
+
+### Ceremonia de clausura
+<br>
+
+Entrega de reconocimientos relacionados con:
+<br>
+
+- Deportividad.
+- Cooperación.
+- Esfuerzo.
+- Respeto.
+- Participación.
+<br>
+
+### Reflexión final
+<br>
+
+Valoración colectiva de los aprendizajes desarrollados durante el proyecto.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Adaptación de espacios y materiales.
+- Actividades multinivel.
+- Agrupamientos heterogéneos.
+- Diferentes roles dentro de los equipos.
+- Participación ajustada a las posibilidades individuales.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Rúbrica de participación.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Coopera con sus compañeros.
+- Respeta las normas.
+- Aplica habilidades motrices adecuadas.
+- Demuestra actitudes de juego limpio.
+- Valora la práctica física como fuente de bienestar.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: países y culturas del mundo.
+- Lengua Castellana: elaboración de normas y lemas.
+- Educación Artística: creación de banderas y símbolos de equipo.
+- Valores Cívicos: respeto, inclusión y convivencia.
+<br>
+
+## Relación con la vida real
+<br>
+
+El deporte constituye una herramienta de salud, ocio y relación social presente en todo el mundo.
+<br>
+
+La situación permite comprender cómo diferentes culturas comparten valores similares relacionados con la actividad física, el respeto y la superación personal.
+<br>
+
+## Conclusión
+<br>
+
+"La liga de los deportes del mundo" ofrece una experiencia motriz, cultural y cooperativa donde el alumnado de 5º de Primaria desarrolla habilidades físicas, sociales y emocionales mediante la práctica de actividades inspiradas en diferentes tradiciones deportivas del mundo.
+<br>
+
+A través de juegos modificados, retos cooperativos y situaciones de aprendizaje contextualizadas, los estudiantes descubren que el deporte constituye un lenguaje universal capaz de unir a personas de distintas culturas en torno a valores compartidos como el respeto, la superación personal, la igualdad y el trabajo en equipo.
+<br>
+
+La celebración de las jornadas deportivas internacionales permite aplicar de forma práctica todos los aprendizajes desarrollados durante el proyecto, convirtiendo al alumnado en protagonista de experiencias reales de participación, cooperación y convivencia.
+<br>
+
+Además, la propuesta favorece la adquisición de hábitos de vida activa y saludable, fomenta la autonomía personal y contribuye al desarrollo de competencias relacionadas con la toma de decisiones, la resolución de problemas motores y la gestión positiva de las relaciones sociales.
+<br>
+
+"La liga de los deportes del mundo" se encuentra plenamente alineada con los principios de la LOMLOE y promueve una Educación Física inclusiva, competencial y significativa donde el aprendizaje motriz se combina con el conocimiento cultural y el desarrollo de valores fundamentales para la vida.
+`
+},
+{
+  slug: "situacion-aprendizaje-la-agencia-de-periodistas-del-futuro-5-primaria",
+  title: "Situación de aprendizaje: La agencia de periodistas del futuro para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Lengua Castellana y Literatura para 5º de Primaria centrada en la comunicación, la comprensión de textos, la producción escrita, la expresión oral y el pensamiento crítico según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "lengua-castellana-y-literatura",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 23,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en periodista para investigar, redactar noticias y producir un periódico digital sobre el futuro.",
+  content: `
+# Situación de aprendizaje: La agencia de periodistas del futuro para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado integrarse en una agencia de comunicación encargada de informar sobre cómo será el mundo dentro de cincuenta años.
+<br>
+A través de investigaciones, entrevistas, lectura de textos, producción escrita y exposiciones orales, los estudiantes desarrollarán competencias comunicativas mientras elaboran un periódico del futuro.
+<br>
+
+## Justificación
+<br>
+La Lengua Castellana y Literatura permite desarrollar habilidades esenciales para comprender, interpretar y comunicar información en distintos contextos.
+<br>
+Durante 5º de Primaria resulta especialmente importante fortalecer la capacidad para analizar información, expresar opiniones fundamentadas y producir textos cada vez más elaborados.
+<br>
+La temática del futuro fomenta la creatividad, el pensamiento crítico y la motivación por el aprendizaje.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un periódico titulado:
+<br>
+
+**"Noticias del año 2076"**
+<br>
+
+El alumnado redactará noticias, reportajes, entrevistas y artículos de opinión relacionados con cómo imaginan el futuro.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la comprensión lectora.
+- Desarrollar la expresión escrita.
+- Utilizar correctamente distintos tipos de textos.
+- Ampliar el vocabulario.
+- Desarrollar habilidades de comunicación oral.
+- Fomentar el pensamiento crítico.
+- Participar en proyectos cooperativos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos de distinta tipología.
+- Producir textos escritos coherentes y cohesionados.
+- Participar en intercambios comunicativos respetando normas básicas.
+- Buscar, seleccionar y organizar información relevante.
+<br>
+
+## Saberes básicos
+<br>
+
+- Comprensión lectora.
+- Producción escrita.
+- La noticia.
+- La entrevista.
+- El reportaje.
+- El artículo de opinión.
+- Estrategias de comunicación oral.
+- Vocabulario y ortografía.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende textos informativos y narrativos.
+- Produce textos con estructura adecuada.
+- Utiliza vocabulario preciso.
+- Participa activamente en actividades orales.
+- Coopera en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Trabajo cooperativo.
+- Investigación guiada.
+- Escritura creativa.
+- Aprendizaje competencial.
+- Evaluación formativa.
+<br>
+
+La narrativa girará en torno a una agencia periodística encargada de informar a la sociedad sobre el año 2076.
+<br>
+
+## Sesión 1. Nace la agencia de periodistas
+
+### Actividad inicial
+<br>
+
+Presentación de la misión:
+<br>
+
+"Una agencia internacional necesita periodistas capaces de informar sobre cómo será el futuro".
+<br>
+
+### Activación de conocimientos previos
+<br>
+
+Debate guiado:
+<br>
+
+- ¿Cómo serán las ciudades del futuro?
+- ¿Cómo cambiará la tecnología?
+- ¿Cómo viviremos dentro de muchos años?
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de noticias reales.
+<br>
+
+Los alumnos identifican:
+<br>
+
+- Titular.
+- Entradilla.
+- Cuerpo de la noticia.
+- Imagen.
+- Información principal.
+<br>
+
+### Taller práctico
+<br>
+
+Comparación entre una noticia y otros tipos de textos.
+<br>
+
+### Producto parcial
+<br>
+
+Creación del carnet de periodista.
+<br>
+
+## Sesión 2. Investigamos el futuro
+
+### Calentamiento
+<br>
+
+Juego "Verdadero o Falso del Futuro".
+<br>
+
+### Actividad principal
+<br>
+
+Investigación por grupos sobre:
+<br>
+
+- Transporte.
+- Medio ambiente.
+- Tecnología.
+- Educación.
+- Salud.
+<br>
+
+### Búsqueda de información
+<br>
+
+Los equipos recopilan datos, ideas y predicciones.
+<br>
+
+### Taller lector
+<br>
+
+Lectura comprensiva de textos informativos relacionados con avances científicos.
+<br>
+
+### Producto parcial
+<br>
+
+Creación de un banco de ideas para futuras noticias.
+<br>
+
+### Reflexión
+<br>
+
+¿Cómo distinguimos una opinión de un dato?
+<br>
+
+## Sesión 3. Aprendemos a entrevistar
+
+### Actividad inicial
+<br>
+
+Análisis de ejemplos de entrevistas.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de:
+<br>
+
+- Preguntas abiertas.
+- Preguntas cerradas.
+- Información relevante.
+<br>
+
+### Taller de escritura
+<br>
+
+Diseño de entrevistas imaginarias a:
+<br>
+
+- Científicos del futuro.
+- Inventores.
+- Astronautas.
+- Alcaldes de ciudades futuristas.
+<br>
+
+### Actividad oral
+<br>
+
+Representación de entrevistas por parejas.
+<br>
+
+### Producto parcial
+<br>
+
+Grabación o presentación oral de entrevistas.
+<br>
+
+## Sesión 4. Redactamos nuestras noticias
+
+### Calentamiento
+<br>
+
+Juego de titulares.
+<br>
+
+### Actividad principal
+<br>
+
+Cada equipo redacta varias noticias relacionadas con:
+<br>
+
+- Inventos revolucionarios.
+- Descubrimientos científicos.
+- Cambios sociales.
+- Viajes espaciales.
+<br>
+
+### Taller de escritura
+<br>
+
+Proceso de:
+<br>
+
+- Planificación.
+- Redacción.
+- Revisión.
+- Corrección.
+<br>
+
+### Revisión cooperativa
+<br>
+
+Intercambio de textos entre grupos para realizar sugerencias de mejora.
+<br>
+
+### Producto parcial
+<br>
+
+Versión definitiva de las noticias.
+<br>
+
+## Sesión 5. Construimos el periódico
+
+### Actividad inicial
+<br>
+
+Organización de secciones periodísticas.
+<br>
+
+### Actividad principal
+<br>
+
+Distribución de contenidos:
+<br>
+
+- Noticias.
+- Reportajes.
+- Entrevistas.
+- Opinión.
+- Curiosidades.
+<br>
+
+### Taller de maquetación
+<br>
+
+Los alumnos seleccionan:
+<br>
+
+- Títulos.
+- Imágenes.
+- Diseños.
+- Secciones.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Montaje del periódico colectivo.
+<br>
+
+### Ensayo
+<br>
+
+Preparación de las exposiciones orales.
+<br>
+
+## Sesión 6. Presentamos las noticias del año 2076
+
+### Actividad inicial
+<br>
+
+Preparación del espacio expositivo.
+<br>
+
+### Actividad principal
+<br>
+
+Presentación pública de las noticias elaboradas.
+<br>
+
+Cada grupo explica:
+<br>
+
+- El tema investigado.
+- Las fuentes utilizadas.
+- La noticia creada.
+- Las conclusiones obtenidas.
+<br>
+
+### Producto final
+<br>
+
+Presentación del periódico:
+<br>
+
+**"Noticias del año 2076"**
+<br>
+
+### Debate final
+<br>
+
+Reflexión sobre:
+<br>
+
+- Qué futuro imaginamos.
+- Qué problemas podrían aparecer.
+- Qué avances serían beneficiosos para la sociedad.
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de periodista del futuro.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Textos adaptados.
+- Organizadores gráficos.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diversidad de formatos para expresar los aprendizajes.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de expresión escrita.
+- Lista de control.
+- Escala de observación.
+- Producciones escritas.
+- Exposiciones orales.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende textos informativos.
+- Produce escritos claros y organizados.
+- Utiliza vocabulario adecuado.
+- Participa en actividades orales.
+- Coopera con el grupo.
+- Comunica ideas de forma eficaz.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Naturales: avances científicos y tecnológicos.
+- Ciencias Sociales: sociedad del futuro.
+- Educación Artística: diseño del periódico.
+- Competencia Digital: maquetación y publicación.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado descubre cómo trabajan los medios de comunicación y desarrolla habilidades necesarias para interpretar información, expresar opiniones y comunicar ideas de forma responsable.
+<br>
+
+Además, aprende a valorar la importancia de la información veraz y el pensamiento crítico en la sociedad actual.
+<br>
+
+## Conclusión
+<br>
+
+"La agencia de periodistas del futuro" convierte la Lengua Castellana y Literatura en una experiencia motivadora y significativa donde el alumnado investiga, escribe, comunica y reflexiona sobre los posibles cambios que experimentará la sociedad.
+<br>
+
+A través de proyectos reales y tareas contextualizadas, los estudiantes fortalecen sus competencias comunicativas mientras desarrollan creatividad, pensamiento crítico y capacidad de trabajo en equipo.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con los retos del futuro.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-desafio-de-la-ciudad-matematica-5-primaria",
+  title: "Situación de aprendizaje: El desafío de la ciudad matemática para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 5º de Primaria centrada en la resolución de problemas, el razonamiento lógico, las operaciones, la geometría y la aplicación práctica de las matemáticas según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en un equipo de ingenieros y planificadores encargado de diseñar una ciudad inteligente mediante desafíos matemáticos.",
+  content: `
+# Situación de aprendizaje: El desafío de la ciudad matemática para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado asumir el papel de ingenieros, arquitectos y planificadores urbanos responsables de diseñar una ciudad eficiente, sostenible y funcional.
+<br>
+A lo largo del proyecto, los estudiantes resolverán problemas matemáticos, realizarán cálculos, interpretarán datos, utilizarán escalas y planos, y aplicarán conceptos geométricos para construir su propia ciudad matemática.
+<br>
+
+## Justificación
+<br>
+Las matemáticas permiten analizar y resolver situaciones reales presentes en nuestra sociedad.
+<br>
+El diseño de una ciudad constituye un contexto cercano y motivador que facilita la aplicación práctica de conocimientos relacionados con numeración, operaciones, geometría, medidas, estadística y resolución de problemas.
+<br>
+Además, favorece el desarrollo del razonamiento lógico y la toma de decisiones fundamentadas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Diseño y presentación de una maqueta y plano de una ciudad matemática donde el alumnado justificará las decisiones tomadas mediante cálculos y razonamientos matemáticos.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la resolución de problemas.
+- Aplicar operaciones con números naturales y decimales.
+- Utilizar medidas y magnitudes en contextos reales.
+- Interpretar datos y representarlos gráficamente.
+- Utilizar conceptos geométricos para diseñar espacios.
+- Desarrollar estrategias de razonamiento matemático.
+- Trabajar cooperativamente en la resolución de desafíos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver problemas aplicando distintas estrategias matemáticas.
+- Utilizar conocimientos matemáticos en contextos reales.
+- Comunicar procedimientos y resultados.
+- Interpretar y representar información matemática.
+<br>
+
+## Saberes básicos
+<br>
+
+- Numeración.
+- Operaciones.
+- Fracciones y decimales.
+- Medidas y magnitudes.
+- Geometría.
+- Estadística y gráficos.
+- Resolución de problemas.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Resuelve situaciones problemáticas adecuadas al nivel.
+- Aplica correctamente operaciones matemáticas.
+- Interpreta información numérica y gráfica.
+- Utiliza procedimientos geométricos básicos.
+- Participa activamente en el proyecto.
+- Justifica sus decisiones matemáticas.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Resolución de problemas.
+- Gamificación.
+- Evaluación formativa.
+<br>
+
+El alumnado trabajará como un equipo profesional encargado de construir una nueva ciudad.
+<br>
+
+## Sesión 1. Nos convertimos en urbanistas
+
+### Activación inicial
+<br>
+
+Presentación del reto:
+<br>
+
+Diseñar una ciudad moderna capaz de satisfacer las necesidades de sus habitantes.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de diferentes ciudades y de los elementos necesarios para su funcionamiento:
+<br>
+
+- Viviendas.
+- Hospitales.
+- Parques.
+- Carreteras.
+- Colegios.
+- Comercios.
+<br>
+
+### Desafío matemático
+<br>
+
+Calcular el número estimado de habitantes y servicios necesarios.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Distribución de responsabilidades dentro de cada equipo.
+<br>
+
+### Producto parcial
+<br>
+
+Primer boceto de la ciudad.
+<br>
+
+## Sesión 2. El presupuesto de la ciudad
+
+### Calentamiento matemático
+<br>
+
+Retos rápidos de cálculo mental.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo recibe un presupuesto ficticio para construir la ciudad.
+<br>
+
+### Problemas matemáticos
+<br>
+
+Los equipos deberán:
+<br>
+
+- Gestionar recursos.
+- Realizar operaciones.
+- Tomar decisiones.
+- Priorizar construcciones.
+<br>
+
+### Taller práctico
+<br>
+
+Elaboración de tablas de gastos e inversiones.
+<br>
+
+### Reflexión
+<br>
+
+¿Cómo utilizamos el dinero disponible de forma eficiente?
+<br>
+
+## Sesión 3. Diseñamos calles y edificios
+
+### Actividad inicial
+<br>
+
+Análisis de planos urbanos.
+<br>
+
+### Actividad principal
+<br>
+
+Creación del plano utilizando:
+<br>
+
+- Escalas.
+- Cuadrículas.
+- Figuras geométricas.
+- Medidas reales y representadas.
+<br>
+
+### Aplicación matemática
+<br>
+
+Cálculo de:
+<br>
+
+- Distancias.
+- Perímetros.
+- Superficies sencillas.
+<br>
+
+### Producto parcial
+<br>
+
+Plano preliminar de la ciudad.
+<br>
+
+## Sesión 4. Estudiamos a los habitantes
+
+### Activación inicial
+<br>
+
+Presentación de datos ficticios sobre la población.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis estadístico de:
+<br>
+
+- Número de habitantes.
+- Edades.
+- Servicios utilizados.
+- Medios de transporte.
+<br>
+
+### Taller matemático
+<br>
+
+Construcción de:
+<br>
+
+- Tablas.
+- Diagramas de barras.
+- Gráficos sencillos.
+<br>
+
+### Interpretación
+<br>
+
+Extracción de conclusiones a partir de los datos.
+<br>
+
+## Sesión 5. Resolvemos los problemas de la ciudad
+
+### Calentamiento
+<br>
+
+Escape Challenge Matemático.
+<br>
+
+### Actividad principal
+<br>
+
+Cada equipo recibe problemas reales relacionados con:
+<br>
+
+- Tráfico.
+- Consumo de agua.
+- Espacios verdes.
+- Transporte público.
+- Distribución de recursos.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Búsqueda de soluciones justificadas matemáticamente.
+<br>
+
+### Construcción final
+<br>
+
+Finalización de la maqueta y del plano.
+<br>
+
+## Sesión 6. Presentamos nuestra ciudad matemática
+
+### Actividad inicial
+<br>
+
+Preparación de la exposición final.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo presenta:
+<br>
+
+- El plano.
+- La maqueta.
+- Los cálculos realizados.
+- Las decisiones tomadas.
+<br>
+
+### Defensa matemática
+<br>
+
+Los estudiantes justifican sus propuestas utilizando datos y razonamientos.
+<br>
+
+### Producto final
+<br>
+
+Exposición de la:
+<br>
+
+**"Ciudad Matemática del Futuro"**
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué matemáticas hemos utilizado para construir nuestra ciudad?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de ingeniero matemático.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Actividades multinivel.
+- Material manipulativo.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de cálculos y desafíos.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de resolución de problemas.
+- Lista de control.
+- Escala de observación.
+- Cuaderno matemático.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Resuelve problemas adecuadamente.
+- Utiliza operaciones correctas.
+- Interpreta gráficos y datos.
+- Aplica conceptos geométricos.
+- Justifica razonamientos matemáticos.
+- Participa activamente en el proyecto.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: organización de ciudades.
+- Educación Artística: construcción de maquetas.
+- Competencia Digital: representación de datos.
+- Lengua Castellana: exposición oral de proyectos.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado descubre que las matemáticas están presentes en numerosos aspectos de la planificación urbana, la economía, el transporte y la organización de recursos.
+<br>
+
+La situación permite aplicar conocimientos matemáticos en contextos cercanos a la realidad y desarrollar competencias útiles para la vida cotidiana.
+<br>
+
+## Conclusión
+<br>
+
+"El desafío de la ciudad matemática" transforma las matemáticas en una experiencia práctica y significativa donde el alumnado aplica sus conocimientos para resolver situaciones reales y tomar decisiones fundamentadas.
+<br>
+
+A través del diseño de una ciudad, los estudiantes desarrollan el razonamiento lógico, la capacidad de resolución de problemas y la competencia matemática en contextos motivadores y funcionales.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con los desafíos del mundo real.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-desafio-de-la-ciudad-matematica-5-primaria",
+  title: "Situación de aprendizaje: El desafío de la ciudad matemática para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Matemáticas para 5º de Primaria centrada en la resolución de problemas, el razonamiento lógico, las operaciones, la geometría y la aplicación práctica de las matemáticas según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "matematicas",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en un equipo de ingenieros y planificadores encargado de diseñar una ciudad inteligente mediante desafíos matemáticos.",
+  content: `
+# Situación de aprendizaje: El desafío de la ciudad matemática para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado asumir el papel de ingenieros, arquitectos y planificadores urbanos responsables de diseñar una ciudad eficiente, sostenible y funcional.
+<br>
+A lo largo del proyecto, los estudiantes resolverán problemas matemáticos, realizarán cálculos, interpretarán datos, utilizarán escalas y planos, y aplicarán conceptos geométricos para construir su propia ciudad matemática.
+<br>
+
+## Justificación
+<br>
+Las matemáticas permiten analizar y resolver situaciones reales presentes en nuestra sociedad.
+<br>
+El diseño de una ciudad constituye un contexto cercano y motivador que facilita la aplicación práctica de conocimientos relacionados con numeración, operaciones, geometría, medidas, estadística y resolución de problemas.
+<br>
+Además, favorece el desarrollo del razonamiento lógico y la toma de decisiones fundamentadas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Diseño y presentación de una maqueta y plano de una ciudad matemática donde el alumnado justificará las decisiones tomadas mediante cálculos y razonamientos matemáticos.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la resolución de problemas.
+- Aplicar operaciones con números naturales y decimales.
+- Utilizar medidas y magnitudes en contextos reales.
+- Interpretar datos y representarlos gráficamente.
+- Utilizar conceptos geométricos para diseñar espacios.
+- Desarrollar estrategias de razonamiento matemático.
+- Trabajar cooperativamente en la resolución de desafíos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia digital.
+<br>
+
+## Competencias específicas
+<br>
+
+- Resolver problemas aplicando distintas estrategias matemáticas.
+- Utilizar conocimientos matemáticos en contextos reales.
+- Comunicar procedimientos y resultados.
+- Interpretar y representar información matemática.
+<br>
+
+## Saberes básicos
+<br>
+
+- Numeración.
+- Operaciones.
+- Fracciones y decimales.
+- Medidas y magnitudes.
+- Geometría.
+- Estadística y gráficos.
+- Resolución de problemas.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Resuelve situaciones problemáticas adecuadas al nivel.
+- Aplica correctamente operaciones matemáticas.
+- Interpreta información numérica y gráfica.
+- Utiliza procedimientos geométricos básicos.
+- Participa activamente en el proyecto.
+- Justifica sus decisiones matemáticas.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Resolución de problemas.
+- Gamificación.
+- Evaluación formativa.
+<br>
+
+El alumnado trabajará como un equipo profesional encargado de construir una nueva ciudad.
+<br>
+
+## Sesión 1. Nos convertimos en urbanistas
+
+### Activación inicial
+<br>
+
+Presentación del reto:
+<br>
+
+Diseñar una ciudad moderna capaz de satisfacer las necesidades de sus habitantes.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de diferentes ciudades y de los elementos necesarios para su funcionamiento:
+<br>
+
+- Viviendas.
+- Hospitales.
+- Parques.
+- Carreteras.
+- Colegios.
+- Comercios.
+<br>
+
+### Desafío matemático
+<br>
+
+Calcular el número estimado de habitantes y servicios necesarios.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Distribución de responsabilidades dentro de cada equipo.
+<br>
+
+### Producto parcial
+<br>
+
+Primer boceto de la ciudad.
+<br>
+
+## Sesión 2. El presupuesto de la ciudad
+
+### Calentamiento matemático
+<br>
+
+Retos rápidos de cálculo mental.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo recibe un presupuesto ficticio para construir la ciudad.
+<br>
+
+### Problemas matemáticos
+<br>
+
+Los equipos deberán:
+<br>
+
+- Gestionar recursos.
+- Realizar operaciones.
+- Tomar decisiones.
+- Priorizar construcciones.
+<br>
+
+### Taller práctico
+<br>
+
+Elaboración de tablas de gastos e inversiones.
+<br>
+
+### Reflexión
+<br>
+
+¿Cómo utilizamos el dinero disponible de forma eficiente?
+<br>
+
+## Sesión 3. Diseñamos calles y edificios
+
+### Actividad inicial
+<br>
+
+Análisis de planos urbanos.
+<br>
+
+### Actividad principal
+<br>
+
+Creación del plano utilizando:
+<br>
+
+- Escalas.
+- Cuadrículas.
+- Figuras geométricas.
+- Medidas reales y representadas.
+<br>
+
+### Aplicación matemática
+<br>
+
+Cálculo de:
+<br>
+
+- Distancias.
+- Perímetros.
+- Superficies sencillas.
+<br>
+
+### Producto parcial
+<br>
+
+Plano preliminar de la ciudad.
+<br>
+
+## Sesión 4. Estudiamos a los habitantes
+
+### Activación inicial
+<br>
+
+Presentación de datos ficticios sobre la población.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis estadístico de:
+<br>
+
+- Número de habitantes.
+- Edades.
+- Servicios utilizados.
+- Medios de transporte.
+<br>
+
+### Taller matemático
+<br>
+
+Construcción de:
+<br>
+
+- Tablas.
+- Diagramas de barras.
+- Gráficos sencillos.
+<br>
+
+### Interpretación
+<br>
+
+Extracción de conclusiones a partir de los datos.
+<br>
+
+## Sesión 5. Resolvemos los problemas de la ciudad
+
+### Calentamiento
+<br>
+
+Escape Challenge Matemático.
+<br>
+
+### Actividad principal
+<br>
+
+Cada equipo recibe problemas reales relacionados con:
+<br>
+
+- Tráfico.
+- Consumo de agua.
+- Espacios verdes.
+- Transporte público.
+- Distribución de recursos.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Búsqueda de soluciones justificadas matemáticamente.
+<br>
+
+### Construcción final
+<br>
+
+Finalización de la maqueta y del plano.
+<br>
+
+## Sesión 6. Presentamos nuestra ciudad matemática
+
+### Actividad inicial
+<br>
+
+Preparación de la exposición final.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo presenta:
+<br>
+
+- El plano.
+- La maqueta.
+- Los cálculos realizados.
+- Las decisiones tomadas.
+<br>
+
+### Defensa matemática
+<br>
+
+Los estudiantes justifican sus propuestas utilizando datos y razonamientos.
+<br>
+
+### Producto final
+<br>
+
+Exposición de la:
+<br>
+
+**"Ciudad Matemática del Futuro"**
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué matemáticas hemos utilizado para construir nuestra ciudad?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de ingeniero matemático.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Actividades multinivel.
+- Material manipulativo.
+- Apoyos visuales.
+- Agrupamientos flexibles.
+- Adaptación de cálculos y desafíos.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de resolución de problemas.
+- Lista de control.
+- Escala de observación.
+- Cuaderno matemático.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Resuelve problemas adecuadamente.
+- Utiliza operaciones correctas.
+- Interpreta gráficos y datos.
+- Aplica conceptos geométricos.
+- Justifica razonamientos matemáticos.
+- Participa activamente en el proyecto.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: organización de ciudades.
+- Educación Artística: construcción de maquetas.
+- Competencia Digital: representación de datos.
+- Lengua Castellana: exposición oral de proyectos.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado descubre que las matemáticas están presentes en numerosos aspectos de la planificación urbana, la economía, el transporte y la organización de recursos.
+<br>
+
+La situación permite aplicar conocimientos matemáticos en contextos cercanos a la realidad y desarrollar competencias útiles para la vida cotidiana.
+<br>
+
+## Conclusión
+<br>
+
+"El desafío de la ciudad matemática" transforma las matemáticas en una experiencia práctica y significativa donde el alumnado aplica sus conocimientos para resolver situaciones reales y tomar decisiones fundamentadas.
+<br>
+
+A través del diseño de una ciudad, los estudiantes desarrollan el razonamiento lógico, la capacidad de resolución de problemas y la competencia matemática en contextos motivadores y funcionales.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y conectado con los desafíos del mundo real.
+`
+},
+{
+  slug: "situacion-aprendizaje-exploradores-del-planeta-5-primaria",
+  title: "Situación de aprendizaje: Exploradores del planeta para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Naturales para 5º de Primaria centrada en los ecosistemas, la biodiversidad, la sostenibilidad y la investigación científica según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "ciencias-naturales",
+  date: "2026-10-08",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en investigador ambiental para estudiar ecosistemas, biodiversidad y problemas medioambientales actuales.",
+  content: `
+# Situación de aprendizaje: Exploradores del planeta para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en un equipo internacional de científicos y exploradores ambientales cuya misión será estudiar diferentes ecosistemas del planeta y buscar soluciones para proteger la biodiversidad.
+<br>
+A través de investigaciones, experimentos, actividades cooperativas y análisis de problemas ambientales reales, los estudiantes desarrollarán competencias científicas mientras descubren la importancia de conservar los ecosistemas y los recursos naturales.
+<br>
+
+## Justificación
+<br>
+La comprensión de los ecosistemas y de las relaciones entre los seres vivos resulta fundamental para desarrollar una conciencia ambiental responsable.
+<br>
+En 5º de Primaria, el alumnado ya posee la madurez necesaria para analizar problemas ambientales y reflexionar sobre posibles soluciones relacionadas con la sostenibilidad y el cuidado del planeta.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Naturales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Elaboración de una exposición científica titulada:
+<br>
+
+**"Observatorio de Ecosistemas del Planeta"**
+<br>
+
+Cada grupo elaborará un informe y una presentación sobre un ecosistema concreto y propondrá medidas para su conservación.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender el funcionamiento de los ecosistemas.
+- Identificar relaciones entre seres vivos y medio físico.
+- Analizar problemas ambientales actuales.
+- Desarrollar habilidades de investigación científica.
+- Interpretar información procedente de diversas fuentes.
+- Fomentar comportamientos responsables con el medio ambiente.
+- Participar en proyectos cooperativos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y en ciencia, tecnología e ingeniería.
+- Competencia ciudadana.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+<br>
+
+## Competencias específicas
+<br>
+
+- Analizar relaciones entre los elementos de los ecosistemas.
+- Aplicar el método científico en investigaciones sencillas.
+- Interpretar información científica.
+- Proponer acciones relacionadas con la sostenibilidad.
+<br>
+
+## Saberes básicos
+<br>
+
+- Ecosistemas.
+- Biodiversidad.
+- Cadenas alimentarias.
+- Adaptaciones de los seres vivos.
+- Impacto humano sobre el medio ambiente.
+- Desarrollo sostenible.
+- Investigación científica.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica componentes de distintos ecosistemas.
+- Comprende relaciones entre los seres vivos.
+- Participa en investigaciones científicas sencillas.
+- Analiza problemas ambientales.
+- Propone medidas de conservación.
+- Coopera con sus compañeros durante el proyecto.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje por indagación.
+- Investigación científica.
+- Aprendizaje cooperativo.
+- Evaluación formativa.
+<br>
+
+El alumnado actuará como un equipo de científicos cuya misión consistirá en proteger los ecosistemas del planeta.
+<br>
+
+## Sesión 1. Comienza la expedición científica
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una comunicación de una organización internacional medioambiental que solicita ayuda para estudiar diferentes ecosistemas.
+<br>
+
+### Activación de conocimientos previos
+<br>
+
+Lluvia de ideas sobre:
+<br>
+
+- Ecosistemas conocidos.
+- Animales característicos.
+- Problemas ambientales.
+<br>
+
+### Actividad principal
+<br>
+
+Presentación de los principales ecosistemas:
+<br>
+
+- Bosques.
+- Desiertos.
+- Selvas.
+- Océanos.
+- Regiones polares.
+<br>
+
+### Taller científico
+<br>
+
+Creación de un cuaderno de campo donde los alumnos registrarán observaciones durante todo el proyecto.
+<br>
+
+### Reflexión final
+<br>
+
+¿Por qué es importante proteger la biodiversidad?
+<br>
+
+## Sesión 2. Investigamos los ecosistemas
+
+### Calentamiento científico
+<br>
+
+Juego de clasificación de seres vivos.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo selecciona un ecosistema para investigarlo.
+<br>
+
+### Investigación guiada
+<br>
+
+Los estudiantes recopilan información sobre:
+<br>
+
+- Clima.
+- Flora.
+- Fauna.
+- Características físicas.
+- Amenazas ambientales.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Elaboración de fichas informativas.
+<br>
+
+### Producto parcial
+<br>
+
+Mural descriptivo del ecosistema asignado.
+<br>
+
+## Sesión 3. Las cadenas alimentarias
+
+### Actividad inicial
+<br>
+
+Análisis de imágenes y vídeos relacionados con relaciones tróficas.
+<br>
+
+### Actividad principal
+<br>
+
+Estudio de:
+<br>
+
+- Productores.
+- Consumidores.
+- Descomponedores.
+<br>
+
+### Taller manipulativo
+<br>
+
+Construcción de cadenas y redes alimentarias utilizando tarjetas e imágenes.
+<br>
+
+### Desafío cooperativo
+<br>
+
+Resolver situaciones donde desaparecen determinadas especies y analizar las consecuencias.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué ocurre cuando se altera un ecosistema?
+<br>
+
+## Sesión 4. Problemas medioambientales actuales
+
+### Actividad inicial
+<br>
+
+Presentación de casos reales relacionados con:
+<br>
+
+- Contaminación.
+- Deforestación.
+- Cambio climático.
+- Pérdida de biodiversidad.
+<br>
+
+### Actividad principal
+<br>
+
+Trabajo por estaciones:
+<br>
+
+Estación 1:
+<br>
+
+Contaminación del agua.
+<br>
+
+Estación 2:
+<br>
+
+Residuos y reciclaje.
+<br>
+
+Estación 3:
+<br>
+
+Deforestación.
+<br>
+
+Estación 4:
+<br>
+
+Cambio climático.
+<br>
+
+### Debate guiado
+<br>
+
+¿Qué acciones humanas afectan a los ecosistemas?
+<br>
+
+### Producto parcial
+<br>
+
+Registro de problemas y posibles soluciones.
+<br>
+
+## Sesión 5. Diseñamos soluciones para el planeta
+
+### Calentamiento
+<br>
+
+Dinámica de ideas rápidas sobre sostenibilidad.
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos diseñan propuestas para mejorar la situación ambiental de su ecosistema.
+<br>
+
+### Taller de proyecto
+<br>
+
+Creación de:
+<br>
+
+- Carteles científicos.
+- Infografías.
+- Presentaciones.
+- Mapas conceptuales.
+<br>
+
+### Preparación
+<br>
+
+Organización de la exposición final.
+<br>
+
+### Ensayo
+<br>
+
+Práctica de las presentaciones orales.
+<br>
+
+## Sesión 6. Observatorio de ecosistemas
+
+### Actividad inicial
+<br>
+
+Montaje de la exposición científica.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo presenta:
+<br>
+
+- Características del ecosistema.
+- Especies más relevantes.
+- Problemas detectados.
+- Soluciones propuestas.
+<br>
+
+### Producto final
+<br>
+
+Exposición:
+<br>
+
+**"Observatorio de Ecosistemas del Planeta"**
+<br>
+
+### Debate final
+<br>
+
+Reflexión conjunta sobre cómo podemos contribuir individualmente al cuidado del medio ambiente.
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma de explorador ambiental.
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Apoyos visuales.
+- Actividades multinivel.
+- Investigación guiada.
+- Agrupamientos flexibles.
+- Adaptación de materiales y tareas.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de investigación.
+- Lista de control.
+- Escala de observación.
+- Cuaderno de campo.
+- Exposición oral.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende el funcionamiento de los ecosistemas.
+- Interpreta información científica.
+- Identifica problemas ambientales.
+- Propone soluciones fundamentadas.
+- Participa activamente en el proyecto.
+- Coopera con el grupo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: impacto humano sobre el territorio.
+- Matemáticas: interpretación de datos ambientales.
+- Lengua Castellana: elaboración de informes científicos.
+- Educación Artística: diseño de carteles e infografías.
+- Competencia Digital: búsqueda y tratamiento de información.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los problemas ambientales forman parte de la realidad actual y afectan directamente al bienestar de las personas y de los ecosistemas.
+<br>
+
+La situación permite comprender cómo nuestras acciones influyen en el medio ambiente y qué medidas pueden adoptarse para construir un futuro más sostenible.
+<br>
+
+## Conclusión
+<br>
+
+"Exploradores del planeta" transforma las Ciencias Naturales en una experiencia de investigación auténtica donde el alumnado analiza ecosistemas, estudia relaciones ecológicas y reflexiona sobre los principales desafíos ambientales de la actualidad.
+<br>
+
+A través de la observación, la investigación y el trabajo cooperativo, los estudiantes desarrollan competencias científicas fundamentales mientras adquieren una mayor conciencia sobre la necesidad de proteger la biodiversidad y conservar los recursos naturales.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, competencial y comprometido con la sostenibilidad y el cuidado del planeta.
+`
+},
+{
   slug: "ejemplo-situacion-aprendizaje-matematicas-6-primaria",
   title: "Ejemplo de Situación de Aprendizaje de Matemáticas para 6º de Primaria (LOMLOE)",
   metaDescription:
