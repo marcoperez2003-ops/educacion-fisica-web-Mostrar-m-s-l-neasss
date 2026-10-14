@@ -19593,6 +19593,2850 @@ Esta situación de aprendizaje permite conectar las Matemáticas con experiencia
 `
 },
 {
+  slug: "situacion-aprendizaje-la-agencia-de-periodistas-del-futuro-5-primaria",
+  title: "Situación de aprendizaje: La agencia de periodistas del futuro para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Lengua Castellana y Literatura para 5º de Primaria centrada en la comunicación, la producción escrita, la comprensión lectora, la expresión oral y el pensamiento crítico según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "lengua",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en periodista e investigador para crear un periódico sobre los retos y avances de la sociedad del futuro.",
+  content: `
+# Situación de aprendizaje: La agencia de periodistas del futuro para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado integrarse en una agencia periodística encargada de informar sobre cómo será el mundo dentro de cincuenta años.
+<br>
+Los estudiantes investigarán avances científicos, cambios sociales y retos medioambientales para producir noticias, entrevistas, reportajes y artículos de opinión.
+<br>
+A través de este proyecto desarrollarán habilidades relacionadas con la lectura crítica, la comunicación oral, la producción escrita y la búsqueda responsable de información.
+<br>
+
+## Justificación
+<br>
+La Lengua Castellana y Literatura desempeña un papel fundamental en el desarrollo de la capacidad comunicativa del alumnado.
+<br>
+Durante 5º de Primaria resulta especialmente importante trabajar la comprensión de textos diversos, la expresión escrita estructurada y la capacidad para argumentar opiniones de forma fundamentada.
+<br>
+El periodismo constituye un contexto cercano y motivador que permite aplicar estos aprendizajes en situaciones auténticas y significativas.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de un periódico titulado:
+<br>
+
+**"Noticias del año 2076"**
+<br>
+
+Cada grupo elaborará diferentes secciones periodísticas relacionadas con el futuro y presentará públicamente sus producciones.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la comprensión lectora.
+- Desarrollar la expresión escrita mediante textos periodísticos.
+- Utilizar adecuadamente distintos géneros informativos.
+- Ampliar y enriquecer el vocabulario.
+- Desarrollar el pensamiento crítico.
+- Mejorar la capacidad argumentativa.
+- Participar en actividades cooperativas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender textos de diferente tipología.
+- Elaborar textos escritos coherentes y cohesionados.
+- Participar en situaciones comunicativas con claridad y precisión.
+- Buscar, seleccionar y organizar información relevante.
+<br>
+
+## Saberes básicos
+<br>
+
+- Comprensión lectora.
+- Producción escrita.
+- La noticia.
+- La entrevista.
+- El reportaje.
+- El artículo de opinión.
+- Estrategias de comunicación oral.
+- Ortografía y vocabulario.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende textos informativos y argumentativos.
+- Redacta textos estructurados y coherentes.
+- Utiliza vocabulario específico y preciso.
+- Participa activamente en debates y exposiciones.
+- Coopera con sus compañeros.
+- Utiliza fuentes de información de forma responsable.
+<br>
+
+## Metodología
+<br>
+
+La propuesta se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Investigación guiada.
+- Escritura creativa.
+- Debates y exposiciones.
+- Evaluación formativa.
+<br>
+
+El alumnado asumirá el rol de periodistas profesionales que deben informar a la sociedad sobre el mundo del futuro.
+<br>
+
+## Sesión 1. Nace la agencia del futuro
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una carta donde una agencia internacional solicita ayuda para elaborar un periódico sobre el año 2076.
+<br>
+
+### Activación de conocimientos previos
+<br>
+
+Debate guiado:
+<br>
+
+- ¿Cómo imaginamos el futuro?
+- ¿Qué profesiones existirán?
+- ¿Cómo cambiarán las ciudades?
+- ¿Qué problemas podrían aparecer?
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de diferentes periódicos y medios de comunicación.
+<br>
+
+Los alumnos identifican:
+<br>
+
+- Titulares.
+- Noticias.
+- Entrevistas.
+- Reportajes.
+- Artículos de opinión.
+<br>
+
+### Taller práctico
+<br>
+
+Comparación entre información objetiva y opinión.
+<br>
+
+### Producto parcial
+<br>
+
+Creación del carnet de periodista y elección de las secciones del periódico.
+<br>
+
+## Sesión 2. Investigamos el año 2076
+
+### Calentamiento
+<br>
+
+Juego:
+<br>
+
+"¿Realidad o ciencia ficción?"
+<br>
+
+### Actividad principal
+<br>
+
+Investigación por equipos sobre:
+<br>
+
+- Tecnología.
+- Medio ambiente.
+- Transporte.
+- Medicina.
+- Educación.
+- Exploración espacial.
+<br>
+
+### Comprensión lectora
+<br>
+
+Lectura de textos divulgativos adaptados relacionados con avances científicos actuales.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Elaboración de fichas con información relevante.
+<br>
+
+### Debate
+<br>
+
+¿Todos los avances tecnológicos son positivos?
+<br>
+
+### Producto parcial
+<br>
+
+Banco de ideas para futuras noticias.
+<br>
+
+## Sesión 3. Aprendemos a entrevistar
+
+### Actividad inicial
+<br>
+
+Visualización y análisis de entrevistas periodísticas.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de:
+<br>
+
+- Preguntas abiertas.
+- Preguntas cerradas.
+- Información relevante.
+- Estrategias comunicativas.
+<br>
+
+### Taller de escritura
+<br>
+
+Creación de entrevistas imaginarias a:
+<br>
+
+- Inventores.
+- Científicos.
+- Astronautas.
+- Alcaldes de ciudades futuristas.
+<br>
+
+### Actividad oral
+<br>
+
+Representación de entrevistas por parejas.
+<br>
+
+### Retroalimentación
+<br>
+
+Evaluación de la claridad, la escucha activa y la formulación de preguntas.
+<br>
+
+## Sesión 4. Redacción de noticias y reportajes
+
+### Calentamiento
+<br>
+
+Concurso de creación de titulares.
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos redactan sus primeras noticias sobre:
+<br>
+
+- Nuevos inventos.
+- Descubrimientos científicos.
+- Cambios sociales.
+- Misiones espaciales.
+<br>
+
+### Taller de escritura
+<br>
+
+Proceso completo de producción:
+<br>
+
+- Planificación.
+- Borrador.
+- Revisión.
+- Corrección.
+- Edición final.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Intercambio de textos entre grupos para revisar aspectos relacionados con:
+<br>
+
+- Claridad.
+- Ortografía.
+- Cohesión.
+- Presentación.
+<br>
+
+### Producto parcial
+<br>
+
+Versión definitiva de noticias y reportajes.
+<br>
+
+## Sesión 5. Construimos el periódico
+
+### Actividad inicial
+<br>
+
+Organización de todas las secciones periodísticas.
+<br>
+
+### Actividad principal
+<br>
+
+Distribución de contenidos:
+<br>
+
+- Noticias.
+- Entrevistas.
+- Reportajes.
+- Opinión.
+- Curiosidades.
+- Publicidad del futuro.
+<br>
+
+### Taller de maquetación
+<br>
+
+Diseño de:
+<br>
+
+- Portada.
+- Índice.
+- Secciones.
+- Imágenes.
+- Titulares.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Montaje del periódico completo.
+<br>
+
+### Ensayo
+<br>
+
+Preparación de las exposiciones orales finales.
+<br>
+
+## Sesión 6. Presentación de las noticias del año 2076
+
+### Actividad inicial
+<br>
+
+Preparación del espacio de presentación.
+<br>
+
+### Actividad principal
+<br>
+
+Cada grupo presenta su sección periodística.
+<br>
+
+Los estudiantes explican:
+<br>
+
+- El proceso de investigación.
+- Las noticias redactadas.
+- Las decisiones tomadas.
+- Los aprendizajes adquiridos.
+<br>
+
+### Producto final
+<br>
+
+Presentación pública del periódico:
+<br>
+
+**"Noticias del año 2076"**
+<br>
+
+### Debate final
+<br>
+
+Reflexión conjunta:
+<br>
+
+- ¿Qué futuro deseamos construir?
+- ¿Qué avances serían beneficiosos?
+- ¿Qué retos tendremos que afrontar?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Periodista del Futuro**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Lecturas adaptadas.
+- Organizadores gráficos.
+- Andamiaje lingüístico.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formatos de expresión.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica de escritura.
+- Lista de control.
+- Escala de observación.
+- Producciones escritas.
+- Exposiciones orales.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende textos informativos.
+- Produce escritos coherentes y bien estructurados.
+- Participa en actividades de investigación.
+- Utiliza vocabulario adecuado.
+- Comunica ideas de forma clara.
+- Coopera con sus compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Naturales: avances científicos y tecnológicos.
+- Ciencias Sociales: cambios sociales y urbanos.
+- Educación Artística: diseño gráfico del periódico.
+- Competencia Digital: tratamiento de la información.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los medios de comunicación forman parte de la vida diaria del alumnado.
+<br>
+
+Comprender cómo se produce la información y cómo diferenciar hechos y opiniones resulta esencial para desenvolverse de forma crítica y responsable en la sociedad actual.
+<br>
+
+## Conclusión
+<br>
+
+"La agencia de periodistas del futuro" permite al alumnado de 5º de Primaria desarrollar competencias comunicativas avanzadas a través de un proyecto cercano, creativo y contextualizado.
+<br>
+
+La combinación de investigación, lectura, escritura y comunicación oral favorece aprendizajes significativos y transferibles a situaciones reales.
+<br>
+
+Además, la elaboración de un periódico propio convierte a los estudiantes en protagonistas de su aprendizaje y les ayuda a comprender el valor de la información, la comunicación y el pensamiento crítico dentro de una sociedad democrática.
+`
+},
+{
+  slug: "situacion-aprendizaje-viajeros-en-el-tiempo-5-primaria",
+  title: "Situación de aprendizaje: Viajeros en el tiempo para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Ciencias Sociales para 5º de Primaria centrada en las etapas de la Historia, las civilizaciones y el patrimonio cultural según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "ciencias-sociales",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en viajero del tiempo para descubrir las principales etapas de la Historia y la herencia cultural de las civilizaciones.",
+  content: `
+# Situación de aprendizaje: Viajeros en el tiempo para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en un grupo de viajeros en el tiempo que debe recorrer distintas etapas históricas para recuperar fragmentos de una línea temporal desaparecida.
+<br>
+A través de investigaciones, retos cooperativos, análisis de fuentes históricas y actividades prácticas, los estudiantes descubrirán cómo vivían las personas en diferentes épocas y comprenderán la evolución de las sociedades a lo largo del tiempo.
+<br>
+
+## Justificación
+<br>
+Comprender el pasado permite interpretar mejor el presente y desarrollar una visión crítica sobre la evolución de las sociedades.
+<br>
+Durante 5º de Primaria, el alumnado comienza a trabajar de forma más profunda los acontecimientos históricos y las principales civilizaciones, siendo capaz de establecer relaciones entre distintas épocas y reconocer la importancia del patrimonio histórico y cultural.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una exposición histórica titulada:
+<br>
+
+**"El Gran Museo del Tiempo"**
+<br>
+
+Cada grupo elaborará un espacio dedicado a una etapa histórica y lo presentará al resto de la comunidad educativa.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender las principales etapas de la Historia.
+- Identificar características de distintas civilizaciones.
+- Utilizar fuentes históricas para obtener información.
+- Conocer elementos del patrimonio histórico y cultural.
+- Desarrollar habilidades de investigación.
+- Fomentar el trabajo cooperativo.
+- Relacionar acontecimientos históricos con la actualidad.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia digital.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender el paso del tiempo y los cambios producidos en las sociedades.
+- Utilizar diferentes fuentes para investigar hechos históricos.
+- Interpretar información relacionada con distintas etapas históricas.
+- Valorar el patrimonio cultural e histórico.
+<br>
+
+## Saberes básicos
+<br>
+
+- Las etapas de la Historia.
+- Prehistoria.
+- Edad Antigua.
+- Edad Media.
+- Edad Moderna.
+- Edad Contemporánea.
+- Fuentes históricas.
+- Patrimonio histórico y cultural.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica las principales etapas históricas.
+- Interpreta información procedente de fuentes históricas.
+- Explica características básicas de distintas civilizaciones.
+- Participa activamente en investigaciones históricas.
+- Coopera en la elaboración del producto final.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Investigación guiada.
+- Gamificación.
+- Análisis de fuentes históricas.
+- Evaluación formativa.
+<br>
+
+La narrativa estará basada en una máquina del tiempo averiada que ha dispersado los principales acontecimientos históricos y que el alumnado deberá reconstruir.
+<br>
+
+## Sesión 1. La máquina del tiempo se ha roto
+
+### Actividad inicial
+<br>
+
+El alumnado recibe un mensaje de emergencia:
+<br>
+
+Una máquina del tiempo ha sufrido una avería y las diferentes etapas históricas han quedado mezcladas.
+<br>
+
+### Activación de conocimientos previos
+<br>
+
+Lluvia de ideas sobre:
+<br>
+
+- ¿Qué es la Historia?
+- ¿Cómo conocemos el pasado?
+- ¿Qué periodos históricos conocen?
+<br>
+
+### Actividad principal
+<br>
+
+Construcción colectiva de una línea del tiempo inicial.
+<br>
+
+### Reto cooperativo
+<br>
+
+Ordenar acontecimientos históricos mezclados.
+<br>
+
+### Producto parcial
+<br>
+
+Creación del pasaporte del viajero del tiempo.
+<br>
+
+### Reflexión final
+<br>
+
+¿Por qué es importante estudiar la Historia?
+<br>
+
+## Sesión 2. Exploramos la Prehistoria y la Edad Antigua
+
+### Calentamiento histórico
+<br>
+
+Juego de descubrimiento mediante imágenes y objetos históricos.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación por equipos sobre:
+<br>
+
+- La vida en la Prehistoria.
+- El descubrimiento del fuego.
+- Las primeras herramientas.
+- Egipto.
+- Grecia.
+- Roma.
+<br>
+
+### Taller práctico
+<br>
+
+Análisis de imágenes de restos arqueológicos.
+<br>
+
+### Desafío cooperativo
+<br>
+
+Construcción de una línea temporal ilustrada.
+<br>
+
+### Producto parcial
+<br>
+
+Ficha de investigación histórica.
+<br>
+
+## Sesión 3. Un viaje a la Edad Media
+
+### Actividad inicial
+<br>
+
+Presentación de documentos, imágenes y mapas medievales.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación sobre:
+<br>
+
+- Castillos.
+- Caballeros.
+- Campesinos.
+- Artesanos.
+- Ciudades medievales.
+<br>
+
+### Taller de fuentes históricas
+<br>
+
+Los alumnos analizan diferentes tipos de fuentes:
+<br>
+
+- Escritas.
+- Materiales.
+- Artísticas.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Diseño de un mural representando una ciudad medieval.
+<br>
+
+### Debate
+<br>
+
+¿Cómo era la vida de un niño en la Edad Media?
+<br>
+
+## Sesión 4. Descubrimos la Edad Moderna
+
+### Activación inicial
+<br>
+
+Presentación de acontecimientos relevantes:
+<br>
+
+- Descubrimientos geográficos.
+- Imprenta.
+- Grandes navegaciones.
+<br>
+
+### Actividad principal
+<br>
+
+Trabajo por estaciones:
+<br>
+
+Estación 1:
+<br>
+
+Cristóbal Colón y los viajes marítimos.
+<br>
+
+Estación 2:
+<br>
+
+Los avances científicos.
+<br>
+
+Estación 3:
+<br>
+
+Nuevos intercambios culturales.
+<br>
+
+Estación 4:
+<br>
+
+La vida cotidiana durante la Edad Moderna.
+<br>
+
+### Desafío
+<br>
+
+Completar el diario de viaje de un explorador.
+<br>
+
+## Sesión 5. La Edad Contemporánea y nuestro mundo
+
+### Actividad inicial
+<br>
+
+Análisis de fotografías antiguas y actuales.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación sobre:
+<br>
+
+- Revolución Industrial.
+- Avances tecnológicos.
+- Derechos y libertades.
+- Evolución de los medios de transporte.
+- Cambios sociales.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Comparar pasado y presente mediante organizadores gráficos.
+<br>
+
+### Preparación del producto final
+<br>
+
+Cada grupo organiza la información de su etapa histórica.
+<br>
+
+### Ensayo
+<br>
+
+Preparación de las exposiciones.
+<br>
+
+## Sesión 6. El Gran Museo del Tiempo
+
+### Actividad inicial
+<br>
+
+Montaje de la exposición histórica.
+<br>
+
+### Actividad principal
+<br>
+
+Cada equipo presenta:
+<br>
+
+- Su etapa histórica.
+- Sus principales acontecimientos.
+- Personajes relevantes.
+- Inventos y descubrimientos.
+- Curiosidades.
+<br>
+
+### Producto final
+<br>
+
+Exposición:
+<br>
+
+**"El Gran Museo del Tiempo"**
+<br>
+
+### Visita guiada
+<br>
+
+Los grupos explican sus espacios al resto del alumnado.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué cambios han sido más importantes para la humanidad?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Viajero del Tiempo**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Apoyos visuales.
+- Fuentes adaptadas.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de presentación de los aprendizajes.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica del proyecto.
+- Lista de control.
+- Escala de observación.
+- Cuaderno de investigación.
+- Exposición oral.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifica etapas históricas correctamente.
+- Interpreta información histórica.
+- Utiliza fuentes variadas.
+- Participa en investigaciones y exposiciones.
+- Coopera con el grupo.
+- Valora el patrimonio histórico y cultural.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana y Literatura: elaboración de textos históricos.
+- Educación Artística: creación de murales y exposiciones.
+- Competencia Digital: búsqueda de información.
+- Valores Cívicos: evolución de derechos y libertades.
+<br>
+
+## Relación con la vida real
+<br>
+
+Conocer la Historia permite comprender el origen de muchas costumbres, instituciones y elementos culturales presentes en la actualidad.
+<br>
+
+Además, favorece una visión crítica de la sociedad y ayuda al alumnado a valorar la importancia del patrimonio histórico.
+<br>
+
+## Conclusión
+<br>
+
+"Viajeros en el tiempo" transforma las Ciencias Sociales en una aventura histórica donde el alumnado investiga, descubre y explica los principales acontecimientos que han marcado la evolución de la humanidad.
+<br>
+
+A través de experiencias cooperativas y proyectos de investigación, los estudiantes desarrollan competencias históricas fundamentales mientras fortalecen su capacidad de análisis, reflexión y comunicación.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, significativo y conectado con la comprensión del mundo actual.
+`
+},
+{
+  slug: "situacion-aprendizaje-global-explorers-5-primaria",
+  title: "Situación de aprendizaje: Global Explorers para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Inglés para 5º de Primaria centrada en la comunicación oral y escrita, la diversidad cultural, los países del mundo y el trabajo cooperativo según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "ingles",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado se convierte en explorador internacional y descubre diferentes países, culturas y formas de vida utilizando el inglés como lengua de comunicación.",
+  content: `
+# Situación de aprendizaje: Global Explorers para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en exploradores internacionales que forman parte de una organización encargada de descubrir diferentes culturas, países y formas de vida alrededor del mundo.
+<br>
+A través de investigaciones, actividades comunicativas, retos cooperativos y presentaciones orales, los estudiantes utilizarán el inglés para obtener información, intercambiar ideas y comunicar descubrimientos.
+<br>
+
+## Justificación
+<br>
+La enseñanza de la lengua inglesa debe vincularse a situaciones reales y significativas que permitan al alumnado comprender la utilidad del idioma como herramienta de comunicación internacional.
+<br>
+La temática de los viajes y las culturas del mundo favorece la motivación del alumnado y permite trabajar simultáneamente contenidos lingüísticos, culturales y sociales.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Lengua Extranjera: Inglés.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Creación de una feria internacional denominada:
+<br>
+
+**"Global Explorers Fair"**
+<br>
+
+Cada grupo presentará un país utilizando materiales visuales y una exposición oral íntegramente en inglés.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Mejorar la comprensión oral y escrita.
+- Desarrollar la expresión oral en lengua inglesa.
+- Ampliar el vocabulario relacionado con países y culturas.
+- Utilizar estructuras comunicativas en situaciones reales.
+- Conocer diferentes realidades culturales.
+- Participar en actividades cooperativas.
+- Utilizar el inglés como lengua de comunicación.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística.
+- Competencia plurilingüe.
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender mensajes orales y escritos en lengua inglesa.
+- Participar en conversaciones sencillas.
+- Expresar información utilizando estructuras básicas.
+- Interactuar cooperativamente en situaciones comunicativas.
+<br>
+
+## Saberes básicos
+<br>
+
+- Countries and nationalities.
+- Culture and traditions.
+- Oral communication.
+- Reading comprehension.
+- Listening comprehension.
+- Descriptions.
+- Presentations.
+- Vocabulary related to travel.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende información básica en inglés.
+- Utiliza vocabulario relacionado con países y culturas.
+- Participa en actividades de comunicación oral.
+- Produce textos sencillos y comprensibles.
+- Coopera en tareas grupales.
+- Presenta información en inglés utilizando estructuras trabajadas.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Aprendizaje comunicativo.
+- Investigación guiada.
+- Gamificación.
+- Evaluación formativa.
+<br>
+
+## Sesión 1. Welcome Global Explorers
+
+### Actividad inicial
+<br>
+
+El alumnado recibe una invitación para formar parte de la organización internacional Global Explorers.
+<br>
+
+### Warm Up
+<br>
+
+Juego de localización de países mediante mapas interactivos.
+<br>
+
+### Actividad principal
+<br>
+
+Introducción del vocabulario:
+<br>
+
+- Country.
+- Nationality.
+- Continent.
+- Language.
+- Culture.
+- Tradition.
+- Landmark.
+<br>
+
+### Speaking Activity
+<br>
+
+Presentaciones breves utilizando:
+<br>
+
+- I am from...
+- I would like to visit...
+- My favourite country is...
+<br>
+
+### Product Partial
+<br>
+
+Creación del pasaporte de explorador.
+<br>
+
+## Sesión 2. Around the World
+
+### Warm Up
+<br>
+
+World Quiz.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación guiada sobre diversos países.
+<br>
+
+Cada grupo estudia:
+<br>
+
+- Location.
+- Flag.
+- Capital city.
+- Language.
+- Famous places.
+<br>
+
+### Reading Activity
+<br>
+
+Lectura de textos sencillos sobre diferentes lugares del mundo.
+<br>
+
+### Cooperative Task
+<br>
+
+Creación de fichas informativas.
+<br>
+
+### Reflection
+<br>
+
+What makes countries different and special?
+<br>
+
+## Sesión 3. Traditions and Culture
+
+### Warm Up
+<br>
+
+Guess the Country.
+<br>
+
+### Actividad principal
+<br>
+
+Exploración de tradiciones culturales:
+<br>
+
+- Festivals.
+- Food.
+- Music.
+- Clothing.
+<br>
+
+### Listening Activity
+<br>
+
+Comprensión de audios relacionados con costumbres internacionales.
+<br>
+
+### Speaking Task
+<br>
+
+Comparaciones sencillas entre culturas utilizando:
+<br>
+
+- In Spain...
+- In Japan...
+- In Brazil...
+<br>
+
+### Product Partial
+<br>
+
+Cultural information board.
+<br>
+
+## Sesión 4. Become a Travel Guide
+
+### Warm Up
+<br>
+
+Travel Vocabulary Challenge.
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos preparan una guía turística de su país.
+<br>
+
+### Writing Workshop
+<br>
+
+Elaboración de pequeños textos relacionados con:
+<br>
+
+- Places to visit.
+- Interesting facts.
+- Activities.
+- Food.
+<br>
+
+### Oral Practice
+<br>
+
+Simulación de visitas guiadas.
+<br>
+
+### Cooperative Challenge
+<br>
+
+Diseñar un recorrido turístico para visitantes.
+<br>
+
+## Sesión 5. Preparing the Global Explorers Fair
+
+### Warm Up
+<br>
+
+Speaking Race.
+<br>
+
+### Actividad principal
+<br>
+
+Organización de la feria internacional.
+<br>
+
+Cada grupo prepara:
+<br>
+
+- Posters.
+- Visual supports.
+- Country presentation.
+- Cultural facts.
+<br>
+
+### Rehearsal
+<br>
+
+Ensayo de las exposiciones.
+<br>
+
+### Peer Assessment
+<br>
+
+Los compañeros ofrecen sugerencias para mejorar las presentaciones.
+<br>
+
+### Product Partial
+<br>
+
+Versión definitiva de los materiales expositivos.
+<br>
+
+## Sesión 6. Global Explorers Fair
+
+### Opening Activity
+<br>
+
+Inauguración de la feria internacional.
+<br>
+
+### Final Presentation
+<br>
+
+Cada grupo presenta su país utilizando el inglés como lengua de comunicación.
+<br>
+
+Los estudiantes explican:
+<br>
+
+- Location.
+- Culture.
+- Traditions.
+- Interesting places.
+- Reasons to visit it.
+<br>
+
+### Product Final
+<br>
+
+Celebración de la:
+<br>
+
+**"Global Explorers Fair"**
+<br>
+
+### Reflection
+<br>
+
+Los alumnos responden:
+<br>
+
+- What did you learn?
+- What country surprised you the most?
+- Why is English useful?
+<br>
+
+### Celebration
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Global Explorer**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Flashcards visuales.
+- Andamiaje lingüístico.
+- Frases modelo.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Lista de control.
+- Escala de observación.
+- Rúbrica de comunicación oral.
+- Producciones escritas.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende información en inglés.
+- Utiliza vocabulario específico.
+- Participa en actividades comunicativas.
+- Presenta información oralmente.
+- Coopera con el grupo.
+- Utiliza estructuras trabajadas durante el proyecto.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: países y culturas del mundo.
+- Educación Artística: elaboración de materiales visuales.
+- Competencia Digital: búsqueda de información.
+- Valores Cívicos: respeto y diversidad cultural.
+<br>
+
+## Relación con la vida real
+<br>
+
+El alumnado comprende que el inglés es una herramienta esencial para comunicarse con personas de diferentes países y acceder a información internacional.
+<br>
+
+Además, descubre la riqueza cultural del mundo y desarrolla una actitud positiva hacia la diversidad.
+<br>
+
+## Conclusión
+<br>
+
+"Global Explorers" convierte el aprendizaje del inglés en una experiencia internacional donde el alumnado descubre nuevos lugares, culturas y formas de vida mientras desarrolla sus competencias comunicativas.
+<br>
+
+A través de actividades de investigación, interacción oral y trabajo cooperativo, los estudiantes utilizan el idioma en contextos significativos y funcionales.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece un aprendizaje activo, inclusivo, comunicativo y competencial que sitúa al alumnado en el centro del proceso educativo.
+`
+},
+{
+  slug: "situacion-aprendizaje-el-festival-internacional-de-las-artes-5-primaria",
+  title: "Situación de aprendizaje: El festival internacional de las artes para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Educación Artística para 5º de Primaria centrada en la creatividad, las manifestaciones artísticas del mundo, la expresión plástica y el trabajo cooperativo según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "educacion-artistica",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado explora diferentes manifestaciones artísticas del mundo y organiza un gran festival creativo internacional.",
+  content: `
+# Situación de aprendizaje: El festival internacional de las artes para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en artistas, diseñadores y comisarios de una gran exposición internacional donde descubrirán diferentes manifestaciones artísticas de distintas culturas del mundo.
+<br>
+A través de la experimentación con técnicas plásticas, la investigación artística y la creación de producciones individuales y colectivas, los estudiantes desarrollarán su creatividad y capacidad de expresión.
+<br>
+
+## Justificación
+<br>
+La Educación Artística permite al alumnado explorar diferentes formas de comunicación mediante imágenes, colores, formas y materiales.
+<br>
+En 5º de Primaria los estudiantes poseen una mayor capacidad para planificar proyectos complejos, analizar obras artísticas y desarrollar producciones más elaboradas y personales.
+<br>
+Además, el conocimiento de manifestaciones artísticas de distintas culturas favorece el respeto por la diversidad y el desarrollo de la sensibilidad estética.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Educación Artística.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Organización de una exposición denominada:
+<br>
+
+**"Festival Internacional de las Artes"**
+<br>
+
+Cada grupo representará una manifestación artística inspirada en una cultura o movimiento artístico diferente.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Explorar diferentes manifestaciones artísticas.
+- Desarrollar la creatividad y la imaginación.
+- Utilizar diferentes técnicas plásticas.
+- Mejorar la capacidad de planificación artística.
+- Participar en proyectos cooperativos.
+- Valorar el arte como medio de comunicación.
+- Respetar y apreciar producciones propias y ajenas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales.
+- Competencia personal, social y de aprender a aprender.
+- Competencia emprendedora.
+- Competencia en comunicación lingüística.
+<br>
+
+## Competencias específicas
+<br>
+
+- Explorar técnicas y lenguajes artísticos diversos.
+- Crear producciones individuales y colectivas.
+- Analizar obras artísticas de distintas culturas.
+- Utilizar el arte como medio de expresión personal.
+<br>
+
+## Saberes básicos
+<br>
+
+- Lenguaje visual.
+- Color y composición.
+- Técnicas plásticas.
+- Patrimonio artístico.
+- Creación artística individual y colectiva.
+- Diversidad cultural.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Utiliza diferentes técnicas artísticas.
+- Desarrolla producciones originales y creativas.
+- Coopera en proyectos grupales.
+- Valora manifestaciones artísticas diversas.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Experimentación artística.
+- Trabajo cooperativo.
+- Investigación guiada.
+- Evaluación formativa.
+<br>
+
+El alumnado se convertirá en organizador de un festival artístico internacional.
+<br>
+
+## Sesión 1. Bienvenidos al festival
+
+### Actividad inicial
+<br>
+
+Presentación del reto:
+<br>
+
+Organizar un festival internacional donde estén representadas diferentes manifestaciones artísticas del mundo.
+<br>
+
+### Observación artística
+<br>
+
+Análisis de obras procedentes de:
+<br>
+
+- Europa.
+- África.
+- Asia.
+- América.
+- Oceanía.
+<br>
+
+### Actividad principal
+<br>
+
+Identificación de:
+<br>
+
+- Colores predominantes.
+- Formas.
+- Materiales utilizados.
+- Mensajes transmitidos.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Cada grupo selecciona una cultura o movimiento artístico para investigar.
+<br>
+
+### Producto parcial
+<br>
+
+Cuaderno del artista internacional.
+<br>
+
+## Sesión 2. Descubrimos el arte del mundo
+
+### Calentamiento creativo
+<br>
+
+Juego de observación de detalles artísticos.
+<br>
+
+### Actividad principal
+<br>
+
+Investigación guiada sobre:
+<br>
+
+- Arte egipcio.
+- Arte griego.
+- Arte africano.
+- Arte oriental.
+- Arte contemporáneo.
+<br>
+
+### Taller de análisis
+<br>
+
+Los grupos elaboran fichas con:
+<br>
+
+- Origen.
+- Características.
+- Materiales.
+- Significado cultural.
+<br>
+
+### Actividad final
+<br>
+
+Presentación breve de los descubrimientos realizados.
+<br>
+
+## Sesión 3. Taller de técnicas artísticas
+
+### Activación inicial
+<br>
+
+Exploración de diferentes materiales y recursos.
+<br>
+
+### Actividad principal
+<br>
+
+Rotación por estaciones:
+<br>
+
+Estación 1:
+<br>
+
+Pintura.
+<br>
+
+Estación 2:
+<br>
+
+Collage.
+<br>
+
+Estación 3:
+<br>
+
+Estampación.
+<br>
+
+Estación 4:
+<br>
+
+Composición tridimensional.
+<br>
+
+### Desafío creativo
+<br>
+
+Creación de pequeñas obras utilizando cada técnica.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué técnica nos ha resultado más interesante?
+<br>
+
+## Sesión 4. Diseñamos nuestra obra principal
+
+### Actividad inicial
+<br>
+
+Planificación de las producciones finales.
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos diseñan:
+<br>
+
+- Bocetos.
+- Distribución de elementos.
+- Materiales.
+- Colores.
+- Mensaje artístico.
+<br>
+
+### Taller artístico
+<br>
+
+Inicio de la producción definitiva.
+<br>
+
+### Seguimiento
+<br>
+
+Revisión cooperativa de los trabajos.
+<br>
+
+### Producto parcial
+<br>
+
+Obra en fase de construcción.
+<br>
+
+## Sesión 5. Preparamos la exposición
+
+### Calentamiento creativo
+<br>
+
+Observación y análisis de exposiciones reales.
+<br>
+
+### Actividad principal
+<br>
+
+Finalización de las producciones.
+<br>
+
+### Taller complementario
+<br>
+
+Diseño de:
+<br>
+
+- Carteles.
+- Invitaciones.
+- Paneles explicativos.
+- Etiquetas informativas.
+<br>
+
+### Actividad cooperativa
+<br>
+
+Organización de espacios expositivos.
+<br>
+
+### Ensayo
+<br>
+
+Preparación de las explicaciones orales.
+<br>
+
+## Sesión 6. Festival Internacional de las Artes
+
+### Actividad inicial
+<br>
+
+Montaje final de la exposición.
+<br>
+
+### Actividad principal
+<br>
+
+Inauguración del festival.
+<br>
+
+Los grupos presentan:
+<br>
+
+- Su obra.
+- La cultura representada.
+- Las técnicas utilizadas.
+- El significado artístico.
+<br>
+
+### Producto final
+<br>
+
+Exposición:
+<br>
+
+**"Festival Internacional de las Artes"**
+<br>
+
+### Visita guiada
+<br>
+
+Recorrido por las distintas exposiciones elaboradas.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué hemos aprendido sobre el arte y las diferentes culturas?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Artista Internacional**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Adaptación de materiales.
+- Actividades multinivel.
+- Apoyos visuales.
+- Diferentes formas de expresión artística.
+- Agrupamientos flexibles.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica artística.
+- Lista de control.
+- Escala de observación.
+- Portfolio artístico.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades.
+- Utiliza técnicas variadas.
+- Desarrolla producciones originales.
+- Coopera en trabajos grupales.
+- Valora manifestaciones artísticas diversas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Ciencias Sociales: culturas y civilizaciones.
+- Lengua Castellana: exposiciones orales.
+- Competencia Digital: búsqueda de información artística.
+- Valores Cívicos: respeto a la diversidad cultural.
+<br>
+
+## Relación con la vida real
+<br>
+
+El arte forma parte del patrimonio cultural de todas las sociedades y constituye una herramienta fundamental de expresión y comunicación.
+<br>
+
+La situación permite comprender la riqueza cultural del mundo y valorar la creatividad como medio para transmitir ideas y emociones.
+<br>
+
+## Conclusión
+<br>
+
+"El festival internacional de las artes" permite al alumnado de 5º de Primaria descubrir la diversidad artística y cultural existente en el mundo mediante experiencias creativas e inmersivas.
+<br>
+
+A través de la investigación, la experimentación y la producción artística, los estudiantes desarrollan competencias relacionadas con la creatividad, la sensibilidad estética y la comunicación visual.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una Educación Artística activa, inclusiva, competencial y conectada con la realidad cultural global.
+`
+},
+{
+  slug: "situacion-aprendizaje-voces-para-cambiar-el-mundo-5-primaria",
+  title: "Situación de aprendizaje: Voces para cambiar el mundo para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Valores Cívicos para 5º de Primaria centrada en la participación ciudadana, los derechos de la infancia, la convivencia democrática y el compromiso social según la LOMLOE.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "valores-civicos",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado analiza problemas de su entorno y diseña propuestas para mejorar la convivencia, la inclusión y el bienestar de la comunidad.",
+  content: `
+# Situación de aprendizaje: Voces para cambiar el mundo para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado convertirse en un consejo ciudadano encargado de analizar diferentes problemas presentes en su entorno y diseñar propuestas que ayuden a mejorar la convivencia y la vida en comunidad.
+<br>
+A través de investigaciones, debates, estudios de casos y proyectos cooperativos, los estudiantes reflexionarán sobre derechos, deberes, igualdad, participación democrática y responsabilidad social.
+<br>
+
+## Justificación
+<br>
+La educación en valores constituye un elemento fundamental para formar ciudadanos comprometidos, responsables y participativos.
+<br>
+En 5º de Primaria el alumnado dispone de una mayor capacidad para analizar situaciones complejas, comprender diferentes puntos de vista y desarrollar propuestas orientadas al bien común.
+<br>
+Esta situación de aprendizaje favorece el desarrollo del pensamiento crítico y la implicación activa en la mejora del entorno.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Valores Cívicos.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Diseño y presentación de un proyecto denominado:
+<br>
+
+**"Nuestra propuesta para mejorar el mundo"**
+<br>
+
+Cada grupo elaborará una iniciativa de mejora relacionada con la convivencia, la inclusión, la sostenibilidad o el bienestar de la comunidad educativa.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender la importancia de la participación ciudadana.
+- Conocer los derechos y responsabilidades de la infancia.
+- Fomentar el pensamiento crítico.
+- Desarrollar habilidades de diálogo y argumentación.
+- Participar activamente en procesos de toma de decisiones.
+- Promover actitudes solidarias e inclusivas.
+- Implicarse en la mejora del entorno.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana.
+- Competencia personal, social y de aprender a aprender.
+- Competencia en comunicación lingüística.
+- Competencia emprendedora.
+<br>
+
+## Competencias específicas
+<br>
+
+- Analizar situaciones relacionadas con la convivencia y la ciudadanía.
+- Participar en procesos democráticos de diálogo y decisión.
+- Comprender derechos y deberes dentro de la comunidad.
+- Elaborar propuestas para mejorar el entorno.
+<br>
+
+## Saberes básicos
+<br>
+
+- Derechos y deberes de la infancia.
+- Participación democrática.
+- Igualdad y diversidad.
+- Resolución pacífica de conflictos.
+- Convivencia positiva.
+- Responsabilidad social.
+- Solidaridad y cooperación.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Participa activamente en debates y actividades cooperativas.
+- Argumenta opiniones de forma respetuosa.
+- Identifica problemas sociales y de convivencia.
+- Propone soluciones realistas y fundamentadas.
+- Coopera con el equipo.
+- Muestra actitudes de respeto e inclusión.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Estudio de casos.
+- Debates guiados.
+- Aprendizaje-servicio.
+- Evaluación formativa.
+<br>
+
+El alumnado asumirá el papel de un consejo ciudadano encargado de diseñar propuestas de mejora para la comunidad.
+<br>
+
+## Sesión 1. Formamos el consejo ciudadano
+
+### Actividad inicial
+<br>
+
+Visualización de imágenes y noticias relacionadas con diferentes problemas presentes en la sociedad.
+<br>
+
+### Debate guiado
+<br>
+
+Reflexión sobre:
+<br>
+
+- ¿Qué problemas encontramos en nuestro entorno?
+- ¿Quién puede solucionarlos?
+- ¿Qué podemos hacer nosotros?
+<br>
+
+### Actividad principal
+<br>
+
+Creación del consejo ciudadano del aula.
+<br>
+
+Los grupos asumirán responsabilidades relacionadas con:
+<br>
+
+- Medio ambiente.
+- Inclusión.
+- Bienestar escolar.
+- Convivencia.
+- Participación.
+<br>
+
+### Dinámica cooperativa
+<br>
+
+Elaboración de normas de funcionamiento del consejo.
+<br>
+
+### Producto parcial
+<br>
+
+Creación del cuaderno de trabajo del equipo.
+<br>
+
+## Sesión 2. Conocemos nuestros derechos
+
+### Activación inicial
+<br>
+
+Juego de preguntas sobre situaciones cotidianas relacionadas con derechos y libertades.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis adaptado de los Derechos de la Infancia.
+<br>
+
+Los grupos trabajarán aspectos relacionados con:
+<br>
+
+- Educación.
+- Salud.
+- Protección.
+- Igualdad.
+- Participación.
+<br>
+
+### Estaciones de aprendizaje
+<br>
+
+Estación 1:
+<br>
+
+Derecho a la educación.
+<br>
+
+Estación 2:
+<br>
+
+Derecho a la protección.
+<br>
+
+Estación 3:
+<br>
+
+Derecho a la igualdad.
+<br>
+
+Estación 4:
+<br>
+
+Derecho a la participación.
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué ocurre cuando estos derechos no se cumplen?
+<br>
+
+## Sesión 3. Identificamos problemas de nuestro entorno
+
+### Actividad inicial
+<br>
+
+Tormenta de ideas sobre aspectos mejorables en el colegio o en la comunidad.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de situaciones relacionadas con:
+<br>
+
+- Exclusión social.
+- Acoso escolar.
+- Contaminación.
+- Desperdicio de recursos.
+- Falta de participación.
+<br>
+
+### Estudio de casos
+<br>
+
+Cada grupo recibe diferentes situaciones y debe:
+<br>
+
+- Analizar el problema.
+- Detectar causas.
+- Identificar consecuencias.
+<br>
+
+### Debate
+<br>
+
+Puesta en común de las conclusiones obtenidas.
+<br>
+
+### Producto parcial
+<br>
+
+Selección del problema que abordará cada grupo.
+<br>
+
+## Sesión 4. Buscamos soluciones
+
+### Actividad inicial
+<br>
+
+Presentación de ejemplos reales de iniciativas ciudadanas.
+<br>
+
+### Actividad principal
+<br>
+
+Diseño de posibles soluciones para los problemas seleccionados.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Los grupos elaboran:
+<br>
+
+- Objetivos.
+- Acciones.
+- Recursos necesarios.
+- Beneficios esperados.
+<br>
+
+### Dinámica de mejora
+<br>
+
+Intercambio de propuestas entre equipos para recibir sugerencias.
+<br>
+
+### Producto parcial
+<br>
+
+Primer borrador del proyecto de mejora.
+<br>
+
+## Sesión 5. Preparamos nuestra propuesta
+
+### Calentamiento
+<br>
+
+Dinámica de argumentación rápida.
+<br>
+
+### Actividad principal
+<br>
+
+Desarrollo definitivo del proyecto.
+<br>
+
+Cada equipo prepara:
+<br>
+
+- Carteles.
+- Infografías.
+- Presentaciones.
+- Material visual.
+<br>
+
+### Ensayo
+<br>
+
+Preparación de la exposición oral.
+<br>
+
+### Autoevaluación
+<br>
+
+Revisión del trabajo realizado hasta el momento.
+<br>
+
+## Sesión 6. Presentamos nuestras iniciativas
+
+### Actividad inicial
+<br>
+
+Organización del espacio expositivo.
+<br>
+
+### Exposición final
+<br>
+
+Cada grupo presenta:
+<br>
+
+- El problema estudiado.
+- Las causas detectadas.
+- Las soluciones propuestas.
+- Los beneficios esperados.
+<br>
+
+### Producto final
+<br>
+
+Presentación de:
+<br>
+
+**"Nuestra propuesta para mejorar el mundo"**
+<br>
+
+### Debate final
+<br>
+
+Reflexión conjunta:
+<br>
+
+- ¿Qué podemos hacer para mejorar nuestra sociedad?
+- ¿Cómo podemos participar de forma activa?
+- ¿Por qué es importante colaborar con otras personas?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Ciudadano Comprometido**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Actividades multinivel.
+- Apoyos visuales.
+- Adaptación de materiales.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica del proyecto.
+- Lista de control.
+- Escala de observación.
+- Autoevaluación.
+- Coevaluación.
+- Diario de reflexión.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Participa activamente en las actividades propuestas.
+- Argumenta opiniones de forma respetuosa.
+- Identifica problemas sociales y de convivencia.
+- Propone soluciones viables.
+- Coopera con sus compañeros.
+- Demuestra actitudes de responsabilidad y compromiso.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Lengua Castellana: debates y exposiciones orales.
+- Ciencias Sociales: organización de la sociedad.
+- Educación Artística: diseño de materiales visuales.
+- Educación Física: trabajo cooperativo y convivencia.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los contenidos trabajados aparecen diariamente en el entorno escolar, familiar y social del alumnado.
+<br>
+
+La situación permite comprender que todas las personas pueden contribuir positivamente a mejorar la realidad que les rodea mediante la participación, el respeto y la cooperación.
+<br>
+
+## Conclusión
+<br>
+
+"Voces para cambiar el mundo" permite al alumnado de 5º de Primaria desarrollar competencias ciudadanas fundamentales mediante experiencias prácticas y significativas vinculadas a problemas reales.
+<br>
+
+A través de la reflexión crítica, el diálogo y el diseño de propuestas de mejora, los estudiantes comprenden que la participación activa es una herramienta esencial para construir una sociedad más justa, inclusiva y sostenible.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación basada en la ciudadanía democrática, la convivencia positiva y el compromiso social.
+`
+},
+{
+  slug: "situacion-aprendizaje-los-valores-que-transforman-el-mundo-5-primaria",
+  title: "Situación de aprendizaje: Los valores que transforman el mundo para 5º de Primaria",
+  metaDescription:
+    "Situación de aprendizaje completa de Religión para 5º de Primaria centrada en las enseñanzas de Jesús, la solidaridad, la justicia, el compromiso social y la aplicación de los valores cristianos en la vida cotidiana.",
+  category: "situaciones-aprendizaje",
+  subcategory: "quinto-de-primaria",
+  subject: "religion",
+  date: "2026-10-14",
+  author: "Marco Pérez",
+  readingTime: 24,
+  popular: true,
+  excerpt:
+    "Situación de aprendizaje para 5º de Primaria donde el alumnado descubre cómo las enseñanzas de Jesús pueden ayudar a mejorar la convivencia y transformar positivamente la sociedad.",
+  content: `
+# Situación de aprendizaje: Los valores que transforman el mundo para 5º de Primaria
+
+## Descripción
+<br>
+Esta situación de aprendizaje propone al alumnado descubrir cómo las enseñanzas de Jesús continúan siendo una referencia para afrontar los desafíos del mundo actual.
+<br>
+A través del análisis de relatos evangélicos, estudios de casos, debates, actividades cooperativas y proyectos solidarios, los estudiantes reflexionarán sobre valores como la justicia, la solidaridad, la empatía, el perdón, la igualdad y el compromiso con los demás.
+<br>
+El proyecto culminará con la creación de una campaña de sensibilización que promueva acciones positivas dentro de la comunidad educativa.
+<br>
+
+## Justificación
+<br>
+La enseñanza religiosa favorece el desarrollo integral del alumnado mediante la reflexión sobre valores fundamentales para la convivencia y el crecimiento personal.
+<br>
+En 5º de Primaria los estudiantes poseen una mayor capacidad para relacionar las enseñanzas cristianas con situaciones reales presentes en la sociedad y en su entorno cercano.
+<br>
+Esta situación permite comprender cómo los valores pueden convertirse en herramientas para mejorar la convivencia y favorecer una sociedad más justa y solidaria.
+<br>
+
+## Contextualización
+
+### Etapa
+<br>
+
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+
+5º de Primaria.
+<br>
+
+### Área
+<br>
+
+Religión.
+<br>
+
+### Temporalización
+<br>
+
+6 sesiones de 50 minutos.
+<br>
+
+## Producto final
+<br>
+
+Diseño de una campaña titulada:
+<br>
+
+**"Pequeñas acciones que cambian el mundo"**
+<br>
+
+Los grupos elaborarán propuestas y materiales destinados a promover valores positivos dentro del centro educativo.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender enseñanzas fundamentales de Jesús.
+- Relacionar los valores cristianos con situaciones reales.
+- Reflexionar sobre la importancia de la solidaridad y la justicia.
+- Desarrollar actitudes de ayuda y compromiso social.
+- Participar en proyectos cooperativos.
+- Fomentar la empatía y el respeto.
+- Aplicar valores cristianos en la vida diaria.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender.
+- Competencia ciudadana.
+- Competencia en comunicación lingüística.
+- Competencia en conciencia y expresión culturales.
+<br>
+
+## Competencias específicas
+<br>
+
+- Comprender relatos y enseñanzas presentes en los Evangelios.
+- Reflexionar sobre valores relacionados con la convivencia.
+- Aplicar principios cristianos en situaciones cotidianas.
+- Participar en actividades de diálogo y cooperación.
+<br>
+
+## Saberes básicos
+<br>
+
+- Jesús y su mensaje.
+- Los Evangelios.
+- Solidaridad.
+- Justicia.
+- Empatía.
+- Perdón.
+- Servicio a los demás.
+- Compromiso cristiano.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Comprende los mensajes presentes en los relatos trabajados.
+- Relaciona las enseñanzas con situaciones reales.
+- Participa activamente en las actividades propuestas.
+- Coopera con el grupo.
+- Desarrolla actitudes de respeto y solidaridad.
+- Elabora propuestas de mejora para el entorno.
+<br>
+
+## Metodología
+<br>
+
+La situación de aprendizaje se desarrollará mediante:
+<br>
+
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Lectura comprensiva.
+- Debates guiados.
+- Aprendizaje-servicio.
+- Evaluación formativa.
+<br>
+
+El alumnado actuará como un grupo de agentes del cambio inspirados en los valores de Jesús.
+<br>
+
+## Sesión 1. Descubrimos el mensaje de Jesús
+
+### Actividad inicial
+<br>
+
+Lluvia de ideas sobre valores importantes para convivir en sociedad.
+<br>
+
+### Actividad principal
+<br>
+
+Lectura de diferentes fragmentos evangélicos seleccionados.
+<br>
+
+Los estudiantes identificarán valores relacionados con:
+<br>
+
+- Amor al prójimo.
+- Solidaridad.
+- Perdón.
+- Justicia.
+- Ayuda a los demás.
+<br>
+
+### Trabajo cooperativo
+<br>
+
+Elaboración de un mural inicial con los valores encontrados.
+<br>
+
+### Reflexión final
+<br>
+
+¿Siguen siendo necesarios estos valores hoy?
+<br>
+
+## Sesión 2. El Buen Samaritano y los problemas actuales
+
+### Actividad inicial
+<br>
+
+Lectura dramatizada de la parábola del Buen Samaritano.
+<br>
+
+### Actividad principal
+<br>
+
+Análisis de situaciones actuales relacionadas con:
+<br>
+
+- Exclusión.
+- Soledad.
+- Acoso escolar.
+- Falta de ayuda.
+<br>
+
+### Estudio de casos
+<br>
+
+Cada grupo analiza una situación y propone formas de actuar inspiradas en la parábola.
+<br>
+
+### Debate
+<br>
+
+¿Cómo podemos ser buenos samaritanos en nuestro entorno?
+<br>
+
+### Producto parcial
+<br>
+
+Registro de acciones solidarias posibles.
+<br>
+
+## Sesión 3. Construimos una sociedad más justa
+
+### Actividad inicial
+<br>
+
+Visualización de noticias y situaciones relacionadas con la igualdad y la justicia.
+<br>
+
+### Actividad principal
+<br>
+
+Trabajo por equipos sobre:
+<br>
+
+- Igualdad de oportunidades.
+- Respeto a la diversidad.
+- Inclusión.
+- Derechos humanos.
+<br>
+
+### Dinámica cooperativa
+<br>
+
+Creación de mapas conceptuales relacionando valores cristianos y problemas sociales.
+<br>
+
+### Reflexión
+<br>
+
+¿Qué injusticias encontramos a nuestro alrededor?
+<br>
+
+## Sesión 4. Pasamos a la acción
+
+### Actividad inicial
+<br>
+
+Presentación de ejemplos reales de personas y organizaciones que ayudan a los demás.
+<br>
+
+### Actividad principal
+<br>
+
+Diseño de pequeñas acciones de mejora para:
+<br>
+
+- El aula.
+- El colegio.
+- La familia.
+- El barrio.
+<br>
+
+### Taller cooperativo
+<br>
+
+Selección de iniciativas viables y organización de tareas.
+<br>
+
+### Producto parcial
+<br>
+
+Primer borrador de la campaña de sensibilización.
+<br>
+
+## Sesión 5. Diseñamos nuestra campaña
+
+### Calentamiento
+<br>
+
+Dinámica de ideas rápidas sobre cómo transmitir mensajes positivos.
+<br>
+
+### Actividad principal
+<br>
+
+Los grupos elaboran:
+<br>
+
+- Carteles.
+- Murales.
+- Eslóganes.
+- Folletos.
+- Presentaciones.
+<br>
+
+### Actividad de comunicación
+<br>
+
+Preparación de la exposición final y ensayo de las intervenciones orales.
+<br>
+
+### Autoevaluación
+<br>
+
+Valoración del trabajo desarrollado.
+<br>
+
+## Sesión 6. Pequeñas acciones que cambian el mundo
+
+### Actividad inicial
+<br>
+
+Montaje de los materiales elaborados.
+<br>
+
+### Exposición final
+<br>
+
+Cada grupo presenta:
+<br>
+
+- El valor trabajado.
+- El problema analizado.
+- La propuesta diseñada.
+- Los beneficios esperados.
+<br>
+
+### Producto final
+<br>
+
+Presentación de la campaña:
+<br>
+
+**"Pequeñas acciones que cambian el mundo"**
+<br>
+
+### Reflexión final
+<br>
+
+¿Qué podemos hacer cada día para vivir los valores de Jesús?
+<br>
+
+### Celebración
+<br>
+
+Entrega simbólica del diploma:
+<br>
+
+**Embajador de los Valores**
+<br>
+
+## Atención a la diversidad
+<br>
+
+Se contemplarán:
+<br>
+
+- Lecturas adaptadas.
+- Apoyos visuales.
+- Actividades multinivel.
+- Agrupamientos flexibles.
+- Diferentes formas de participación.
+- Andamiaje para la expresión oral y escrita.
+<br>
+
+## Evaluación
+
+### Instrumentos
+<br>
+
+- Rúbrica del proyecto.
+- Lista de control.
+- Escala de observación.
+- Diario de reflexión.
+- Autoevaluación.
+- Coevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende las enseñanzas trabajadas.
+- Relaciona valores cristianos con situaciones reales.
+- Participa activamente en las actividades.
+- Coopera con sus compañeros.
+- Propone acciones de mejora para el entorno.
+- Demuestra actitudes de empatía y solidaridad.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+La propuesta puede relacionarse con:
+<br>
+
+- Valores Cívicos: convivencia y ciudadanía.
+- Lengua Castellana: comprensión lectora y argumentación.
+- Educación Artística: diseño de campañas visuales.
+- Ciencias Sociales: participación en la comunidad.
+<br>
+
+## Relación con la vida real
+<br>
+
+Los valores trabajados aparecen diariamente en los distintos contextos en los que se desarrolla la vida del alumnado.
+<br>
+
+Comprender la importancia de la solidaridad, la empatía y el compromiso ayuda a construir relaciones más positivas y a contribuir al bienestar común.
+<br>
+
+## Conclusión
+<br>
+
+"Los valores que transforman el mundo" permite al alumnado de 5º de Primaria comprender que las enseñanzas de Jesús no pertenecen únicamente al pasado, sino que continúan ofreciendo respuestas a muchos de los desafíos presentes en la sociedad actual.
+<br>
+
+A través de la reflexión, el análisis de situaciones reales y el diseño de acciones concretas de mejora, los estudiantes desarrollan competencias personales y sociales fundamentales para convivir de manera responsable y comprometida.
+<br>
+
+La propuesta se encuentra alineada con los principios de la LOMLOE y favorece una educación integral basada en el diálogo, la solidaridad, la participación y los valores cristianos.
+`
+},
+{
   slug: "situacion-aprendizaje-ciencias-naturales-5-primaria-medio-ambiente",
   title: "Situación de Aprendizaje de Ciencias Naturales para 5º de Primaria: Guardianes del Medio Ambiente",
   metaDescription:
