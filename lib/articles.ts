@@ -4232,6 +4232,3679 @@ Esta situación de aprendizaje convierte la Educación Física en una experienci
 `
 },
 {
+    slug: "situacion-aprendizaje-el-bosque-de-las-palabras-magicas-1-primaria",
+    title: "Situación de aprendizaje: El bosque de las palabras mágicas para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Lengua Castellana para 1º de Primaria sobre conciencia fonológica, lectoescritura lúdica, rimas y expresión oral según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "lengua",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria se adentra en un bosque mágico donde los habitantes han perdido sus palabras. Mediante retos fonológicos, rimas y juegos de lectoescritura crearán el Gran Libro del Bosque.",
+    content: `
+# Situación de aprendizaje: El bosque de las palabras mágicas para 1º de Primaria
+
+## Descripción
+<br>
+"El bosque de las palabras mágicas" es una situación de aprendizaje concebida para acompañar al alumnado de 1º de Primaria en el inicio del proceso de lectoescritura y el desarrollo de la conciencia fonológica de forma lúdica, vivencial y altamente motivadora.
+<br>
+Los estudiantes se convierten en "Exploradores de las Letras" que deben ayudar a los animales del bosque a recuperar sus voces y palabras perdidas. A través de canciones, discriminación auditiva, juegos de segmentación silábica, trazado manipulativo en arena y creación de pareados, el alumnado construirá de forma cooperativa el "Gran Libro Ilustrado del Bosque".
+<br>
+
+## Justificación
+<br>
+El acceso al código escrito en 1º de Primaria representa uno de los hitos más determinantes de toda la etapa escolar. Para que este aprendizaje sea significativo y no generador de ansiedad, debe sustentarse en el juego, la conciencia fonológica previa y el vínculo afectivo con los cuentos y la literatura infantil.
+<br>
+La temática del bosque fantástico conecta directamente con el pensamiento simbólico de los seis años, ofreciendo un contexto donde cada letra y sonido cobran sentido funcional dentro de una misión compartida de lectura y comunicación.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Elaboración del "Gran Libro de las Palabras Mágicas del Bosque", un cuento gigante cooperativo donde cada equipo aporta una página con textos sencillos, pictogramas, palabras rimadas e ilustraciones de los seres fantásticos rescatados.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Desarrollar la conciencia fonológica mediante la identificación, segmentación y manipulación de fonemas y sílabas.
+- Reconocer las grafías de vocales y consonantes trabajadas asociándolas a sus sonidos correspondientes.
+- Leer y escribir palabras y oraciones sencillas contextualizadas en situaciones lúdicas de aula.
+- Comprender mensajes orales y cuentos breves respondiendo a preguntas sobre sus elementos principales.
+- Expresar emociones, vivencias e ideas de forma oral con claridad, entonación adecuada y respeto al turno de palabra.
+- Disfrutar de la lectura como fuente de placer, fantasía e información.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística (CCL).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia digital (CD).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Comprender e interpretar textos orales y multimodales de la vida cotidiana y del ámbito escolar.
+- **CE2:** Producir textos orales sencillos con coheridad, fluidez y corrección adaptados a contextos lúdicos.
+- **CE3:** Acceder a la lectura de textos breves de forma progresivamente autónoma identificando su sentido global.
+- **CE5:** Producir textos escritos sencillos mediante la escritura guiada e ilustrada mostrando interés por la presentación clara.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Conciencia fonológica y lectoescritura:**
+  - Discriminación auditiva de vocales y consonantes iniciales.
+  - Segmentación de palabras en sílabas (palmas, saltos, golpes de voz).
+  - Asociación fonema-grafía y trazado caligráfico manipulativo.
+- **Comprensión y expresión oral:**
+  - Escucha activa de cuentos tradicionales y narraciones fantásticas.
+  - Articulación clara, volumen adecuado y respeto del turno de palabra.
+- **Educación literaria:**
+  - El cuento ilustrado, la adivinanza y la rima infantil.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica los sonidos de fonemas y sílabas en palabras del vocabulario cotidiano.
+- Escribe palabras sencillas respetando la correspondencia entre sonido y grafía.
+- Comprende la idea principal de un cuento leído en voz alta manifestando sus impresiones.
+- Expresa oralmente necesidades, ideas y respuestas breves en el aula.
+- Muestra una actitud positiva y cuidadosa hacia los libros y materiales de lectura.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la gamificación y el enfoque multisensorial (método sintético-analítico apoyado en gestos, sonidos y manipulación). Se organizan "Patrullas del Bosque" de 4 alumnos.
+<br>
+
+## Sesión 1. La llamada de los duendes del bosque
+<br>
+
+### Activación inicial
+<br>
+Llegada al aula de una carta arrugada dentro de una botella con polvo de estrellas. La carta proviene del duende "Lelo", quien pide ayuda porque un hechizo ha borrado los nombres de las flores y animales del bosque.
+<br>
+
+### Calentamiento
+<br>
+Juego "El eco del duende": el docente dice un sonido vocal o consonántico ($A, E, M, P, L$) y el alumnado lo repite en voz alta haciendo el gesto corporal asociado.
+<br>
+
+### Actividad principal
+<br>
+Lectura dialogada del cuento introductorio. Los estudiantes deben identificar qué sonidos escuchan al principio de los nombres de los personajes principales (ej. *L-o-b-o*, *B-ú-h-o*).
+<br>
+
+### Trabajo cooperativo
+<br>
+Por parejas, buscar en la "Caja Mágica del Bosque" objetos o imágenes cuyo nombre empiece por la vocal asignada ($A, E, I, O, U$).
+<br>
+
+### Desafío
+<br>
+Clasificar 10 imágenes en 5 cestas asociadas a cada una de las vocales.
+<br>
+
+### Producto parcial
+<br>
+Superación de la Prueba 1: "El Mapa de las Voces Perdidas".
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos sentiríamos si no pudiéramos decir nuestros nombres o el de nuestros amigos?
+<br>
+
+## Sesión 2. El río de las sílabas
+<br>
+
+### Activación inicial
+<br>
+Proyección de la imagen del "Río Cantor". Para cruzarlo, los alumnos deben pisar las piedras saltando al ritmo de las sílabas de cada palabra.
+<br>
+
+### Calentamiento
+<br>
+Dinámica de aplausos silábicos: "Si digo *Mar-ti-ne-ta*, damos cuatro palmadas".
+<br>
+
+### Actividad principal
+<br>
+Juego de segmentación silábica. Los estudiantes reciben tarjetas con pictogramas (sol, rana, mariposa, árbol) y deben colocar tantas fichas de colores sobre la mesa como sílabas tenga la palabra.
+<br>
+
+### Trabajo cooperativo
+<br>
+En equipos, ordenar piedras con letras escritas para formar palabras de dos sílabas sencillas ($MA-MA$, $PA-PA$, $LU-NA$, $SO-L$).
+<br>
+
+### Desafío
+<br>
+Encontrar la palabra intrusa que tiene tres sílabas en un grupo de palabras de dos sílabas.
+<br>
+
+### Producto parcial
+<br>
+Hoja de registro: "Las piedras del río silábico".
+<br>
+
+### Reflexión
+<br>
+¿Por qué las palabras largas necesitan más palmadas que las cortas?
+<br>
+
+## Sesión 3. La cueva de las letras de arena
+<br>
+
+### Activación inicial
+<br>
+Visita a la "Cueva del Búho Sabio" (zona del aula con luz tenue y linternas). El búho nos enseña cómo escribir las consonantes en el aire y en la espalda de un compañero.
+<br>
+
+### Calentamiento
+<br>
+Trazado gigante en el aire con la varita mágica del sonido de las letras $M, P, S, L, T$.
+<br>
+
+### Actividad principal
+<br>
+Rincón multisensorial de lectoescritura:
+- Trazado de letras en bandejas de arena de colores.
+- Moldeado de grafías con plastilina.
+- Asociación de letras de madera con sus sílabas correspondientes ($MA, ME, MI, MO, MU$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Componer entre todos los nombres de los duendes del bosque uniendo letras móviles magnéticas en la pizarra.
+<br>
+
+### Desafío
+<br>
+Leer en voz alta tres sílabas desconocidas formadas por el docente.
+<br>
+
+### Producto parcial
+<br>
+Ficha táctil decorada con las primeras sílabas aprendidas.
+<br>
+
+### Reflexión
+<br>
+¿Qué sintieron vuestros dedos al trazar las letras en la arena fina?
+<br>
+
+## Sesión 4. El árbol de las rimas y las adivinanzas
+<br>
+
+### Activación inicial
+<br>
+El "Árbol Sabio" del aula ha florecido con hojas que contienen adivinanzas rimadas sobre los animales del bosque.
+<br>
+
+### Calentamiento
+<br>
+Juego del par de rimas: "Buscamos qué palabra suena igual que *ardilla*... ¡*Silla*!".
+<br>
+
+### Actividad principal
+<br>
+Resolver adivinanzas sencillas en grupo-clase relacionando el texto leído por el maestro con la imagen y la palabra correspondiente escrita en la pizarra.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo inventa un pareado o rima disparatada utilizando palabras sencillas (ej. "El gato con sombrero salta en el charquero").
+<br>
+
+### Desafío
+<br>
+Completar la palabra faltante en un pareado escrito con huecos visuales.
+<br>
+
+### Producto parcial
+<br>
+Mural de las rimas del bosque mágicos.
+<br>
+
+### Reflexión
+<br>
+¿Por qué nos resulta más fácil y divertido recordar las frases cuando riman?
+<br>
+
+## Sesión 5. La imprenta de los exploradores
+<br>
+
+### Activación inicial
+<br>
+El duende Lelo nos anuncia que el hechizo casi ha desaparecido, pero necesitamos escribir las páginas de nuestro gran libro.
+<br>
+
+### Calentamiento
+<br>
+Revisión colectiva de la postura corporal, el agarre del lápiz (pinza) y la orientación de izquierda a derecha en la pauta.
+<br>
+
+### Actividad principal
+<br>
+Redacción guiada e ilustrada de la página asignada a cada equipo. Los alumnos completan oraciones cortas estructuradas: "El [animal] vive en el [lugar] y le gusta la [comida]".
+<br>
+
+### Trabajo cooperativo
+<br>
+Reparto de tareas en la patrulla: dos alumnos escriben las palabras clave con pauta montessori y dos alumnos ilustran la escena con ceras y troquelados.
+<br>
+
+### Desafío
+<br>
+Revisar que no falte ninguna letra en los nombres de los animales de la página.
+<br>
+
+### Producto parcial
+<br>
+Páginas individuales y de equipo listas para la encuadernación.
+<br>
+
+### Reflexión
+<br>
+¿Qué parte del trabajo nos ha costado más: escribir la palabra o hacer el dibujo?
+<br>
+
+## Sesión 6. Gran fiesta de la lectura y cuentacuentos
+<br>
+
+### Activación inicial
+<br>
+Encuadernación final del "Gran Libro de las Palabras Mágicas del Bosque" con cintas de colores.
+<br>
+
+### Calentamiento
+<br>
+Ensayo de lectura en voz alta de las palabras e imágenes creadas por cada grupo.
+<br>
+
+### Actividad principal
+<br>
+Celebración de la Fiesta de la Lectura. Presentación del Gran Libro a los compañeros de Educación Infantil (3, 4 y 5 años) en el rincón de biblioteca.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo lee y muestra su página compartiendo el orgullo de haberse convertido en lectoescritores oficiales.
+<br>
+
+### Desafío
+<br>
+Entregar un marcapáginas mágico hecho a mano a cada niño visitante.
+<br>
+
+### Producto parcial
+<br>
+Publicación del libro en la biblioteca del centro escolar.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos sentimos ahora que sabemos leer y escribir tantas palabras nuevas?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de la lengua de signos o pictogramas SPC para apoyar la discriminación fonológica.
+- Guías de escritura con pauta resaltada en relieve y adaptadores de lápiz para mejorar la pinza.
+- Tarjetas fonéticas con imágenes reales y letras en alto relieve (estilo Montessori).
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Invención de historias secundarias escritas de forma autónoma por alumnos con lectoescritura consolidada.
+- Creación de sopa de letras sencillas para el rincón de autonomía.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Escala de observación de la conciencia fonológica:** Registro de segmentación y correspondencia fonema-grafía.
+- **Rúbrica de la página del Gran Libro:** Evaluación del trazado, legibilidad, creatividad y cooperación.
+- **Lista de control de expresión oral:** Frecuencia de participación, claridad y respeto del turno.
+- **Diario de aula:** Anotaciones cualitativas sobre la motivación hacia la lectura.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Discrimina auditivamente vocales y consonantes trabajadas en palabras cotidianas.
+- Realiza el trazado de las grafías respetando la dirección y pauta espacial.
+- Muestra interés y disfrute por la lectura participando en el cuento colectivo.
+- Trabaja de manera respetuosa en tareas cooperativas de aula.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Educación Artística:** Ilustración de páginas, moldeado de plastilina y diseño de marcapáginas.
+- **Ciencias de la Naturaleza:** Conocimiento de la fauna y flora del bosque.
+- **Matemáticas:** Conteo de sílabas y ordenación temporal de viñetas del cuento.
+<br>
+
+## Relación con la vida real
+<br>
+
+Aprender a leer y escribir abre las puertas a la autonomía en el entorno diario: reconocer carteles en la calle, identificar los nombres de los productos en el supermercado, leer notas familiares y disfrutar de cuentos en casa.
+<br>
+
+## Conclusión
+<br>
+
+"El bosque de las palabras mágicas" transforma el reto de la lectoescritura en una aventura cargada de fantasía y significado. Al conectar la fonética con la manipulación y la creación cooperativa, el alumnado de 1º de Primaria no solo aprende a descifrar el código escrito, sino que descubre el valor inestimable de la lectura como vehículo para soñar y comunicarse con el mundo.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-gran-supermercado-del-aula-1-primaria",
+    title: "Situación de aprendizaje: El gran supermercado del aula para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Matemáticas para 1º de Primaria centrada en el conteo, sumas sencillas, uso del dinero (monedas de euro) y formas geométricas según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "matematicas",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria monta un supermercado real en el aula para vivenciar el conteo hasta el 50, la suma y resta de monedas de euro, el peso intuitivo y las formas de los envases.",
+    content: `
+# Situación de aprendizaje: El gran supermercado del aula para 1º de Primaria
+
+## Descripción
+<br>
+"El gran supermercado del aula" transforma el espacio de aprendizaje de 1º de Primaria en una experiencia matemática manipulativa y de simulación social. A lo largo de la propuesta, los estudiantes clasificarán productos reales traídos de casa (envases limpios), etiquetarán precios sencillos (entre $1\ €$ y $10\ €$), gestionarán la caja registradora con monedas didácticas de euro y resolverán problemas cotidianos de compra y venta.
+<br>
+A través de este juego de rol continuo, los niños y niñas consolidarán el sentido numérico, el cálculo mental de sumas y restas sencillas sin llevar, la clasificación geométrica de envases (esferas, cilindros, prismas) y la iniciación al uso del dinero.
+<br>
+
+## Justificación
+<br>
+Las matemáticas en los primeros años de escolarización deben alejarse del papel abstracto para arraigarse en situaciones manipulativas de la vida diaria. Ir a la compra es una actividad familiar cotidiana repleta de estímulos matemáticos: contar elementos, comparar precios, pagar con monedas y reconocer formas en los paquetes.
+<br>
+La simulación de un supermercado escolar fomenta el aprendizaje significativo, la colaboración entre iguales y la comprensión del valor del dinero y del consumo responsable desde la infancia.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Inauguración y funcionamiento de "El Supermercado del Cole", donde cada alumno/a asumirá roles alternativos (comprador/a, cajero/a, reponedor/a) para realizar transacciones reales simuladas con un libro de tickets y monedero escolar.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Contar, leer y escribir números naturales adaptados al nivel (hasta el 50).
+- Realizar sumas y restas sencillas en contextos manipulativos de compra y venta.
+- Reconocer el valor de las monedas de $1\ €$, $2\ €$ y billetes de $5\ €$ y $10\ €$.
+- Clasificar cuerpos geométricos sencillos (esfera, cilindro, cubo) identificándolos en envases cotidianos.
+- Comparar magnitudes de peso (más pesado / más ligero) y capacidad de forma intuitiva.
+- Resolver problemas sencillos de la vida diaria mediante el uso de material concreto.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia emprendedora (CE).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Reconocer y utilizar el sentido numérico para cuantificar e interpretar situaciones cotidianas.
+- **CE2:** Resolver problemas sencillos aplicando diferentes estrategias y manipulando materiales concretos.
+- **CE3:** Formular y comprobar conjeturas sencillas sobre propiedades geométricas y numéricas.
+- **CE5:** Reconocer formas geométricas en el entorno cercano utilizándolas para describir la realidad.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Sentido numérico y cálculo:**
+  - Conteo directo e inverso, estimación y ordenación de números hasta el 50.
+  - La adición y la sustracción como juntar, añadir, separar y quitar.
+  - Monedas y billetes del sistema monetario euro ($1\ €$, $2\ €$, $5\ €$, $10\ €$).
+- **Sentido espacial y geométrico:**
+  - Formas tridimensionales en objetos cotidianos (cajas, latas, pelotas).
+- **Sentido de la medida:**
+  - Comparación directa de masa y volumen (pesa más que / pesa menos que).
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Cuenta elementos con precisión hasta el número trabajado.
+- Realiza cálculos sencillos de adición y sustracción en situaciones prácticas de compra.
+- Identifica las monedas de euro asociando su valor numérico.
+- Reconoce formas geométricas tridimensionales en envases reales.
+- Muestra iniciativa y respeto al asumir los diferentes roles en el juego del supermercado.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en el juego de rol (Gamificación) y uso intensivo de materiales manipulativos (regletas, monedas didácticas, balanzas de platillos). Se organizan "Equipos de Mercado" de 4 alumnos.
+<br>
+
+## Sesión 1. La recepción de mercancías y la clasificación
+<br>
+
+### Activación inicial
+<br>
+Llegada al aula de cajas llenas de envases vacíos (briks de leche, cajas de galletas, botes de pasta, latas limpias) traídos por las familias.
+<br>
+
+### Calentamiento
+<br>
+Agrupar objetos por familias: "Colocamos juntos todos los productos que se comen al desayuno".
+<br>
+
+### Actividad principal
+<br>
+Clasificación matemática de envases: contar cuántos botes hay en total, hacer montones de 10 en 10 (introducción a la decena) e identificar las formas de las cajas (cubos, prismas) y latas (cilindros).
+<br>
+
+### Trabajo cooperativo
+<br>
+En equipos, organizar las estanterías de la tienda pegando gomets de colores según el tipo de cuerpo geométrico del envase.
+<br>
+
+### Desafío
+<br>
+Contar cuántas decenas completas de productos hemos reunido entre toda la clase.
+<br>
+
+### Producto parcial
+<br>
+Estanterías organizadas y clasificadas geométricamente.
+<br>
+
+### Reflexión
+<br>
+¿Por qué casi todos los botes de jugo tienen forma de prisma o cilindro y no de esfera?
+<br>
+
+## Sesión 2. ¡Ponemos precio a los productos!
+<br>
+
+### Activación inicial
+<br>
+Observación de etiquetas reales de supermercado en la pizarra digital. ¿Qué significa el símbolo del euro ($€$)?
+<br>
+
+### Calentamiento
+<br>
+Juego de cálculo mental rápido: "Tengo $3\ €$ y me encuentro $2\ €$ más, ¿cuántos euros tengo?".
+<br>
+
+### Actividad principal
+<br>
+Asignación de precios a la mercancía. Los alumnos escriben etiquetas de precios sin céntimos ($1\ €$, $2\ €$, $3\ €$, $5\ €$, $10\ €$) utilizando la línea numérica de apoyo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo etiqueta 8 productos comprobando que el precio asignado sea adecuado (el producto más grande vale más euros que el pequeño).
+<br>
+
+### Desafío
+<br>
+Ordenar cinco productos de la tienda desde el más barato al más caro.
+<br>
+
+### Producto parcial
+<br>
+Catálogo con etiquetas de precios pegadas en los productos del supermercado.
+<br>
+
+### Reflexión
+<br>
+¿Cómo sabemos si tenemos suficiente dinero para comprar un producto mirando su etiqueta?
+<br>
+
+## Sesión 3. Monedas mágicas en la cartera
+<br>
+
+### Activación inicial
+<br>
+Reparto de las carteras escolares con monedas didácticas de $1\ €$, $2\ €$ y billetes de $5\ €$ y $10\ €$.
+<br>
+
+### Calentamiento
+<br>
+Reconocimiento táctil y visual de las monedas: frotar las monedas con cera sobre papel para descubrir sus números grabados.
+<br>
+
+### Actividad principal
+<br>
+Composición de cantidades equivalentes: formar $4\ €$ utilizando cuatro monedas de $1\ €$ o dos monedas de $2\ €$.
+<br>
+
+### Trabajo cooperativo
+<br>
+Juego "Paga el precio exacto": un alumno muestra un producto de $3\ €$ y su compañero debe entregar las monedas exactas en la mesa.
+<br>
+
+### Desafío
+<br>
+Pagar un producto de $5\ €$ combinando una moneda de $2\ €$, una de $1\ €$ y otra de $2\ €$.
+<br>
+
+### Producto parcial
+<br>
+Ficha manipulativa: "Mi monedero del supermercado".
+<br>
+
+### Reflexión
+<br>
+¿Es lo mismo pagar con cinco monedas de $1\ €$ que con un billete de $5\ €$?
+<br>
+
+## Sesión 4. La balanza de la fruta y la medida
+<br>
+
+### Activación inicial
+<br>
+Presentación de una balanza de platillos en el aula con frutas de plástico.
+<br>
+
+### Calentamiento
+<br>
+Sopesar con las dos manos dos frutas distintas para predecir cuál pesa más antes de ponerlas en la balanza.
+<br>
+
+### Actividad principal
+<br>
+Pesado manipulativo: equilibrar la balanza colocando manzanas de plástico en un lado y pesas de madera o piezas de plástico en el otro.
+<br>
+
+### Trabajo cooperativo
+<br>
+Anotar en una tabla de doble entrada qué fruta "pesa igual que X piezas de madera" y ordenarlas por su masa.
+<br>
+
+### Desafío
+<br>
+Descubrir qué fruta pesa más sin usar la balanza, solo mediante la comparación en una tabla previa.
+<br>
+
+### Producto parcial
+<br>
+Sección de frutería pesada y lista con sus registros de masa.
+<br>
+
+### Reflexión
+<br>
+¿Un paquete muy grande siempre pesa más que un paquete muy pequeño?
+<br>
+
+## Sesión 5. La prueba de la compra: sumar y calcular la vuelta
+<br>
+
+### Activación inicial
+<br>
+Simulación en la pizarra de una compra doble: "Compro una leche de $2\ €$ y unas galletas de $3\ €$. ¿Cuánto me cuesta todo en total?".
+<br>
+
+### Calentamiento
+<br>
+Uso de la recta numérica gigante pegada en el suelo para dar saltos hacia adelante (sumar) y hacia atrás (restar o calcular la vuelta).
+<br>
+
+### Actividad principal
+<br>
+Resolución de problemas prácticos de compra con plantilla visual:
+1. Dibujo los productos.
+2. Escribo la suma ($2 + 3 = 5$).
+3. Cuento las monedas que entrego.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, uno hace de comprador seleccionando dos productos y el otro actúa de cajero calculando la suma total con regletas o ábaco.
+<br>
+
+### Desafío
+<br>
+Calcular cuánto dinero me devuelve el cajero si pago un producto de $3\ €$ con un billete de $5\ €$.
+<br>
+
+### Producto parcial
+<br>
+Libro de tickets de compra resueltos correctamente.
+<br>
+
+### Reflexión
+<br>
+¿Qué hacemos mentalmente cuando el cajero nos dice cuánto debemos pagar en total?
+<br>
+
+## Sesión 6. Gran inauguración del Supermercado del Cole
+<br>
+
+### Activación inicial
+<br>
+Corte de cinta inaugural y reparto de delantales de cajero/a y bolsas reutilizables de compra.
+<br>
+
+### Calentamiento
+<br>
+Repaso colectivo de las pautas de cortesía ("Buenos días", "Por favor", "Gracias", "Aquí tiene su cambio").
+<br>
+
+### Actividad principal
+<br>
+Desarrollo del juego de simulación social. Los alumnos rotan por los roles: 15 minutos como compradores con su presupuesto de $10\ €$, 15 minutos como cajeros anotando en las calculadoras gigantes didácticas y 15 minutos como reponedores.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cierre de caja al final de la jornada: contar cuántas monedas de $1\ €$ se han recaudado en cada caja registradora.
+<br>
+
+### Desafío
+<br>
+Verificar que la suma final de monedas de la caja coincide con los tickets emitidos.
+<br>
+
+### Producto parcial
+<br>
+Jornada de mercado completada con éxito y registro final de caja.
+<br>
+
+### Reflexión
+<br>
+¿Qué es lo más divertido y lo más difícil de ser cajero en un supermercado de verdad?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de monedas gigantes con relieve y números marcados en alto contraste.
+- Plantillas de suma con apoyo de recta numérica visual y pictogramas.
+- Asignación de presupuestos guiados de $3\ €$ o $5\ €$ para simplificar las operaciones aritméticas en alumnado con dificultades de cálculo.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Introducción de monedas de 50 céntimos en las compras simuladas.
+- Elaboración de presupuestos con tres productos o cálculo de descuentos sencillos ("Oferta: $1\ €$ menos").
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del taller de compra:** Evaluación de la suma, identificación de monedas y cálculo de vueltas.
+- **Lista de control de geometría y medida:** Registro de clasificación de envases y comparación de pesos.
+- **Escala de observación del juego de rol:** Cumplimiento de normas, cortesía y trabajo cooperativo en la tienda.
+- **Cuaderno de tickets de compra:** Verificación de operaciones matemáticas escritas.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Cuenta y representa cantidades numéricas hasta el número trabajado con fluidez.
+- Realiza sumas de dos números de una cifra en contextos manipulativos reales.
+- Reconoce el valor de las monedas de euro asociándolas a su precio.
+- Identifica cilindros, prismas y esferas en objetos cotidianos.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Lectura de etiquetas, escritura de tickets y normas de comunicación oral.
+- **Valores Cívicos:** Consumo responsable, reciclaje de envases y respeto al turno en las colas.
+- **Educación Artística:** Diseño de carteles publicitarios y etiquetas de oferta.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las matemáticas cobran utilidad inmediata cuando el alumnado comprende cómo se compran los alimentos cotidianos, la necesidad de administrar el presupuesto familiar y la importancia de verificar los cambios y tickets en los establecimientos reales.
+<br>
+
+## Conclusión
+<br>
+
+"El gran supermercado del aula" demuestra cómo las matemáticas se aprenden con placer cuando se viven a través del juego y la experiencia sensorial. Al manipular productos, monedas y formas geométricas reales, el alumnado de 1º de Primaria construye un sentido numérico sólido y funcional que le servirá para toda su vida académica y personal.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-pequenos-cientificos-del-cuerpo-humano-1-primaria",
+    title: "Situación de aprendizaje: Pequeños científicos del cuerpo humano para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Naturales para 1º de Primaria sobre el cuerpo humano, los cinco sentidos, la higiene y la alimentación saludable según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "ciencias-naturales",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria investiga el cuerpo humano, experimenta con los cinco sentidos en un laboratorio de sensaciones y aprende hábitos saludables para construir su silueta a tamaño real.",
+    content: `
+# Situación de aprendizaje: Pequeños científicos del cuerpo humano para 1º de Primaria
+
+## Descripción
+<br>
+"Pequeños científicos del cuerpo humano" involucra al alumnado de 1º de Primaria en una investigación médica y biológica sobre su propio organismo. Organizados como "Laboratorios de Anatomía Infantil", los estudiantes explorarán las principales partes externas e internas del cuerpo, realizarán experimentos sensoriales para descubrir cómo funcionan la vista, el oído, el olfato, el gusto y el tacto, y aprenderán la importancia de la higiene, el descanso y la alimentación equilibrada.
+<br>
+El proyecto culminará con la elaboración de una silueta corporal a tamaño real por equipos, donde integrarán los órganos principales, los sentidos y hábitos de vida saludables aprendidos.
+<br>
+
+## Justificación
+<br>
+El descubrimiento de la propia identidad corporal es el eje central del currículo de Ciencias Naturales en el primer curso de Primaria. Adquirir conciencia sobre la estructura del cuerpo, los sentidos y la necesidad de cuidarse constituye la base para el desarrollo de la autonomía personal, la autoestima y la prevención de enfermedades.
+<br>
+A través de la indagación experimental y el trabajo manipulativo, los niños y niñas aprenden a observar, formular preguntas científicas y tomar decisiones informadas sobre su salud y bienestar.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Ciencias de la Naturaleza.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Creación de la "Mural-Silueta Científica del Cuerpo Humano", un mapa corporal tridimensional a tamaño real donde cada equipo dibuja, moldea y pega los órganos principales, las zonas de los sentidos y un decálogo visual de hábitos saludables.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar y nombrar las principales partes externas del cuerpo humano y las articulaciones principales.
+- Descubrir la función de los cinco sentidos mediante experiencias de laboratorio sensorial.
+- Reconocer de forma elemental los órganos internos principales (corazón, pulmones, estómago) y su localización.
+- Comprender la relación entre la higiene personal, la actividad física, el descanso y la salud.
+- Clasificar alimentos cotidianos identificando las opciones más saludables para el desayuno y la merienda.
+- Utilizar el método científico básico: observación, experimentación, registro de datos y conclusión.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Utilizar dispositivos y recursos científicos sencillos para investigar sobre el propio cuerpo y la salud.
+- **CE2:** Aplicar pautas del método científico mediante la experimentación sensorial guiada.
+- **CE3:** Reconocer y adoptar hábitos de vida saludables valorando la importancia del cuidado corporal.
+<br>
+
+## Saberes básicos
+<br>
+
+- **El cuerpo humano y la salud:**
+  - Partes externas del cuerpo: cabeza, tronco y extremidades. Articulaciones (cuello, hombros, codos, muñecas, caderas, rodillas, tobillos).
+  - Los cinco sentidos y sus órganos receptores (ojos, oídos, nariz, lengua, piel).
+  - Nociones básicas de órganos internos: corazón (pum-pum), pulmones (aire) y estómago (comida).
+  - Hábitos saludables: lavado de manos, cepillado de dientes, postura corporal, postura al dormir y plato saludable.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Localiza y nombra correctamente las partes externas y articulaciones del cuerpo humano.
+- Relaciona cada sentido con su órgano correspondiente y con la información que nos aporta del entorno.
+- Identifica la posición aproximada del corazón, pulmones y estómago.
+- Muestra conocimientos sobre hábitos de higiene y alimentación saludable en actividades prácticas.
+- Registra datos sencillos en fichas de observación científica de forma cuidada.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la indagación (IBL) y el descubrimiento guiado multisensorial. Se estructuran "Equipos de Médicos Junior" de 4 alumnos.
+<br>
+
+## Sesión 1. El mapa de nuestro cuerpo y las articulaciones muelle
+<br>
+
+### Activación inicial
+<br>
+Canción motriz "Cabeza, hombros, rodillas, pies". El alumnado toca las partes de su cuerpo a diferentes ritmos musicales.
+<br>
+
+### Calentamiento
+<br>
+Juego "Estatua articulada": el maestro dice "¡Inmovilizamos los codos!" y los niños deben moverse por el aula sin doblar los codos, descubriendo para qué sirven las articulaciones.
+<br>
+
+### Actividad principal
+<br>
+Trazado del contorno corporal real: un alumno de cada equipo se tumba sobre un papel continuo gigante y sus compañeros dibujan su silueta con un rotulador.
+<br>
+
+### Trabajo cooperativo
+<br>
+Identificar y pegar gomets rojos en el lugar exacto de las articulaciones principales (cuello, codos, muñecas, rodillas, tobillos).
+<br>
+
+### Desafío
+<br>
+Comprobar cuántas articulaciones necesitamos mover para dar un salto y coger una pelota.
+<br>
+
+### Producto parcial
+<br>
+Silueta gigante con las articulaciones marcadas y nombradas con etiquetas de texto.
+<br>
+
+### Reflexión
+<br>
+¿Qué pasaría si nuestras piernas no tuvieran rodillas y fueran como palos rígidos?
+<br>
+
+## Sesión 2. El laboratorio de los cinco sentidos
+<br>
+
+### Activación inicial
+<br>
+Presentación de las "Cajas Misteriosas del Laboratorio": cinco estaciones de experimentación sensorial en el aula.
+<br>
+
+### Calentamiento
+<br>
+Asociación visual: relacionar pictogramas de un ojo, una oreja, una nariz, una lengua y una mano con los cinco sentidos.
+<br>
+
+### Actividad principal
+<br>
+Rotación por las estaciones científicas:
+1. *Vista:* ilusiones ópticas sencillas y lupas.
+2. *Oído:* adivinar instrumentos musicales sonando a espaldas.
+3. *Olfato:* oler botes cerrados con canela, limón y menta.
+4. *Gusto:* probar sabores dulce, salado y ácido con los ojos vendados.
+5. *Tacto:* adivinar objetos suaves, rugosos, duros y blandos dentro de bolsas opacas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Anotar en la Ficha del Investigador los descubrimientos de cada sentido marcando caritas sonrientes.
+<br>
+
+### Desafío
+<br>
+Descubrir qué objeto hay dentro de la caja misteriosa usando solo el sentido del oído y el tacto.
+<br>
+
+### Producto parcial
+<br>
+Cuaderno de Experimentos Sensoriales completado.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos ayudan los sentidos a protegernos de peligros (como el olor a humo o el sonido de un claxon)?
+<br>
+
+## Sesión 3. Los motores secretos de nuestro interior
+<br>
+
+### Activación inicial
+<br>
+Escucha con un estetoscopio escolar del latido del corazón de un compañero en reposo.
+<br>
+
+### Calentamiento
+<br>
+Hacer 10 saltos seguidos y volver a escuchar el corazón: ¿qué ha cambiado en el ritmico "pum-pum"?
+<br>
+
+### Actividad principal
+<br>
+Descubrimiento de los tres órganos internos clave:
+- *El corazón:* la bomba que mueve la sangre (medida de un puño).
+- *Los pulmones:* las bolsas de aire al inspirar y espirar (con globos explicativos).
+- *El estómago:* la mezcladora de los alimentos.
+<br>
+
+### Trabajo cooperativo
+<br>
+Modelar con plastilina de colores el corazón (rojo), los pulmones (rosa) y el estómago (amarillo) y pegarlos en el lugar correcto dentro de la silueta gigante.
+<br>
+
+### Desafío
+<br>
+Explicar con tus palabras qué camino sigue una manzana desde que entra por la boca.
+<br>
+
+### Producto parcial
+<br>
+Órganos internos ubicados y fijados en la silueta corporal.
+<br>
+
+### Reflexión
+<br>
+¿Por qué el corazón trabaja sin parar incluso cuando estamos profundamente dormidos?
+<br>
+
+## Sesión 4. La patrulla de la súper higiene
+<br>
+
+### Activación inicial
+<br>
+Experimento de los "Gérmenes de purpurina": ponerse purpurina en las manos y dar la mano a tres compañeros para ver cómo se contagian los gérmenes invisibles.
+<br>
+
+### Calentamiento
+<br>
+Lavado de manos científico con agua y jabón durante 20 segundos cantando la canción de la higiene. Comprobar cómo ha desaparecido la purpurina.
+<br>
+
+### Actividad principal
+<br>
+Taller de cepillado de dientes y cuidado corporal. Uso de la gran dentadura didáctica del aula para practicar la técnica del cepillado correcto de arriba a abajo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Crear el "Escudo Anti-Gérmenes": redactar e ilustrar en equipo los 4 momentos clave del lavado de manos (antes de comer, tras ir al baño, al volver del patio y tras estornudar).
+<br>
+
+### Desafío
+<br>
+Demostrar la técnica correcta de cepillado de muelas en el modelo didáctico en menos de un minuto.
+<br>
+
+### Producto parcial
+<br>
+Cartel del Escudo Anti-Gérmenes pegado junto a la silueta.
+<br>
+
+### Reflexión
+<br>
+¿Por qué el agua sola no es suficiente para eliminar los gérmenes y necesitamos jabón?
+<br>
+
+## Sesión 5. El plato saludable de los campeones
+<br>
+
+### Activación inicial
+<br>
+Clasificación de fotos de alimentos reales sobre la alfombra del aula.
+<br>
+
+### Calentamiento
+<br>
+Semáforo nutricional: Verde (frutas, verduras, agua), Amarillo (pan, pasta, pescado, leche), Rojo (bollería industrial, golosinas, refrescos).
+<br>
+
+### Actividad principal
+<br>
+Construcción del "Plato Saludable de Harvard para Niños": colorear y recortar alimentos de folletos publicitarios clasificándolos en hidratos, proteínas, frutas y verduras.
+<br>
+
+### Trabajo cooperativo
+<br>
+Diseñar en equipo la merienda más saludable y deliciosa del colegio utilizando recortes reales.
+<br>
+
+### Desafío
+<br>
+Sustituir una merienda ultraprocesada por dos alternativas saludables con fruta de temporada.
+<br>
+
+### Producto parcial
+<br>
+Plato saludable dibujado y pegado en la sección de nutrición del mural.
+<br>
+
+### Reflexión
+<br>
+¿Qué le ocurre a nuestro cuerpo si solo comemos golosinas y no comemos fruta ni verdura?
+<br>
+
+## Sesión 6. Gran Congreso de Médicos Junior y exposición
+<br>
+
+### Activación inicial
+<br>
+Acondicionamiento del aula como la "Feria de la Salud Infantil". Colocación de los murales-siluetas terminados.
+<br>
+
+### Calentamiento
+<br>
+Ponerse las batas blancas de científicos y las tarjetas de identificación de Médicos Junior.
+<br>
+
+### Actividad principal
+<br>
+Exposición oral guiada. Cada equipo presenta su silueta a los compañeros de clase y docentes visitantes, señalando los órganos, articulaciones, experimentos de los sentidos y consejos de salud.
+<br>
+
+### Trabajo cooperativo
+<br>
+Responder de forma coordinada a las preguntas de los visitantes sobre el funcionamiento del corazón o la higiene.
+<br>
+
+### Desafío
+<br>
+Guíar a un visitante en el experimento del estetoscopio o la prueba del tacto.
+<br>
+
+### Producto parcial
+<br>
+Entrega del diploma oficial de "Pequeño Científico del Cuerpo Humano".
+<br>
+
+### Reflexión
+<br>
+¿Qué hábito saludable te comprometes a cumplir cada día a partir de hoy?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de maquetas táctiles desarmables con piezas grandes y velcro.
+- Fichas con pictogramas simplificados para la clasificación de alimentos.
+- Experimentos sensoriales adaptados a estudiantes con hipersensibilidad táctil o auditiva.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Investigar sobre el esqueleto óseo escribiendo nombres de huesos principales (fémur, cráneo, costillas).
+- Diseñar un recetario ilustrado de desayunos saludables para distribuir a las familias.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de la Silueta Corporal:** Valoración de la localización de órganos, articulaciones y limpieza visual.
+- **Diario de laboratorio sensorial:** Registro de la participación y anotación en los experimentos de los sentidos.
+- **Lista de control de hábitos saludables:** Hábitos demostrados en el aula (lavado de manos, merienda saludable, postura).
+- **Escala de exposición oral:** Calidad de las explicaciones y uso del vocabulario científico sencillo.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifica las partes externas, articulaciones y órganos principales del cuerpo.
+- Asocia los cinco sentidos con sus órganos y funciones correspondientes.
+- Reconoce la diferencia entre alimentos de consumo diario y ocasional.
+- Practica hábitos de higiene personal de forma autónoma en el colegio.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Educación Física:** Toma de conciencia corporal, esquemas motores y control del pulso.
+- **Educación Artística:** Recortado, pegado, moldeado de plastilina y trazado de siluetas.
+- **Lengua Castellana:** Lectura de pictogramas, vocabulario anatómico y expresión oral en la exposición.
+<br>
+
+## Relación con la vida real
+<br>
+
+Conocer el funcionamiento del propio cuerpo y adquirir rutinas de higiene y alimentación sana desde los 6 años previene enfermedades futuras, mejora el rendimiento escolar y ayuda al alumnado a sentirse seguro, autónomo y orgulloso de su crecimiento.
+<br>
+
+## Conclusión
+<br>
+
+"Pequeños científicos del cuerpo humano" convierte la ciencia en una vivencia personal e inolvidable. Al explorar con sus propios sentidos, tocar su corazón y construir su propia silueta en tamaño real, el alumnado de 1º de Primaria descubre la maravilla de su organismo y aprende a cuidarse con responsabilidad y entusiasmo.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-detectives-de-mi-localidad-y-mi-familia-1-primaria",
+    title: "Situación de aprendizaje: Detectives de mi localidad y mi familia para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Sociales para 1º de Primaria sobre la familia, la casa, el colegio, el barrio y la educación vial inicial según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "ciencias-sociales",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria investiga su entrono más cercano: los tipos de familia, las estancias del hogar, las profesiones del barrio y las normas de educación vial para crear una maqueta comunitaria.",
+    content: `
+# Situación de aprendizaje: Detectives de mi localidad y mi familia para 1º de Primaria
+
+## Descripción
+<br>
+"Detectives de mi localidad y mi familia" es una propuesta pedagógica de Ciencias Sociales donde el alumnado de 1º de Primaria asume el rol de "Detectives Sociales" encargados de investigar cómo se organiza su comunidad cercana.
+<br>
+A través de mapas conceptuales sencillos, fotografías, entrevistas a familiares y paseos de observación por los alrededores del colegio, los estudiantes descubrirán la diversidad de los modelos familiares, los tipos de viviendas, los servicios públicos del barrio (hospital, parque, biblioteca, policía) y las normas básicas de educación vial para peatones.
+<br>
+
+## Justificación
+<br>
+El currículo de Ciencias Sociales en el primer curso de Primaria parte de lo más cercano y afectivo (el yo, la familia, la casa) para ir ampliando el foco hacia la comunidad (el colegio, el barrio, la localidad).
+<br>
+Comprender la diversidad familiar, valorar el trabajo de las profesiones del entorno y aprender a circular con seguridad como peatón fomenta en los niños y niñas el sentido de pertenencia, la convivencia democrática y la responsabilidad ciudadana desde la primera infancia.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Construcción de la "Maqueta Colectiva de Nuestro Barrio Ideal", un mapa tridimensional hecho con cajas de cartón decoradas que incluirá viviendas, calles con señales de tráfico y los edificios de servicios públicos con sus trabajadores.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Reconocer la propia familia identificando la diversidad de estructuras familiares y la importancia de la corresponsabilidad en el hogar.
+- Identificar las dependencias de la casa y del colegio relacionándolas con las actividades que se realizan en ellas.
+- Distinguir entre paisaje urbano y rural reconociendo los elementos del barrio.
+- Valorar las profesiones del entorno cercano y los servicios públicos que prestan a la comunidad.
+- Adquirir hábitos básicos de educación vial como peatón (cruzar por el paso de peatones, mirar el semáforo).
+- Orientarse en el espacio escolar y en representaciones sencillas de planos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia ciudadana (CC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia en conciencia y expresión culturales (CCEC).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Identificar las características de la propia comunidad valorando la diversidad cultural y familiar.
+- **CE2:** Orientarse en el entorno cercano reconociendo los elementos naturales y construidos del paisaje.
+- **CE3:** Mostrar conductas respetuosas y de educación vial en los desplazamientos habituales.
+<br>
+
+## Saberes básicos
+<br>
+
+- **El entorno social y familiar:**
+  - La familia: lazos de afecto, diversidad familiar y colaboración en las tareas domésticas.
+  - La casa y el colegio: estancias, normas de convivencia y cuidado de los espacios comunes.
+- **La comunidad y el barrio:**
+  - La localidad: calles, plazas, comercios y servicios públicos (sanidad, seguridad, educación).
+  - Profesiones del entorno cercano.
+  - Educación vial para niños: señales de tráfico básicas, pasos de cebra y comportamiento en el autobús o coche.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Expresa la importancia de su familia respetando la diversidad de modelos familiares de sus compañeros.
+- Identifica las estancias de la vivienda y del colegio y su uso correcto.
+- Nombra profesiones de su localidad explicando qué servicio aportan a la sociedad.
+- Respeta las normas de educación vial en simulaciones en el patio escolar.
+- Participa activamente en la elaboración de la maqueta comunitaria.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en proyectos (ABP) e investigación social. Se crean "Agencias de Detectives" de 4 miembros con roles: Detective fotógrafo, Detective cartógrafo, Detective de normas y Portavoz social.
+<br>
+
+## Sesión 1. El árbol de las familias diversas
+<br>
+
+### Activación inicial
+<br>
+Lectura del cuento ilustrado "Familias" donde se muestran diferentes tipos de hogares (familias con abuelos, monoparentales, compuestas, adoptivas, con dos mamás o dos papás).
+<br>
+
+### Calentamiento
+<br>
+Diálogo en asamblea: "¿Quiénes viven en tu casa y qué es lo que más te gusta hacer con ellos?".
+<br>
+
+### Actividad principal
+<br>
+Construcción de la "Casa-Árbol Familiar": cada alumno dibuja a los miembros de su hogar dentro de una plantilla en forma de casa y escribe sus nombres.
+<br>
+
+### Trabajo cooperativo
+<br>
+Compartir la casa familiar en el equipo de detectives expresando las tareas en las que cada uno colabora en su hogar (ordenar los juguetes, poner la mesa, regar las plantas).
+<br>
+
+### Desafío
+<br>
+Identificar tres tareas domésticas que podemos hacer de forma autónoma sin ayuda de los adultos.
+<br>
+
+### Producto parcial
+<br>
+Mural colectivo: "El Bosque de Nuestras Familias".
+<br>
+
+### Reflexión
+<br>
+¿Por qué todas las familias son especiales y diferentes pero tienen en común el amor y el cuidado?
+<br>
+
+## Sesión 2. Un viaje por las estancias del hogar y del cole
+<br>
+
+### Activación inicial
+<br>
+Juego de las pistas visuales: adivinar a qué habitación de la casa pertenece cada objeto (una sartén $\to$ cocina, un cepillo de dientes $\to$ baño, una almohada $\to$ dormitorio).
+<br>
+
+### Calentamiento
+<br>
+Recorrido de orientación espacial por las dependencias del centro escolar (dirección, biblioteca, comedor, gimnasio, tutorías).
+<br>
+
+### Actividad principal
+<br>
+Mapeo sencillo en papel cuadriculado: asociar pictogramas de acciones con las estancias de la casa y del colegio.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, diseñar las normas de cuidado para la estancia asignada (ej. "En la biblioteca hablamos bajito", "En la cocina no tocamos las cosas calientes").
+<br>
+
+### Desafío
+<br>
+Localizar en un plano sencillo del colegio dónde están las salidas de evacuación.
+<br>
+
+### Producto parcial
+<br>
+Ficha de cartografía básica del hogar y del colegio.
+<br>
+
+### Reflexión
+<br>
+¿Por qué es importante mantener ordenadas tanto nuestra habitación como el aula de clase?
+<br>
+
+## Sesión 3. Exploradores de las profesiones del barrio
+<br>
+
+### Activación inicial
+<br>
+Visita al aula de un trabajador de la localidad (ej. una policía local, un bombero o una médica) o proyección de entrevistas a comerciantes cercanos.
+<br>
+
+### Calentamiento
+<br>
+Juego de adivinar profesiones mediante mímica corporal (barrendero, cartea, profesora, cocinero, jardines).
+<br>
+
+### Actividad principal
+<br>
+Asociación de la herramienta de trabajo con el servicio público: la manguera $\to$ bomberos, el fonendoscopio $\to$ pediatra, el chaleco reflectante $\to$ mantenimiento.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo investiga una profesión del barrio y diseña la tarjeta del "Superprofesional del Pueblo".
+<br>
+
+### Desafío
+<br>
+Explicar qué ocurriría en el barrio si no existiera el servicio de recogida de basuras durante una semana.
+<br>
+
+### Producto parcial
+<br>
+Fichero ilustrado de las profesiones de la comunidad.
+<br>
+
+### Reflexión
+<br>
+¿Todas las profesiones son igual de importantes para que un pueblo funcione bien?
+<br>
+
+## Sesión 4. El circuito de Educación Vial en el patio
+<br>
+
+### Activación inicial
+<br>
+Montaje en el patio de un circuito de educación vial con señales de cartón, paso de cebra pintado y semáforos de papel.
+<br>
+
+### Calentamiento
+<br>
+Semáforo humano: "Luz verde $\to$ caminamos", "Luz amarilla $\to$ frenamos despacio", "Luz roja $\to$ nos detenemos por completo".
+<br>
+
+### Actividad principal
+<br>
+Práctica de circulación peatonal segura:
+1. Mirar a la izquierda, derecha y otra vez a la izquierda antes de cruzar.
+2. Esperar a que el muñeco del semáforo esté en verde.
+3. Abrocharse el cinturón de seguridad en la simulación del autobús.
+<br>
+
+### Trabajo cooperativo
+<br>
+Dividir la clase en dos grupos: la mitad actúa como peatones y la otra mitad sostienen las señales de tráfico y supervisan el cumplimiento.
+<br>
+
+### Desafío
+<br>
+Cruzar el circuito peatonal sin cometer ninguna infracción vial.
+<br>
+
+### Producto parcial
+<br>
+Obtención del "Carné de Peatón Experto de 1º".
+<br>
+
+### Reflexión
+<br>
+¿Por qué jamás debemos cruzar la calle corriendo tras un balón sin mirar si vienen coches?
+<br>
+
+## Sesión 5. Construimos los edificios de nuestro barrio ideal
+<br>
+
+### Activación inicial
+<br>
+Presentación del gran tablero de madera o papel continuo donde se han trazado las calles principales del barrio.
+<br>
+
+### Calentamiento
+<br>
+Reciclaje creativo: transformar cajas de zapatos y de leche en casas, colegios, hospitales y parques.
+<br>
+
+### Actividad principal
+<br>
+Construcción tridimensional: pintar las cajas, pegar ventanas, puertas y rótulos identificativos de los servicios públicos.
+<br>
+
+### Trabajo cooperativo
+<br>
+El Detective cartógrafo posiciona los edificios en el lugar del plano asignado, mientras el Detective de normas pega las señales de tráfico y los pasos de peatones en las calles.
+<br>
+
+### Desafío
+<br>
+Asegurar que haya al menos una zona verde (parque) y un centro de salud accesible para todos los vecinos.
+<br>
+
+### Producto parcial
+<br>
+Edificios y calles montados en el plano de la maqueta.
+<br>
+
+### Reflexión
+<br>
+¿Qué elementos tiene que tener un barrio para que las personas vivan felices y seguras?
+<br>
+
+## Sesión 6. Exposición del barrio y mapa del tesoro ciudadano
+<br>
+
+### Activación inicial
+<br>
+Inauguración de la "Maqueta de Nuestro Barrio Ideal" recibiendo a las familias y a otros cursos de Primaria.
+<br>
+
+### Calentamiento
+<br>
+Repaso de las explicaciones que dará cada equipo utilizando la maqueta como apoyo visual.
+<br>
+
+### Actividad principal
+<br>
+Exposición guiada por los Detectives Sociales. Muestra de las casas familiares, las profesiones, el circuito vial y las zonas comunes.
+<br>
+
+### Trabajo cooperativo
+<br>
+Explicar a los visitantes las normas de convivencia que hemos aprendido para ser buenos vecinos.
+<br>
+
+### Desafío
+<br>
+Guiar a un compañero visitante por la maqueta indicando el camino para ir desde la casa hasta el colegio respetando las señales de tráfico.
+<br>
+
+### Producto parcial
+<br>
+Clausura del proyecto con la entrega de medallas de Detectives Sociales.
+<br>
+
+### Reflexión
+<br>
+¿Cómo podemos ayudar a mantener limpio el parque de nuestro barrio real?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Maqueta con elementos táctiles adaptados para alumnado con visión reducida.
+- Tarjetas visuales de educación vial con pictogramas claros de prohibido/permitido.
+- Apoyos verbales y preguntas sencillas para las intervenciones orales.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Dibujar un plano a vista de pájaro con leyenda de símbolos topográficos sencillos.
+- Investigar sobre los medios de transporte ecológicos (bicicletas, autobuses eléctricos).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de la Maqueta del Barrio:** Calidad, colocación de señales viales y trabajo en equipo.
+- **Lista de control de Educación Vial:** Comportamiento demostrado en el circuito del patio.
+- **Ficha de la diversidad familiar y el hogar:** Valoración de la comprensión de conceptos sociales básicos.
+- **Escala de observación de la exposición:** Claridad oral y colaboración entre iguales.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Expresa la diversidad familiar con respeto y valora la ayuda en el hogar.
+- Reconoce las funciones de los principales edificios y profesiones de su entorno.
+- Cumple las normas básicas de educación vial como peatón.
+- Participa activamente en construcciones espaciales cooperativas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Educación Artística:** Construcción con volumen, pintura de maquetas y recortado.
+- **Lengua Castellana:** Vocabulario del entorno urbano, normas de convivencia oral.
+- **Matemáticas:** Orientación espacial (izquierda, derecha, cerca, lejos) y geometría en los edificios.
+<br>
+
+## Relación con la vida real
+<br>
+
+Comprender cómo se organiza el barrio y la familia ayuda al alumnado a ubicarse con seguridad en su entorno, valorar el trabajo comunitario de los servicios públicos y actuar de forma autónoma y responsable en la calle.
+<br>
+
+## Conclusión
+<br>
+
+"Detectives de mi localidad y mi familia" logra que los niños y niñas de 1º de Primaria miren su entorno cercano con curiosidad científica y sentido cívico. Al construir su propia maqueta y practicar la educación vial, el alumnado descubre que la convivencia y el cuidado mutuo son la clave para construir una comunidad feliz.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-the-magic-toy-shop-1-primaria",
+    title: "Situación de aprendizaje: The Magic Toy Shop para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Inglés para 1º de Primaria sobre juguetes, colores, números del 1 al 10 y expresiones de preferencia en inglés según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "ingles",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "The 1st-grade students explore a magical toy shop in English, practicing vocabulary of toys, colors, numbers 1-10, and structures like 'I like' or 'It is a red car'.",
+    content: `
+# Situación de aprendizaje: The Magic Toy Shop para 1º de Primaria
+
+## Descripción
+<br>
+"The Magic Toy Shop" is a communicative and playful unit designed for 1st-grade Primary students learning English as a foreign language. The classroom transforms into a magical toy store where toys come alive at night.
+<br>
+Through songs, storytelling, TPR (Total Physical Response) games, flashcards, and simple role-play, students will acquire basic English vocabulary related to toys (*ball, doll, car, robot, teddy bear, train, bike*), colors (*red, blue, yellow, green, pink, purple*), and numbers (1 to 10). They will learn to express their likes using structures such as *"I like my red car"* or *"It is a big robot"*.
+<br>
+
+## Justificación
+<br>
+Learning a foreign language in 1st Grade must be an enjoyable, active, and multisensory experience. Toys represent an essential element of childhood, capturing children's interest and fostering emotional connections with the new language.
+<br>
+By integrating oral communication with physical movement, songs, and visual arts, young learners develop listening comprehension, oral confidence, and basic vocabulary without feeling overwhelmed by written grammar.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Extranjera (Inglés).
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Creation and dramatic presentation of the "Classroom Magic Toy Catalogue", a collective big book and toy show where students present their favorite real toy in English to their classmates.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Recognize and pronounce vocabulary of common toys in English.
+- Identify and name colors and numbers from 1 to 10 in oral contexts.
+- Express personal preferences using simple oral structures (*"I like...", "I don't like..."*).
+- Follow short oral instructions in English supported by gestures and visual aids.
+- Participate in traditional English songs and chants with movement.
+- Show interest and enjoyment in communicating in a foreign language.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística (CCL).
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia digital (CD).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Comprender e interpretar el sentido de palabras y frases sencillas en textos orales breves en lengua extranjera.
+- **CE2:** Producir textos orales sencillos utilizando lenguaje corporal y frases memorizadas en situaciones cotidianas.
+- **CE3:** Interactuar en actividades lúdicas grupales en lengua extranjera mostrando respeto e interés.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Vocabulary & Language Functions:**
+  - Toys: *ball, doll, car, robot, teddy bear, train, bike, kite*.
+  - Colors & Numbers: *red, blue, yellow, green, orange, pink; numbers 1-10*.
+  - Structures: *"What is it?", "It's a (color) (toy)", "I like the...", "How many?"*.
+- **Communicative Skills & Phonetics:**
+  - Listening comprehension through stories and songs (*"The Toy Song"*).
+  - Repetition and clear articulation of initial consonant sounds in English.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica el vocabulario de los juguetes y los colores al escucharlos en inglés.
+- Pronuncia palabras y frases sencillas con una entonación inteligible.
+- Responde a preguntas sencillas (*"What's your favorite toy?"*) utilizando el modelo facilitado.
+- Canta y realiza los gestos de las canciones de la unidad en grupo.
+- Muestra una actitud proactiva en las actividades orales en inglés.
+<br>
+
+## Metodología
+<br>
+
+Total Physical Response (TPR) and Storytelling supported by puppet interactions (The Toy Shopkeeper puppet). Students work in "Toy Teams" of 4 children.
+<br>
+
+## Session 1. Welcome to the Magic Toy Shop!
+<br>
+
+### Activación inicial
+<br>
+The teacher introduces "Barnaby", a friendly teddy bear puppet who only speaks English. Barnaby opens his magical suitcase full of miniature toys.
+<br>
+
+### Calentamiento
+<br>
+"Listen and point": Flashcards of toys are posted around the classroom. When the teacher names a toy (*"Point to the robot!"*), students point quickly.
+<br>
+
+### Actividad principal
+<br>
+Introducing toy vocabulary (*ball, car, doll, robot, train, teddy bear*) using real objects (*realia*). Students touch the toys and repeat their names using physical gestures.
+<br>
+
+### Trabajo cooperativo
+<br>
+"Pass the Toy" game in circles: Students pass a toy around while music plays. When the music stops, the student holding the toy says *"It's a train!"*.
+<br>
+
+### Desafío
+<br>
+Guess the toy in Barnaby's bag by touching it without looking (*"Is it a car?"*).
+<br>
+
+### Producto parcial
+<br>
+Ficha visual: "My Toy Passport" matching pictures to words.
+<br>
+
+### Reflexión
+<br>
+Did you feel happy speaking English with Barnaby the Bear today?
+<br>
+
+## Session 2. Colors and Numbers in the Shop
+<br>
+
+### Activación inicial
+<br>
+Song time: Singing and dancing to *"The Color and Number Song"* (counting 1 to 10 with fingers).
+<br>
+
+### Calentamiento
+<br>
+"Touch something red! Touch 3 blue cars!": TPR movement game connecting numbers, colors, and items.
+<br>
+
+### Actividad principal
+<br>
+Combining structures: *"Two red cars", "Three yellow balls", "One green robot"*. Students group toy counters on their desks according to teacher commands.
+<br>
+
+### Trabajo cooperativo
+<br>
+In pairs, student A places toys on the table and asks *"How many balls?"*, student B counts and answers *"Four balls!"*.
+<br>
+
+### Desafío
+<br>
+Build a tower using strictly *5 green blocks* and *2 yellow blocks*.
+<br>
+
+### Producto parcial
+<br>
+Coloring activity sheet: "Count and color the toys".
+<br>
+
+### Reflexión
+<br>
+Why is it easier to count in English when we use our fingers and real objects?
+<br>
+
+## Session 3. What's your favorite toy?
+<br>
+
+### Activación inicial
+<br>
+Barnaby the Bear acts out expressing likes: *"I like the teddy bear! Yummy!"* and *"I don't like the kite!"*.
+<br>
+
+### Calentamiento
+<br>
+Thumbs up / Thumbs down drill: Students show thumbs up when they hear a toy they like.
+<br>
+
+### Actividad principal
+<br>
+Introducing the target phrase: *"I like my (color) (toy)"*. Students choose a toy flashcard and present it to their group.
+<br>
+
+### Trabajo cooperativo
+<br>
+Interview game in teams: Students ask each other *"Do you like robots?"* and place a smiling sticker on their friend's chart.
+<br>
+
+### Desafío
+<br>
+Say three full sentences in English about toys you like without hesitating.
+<br>
+
+### Producto parcial
+<br>
+Team chart: "Our Favorite Toys in Class".
+<br>
+
+### Reflexión
+<br>
+How many friends in your group like the same toy as you?
+<br>
+
+## Session 4. The Night the Toys Came Alive! (Storytime)
+<br>
+
+### Activación inicial
+<br>
+Dim lights and storytelling time: Reading the big book *"The Magic Toy Night"* with sound effects and puppet animation.
+<br>
+
+### Calentamiento
+<br>
+Mimicry game: Act like a mechanical robot (*"Bip-bop"*), drive a fast car (*"Vroom-vroom"*), or fly like a kite.
+<br>
+
+### Actividad principal
+<br>
+Interactive story comprehension: Students hold up their toy props whenever their toy appears in the story.
+<br>
+
+### Trabajo cooperativo
+<br>
+Reenacting a short scene from the story in small groups: waking up at midnight as magical toys.
+<br>
+
+### Desafío
+<br>
+Freeze like a statue when the toy shopkeeper turns on the light!
+<br>
+
+### Producto parcial
+<br>
+Story map worksheet with sequence drawings.
+<br>
+
+### Reflexión
+<br>
+Which magical toy would you like to be at night?
+<br>
+
+## Session 5. Creating the Class Toy Catalogue
+<br>
+
+### Activación inicial
+<br>
+Reviewing real toy catalogues. Today we create our official English Toy Catalogue!
+<br>
+
+### Calentamiento
+<br>
+Spelling drill of simple colors (*r-e-d, b-l-u-e*) and matching toy word labels.
+<br>
+
+### Actividad principal
+<br>
+Art & Craft work: Students draw their favorite toy, color it carefully, and trace sentence frames: *"My favorite toy is a [color] [toy]"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Assembling the team pages into the Big Class Book and decorating the cover with glitter and stickers.
+<br>
+
+### Desafío
+<br>
+Check that every drawing has a clear sentence written in English underneath.
+<br>
+
+### Producto parcial
+<br>
+Completed pages for the Class Magic Toy Catalogue.
+<br>
+
+### Reflexión
+<br>
+Is your drawing clear enough for everyone to understand in English?
+<br>
+
+## Session 6. The Great Toy Show & Presentation
+<br>
+
+### Activación inicial
+<br>
+Classroom setup as the "Magic Toy Exhibition". Students bring a real toy from home (or use their catalogue drawing).
+<br>
+
+### Calentamiento
+<br>
+Final oral rehearsal with Barnaby the Bear giving encouraging high-fives.
+<br>
+
+### Actividad principal
+<br>
+Show & Tell oral presentation: Each student stands up, holds their toy, and presents it to the class: *"Hello! Look! It is my red car. I like my car. Thank you!"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Audience participation: Classmates applaud and ask simple questions (*"Is it big?"*).
+<br>
+
+### Desafío
+<br>
+Present your toy confidently using a clear voice and smiling at your audience.
+<br>
+
+### Producto parcial
+<br>
+Delivery of the "English Toy Master Diploma".
+<br>
+
+### Reflexión
+<br>
+How proud do you feel after presenting your toy in English in front of your friends?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Use of real toys (*realia*) and picture flashcards for visual support.
+- Gesture prompts (TPR) to scaffold sentence production.
+- Shorter phrase models (*"Red car!"* instead of full sentences) for students needing language support.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Including descriptive adjectives (*big, small, fast, funny, soft*).
+- Writing extended sentences independently (*"My robot can jump and run"*).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Oral Performance Rubric:** Vocabulary identification, pronunciation, and confidence during Show & Tell.
+- **Listening Checklist:** Ability to follow TPR commands, songs, and story events in English.
+- **Class Toy Catalogue Page:** Assessment of drawing, coloring, and simple word tracing.
+- **Teacher Observation Log:** Attitude, participation, and teamwork during English sessions.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifies and names basic toys, colors, and numbers 1-10 in English.
+- Responds orally to simple English questions with visual support.
+- Sings and gestures along with class English songs.
+- Shows confidence when presenting a toy to peers in English.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Educación Artística:** Drawing, coloring, and crafting the big book catalogue.
+- **Educación Física:** TPR movement games, physical mimicry of toys.
+- **Matemáticas:** Counting items 1 to 10 and grouping by color and size.
+<br>
+
+## Relación con la vida real
+<br>
+
+Toys are part of every child's daily world. Learning to name and describe toys in English builds real-world confidence, allowing children to interact in international contexts, games, and media with natural enthusiasm.
+<br>
+
+## Conclusión
+<br>
+
+"The Magic Toy Shop" demonstrates that learning English in 1st Grade is a joyful adventure. By combining emotional connections, songs, games, and a Show & Tell finale, young learners build meaningful communicative foundations that set a positive tone for their future language learning journey.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-rescate-en-la-selva-de-los-animales-1-primaria",
+    title: "Situación de aprendizaje: El rescate en la selva de los animales para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Educación Física para 1º de Primaria sobre habilidades motrices básicas, equilibrio, lateralidad y juegos cooperativos motrices según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "educacion-fisica",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria se transforma en una expedición de rescate en la selva, superando circuitos de habilidades motrices (saltos, trepas, giros, desplazamientos) y juegos cooperativos.",
+    content: `
+# Situación de aprendizaje: El rescate en la selva de los animales para 1º de Primaria
+
+## Descripción
+<br>
+"El rescate en la selva de los animales" es una propuesta motriz gamificada para 1º de Primaria ambientada en una selva misteriosa donde los animales necesitan ayuda. El gimnasio o pista deportiva se convierte en un escenario lleno de desafíos donde el alumnado deberá desplegar sus habilidades motrices básicas (desplazamientos, saltos, giros, lanzamientos y recepciones), trabajar el esquema corporal y la lateralidad, y ejercitar la cooperación para superar los obstáculos.
+<br>
+A lo largo de seis sesiones, los pequeños exploradores cruzarán ríos de lava, treparán por lianas, mantendrán el equilibrio sobre puentes colgantes y colaborarán en equipo para poner a salvo a las crías de animales.
+<br>
+
+## Justificación
+<br>
+En el primer curso de Primaria, la Educación Física es esencial para consolidar la alfabetización motriz, el control postural y la interacción social positiva. La infancia de 6 años aprende a través del movimiento libre y jugado, necesitando experiencias variadas que estimulen la neurodevolución, la coordinación dinámica general y la capacidad espacio-temporal.
+<br>
+La narrativa de la selva actúa como un motor motivacional excepcional que transforma el esfuerzo físico en diversión, favoreciendo el respeto a las pautas de seguridad y la inclusión de todo el alumnado.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Superación del "Gran Gran Circuito de Rescate Salvaje", una gran pista de obstáculos motrices cooperativa montada en el gimnasio, donde cada patrulla rescata y pone a salvo a los peluches de animales en su refugio natural.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Resolver situaciones motrices con libertad de movimiento adaptando los desplazamientos, saltos y giros a los obstáculos.
+- Afianzar el esquema corporal, el equilibrio dinámico y estático y el dominio de la lateralidad (derecha/izquierda en uno mismo).
+- Experimentar lanzamientos y recepciones con objetos de diversas texturas y tamaños.
+- Desarrollar actitudes de cooperación, ayuda mutua y aceptación de las normas de juego.
+- Adoptar hábitos de higiene, hidratación y calentamiento adecuados a la actividad física.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia matemática y en ciencia, tecnología e ingeniería (STEM).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Resolver situaciones motrices variadas adaptando las habilidades motrices básicas a las demandas del juego.
+- **CE2:** Desarrollar la autorregulación corporal y la gestión emocional a través de la práctica de la actividad física.
+- **CE3:** Practicar juegos cooperativos mostrando respeto hacia los compañeros y rechazando la violencia o discriminación.
+- **CE4:** Adoptar hábitos saludables y medidas de seguridad en el uso de espacios y materiales deportivos.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Habilidades motrices y esquema corporal:**
+  - Desplazamientos variados (quadrupedia, pata coja, galope, reptación).
+  - Saltos a un pie y dos pies; giros en eje longitudinal y transversal (volteretas guiadas).
+  - Equilibrio sobre bases reducidas y elevadas.
+- **Juego cooperativo y educación emocional:**
+  - Aceptación de las posibilidades motrices propias y ajenas.
+  - El juego como espacio de relación afectiva y diversión.
+- **Salud y seguridad:**
+  - El calentamiento jugado y la vuelta a la calma (respiración).
+  - Uso correcto del calzado deportivo y la botella de agua.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Ejecuta desplazamientos, saltos y giros con coordinación y seguridad en los circuitos motrices.
+- Mantiene el equilibrio en situaciones de marcha sobre bancos o líneas en el suelo.
+- Muestra una actitud colaborativa apoyando a los compañeros que necesitan ayuda.
+- Respeta las normas de seguridad e higiene durante las sesiones de Educación Física.
+<br>
+
+## Metodología
+<br>
+
+Gamificación motriz basada en la aventura física y los circuitos de acción motriz (*Action Track*). Se organizan "Patrullas de Rescate" de 5 alumnos.
+<br>
+
+## Sesión 1. La llegada al campamento base de la selva
+<br>
+
+### Activación inicial
+<br>
+Asamblea sobre la alfombra del gimnasio. Recepción de la tarjeta de Exploradores y preparación de las mochilas imaginarias.
+<br>
+
+### Calentamiento
+<br>
+Juego "El baile de los animales": imitamos el desplazamiento de los monos (saltos), las serpientes (reptación), los guepardos (carrera rápida) y los flamencos (pata coja).
+<br>
+
+### Actividad principal
+<br>
+Exploración del terreno: recorrido por el gimnasio realizando desplazamientos en diferentes direcciones (adelante, atrás, de lado) y cambios de ritmo (lento, rápido).
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, "El explorador ciego": uno guía con tacto suave a su compañero que lleva los ojos cerrados esquivando los conos-árboles de la selva.
+<br>
+
+### Desafío
+<br>
+Completar tres vueltas al gimnasio variando el tipo de desplazamiento sin chocar con ningún compañero.
+<br>
+
+### Producto parcial
+<br>
+Superación del examen físico del campamento base.
+<br>
+
+### Reflexión
+<br>
+¿Por qué debemos mirar siempre hacia adelante cuando corremos para no chocar con los demás?
+<br>
+
+## Sesión 2. El río de los cocodrilos y el puente colgante
+<br>
+
+### Activación inicial
+<br>
+Presentación del área del río: las colchonetas son el agua llena de cocodrilos imaginarios y los bancos suecos son los puentes elevados.
+<br>
+
+### Calentamiento
+<br>
+Juego "Las piedras mágicas": desplazarse por el gimnasio pisando solo sobre aros de colores colocados en el suelo.
+<br>
+
+### Actividad principal
+<br>
+Trabajo de equilibrio y saltos:
+- Cruzar el banco sueco caminando de frente, de lado e introduciendo un objeto sobre la cabeza.
+- Salto de longitud desde la sueca a colchoneta recepción cayendo a dos pies flexionando rodillas ("caída de rana").
+<br>
+
+### Trabajo cooperativo
+<br>
+Cruzar el banco sueco agarrados de la mano en parejas sin caer al río de lava.
+<br>
+
+### Desafío
+<br>
+Mantenerse a la pata coja durante 5 segundos sobre una pica o ladrillo de psicomotricidad.
+<br>
+
+### Producto parcial
+<br>
+Pasaporte de Explorador sellado en la prueba de equilibrio.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos ayudan los brazos abiertos a mantener mejor el equilibrio?
+<br>
+
+## Sesión 3. La cueva de las lianas y las volteretas
+<br>
+
+### Activación inicial
+<br>
+Acondicionamiento del gimnasio con espalderas, cuerdas colgadas y colchonetas de protección.
+<br>
+
+### Calentamiento
+<br>
+Juego "El gato y el ovillo": rodar sobre el eje longitudinal (como un tronco) sobre las colchonetas suaves.
+<br>
+
+### Actividad principal
+<br>
+Habilidades de giro y trepa:
+- Trepar por las espalderas hasta tocar la marca del mono y bajar con seguridad escalón a escalón.
+- Rodamientos e iniciación a la voltereta adelante guiada por el docente sobre plano inclinado.
+<br>
+
+### Trabajo cooperativo
+<br>
+Transportar en equipo una manta con un peluche encima sin que se caiga mientras superan pequeños obstáculos.
+<br>
+
+### Desafío
+<br>
+Realizar tres rodamientos seguidos como un tronco y salir corriendo en línea recta hacia la meta.
+<br>
+
+### Producto parcial
+<br>
+Insignia de Agilidad y Trepa conseguida.
+<br>
+
+### Reflexión
+<br>
+¿Por qué debemos meter la barbilla pegada al pecho antes de hacer una voltereta?
+<br>
+
+## Sesión 4. El lanzamiento de redes de rescate
+<br>
+
+### Activación inicial
+<br>
+Los peluches de animales están atrapados al otro lado del cañón y debemos lanzarles cuerdas y alimentos.
+<br>
+
+### Calentamiento
+<br>
+Lanzamiento libre con pelotas de espuma, sacos de semillas y aros hacia dianas dibujadas en la pared.
+<br>
+
+### Actividad principal
+<br>
+Manipulación, lanzamientos y recepciones:
+- Lanzamiento de precisión con mano dominante (derecha/izquierda).
+- Recepción de pelotas gigantes en parejas a distancias progresivas ($1\ m, 2\ m, 3\ m$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Juego "La cadena de rescate": pasar pelotas de mano en mano a lo largo de la patrulla lo más rápido posible sin que caigan al suelo.
+<br>
+
+### Desafío
+<br>
+Encestar tres sacos de semillas seguidos dentro de una canasta o cubo a dos metros de distancia.
+<br>
+
+### Producto parcial
+<br>
+Prueba de Puntería y Lanzamiento completada.
+<br>
+
+### Reflexión
+<br>
+¿Con qué mano te resulta más fácil y preciso lanzar la pelota?
+<br>
+
+## Sesión 5. El gran simulacro de rescate cooperativo
+<br>
+
+### Activación inicial
+<br>
+Explicación del mapa completo del gran circuito que combina todas las habilidades entrenadas en las sesiones previas.
+<br>
+
+### Calentamiento
+<br>
+Movilidad articular de tobillos, rodillas, caderas y hombros en círculo.
+<br>
+
+### Actividad principal
+<br>
+Ensayo general del Gran Circuito de Rescate:
+1. Saltar los aros del río.
+2. Cruzar el puente de equilibrio.
+3. Trepar la espaldera.
+4. Rodar en colchoneta.
+5. Coger al animal peluche y lanzarlo al cesto de salvamento.
+<br>
+
+### Trabajo cooperativo
+<br>
+Toda la patrulla debe realizar el circuito animando y ayudando a los compañeros que tardan más o dudan en los saltos.
+<br>
+
+### Desafío
+<br>
+Rescatar a los 20 animales del gimnasio en un tiempo cooperativo máximo de 10 minutos entre toda la clase.
+<br>
+
+### Producto parcial
+<br>
+Registro de animales salvados y circuito preparado para el evento final.
+<br>
+
+### Reflexión
+<br>
+¿Qué es más importante: terminar el primero solo o ayudar a que todo tu equipo consiga llegar a la meta?
+<br>
+
+## Sesión 6. Misión Cumplida: El Festival del Rescate Salvaje
+<br>
+
+### Activación inicial
+<br>
+Música ambiental de selva y ambientación del gimnasio para la jornada festiva final.
+<br>
+
+### Calentamiento
+<br>
+Juego de estiramientos "La selva se despierta" (posturas de yoga infantil: la cobra, el perro, el árbol).
+<br>
+
+### Actividad principal
+<br>
+Ejecución del "Gran Circuito de Rescate Salvaje". Cada patrulla realiza la misión completa con fluidez, consiguiendo poner a salvo a todas las especies.
+<br>
+
+### Trabajo cooperativo
+<br>
+Celebración final en círculo bailando la "Danza del Rescate" todos juntos cogidos de las manos.
+<br>
+
+### Desafío
+<br>
+Completar la fase de vuelta a la calma con ejercicios de respiración guiada sintiendo cómo baja nuestro pulso.
+<br>
+
+### Producto parcial
+<br>
+Entrega de medallas de Guardianes de la Selva a todo el alumnado.
+<br>
+
+### Reflexión
+<br>
+¿Cómo se siente vuestro cuerpo ahora que hemos terminado el esfuerzo y estamos relajados?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Bancos suecos a ras de suelo y colchonetas de mayor grosor para aumentar la sensación de seguridad en alumnado con inseguridad gravitatoria.
+- Apoyo de agarre manual constante en los giros y saltos.
+- Uso de pelotas sonoras o de colores fluorescentes para alumnado con baja visión.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Introducción de combinaciones de saltos con giro de 180 grados en el aire.
+- Manejo de objetos en equilibrio dinámico durante los desplazamientos (ej. raquetas con pelota de espuma).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Escala de observación de habilidades motrices:** Evaluación de la carrera, saltos, giros y lanzamientos.
+- **Lista de control de esquema corporal y lateralidad:** Registro del dominio espacial y equilibrio.
+- **Rúbrica de actitudes cooperativas:** Trabajo en equipo, respeto a las normas y deportividad.
+- **Diario de sesión:** Observaciones del docente sobre la hidratación, vestimenta y participación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Adapta sus desplazamientos y saltos a los diferentes obstáculos del circuito.
+- Mantiene el equilibrio en marchas sobre superficies elevadas.
+- Muestra actitudes de ayuda y colaboración hacia sus compañeros de patrulla.
+- Cumple las normas de seguridad del gimnasio durante la práctica deportiva.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Ciencias de la Naturaleza:** Conocimiento de los animales de la selva y su protección.
+- **Música:** Ritmo, danza motriz y sincronización de movimientos.
+- **Valores Cívicos:** Trabajo cooperativo, inclusión y empatía.
+<br>
+
+## Relación con la vida real
+<br>
+
+Desarrollar habilidades motrices básicas desde los 6 años es la garantía para disfrutar de una vida activa y saludable, previniendo accidentes por caídas gracias a un buen equilibrio y control corporal en las actividades cotidianas del parque o del entorno natural.
+<br>
+
+## Conclusión
+<br>
+
+"El rescate en la selva de los animales" demuestra cómo la Educación Física en 1º de Primaria puede fusionar la fantasía, el desarrollo físico y los valores sociales. A través del juego motriz compartido, los pequeños exploradores no solo mejoran su coordinación y equilibrio, sino que aprenden que el mejor rescate es el que se consigue trabajando juntos.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-taller-del-pequeno-artista-1-primaria",
+    title: "Situación de aprendizaje: El taller del pequeño artista para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Educación Artística para 1º de Primaria sobre colores primarios, secundarias, texturas, estampación y ritmo musical con cotidiáfonos según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "educacion-artistica",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria experimenta con las mezclas de colores primarios, las texturas táctiles de la naturaleza y el ritmo musical con cotidiáfonos para montar su propia galería de arte.",
+    content: `
+# Situación de aprendizaje: El taller del pequeño artista para 1º de Primaria
+
+## Descripción
+<br>
+"El taller del pequeño artista" une el lenguaje plástico y el lenguaje musical en una experiencia creativa e investigadora para 1º de Primaria.
+<br>
+A lo largo de seis sesiones, los estudiantes experimentarán con la magia de las mezclas de los colores primarios (azul, amarillo, rojo) para descubrir los secundarios, explorarán técnicas de estampación con elementos naturales (hojas, esponjas, frutas), moldearán esculturas de barro o pasta de secado al aire y crearán patrones rítmicos musicales utilizando cotidiáfonos e instrumentos de percusión indeterminada.
+<br>
+
+## Justificación
+<br>
+La Educación Artística en el inicio de la escolaridad primaria es un pilar indispensable para el desarrollo de la psicomotricidad fina, la imaginación, la sensibilidad estética y la inteligencia emocional.
+<br>
+Proporcionar un espacio donde no existe el error, sino la experimentación sensorial libre y guiada, permite al alumnado de 6 años exteriorizar sus emociones, descubrir las posibilidades expresivas de la materia y disfrutar de la creación artística individual y compartida.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Educación Artística (Plástica y Música).
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Organización e inauguración de la "Galería de Arte Multisensorial", donde se expondrán las pinturas de mezclas, las esculturas táctiles y se ofrecerá un concierto rítmico con cotidiáfonos fabricados por los propios alumnos.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Experimentar con la mezcla de colores primarios para obtener colores secundarios en producciones plásticas.
+- Explorar texturas visuales y táctiles mediante la técnica de la estampación y el frotado (*frottage*).
+- Desarrollar la destreza manipulatativa en el modelado tridimensional con arcilla o plastilina.
+- Discriminar cualidades del sonido (fuerte/suave, largo/corto, agudo/grave) en audiciones y juegos musicales.
+- Acompañar canciones sencillas marcando el pulso y el acento con instrumentos de percusión de aula y cotidiáfonos.
+- Valorar las producciones artísticas propias y las de los compañeros con actitud de respeto.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia emprendedora (CE).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Descubrir e investigar producciones artísticas del entorno cercano reconociendo sus elementos visuales y sonoros.
+- **CE2:** Experimentar de forma guiada con materiales, instrumentos y técnicas plásticas y musicales.
+- **CE3:** Producir obras artísticas sencillas individuales y colectivas expresando vivencias y emociones.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Educación Plástica:**
+  - El color: colores primarios (rojo, amarillo, azul) y su mezcla (verde, naranja, violeta).
+  - La textura táctil y visual: suave, rugoso, liso, áspero. Taller de estampación.
+  - El volumen: iniciación al modelado tridimensional.
+- **Educación Musical:**
+  - El sonido y el silencio. Cualidades del sonido (intensidad y duración).
+  - El pulso y el ritmo en canciones infantiles. Instrumentos de percusión Orff y cotidiáfonos.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Realiza mezclas de colores primarios consiguiendo los secundarios esperados.
+- Emplea técnicas plásticas manipulativas (estampación, modelado) con limpieza y creatividad.
+- Mantiene el pulso rítmico en canciones sencillas acompañándose de percusión.
+- Muestra cuidado en el uso de los materiales de pintura y música.
+- Expresa sus impresiones sobre las obras artísticas creadas en la galería.
+<br>
+
+## Metodología
+<br>
+
+Taller de experimentación artística (Art Workshop) y aprendizaje basado en la creación. Se organizan "Atelieres Creativos" de 4 alumnos.
+<br>
+
+## Sesión 1. El laboratorio de los colores primarios y las mezclas mágicas
+<br>
+
+### Activación inicial
+<br>
+Cuento ilustrado "Pincelín y los tres colores primarios" (Amarillo, Rojo y Azul).
+<br>
+
+### Calentamiento
+<br>
+Observación de botellas transparentes con agua teñida de los tres colores primarios.
+<br>
+
+### Actividad principal
+<br>
+Experimento de pintura con dedos/pinceles:
+1. Pintar tres círculos con colores primarios.
+2. Mezclar en recipientes: $Azul + Amarillo \to Verde$, $Rojo + Amarillo \to Naranja$, $Rojo + Azul \to Violeta$.
+<br>
+
+### Trabajo cooperativo
+<br>
+Crear el "Arcoíris del Atelier" pintando murales gigantes con las mezclas obtenidas.
+<br>
+
+### Desafío
+<br>
+Adivinar qué dos colores primarios necesitamos mezclar para conseguir el color de una manzana o de una hoja.
+<br>
+
+### Producto parcial
+<br>
+Mural de las Mezclas Mágicas de Color.
+<br>
+
+### Reflexión
+<br>
+¿Qué te ha parecido ver cómo dos colores se transforman en uno completamente nuevo delante de tus ojos?
+<br>
+
+## Sesión 2. Estampación con la naturaleza y frotado
+<br>
+
+### Activación inicial
+<br>
+Paseo por el patio para recoger elementos naturales del suelo (hojas secas, piñas, pequeñas ramas, cortezas).
+<br>
+
+### Calentamiento
+<br>
+Tocar las muestras recogidas con los ojos cerrados describiendo si son lisas, rugosas, pinchudas o suaves.
+<br>
+
+### Actividad principal
+<br>
+Técnicas de textura:
+- *Estampación:* impregnar hojas con pintura témpera y estamparlas sobre cartulina.
+- *Frottage:* colocar hojas bajo el papel y frotar por encima con ceras blando en horizontal.
+<br>
+
+### Trabajo cooperativo
+<br>
+Componer entre todos el "Bosque Texturizado de Otoño".
+<br>
+
+### Desafío
+<br>
+Conseguir que las nervaduras de la hoja se marquen perfectamente en el papel.
+<br>
+
+### Producto parcial
+<br>
+Láminas de estampación y textura natural.
+<br>
+
+### Reflexión
+<br>
+¿Cómo puede una simple hoja arrugada dejar una huella tan artística en el papel?
+<br>
+
+## Sesión 3. Escultores por un día: modelado en 3D
+<br>
+
+### Activación inicial
+<br>
+Observación y manipulación de piezas de barro, arcilla o masa de sal suave.
+<br>
+
+### Calentamiento
+<br>
+Gimnasia de dedos: amasar, hacer churritos, bolitas y pellizcos en la masa.
+<br>
+
+### Actividad principal
+<br>
+Modelado libre y guiado: creación de un animal fantástico o vasija pequeña utilizando las técnicas de la bola y el cilindro.
+<br>
+
+### Trabajo cooperativo
+<br>
+Unir las esculturas individuales sobre una peana de cartón para formar la "Ciudad de los Escultores".
+<br>
+
+### Desafío
+<br>
+Asegurar que la escultura se mantenga de pie sin caerse sobre la mesa.
+<br>
+
+### Producto parcial
+<br>
+Piezas tridimensionales secándose para el museo.
+<br>
+
+### Reflexión
+<br>
+¿En qué se diferencia pintar un dibujo plano a amasar una escultura que se puede tocar por todas partes?
+<br>
+
+## Sesión 4. Los cazadores de sonidos y el silencio
+<br>
+
+### Activación inicial
+<br>
+Juego del "Silencio absoluto": escuchar los ruidos imperceptibles del aula durante 30 segundos (la respiración, el viento, un reloj).
+<br>
+
+### Calentamiento
+<br>
+Eco corporal: imitar los ritmos con palmadas, pisotones y chasquidos que propone el docente.
+<br>
+
+### Actividad principal
+<br>
+Cualidades del sonido:
+- *Fuerte / Suave:* tocar el tambor como un gigante o como un ratoncito.
+- *Largo / Corto:* sonido de un triángulo vs. golpe de claves.
+<br>
+
+### Trabajo cooperativo
+<br>
+Acompañar un cuento sonoro: cada grupo hace sonar su instrumento de percusión cuando aparece su personaje en el relato.
+<br>
+
+### Desafío
+<br>
+Respetar el momento del silencio sin hacer sonar ningún instrumento hasta que el maestro levante la batuta.
+<br>
+
+### Producto parcial
+<br>
+Mapa de sonidos del cuento preparado.
+<br>
+
+### Reflexión
+<br>
+¿Por qué el silencio es tan importante para poder disfrutar de la música?
+<br>
+
+## Sesión 5. Fabricamos nuestros cotidiáfonos rítmicos
+<br>
+
+### Activación inicial
+<br>
+Muestra de instrumentos fabricados con materiales reciclados (maracas con botellas y garbanzos, castañuelas de cartón con chapas).
+<br>
+
+### Calentamiento
+<br>
+Probar cómo suena una botella vacía llena de arroz vs. una llena de lentejas.
+<br>
+
+### Actividad principal
+<br>
+Construcción del maracón o shaker de colores: decorar la botella de plástico con cinta adhesiva de colores e introducir las semillas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Ensayar en equipo la canción rítmica marcando el pulso constante con los cotidiáfonos construidos.
+<br>
+
+### Desafío
+<br>
+Tocar todos juntos al mismo tiempo sin acelerarse ni retrasarse del ritmo de la canción.
+<br>
+
+### Producto parcial
+<br>
+Cotidiáfonos terminados y afinados rítmicamente.
+<br>
+
+### Reflexión
+<br>
+¿Imaginabas que una simple botella de plástico vacía se podía convertir en un instrumento musical tan alegre?
+<br>
+
+## Sesión 6. Gran Galería de Arte Multisensorial y Concierto
+<br>
+
+### Activación inicial
+<br>
+Acondicionamiento del aula como una Galería de Arte con zonas de pintura, escultura y escenario musical.
+<br>
+
+### Calentamiento
+<br>
+Colocación de las tarjetas de artistas y ensayo de la bienvenida a los visitantes.
+<br>
+
+### Actividad principal
+<br>
+Inauguración de la Galería:
+1. *Visita guiada:* exposición de murales de mezcla, láminas de textura y esculturas.
+2. *Concierto rítmico:* interpretación de la canción de los cotidiáfonos ante el público visitante.
+<br>
+
+### Trabajo cooperativo
+<br>
+Compartir la responsabilidad de guiar a los visitantes y recoger los instrumentos tras el concierto.
+<br>
+
+### Desafío
+<br>
+Explicar a un visitante cómo conseguisteis el color verde o la textura de vuestra pintura.
+<br>
+
+### Producto parcial
+<br>
+Clausura de la Galería de Arte y entrega del diploma de Pequeño Artista.
+<br>
+
+### Reflexión
+<br>
+¿Qué parte de ser artista te ha gustado más: pintar con los dedos, modelar la masa o tocar la maraca?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Pinceles con mango engrosado de goma para facilitar el agarre en alumnado con dificultades motrices finas.
+- Mezclas de pintura en bolsas de sellado hermético para experimentar el color sin ensuciarse las manos (alumnado con aversión táctil).
+- Instrumentos de percusión adaptados con tiras de velcro para fijar a la mano.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Componer grafías musicales no convencionales (dibujar círculos grandes para sonidos fuertes y pequeños para suaves).
+- Mezclar tres colores para descubrir tonalidades tierra y matices complejos.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de producciones plásticas:** Valoración de la mezcla de colores, textura y volumen.
+- **Escala de observación rítmica y musical:** Mantenimiento del pulso, discriminación sonora y uso del cotidiáfono.
+- **Lista de control de cuidado del material:** Limpieza de pinceles, orden y respeto en el atelier.
+- **Registro de la exposición oral:** Capacidad para expresar impresiones sobre las obras creadas.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Obtiene colores secundarios mediante la mezcla intencionada de primarios.
+- Aplica técnicas de estampación y modelado tridimensional sencillo.
+- Sigue el pulso de una canción utilizando instrumentos de percusión o cotidiáfonos.
+- Muestra respeto y valoración por sus obras y las de sus compañeros.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Ciencias de la Naturaleza:** Elementos naturales (hojas, semillas) y sentidos.
+- **Matemáticas:** Formas geométricas tridimensionales y patrones rítmicos.
+- **Lengua Castellana:** Expresión de impresiones estéticas y vocabulario artístico.
+<br>
+
+## Relación con la vida real
+<br>
+
+El arte rodea nuestra vida cotidiana en el diseño de los libros, la música que escuchamos, la decoración de nuestras casas y el reciclaje creativo de materiales. Desarrollar la sensibilidad artística desde 1º de Primaria enriquece la mirada del niño sobre el mundo.
+<br>
+
+## Conclusión
+<br>
+
+"El taller del pequeño artista" demuestra que la creatividad infantil es inagotable cuando se ofrecen los estímulos y materiales adecuados. Al experimentar con el color, la forma, la textura y el sonido, el alumnado de 1º de Primaria descubre el placer de expresarse y comunicar su mundo interior con orgullo y sensibilidad.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-arbol-de-los-superpoderes-de-la-amistad-1-primaria",
+    title: "Situación de aprendizaje: El árbol de los superpoderes de la amistad para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Valores Cívicos y Éticos para 1º de Primaria sobre emociones básicas, empatía, resolución de enfados y normas de convivencia según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "valores-civicos",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria descubre sus 'superpoderes cívicos' (escuchar, compartir, pedir perdón, abrazar) para resolver enfados en el aula y construir el Árbol de la Convivencia.",
+    content: `
+# Situación de aprendizaje: El árbol de los superpoderes de la amistad para 1º de Primaria
+
+## Descripción
+<br>
+"El árbol de los superpoderes de la amistad" es una propuesta socioemocional y de Valores Cívicos concebida para 1º de Primaria. En esta aventura, los niños y niñas se convierten en "Superhéroes de la Convivencia" que deben descubrir e inteligenciar sus emociones básicas (alegría, tristeza, enfado, miedo y calma) y entrenar cuatro "superpoderes de la amistad": el superpoder de escuchar, el superpoder de compartir, el superpoder de pedir perdón y el superpoder de ayudar.
+<br>
+A través de dinámicas de dramatización, cuentos sobre dilemas cotidianos de patio y la creación del "Árbol de la Convivencia del Aula", los estudiantes aprenderán a regular sus enfados de forma pacífica y a construir relaciones basadas en la empatía y el respeto mutuo.
+<br>
+
+## Justificación
+<br>
+El salto a la Educación Primaria implica un proceso de adaptación social donde surgen de forma natural pequeños conflictos de convivencia en el juego y el trabajo en grupo. Para un niño de 6 años, aprender a nombrar lo que siente, comprender que los demás también tienen emociones y adquirir estrategias para resolver discrepancias sin gritos ni peleas es la piedra angular del éxito escolar y personal.
+<br>
+Esta situación de aprendizaje ofrece herramientas concretas de educación emocional y educación cívica que transforman el clima del aula en un entorno seguro, inclusivo y cooperativo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Valores Cívicos y Éticos.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Construcción colectiva del "Árbol de los Superpoderes de la Convivencia", un gran mural de cartón en relieve donde cada alumno coloca su hoja con la huella de su mano y la promesa de un superpoder cívico para el grupo.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Identificar y nombrar las emociones básicas (alegría, tristeza, enfado, miedo, calma) en uno mismo y en los demás.
+- Adquirir estrategias sencillas de autorregulación emocional ante el enfado o la frustración (la técnica de la tortuga, respiración del dragón tranquilo).
+- Practicar la empatía reconociendo cómo se sienten los compañeros en situaciones cotidianas de aula y patio.
+- Utilizar fórmulas de cortesía y comunicación respetuosa (por favor, gracias, lo siento, ¿te ayudo?).
+- Participar en la elaboración consensuada de las normas de convivencia de la clase.
+- Rechazar cualquier forma de exclusión o trato injusto en el juego.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Reconocer las propias emociones y las de los demás desarrollando la autorregulación y la empatía.
+- **CE2:** Responder a situaciones de conflicto mediante la comunicación respetuosa y el diálogo pacífico.
+- **CE3:** Comprender e interiorizar normas de convivencia democrática participando en el cuidado del grupo.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Educación emocional y conciencia de uno mismo:**
+  - Identificación de emociones básicas a través de expresiones faciales y corporales.
+  - Estrategias de autorregulación: la respiración consciente y el rincón de la calma.
+- **Convivencia y relaciones interpersonales:**
+  - Los superpoderes del diálogo: la escucha activa, el valor de pedir perdón y saber perdonar.
+  - La inclusión en el juego de patio: decir "¡Sí puedes jugar con nosotros!".
+  - Normas cívicas del aula y respeto a la diversidad.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Nombra las emociones básicas identificando sus manifestaciones en su cuerpo y rostro.
+- Aplica pautas simples de autorregulación emocional cuando se siente frustrado o enfadado.
+- Muestra conductas empáticas y de ayuda hacia sus compañeros en el aula y el patio.
+- Utiliza el diálogo respetuoso y las palabras mágicas de convivencia para resolver pequeños desacuerdos.
+- Participa activamente en la creación del Árbol de la Convivencia.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje dialógico y dramatización (Role-Playing socioemocional). Se estructuran "Escuadrones de la Amistad" de 4 alumnos.
+<br>
+
+## Sesión 1. El emociómetro y la brújula de lo que sentimos
+<br>
+
+### Activación inicial
+<br>
+Lectura del cuento "El Monstruo de Colores" o proyección de caritas emocionales.
+<br>
+
+### Calentamiento
+<br>
+Juego "Espejo emocional": el maestro dice una emoción y los niños ponen la cara y postura corporal asociada (sonrisa, ceño fruncido, ojos abiertos de miedo, cuerpo relajado).
+<br>
+
+### Actividad principal
+<br>
+Construcción del "Emociómetro de la Clase": colocar una pinza de madera con la foto de cada alumno sobre la zona de color de la emoción que siente al llegar al colegio.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, contar un momento en el que sintieron mucha alegría y un momento en el que sintieron miedo o tristeza.
+<br>
+
+### Desafío
+<br>
+Identificar qué emoción siente un compañero mirando únicamente la expresión de sus ojos y cejas.
+<br>
+
+### Producto parcial
+<br>
+Emociómetro funcional instalado en la entrada del aula.
+<br>
+
+### Reflexión
+<br>
+¿Pasa algo malo por sentirse triste o enfadado en algún momento del día?
+<br>
+
+## Sesión 2. El volcán del enfado y la respiración del dragón
+<br>
+
+### Activación inicial
+<br>
+Dramatización: "El día que a Tomás se le rompió la torre de bloques y sintió un volcán de fuego en la tripa".
+<br>
+
+### Calentamiento
+<br>
+Sensación corporal del enfado: apretar los puños fuerte, tensar los hombros y sentir cómo se acelera la respiración.
+<br>
+
+### Actividad principal
+<br>
+Aprender la "Técnica de la Tortuga y la Respiración del Dragón":
+1. *Alto:* paro mi cuerpo.
+2. *Me mezo:* me encojo como una tortuga en su caparazón.
+3. *Respiro:* tomo aire por la nariz lentamente y lo suelto suavemente para apagar el fuego del volcán.
+<br>
+
+### Trabajo cooperativo
+<br>
+Practicar la técnica en parejas cuando uno simula estar enfadado porque le han quitado un juguete.
+<br>
+
+### Desafío
+<br>
+Conseguir que la pluma de papel vuele en el aire utilizando solo la respiración suave y regulada.
+<br>
+
+### Producto parcial
+<br>
+Instalación del "Rincón de la Calma" con cojines, cuentos emocionales y botellas de la calma.
+<br>
+
+### Reflexión
+<br>
+¿Por qué no es bueno gritar o pegar cuando estamos muy enfadados?
+<br>
+
+## Sesión 3. Los cuatro superpoderes cívicos de la amistad
+<br>
+
+### Activación inicial
+<br>
+Ponerse las capas de superhéroes cívicos y presentar los 4 escudos de los superpoderes:
+1. *Superpoder 1:* Escuchar con el corazón.
+2. *Superpoder 2:* Compartir los materiales.
+3. *Superpoder 3:* Decir "Lo siento" de verdad.
+4. *Superpoder 4:* Invitar a jugar al que está solo.
+<br>
+
+### Calentamiento
+<br>
+Juego de asociación: emparejar situaciones problema con el escudo del superpoder que las resuelve.
+<br>
+
+### Actividad principal
+<br>
+Role-playing en pequeñas viñetas de teatro:
+- *Escena:* Dos niños quieren el mismo lápiz de color verde.
+- *Solución:* Aplicar el superpoder de compartir y pedir por favor.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada escuadrón dibuja una de las escenas de superpoderes resueltas de forma pacífica.
+<br>
+
+### Desafío
+<br>
+Decir tres palabras mágicas de cortesía seguidas durante la dinámica de juego.
+<br>
+
+### Producto parcial
+<br>
+Mural de los 4 Escudos de los Superpoderes.
+<br>
+
+### Reflexión
+<br>
+¿Cuál de los cuatro superpoderes crees que necesitas entrenar un poco más?
+<br>
+
+## Sesión 4. La patrulla del patio inclusivo
+<br>
+
+### Activación inicial
+<br>
+Observación de imágenes de situaciones reales de juego en el recreo: un niño sentado solo en un banco vs. un grupo jugando juntos al pilla-pilla.
+<br>
+
+### Calentamiento
+<br>
+Ponerse las "Gafas de la Empatía" (gafas de cartón sin cristales) para mirar al grupo desde el corazón del otro.
+<br>
+
+### Actividad principal
+<br>
+Diseño del "Banco de la Amistad del Patio": acordar que cuando alguien se siente triste o solo en el recreo se sentará en ese banco especial y los "Superhéroes de la Convivencia" irán a invitarlo a jugar.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar la lista de 5 juegos inclusivos donde todos pueden participar sin importar si corren rápido o despacio.
+<br>
+
+### Desafío
+<br>
+Asegurarse de que durante el recreo de hoy ningún compañero de clase se quede sin jugar.
+<br>
+
+### Producto parcial
+<br>
+Cartel del Banco de la Amistad instalado en el patio.
+<br>
+
+### Reflexión
+<br>
+¿Cómo te sientes cuando ves a un amigo sonreír porque le has invitado a jugar contigo?
+<br>
+
+## Sesión 5. Construimos el Árbol de la Convivencia
+<br>
+
+### Activación inicial
+<br>
+Llegada al aula del tronco gigante de cartón de nuestro árbol, que aún no tiene hojas.
+<br>
+
+### Calentamiento
+<br>
+Elegir la hoja de color que más nos guste para estampar la huella de nuestra mano con pintura témpera.
+<br>
+
+### Actividad principal
+<br>
+Construcción del mural:
+1. Estampar la mano en la hoja de papel.
+2. Escribir o dictar al docente el compromiso personal: *"Yo me comprometo a compartir mis colores"* o *"Yo me comprometo a abrazar cuando un amigo esté triste"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Pegar las hojas en las ramas del gran tronco completando la copa del Árbol de la Convivencia.
+<br>
+
+### Desafío
+<br>
+Firmar colectivamente el código de convivencia del aula estampando una estrella en la base del tronco.
+<br>
+
+### Producto parcial
+<br>
+Mural tridimensional del Árbol de los Superpoderes de la Amistad terminado.
+<br>
+
+### Reflexión
+<br>
+¿Por qué nuestro árbol necesita la hoja de todos y cada uno de los niños de la clase para estar lleno de vida?
+<br>
+
+## Sesión 6. Gran Fiesta de los Superhéroes de la Amistad
+<br>
+
+### Activación inicial
+<br>
+Ceremonia de graduación emocional y cívica. Los alumnos llevan sus capas de superhéroes.
+<br>
+
+### Calentamiento
+<br>
+Lectura del Manifiesto de la Amistad del Grupo por parte del portavoz de cada equipo.
+<br>
+
+### Actividad principal
+<br>
+Puesta en marcha del compromiso: entrega de medallas de madera de "Superhéroe de la Convivencia" entre compañeros en parejas, expresando qué es lo que más nos gusta de nuestro amigo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Danza en círculo cantando la canción de la amistad y dando un gran abrazo colectivo ("El Abrazo de Oso del Aula").
+<br>
+
+### Desafío
+<br>
+Recordar la técnica de la tortuga cuando sintamos enfado en los próximos días.
+<br>
+
+### Producto parcial
+<br>
+Entrega de diplomas oficiales de Convivencia y Amistad.
+<br>
+
+### Reflexión
+<br>
+¿Qué aprendimos sobre cómo tratarnos bien para estar felices todos los días en el colegio?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de la rueda de las emociones con fotografías con rostros de personas reales para facilitar la identificación emocional en alumnado con TEA o dificultades de comunicación.
+- Tarjetas de petición de ayuda visual con pictogramas ("Necesito espacio", "Quiero un abrazo", "Quiero jugar").
+- Guías de mediación sencillas apoyadas por el docente.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Redactar pequeños cómics ilustrados sobre la resolución de un conflicto de patio.
+- Ejercer el rol de "Mediador Junior" durante la semana en las actividades de recreo.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Escala de observación de la conducta socioemocional:** Identificación de emociones, empatía y autorregulación.
+- **Rúbrica del Árbol de la Convivencia:** Valoración de los compromisos individuales, respeto y calidad plástica.
+- **Lista de control de cortesía y clima de aula:** Frecuencia de uso de pautas de respeto y resolución verbal de enfados.
+- **Diario de observación del recreo:** Registro de dinámicas de juego inclusivo en el patio.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifica y expresa sus emociones nombrando las causas que las provocan.
+- Utiliza la respiración y la calma en situaciones de frustración.
+- Demuestra conductas empáticas y de apoyo hacia sus compañeros.
+- Cumple las normas de convivencia pactadas colectivamente en el aula.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Vocabulario emocional, comunicación oral y dramatización.
+- **Educación Artística:** Estampación, construcción de murales y diseño de capas.
+- **Educación Física:** Toma de conciencia corporal y control de la respiración.
+<br>
+
+## Relación con la vida real
+<br>
+
+Aprender a gestionar las emociones y a relacionarse desde la empatía y el respeto desde los 6 años construye las bases para prevenir el acoso escolar, favorece relaciones familiares sanas y prepara al alumnado para convivir pacíficamente en una sociedad diversa.
+<br>
+
+## Conclusión
+<br>
+
+"El árbol de los superpoderes de la amistad" demuestra que los valores cívicos no se aprenden de memoria, sino que se sienten y se practican cada día. Al descubrir que cuidar a los demás es el superpoder más grande del mundo, el alumnado de 1º de Primaria convierte su aula en un refugio de respeto, aprendizaje y alegría compartida.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-sembradores-de-alegria-1-primaria",
+    title: "Situación de aprendizaje: Sembradores de alegría para 1º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Religión Católica para 1º de Primaria sobre la Creación, el agradecimiento, la familia de Jesús y el cuidado de los demás según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "primero-de-primaria",
+    subject: "religion",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 1º de Primaria descubre la maravilla de la Creación, explora la infancia de Jesús en Nazaret y realiza un proyecto de siembra y agradecimiento cuidando de las plantas y los amigos.",
+    content: `
+# Situación de aprendizaje: Sembradores de alegría para 1º de Primaria
+
+## Descripción
+<br>
+"Sembradores de alegría" es una situación de aprendizaje de Religión Católica concebida para 1º de Primaria que propone un recorrido vivencial por el valor de la vida, el cuidado de la naturaleza como regalo de la Creación y el descubrimiento de la figura de Jesús de Nazaret como amigo que nos enseña a amar y ayudar a los demás.
+<br>
+A través de la metáfora de la siembra de una semilla real en el aula, canciones de agradecimiento, relatos bíblicos ilustrados y sencillas acciones de servicio en el colegio, el alumnado comprenderá la importancia de cuidar el entorno natural y cultivar valores de generosidad, paz y alegría en su vida cotidiana.
+<br>
+
+## Justificación
+<br>
+En el primer curso de Primaria, el área de Religión busca despertar en los niños y niñas la capacidad de asombro ante la belleza de la naturaleza, el sentido de agradecimiento por la vida y el descubrimiento de los valores evangélicos fundamentados en el amor a Dios y al prójimo.
+<br>
+Conectar la experiencia del crecimiento de una planta con el propio crecimiento personal y afectivo permite vivenciar la fe de forma sencilla, alegre e integradora, alineada con el cuidado de la casa común y el respeto hacia todas las personas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+1º de Primaria.
+<br>
+
+### Área
+<br>
+Religión Católica.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Creación del "Jardín de la Alegría y la Gratitud", un rincón verde en el colegio con macetas decoradas por los estudiantes con mensajes de paz y amor, acompañado de un mural ilustrado sobre la Creación y la vida de Jesús en Nazaret.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Reconocer la naturaleza y la vida como un regalo de la Creación que debemos cuidar con responsabilidad.
+- Conocer pasajes sencillos de la infancia de Jesús y la Sagrada Familia en Nazaret.
+- Descubrir la importancia del agradecimiento en la vida diaria mediante expresiones de oración y canciones.
+- Practicar valores de ayuda, respeto, perdón y generosidad con los compañeros y la familia.
+- Experimentar el proceso de siembra y cuidado de una planta como compromiso con la vida.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Reconocer la presencia de Dios en la naturaleza y en los relatos bíblicos identificando valores de cuidado y amor.
+- **CE2:** Comprender e interpretar la figura de Jesús como modelo de amistad, perdón y ayuda a los demás.
+- **CE3:** Manifestar actitudes de respeto, gratitud y fraternidad en la convivencia escolar y familiar.
+<br>
+
+## Saberes básicos
+<br>
+
+- **La Creación y el cuidado de la naturaleza:**
+  - La belleza del mundo natural como regalo: luz, agua, plantas, animales y personas.
+  - La responsabilidad en el cuidado del entorno (la casa común).
+- **Jesús y el mensaje del Evangelio:**
+  - La infancia de Jesús en Nazaret con María y José.
+  - Jesús nos enseña a ser buenos amigos y a compartir la alegría.
+- **Valores y vida cristiana:**
+  - La gratitud y la oración sencilla como diálogo de amor.
+  - Acciones de ayuda al prójimo: sembrar alegría.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Muestra una actitud de asombro y cuidado hacia la naturaleza y los seres vivos.
+- Identifica a los miembros de la familia de Jesús y pasajes sencillos de su infancia.
+- Utiliza palabras de agradecimiento y expresa actitudes de ayuda mutua en el aula.
+- Participa con entusiasmo en las actividades de siembra y cuidado del Jardín de la Alegría.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje vivencial y experiencial apoyado en la narración bíblica y el cuidado manipulativo de la naturaleza. Se organizan "Equipos Sembradores" de 4 alumnos.
+<br>
+
+## Sesión 1. El gran regalo de la naturaleza
+<br>
+
+### Activación inicial
+<br>
+Observación de una gran caja envuelta como regalo. Al abrirla, descubrimos elementos naturales: una flor hermosa, manzanas, agua limpia, tierra y fotos de niños sonriendo.
+<br>
+
+### Calentamiento
+<br>
+Paseo sensorial por el jardín del colegio con los ojos abiertos a la belleza: oler las plantas, tocar la tierra fresca y escuchar el canto de los pájaros.
+<br>
+
+### Actividad principal
+<br>
+Narración ilustrada de la historia de la Creación: cómo Dios pensó en un mundo lleno de luz, color y vida para que las personas vivieran felices y cuidadas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Componer el mural "Gracias por el Mundo" pegando imágenes de flores, animales, sol y ríos recortadas por los equipos.
+<br>
+
+### Desafío
+<br>
+Decir tres cosas del mundo natural por las que te sientes profundamente agradecido hoy.
+<br>
+
+### Producto parcial
+<br>
+Mural de la Creación y el Agradecimiento.
+<br>
+
+### Reflexión
+<br>
+¿Cómo cuidarías un juguete precioso que te ha regalado tu mejor amigo? ¿Hacemos lo mismo con el planeta?
+<br>
+
+## Sesión 2. Pequeños jardineros: la siembra de la semilla
+<br>
+
+### Activación inicial
+<br>
+Muestra de semillas de legumbres (garbanzos, alubias, lentejas) en la palma de la mano. ¿Cómo es posible que de algo tan pequeño nazca una planta llena de vida?
+<br>
+
+### Calentamiento
+<br>
+Juego de dramatización "El crecimiento de la semillita": los alumnos se encogen en el suelo como semillas y poco a poco van creciendo hacia la luz hasta convertirse en flores radiantes.
+<br>
+
+### Actividad principal
+<br>
+Taller de siembra:
+1. Decorar una maceta de plástico reciclada con pintura y pegatinas.
+2. Colocar la tierra fértil con la pala didáctica.
+3. Depositar la semilla con cuidado y regarla con unas gotas de agua.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar la "Guía del Buen Jardinero": compromisos del equipo para dar luz, agua y cariño diario a sus macetas.
+<br>
+
+### Desafío
+<br>
+Asegurarse de que la maceta quede colocada en el rincón más soleado de la ventana del aula.
+<br>
+
+### Producto parcial
+<br>
+Macetas individuales sembradas y colocadas en la ventana.
+<br>
+
+### Reflexión
+<br>
+¿Qué necesita una semilla para crecer fuerte y sana además de tierra y agua?
+<br>
+
+## Sesión 3. Jesús en Nazaret: una familia como la nuestra
+<br>
+
+### Activación inicial
+<br>
+Presentación de una lámina o figura de la Sagrada Familia en su taller y casa de Nazaret.
+<br>
+
+### Calentamiento
+<br>
+Diálogo sobre la infancia de Jesús: ¿A qué jugaría el pequeño Jesús con sus amigos? ¿Cómo ayudaba a María en la cocina y a José en el taller de carpintería?
+<br>
+
+### Actividad principal
+<br>
+Escucha de la canción "Jesús en Nazaret". Análisis de los valores de trabajo, ayuda familiar, respeto y alegría en el hogar de Nazaret.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo dibuja una escena de la vida cotidiana de Jesús ayudando a sus padres o jugando con sus vecinos.
+<br>
+
+### Desafío
+<br>
+Proponer una acción concreta para ayudar hoy a nuestras familias al volver del colegio.
+<br>
+
+### Producto parcial
+<br>
+Ficha ilustrada: "El hogar de Jesús y mi propio hogar".
+<br>
+
+### Reflexión
+<br>
+¿Por qué el amor y la ayuda mutua hacían que la casa de Nazaret estuviera siempre llena de alegría?
+<br>
+
+## Sesión 4. El arte de sembrar alegría en el colegio
+<br>
+
+### Activación inicial
+<br>
+Lectura del relato: "El niño que regalaba sonrisas e iluminaba los días nublados".
+<br>
+
+### Calentamiento
+<br>
+La cadena de la sonrisa: mirar fijamente al compañero de al lado y regalarle la sonrisa más bonita hasta que toda la clase esté sonriendo.
+<br>
+
+### Actividad principal
+<br>
+Descubrimiento de las "Semillas de la Alegría" (gestos que hacen felices a los demás): decir "gracias", compartir los juguetes, dar un abrazo, pedir perdón cuando nos equivocamos y consolar al que está triste.
+<br>
+
+### Trabajo cooperativo
+<br>
+Creación de las "Tarjetas de la Alegría": dibujar y redactar notas con mensajes bonitos (*"Eres un gran amigo", "Gracias por ayudarme"*) para regalárselas a personas del centro (conserje, cocineros, limpiadores, docentes).
+<br>
+
+### Desafío
+<br>
+Entregar en persona una tarjeta de agradecimiento a un trabajador del colegio de forma coordinada.
+<br>
+
+### Producto parcial
+<br>
+Entrega de las Tarjetas de la Alegría por el colegio.
+<br>
+
+### Reflexión
+<br>
+¿Cómo cambia la cara de una persona cuando le das las gracias con una sonrisa sincera?
+<br>
+
+## Sesión 5. Cuidamos nuestro Jardín de la Gratitud
+<br>
+
+### Activación inicial
+<br>
+Observación de las macetas de la ventana: ¡los primeros brotes verdes han salido de la tierra!
+<br>
+
+### Calentamiento
+<br>
+Medición con regla o dedos del crecimiento de los brotes verdes de la semilla.
+<br>
+
+### Actividad principal
+<br>
+Regado consciente y limpieza de las hojas de los brotes. Redacción de carteles con mensajes de la Biblia adaptados: *"Dios cuida de las flores y de nosotros"*, *"Amad a todos como Jesús nos enseñó"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Montaje del espacio "Jardín de la Alegría y la Gratitud" sobre el mueble de madera de la clase o rincón del patio interior.
+<br>
+
+### Desafío
+<br>
+Escribir un dibujo-oración de agradecimiento por los brotes que han crecido.
+<br>
+
+### Producto parcial
+<br>
+Jardín de la Gratitud montado y floreciendo.
+<br>
+
+### Reflexión
+<br>
+¿De qué manera nuestra fe y nuestro amor pueden crecer igual que esta plantita si los cuidamos cada día?
+<br>
+
+## Sesión 6. Celebración de los Sembradores de Alegría
+<br>
+
+### Activación inicial
+<br>
+Reunión en círculo alrededor del Jardín de la Gratitud con velitas led y música de fondo tranquila.
+<br>
+
+### Calentamiento
+<br>
+Ensayo del himno de la unidad: "Somos sembradores de alegría y paz".
+<br>
+
+### Actividad principal
+<br>
+Celebración de la Gratitud:
+1. Lectura compartida del texto de agradecimiento por la naturaleza y la amistad.
+2. Cada alumno coge su maceta brotada y la muestra al grupo diciendo su promesa de cuidado.
+<br>
+
+### Trabajo cooperativo
+<br>
+Llevar sus macetas a casa para regalárselas a sus familias como símbolo del amor y la alegría aprendidos.
+<br>
+
+### Desafío
+<br>
+Continuar regando y cuidando la planta en el hogar junto a los padres y hermanos.
+<br>
+
+### Producto parcial
+<br>
+Diploma oficial de "Sembrador de Alegría y Cuidado de la Naturaleza".
+<br>
+
+### Reflexión
+<br>
+¿Qué aprendimos sobre cómo hacer felices a los demás y cuidar el regalo de la vida?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de materiales táctiles en la siembra (tierra, agua, piedras) con adaptación para alumnado con aversión o dificultades de psicomotricidad fina.
+- Tarjetas de agradecimiento apoyadas con pictogramas SPC de alegría, familia y cuidado.
+- Relatos bíblicos dramatizados con títeres para mantener la atención visual.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Elaboración de un diario de fotos y dibujos del crecimiento diario de la planta.
+- Investigar pasajes bíblicos sobre la naturaleza (ej. *Los lirios del campo* o *El sembrador*).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del Jardín de la Gratitud:** Cuidados aplicados a la planta, compromiso y limpieza.
+- **Lista de control de valores evangélicos:** Uso de pautas de agradecimiento, ayuda mutua y respeto.
+- **Mural colectivo e ilustraciones:** Valoración de la comprensión de la Creación y la familia de Jesús.
+- **Escala de observación de la celebración:** Actitud participativa, respeto y alegría en la experiencia compartida.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce la naturaleza como un regalo que exige cuidado y responsabilidad.
+- Conoce la figura de Jesús, María y José en la infancia de Nazaret.
+- Expresa actitudes de gratitud y amabilidad en el entorno escolar.
+- Participa activamente en proyectos de siembra y servicio comunitario sencillo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Ciencias de la Naturaleza:** Germinación de plantas, seres vivos y cuidado ambiental.
+- **Educación Artística:** Decoración de macetas, pintura de murales y música.
+- **Lengua Castellana:** Expresión oral de la gratitud y redacción de tarjetas de felicitación.
+<br>
+
+## Relación con la vida real
+<br>
+
+Descubrir el valor del agradecimiento, el respeto por la naturaleza y el gozo de ayudar a los demás permite al alumnado de 1º de Primaria desarrollar una espiritualidad sana, abierta al diálogo y orientada al bien común y al cuidado del planeta.
+<br>
+
+## Conclusión
+<br>
+
+"Sembradores de alegría" demuestra cómo la clase de Religión Católica puede ser una fuente viva de esperanza, belleza y compromiso cívico. Al cuidar de una pequeña semilla y regalar sonrisas a su alrededor, el alumnado de 1º de Primaria descubre que cuando sembramos amor y gratitud, el mundo entero se transforma en un jardín de alegría.
+`
+  },
+{
   slug: "situacion-aprendizaje-cuentos-y-palabras-primero-primaria",
   title: "Situación de aprendizaje: Cuentos y palabras",
   metaDescription:
