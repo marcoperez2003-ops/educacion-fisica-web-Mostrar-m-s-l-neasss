@@ -23121,7 +23121,6 @@ Representación de un pequeño número de circo ante las familias o el resto del
 Rúbrica de tres niveles de logro sobre el control del equilibrio en las distintas estaciones.
 `
   },
-[
   {
     slug: "situacion-aprendizaje-mision-salvar-la-biodiversidad-6-primaria",
     title: "Situación de aprendizaje: Misión salvar la biodiversidad para 6º de Primaria",
@@ -24797,8 +24796,7 @@ La vivencia de la solidaridad y el descubrimiento del valor del voluntariado son
 
 "Construyendo un mundo solidario" demuestra cómo el área de Religión en 6º de Primaria impulsa la acción ética y el compromiso fraterno. Al pasar del análisis de los textos bíblicos a un proyecto real de Aprendizaje-Servicio, el alumnado descubre el valor de la fraternidad universal, experimentando que la fe y los valores se hacen plenamente visibles cuando se traducen en amor y servicio al prójimo.
 `
-  }
-],
+  },
   {
     slug: "situacion-aprendizaje-6-primaria-proyecto-final",
     title: "Situación de aprendizaje: organizamos unas olimpiadas escolares (6º Primaria)",
