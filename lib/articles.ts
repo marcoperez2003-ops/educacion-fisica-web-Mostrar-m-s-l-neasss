@@ -23121,6 +23121,1684 @@ Representación de un pequeño número de circo ante las familias o el resto del
 Rúbrica de tres niveles de logro sobre el control del equilibrio en las distintas estaciones.
 `
   },
+[
+  {
+    slug: "situacion-aprendizaje-mision-salvar-la-biodiversidad-6-primaria",
+    title: "Situación de aprendizaje: Misión salvar la biodiversidad para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Naturales para 6º de Primaria sobre ecosistemas, cadenas tróficas, biodiversidad y sostenibilidad según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "ciencias-naturales",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 6º de Primaria investiga la pérdida de biodiversidad en los ecosistemas locales y diseña un plan de acción ambiental con propuestas sostenibles.",
+    content: `
+# Situación de aprendizaje: Misión salvar la biodiversidad para 6º de Primaria
+
+## Descripción
+
+"Misión salvar la biodiversidad" es una situación de aprendizaje que involucra al alumnado de 6º de Primaria en una investigación ecológica profunda sobre los ecosistemas de su entorno y los factores que amenazan la biodiversidad global. Organizados como equipos de investigación biológica, los estudiantes analizarán las relaciones tróficas, las adaptaciones de los seres vivos y el impacto de la actividad humana en el equilibrio natural.
+
+A lo largo de seis sesiones, el alumnado identificará los principales problemas ambientales de su región (deforestación, contaminación, especies invasoras, pérdida de hábitat) y diseñará un Plan de Acción Ecológico Local que presentará ante la comunidad educativa.
+
+## Justificación
+
+El estudio de los ecosistemas en el tercer ciclo de Educación Primaria debe trascender la mera clasificación teórica de seres vivos y hábitats. Ante la crisis ambiental y el cambio climático, es fundamental que el alumnado comprenda la interconexión entre todas las especies y la responsabilidad humana en la preservación del planeta.
+
+Esta propuesta permite consolidar saberes sobre biología, ecología y desarrollo sostenible de forma contextualizada. Al conectar los contenidos del currículo con problemas reales del entorno cercano, se fomenta el pensamiento crítico, la conciencia ecológica y el compromiso ciudadano.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Ciencias de la Naturaleza.
+
+### Temporalización
+
+6 sesiones de 60 minutos (2 semanas).
+
+## Producto final
+
+Elaboración y difusión de una "Guía Interactiva y Plan de Acción para la Biodiversidad Local", que incluirá mapas de biodiversidad de la zona, maquetas de cadenas tróficas interactivas y propuestas concretas de conservación para el centro escolar y el municipio.
+
+## Objetivos didácticos
+
+- Comprender la estructura y funcionamiento de los ecosistemas terrestres y acuáticos.
+- Analizar redes e interrelaciones tróficas identificando productores, consumidores y descomponedores.
+- Investigar las principales causas de la pérdida de biodiversidad a escala local y global.
+- Evaluar las consecuencias de la intervención humana en el medio natural.
+- Diseñar propuestas de acción sostenibles para promover la conservación del entorno.
+- Utilizar vocabulario científico adecuado en la elaboración de informes y presentaciones.
+- Desarrollar actitudes de respeto y protección hacia los seres vivos y sus hábitats.
+
+## Competencias clave
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+- Competencia digital (CD).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia ciudadana (CC).
+
+## Competencias específicas
+
+- **CE1:** Utilizar dispositivos y recursos digitales de forma segura para buscar información científica sobre el medio natural.
+- **CE2:** Plantear hipótesis y realizar investigaciones sencillas sobre fenómenos biológicos y ecológicos.
+- **CE3:** Analizar las causas y consecuencias de la acción humana sobre los ecosistemas proponiendo hábitos sostenibles.
+- **CE4:** Diseñar y evaluar proyectos científicos cooperativos orientados a la mejora del entorno.
+
+## Saberes básicos
+
+- **Ecosistemas y biodiversidad:**
+  - Componentes bióticos y abióticos de un ecosistema.
+  - Relaciones intra e interespecíficas. Cadenas y redes tróficas.
+  - Adaptaciones de los seres vivos al medio.
+- **Impacto humano y sostenibilidad:**
+  - Pérdida de biodiversidad: extinción de especies, contaminación y fragmentación del hábitat.
+  - Cambio climático y sus efectos en la flora y fauna local.
+  - Acciones de protección: reservas naturales, reciclaje, consumo responsable y reforestación.
+
+## Criterios de evaluación
+
+- Explica las relaciones tróficas de un ecosistema mediante esquemas y redes alimentarias.
+- Identifica las causas de la alteración de los ecosistemas locales proponiendo soluciones viables.
+- Aplica el método científico en el diseño de investigaciones de campo o laboratorio.
+- Utiliza herramientas digitales para la recopilación y comunicación de datos biológicos.
+- Muestra conductas respetuosas con el medio ambiente en el centro escolar y la comunidad.
+
+## Metodología
+
+Se aplica el Aprendizaje Basado en la Indagación (IBL) combinado con el Aprendizaje-Servicio (ApS). El alumnado trabajará en equipos cooperativos de 4 integrantes (roles: Coordinador/a de investigación, Biólogo/a de campo, Diseñador/a ambiental y Portavoz científico).
+
+## Sesión 1. El misterio del ecosistema roto
+
+### Activación inicial
+Proyección de un vídeo noticioso ficticio sobre la desaparición repentina de una especie clave en un bosque local. Debate inicial: "¿Qué ocurriría si desaparecieran las abejas de nuestro entorno?".
+
+### Calentamiento
+Dinámica "La telaraña de la vida": los alumnos forman una red trófica con lana sosteniendo tarjetas de plantas, herbívoros y carnívoros. Cuando uno se cae, se observa cómo afecta a toda la red.
+
+### Actividad principal
+Análisis de los componentes abióticos (luz, temperatura, agua, suelo) y bióticos de tres ecosistemas representativos (bosque mediterráneo, humedal y zona urbana).
+
+### Trabajo cooperativo
+Cada equipo selecciona un ecosistema local para investigar y redacta su hipótesis sobre las amenazas principales que sufre.
+
+### Desafío
+Identificar al menos dos especies endémicas en peligro de extinción en la comunidad autónoma.
+
+### Producto parcial
+Ficha del Ecosistema de Estudio con la hipótesis inicial de investigación.
+
+### Reflexión
+¿Por qué ningún ser vivo puede sobrevivir de forma completamente aislada en la naturaleza?
+
+## Sesión 2. Redes tróficas y flujo de energía
+
+### Activación inicial
+Observación con lupas de muestras de suelo y descomponedores (lombrices, hongos, insectos) recogidos en el patio del colegio.
+
+### Calentamiento
+Clasificación rápida de seres vivos en productores, consumidores primarios, secundarios, terciarios y descomponedores.
+
+### Actividad principal
+Construcción de una pirámide de biomasa y representación gráfica del flujo de energía desde el sol hasta los depredadores superiores.
+
+### Trabajo cooperativo
+Diseño de una red trófica compleja interactiva utilizando simbología de flechas para representar el traspaso de energía.
+
+### Desafío
+Calcular qué porcentaje de energía se pierde en cada nivel trófico (regla del $10\%$).
+
+### Producto parcial
+Diagrama de la red trófica del ecosistema elegido.
+
+### Reflexión
+¿Qué función cumplen los descomponedores y por qué sin ellos el planeta se colapsaría?
+
+## Sesión 3. Diagóstico ambiental sobre el terreno
+
+### Activación inicial
+Salida al patio escolar o parque cercano para realizar una auditoría de biodiversidad mediante una app de identificación de flora y fauna (ej. Seek/iNaturalist).
+
+### Calentamiento
+Revisión de las pautas de observación científica y toma de datos en el cuaderno de campo.
+
+### Actividad principal
+Mapeo de especies encontradas, análisis de la calidad del suelo y detección de residuos sintéticos o señales de contaminación.
+
+### Trabajo cooperativo
+El/La Biólogo/a de campo registra los datos en una tabla compartida mientras el grupo fotografía las evidencias.
+
+### Desafío
+Calcular el índice de biodiversidad simplificado del área analizada.
+
+### Producto parcial
+Mapa de biodiversidad y diagnóstico de la salud ambiental del parque visitado.
+
+### Reflexión
+¿El patio de nuestro colegio favorece o dificulta la presencia de fauna autóctona?
+
+## Sesión 4. Amenazas globales y locales
+
+### Activación inicial
+Análisis de casos reales de estudio: la llegada del avispón asiático, la deforestación o la microplasticidad en los ríos.
+
+### Calentamiento
+Técnica de los "Seis sombreros para pensar" para analizar el impacto de la construcción de una carretera a través de un espacio protegido.
+
+### Actividad principal
+Investigación sobre las causas humanas directas de la pérdida de biodiversidad: alteración del hábitat, sobreexplotación, especies invasoras y cambio climático.
+
+### Trabajo cooperativo
+Redacción del informe de amenazas en el que cada equipo argumenta las consecuencias ambientales para su ecosistema de estudio.
+
+### Desafío
+Proponer alternativas sostenibles a la instalación de una industria contaminante en la zona.
+
+### Producto parcial
+Sección de Diagnóstico de Amenazas para la Guía Interactiva.
+
+### Reflexión
+¿Es posible el desarrollo económico sin destruir el entorno natural?
+
+## Sesión 5. Diseño del Plan de Acción Ecológico
+
+### Activación inicial
+Presentación de proyectos exitosos de renaturalización urbana y creación de microreservas escolares.
+
+### Calentamiento
+Lluvia de ideas de acciones concretas para aumentar la biodiversidad en el colegio (hoteles de insectos, comederos de aves, charcas pedagógicas).
+
+### Actividad principal
+Diseño detallado de tres medidas de conservación aplicables en el centro educativo y dos propuestas para el ayuntamiento.
+
+### Trabajo cooperativo
+El/La Diseñador/a ambiental elabora los planos y listas de materiales necesarios para ejecutar las medidas de conservación.
+
+### Desafío
+Calcular la reducción de la huella de carbono derivada de las medidas propuestas.
+
+### Producto parcial
+Borrador completo del Plan de Acción para la Biodiversidad.
+
+### Reflexión
+¿Qué pequeños cambios en nuestra rutina diaria generan un gran impacto en la conservación del planeta?
+
+## Sesión 6. Cumbre de la biodiversidad y presentación pública
+
+### Activación inicial
+Organización del espacio escolar para la celebración de la "I Cumbre Infantil por la Biodiversidad".
+
+### Calentamiento
+Ensayo de las intervenciones orales enfocadas en la persuasión y la fundamentación científica.
+
+### Actividad principal
+Exposición oral de los equipos ante otros cursos del colegio, familias y representantes de la comunidad. Presentación de la Guía Interactiva digital.
+
+### Trabajo cooperativo
+Defensa conjunta del Plan de Acción respondiendo a las preguntas de los asistentes y recogiendo firmas de compromiso ambiental.
+
+### Desafío
+Conseguir que el centro escolar asuma formalmente al menos dos de las propuestas presentadas.
+
+### Producto parcial
+Guía Interactiva publicada y compromiso medioambiental firmado.
+
+### Reflexión
+¿Cómo nos hemos sentido al convertirnos en portavoces del cuidado de la naturaleza?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Guías visuales simplificadas con pictogramas para la clasificación de seres vivos.
+- Uso de lectores de pantalla y diccionarios científicos ilustrados digitales.
+- Asignación de tareas operativas y manipulativas durante el muestreo de campo.
+
+### Adaptaciones de ampliación
+- Investigar la biotecnología aplicada a la conservación de especies en peligro crítico.
+- Diseñar un modelo matemático simulado sobre la dinámica de poblaciones (depredador-presa).
+
+## Evaluación
+
+### Instrumentos
+
+- **Rúbrica de la Guía Interactiva:** Evaluación de la precisión científica, estructura y calidad del contenido.
+- **Cuaderno de campo digital:** Verificación del rigor en la toma de datos de biodiversidad.
+- **Rúbrica de exposición oral:** Evaluación de la capacidad comunicativa y el uso del lenguaje científico.
+- **Escala de coevaluación del trabajo en equipo:** Registro de la colaboración y resolución pacífica de discrepancias.
+
+### Indicadores de logro
+
+- Describe las redes tróficas y las relaciones dentro de un ecosistema con rigor conceptual.
+- Argumenta el impacto negativo de las acciones humanas en la biodiversidad.
+- Propone soluciones sostenibles y realistas para la protección del medio natural.
+- Trabaja de manera eficaz y cooperativa en proyectos de indagación científica.
+
+## Interdisciplinariedad
+
+- **Lengua Castellana:** Redacción de informes científicos y estructuración de la presentación oral.
+- **Matemáticas:** Tratamiento de datos estadísticos, porcentajes e índices de biodiversidad.
+- **Educación Artística:** Diseño de maquetas tridimensionales y maquetación visual de la guía.
+
+## Relación con la vida real
+
+La conservación de la biodiversidad es una prioridad mundial recogida en los Objetivos de Desarrollo Sostenible (ODS 14 y 15). Comprender la salud de los ecosistemas cercanos capacita al alumnado para participar activamente como ciudadanía crítica y comprometida en la protección de su entorno.
+
+## Conclusión
+
+"Misión salvar la biodiversidad" convierte al alumnado de 6º de Primaria en agente activo de cambio ambiental. A través del rigor científico y el compromiso comunitario, la propuesta no solo consolida saberes clave del área de Ciencias Naturales, sino que desarrolla competencias fundamentales para la vida en un planeta que requiere respuestas sostenibles urgentemente.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-guardianes-del-patrimonio-historico-6-primaria",
+    title: "Situación de aprendizaje: Guardianes del patrimonio histórico para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Sociales para 6º de Primaria sobre la Edad Contemporánea, la Constitución y la Unión Europea alineada con la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "ciencias-sociales",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "Una investigación histórica y ciudadana donde el alumnado explora la Edad Contemporánea, la estructura política de España y el papel de la Unión Europea.",
+    content: `
+# Situación de aprendizaje: Guardianes del patrimonio histórico para 6º de Primaria
+
+## Descripción
+
+"Guardianes del patrimonio histórico" propone un viaje de investigación a través de la Historia de España y Europa desde el siglo XIX hasta la actualidad. El alumnado de 6º de Primaria asumirá el rol de historiadores, arqueólogos y gestores culturales encargados de diseñar un itinerario de patrimonio histórico y democrático para su municipio.
+
+A lo largo de las sesiones, los estudiantes investigarán los principales acontecimientos de la Edad Contemporánea, el proceso de transición hacia la democracia, los principios de la Constitución Española de 1978 y el papel de la Unión Europea en la construcción de una ciudadanía plural y pacífica.
+
+## Justificación
+
+El currículo de Ciencias Sociales en 6º de Primaria exige una comprensión crítica del tiempo histórico y del marco institucional en el que se desarrolla la convivencia democrática. El estudio de la Edad Contemporánea resulta clave para entender la sociedad actual, las libertades ciudadanas y la diversidad cultural de España y Europa.
+
+Al trabajar el patrimonio desde un enfoque participativo, el alumnado no solo memoriza fechas y acontecimientos, sino que comprende las transformaciones sociales, políticas y tecnológicas que han configurado el mundo presente, valorando los derechos humanos y las instituciones democráticas.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Ciencias Sociales.
+
+### Temporalización
+
+6 sesiones de 60 minutos (2 semanas).
+
+## Producto final
+
+Creación de la "Ruta Interactiva del Patrimonio Democrático y Contemporáneo", consistente en un mapa digital con puntos de interés históricos, audioguías redactadas y grabadas por el alumnado, y folletos informativos sobre la evolución de los derechos ciudadanos.
+
+## Objetivos didácticos
+
+- Ordenar cronológicamente los acontecimientos más relevantes de la Edad Contemporánea en España.
+- Comprender el origen, estructura y valores de la Constitución Española de 1978.
+- Analizar la organización territorial del Estado español y las instituciones de la Unión Europea.
+- Identificar y valorar el patrimonio histórico, artístico y cultural como un bien común que debe preservarse.
+- Utilizar fuentes históricas primarias y secundarias para investigar el pasado local.
+- Utilizar conceptos cronológicos e históricos con precisión.
+- Fomentar actitudes de tolerancia, respeto a la diversidad y defensa de los valores democráticos.
+
+## Competencias clave
+
+- Competencia ciudadana (CC).
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+
+## Competencias específicas
+
+- **CE1:** Buscar, seleccionar y organizar información de fuentes históricas contrastando su veracidad.
+- **CE2:** Comprender el marco social y político actual analizando los procesos históricos que lo han generado.
+- **CE3:** Valorar la diversidad cultural y el patrimonio histórico adoptando conductas para su protección.
+- **CE4:** Ejercer una ciudadanía activa y democrática basada en los derechos humanos y la Constitución.
+
+## Saberes básicos
+
+- **Sociedad y tiempo histórico:**
+  - La Edad Contemporánea en España: de la Revolución Industrial al siglo XXI.
+  - La Segunda República, la Guerra Civil y la Dictadura franquista: causas y consecuencias.
+  - La Transición democrática y la Constitución de 1978.
+- **Organización política y territorial:**
+  - Instituciones democráticas del Estado español (Congreso, Senado, Gobierno, Rey).
+  - La Unión Europea: origen, objetivos e instituciones principales.
+- **Patrimonio cultural:**
+  - Conservación y puesta en valor del patrimonio material e inmaterial.
+
+## Criterios de evaluación
+
+- Sitúa en líneas del tiempo los acontecimientos fundamentales de la Edad Contemporánea.
+- Explica la estructura de la Constitución Española y los derechos fundamentales que recoge.
+- Describe las funciones de las principales instituciones de España y la Unión Europea.
+- Muestra respeto por el patrimonio histórico de su entorno promoviendo su defensa.
+- Analiza críticamente fuentes históricas diversas identificando su tipología.
+
+## Metodología
+
+La propuesta utiliza el Aprendizaje Basado en Problemas (ABP) y la investigación histórica. Se organizarán "Comisiones de Patrimonio Historico" con roles rotativos: Historiador/a principal, Documentalista digital, Cronista social y Diseñador/a de rutas.
+
+## Sesión 1. La cápsula del tiempo del siglo XIX y XX
+
+### Activación inicial
+Descubrimiento en el aula de una "caja del tiempo" con réplicas de objetos históricos (periódicos antiguos, fotografías en blanco y negro, monedas, cartas).
+
+### Calentamiento
+Línea del tiempo humana: los alumnos reciben tarjetas con fechas o eventos e intentan ordenarse cronológicamente de forma cooperativa.
+
+### Actividad principal
+Introducción a la Edad Contemporánea en España: la llegada de la Revolución Industrial, los cambios en el transporte (el ferrocarril) y la transformación de las ciudades.
+
+### Trabajo cooperativo
+Análisis en grupos de fuentes primarias (imágenes y textos de época) para identificar cómo cambió la vida cotidiana entre 1800 y 1900.
+
+### Desafío
+Descifrar un mensaje en código morse enviado por los primeros telegrafistas del siglo XIX.
+
+### Producto parcial
+Ficha de análisis de fuentes primarias de la primera etapa contemporánea.
+
+### Reflexión
+¿Cómo influyó la invención de las máquinas en la vida de las personas trabajadoras del siglo XIX?
+
+## Sesión 2. Del conflicto a la concordia: el siglo XX español
+
+### Activación inicial
+Proyección de testimonios grabados de personas mayores de la localidad recordando la segunda mitad del siglo XX.
+
+### Calentamiento
+Vocabulario histórico: clarificar conceptos clave como "monarquía", "república", "dictadura" y "democracia".
+
+### Actividad principal
+Estudio de los grandes hitos del siglo XX español: la Segunda República, el impacto de la Guerra Civil, la etapa franquista y el valor histórico de la Transición.
+
+### Trabajo cooperativo
+Confección de un eje cronológico interactivo destacando los avances y retrocesos en las libertades individuales durante el siglo XX.
+
+### Desafío
+Identificar qué derechos actuales no existían en España antes de la Constitución de 1978.
+
+### Producto parcial
+Línea del tiempo analítica sobre las libertades democráticas en el siglo XX.
+
+### Reflexión
+¿Por qué el diálogo y el consenso son indispensables para evitar los conflictos sociales?
+
+## Sesión 3. La Constitución de 1978 y nuestros derechos
+
+### Activación inicial
+Lectura dramatizada del Preámbulo de la Constitución Española adaptado a lenguaje infantil.
+
+### Calentamiento
+Juego de asociación: relacionar derechos fundamentales (educación, salud, libertad de expresión) con situaciones del día a día.
+
+### Actividad principal
+Análisis de la estructura del Estado español: división de poderes (legislativo, ejecutivo y judicial) y la organización territorial en Comunidades Autónomas.
+
+### Trabajo cooperativo
+Redacción de un "Manifiesto por la Convivencia Escolar" inspirado en los artículos de la Constitución sobre derechos y deberes.
+
+### Desafío
+Resolver un caso práctico de debate jurídico simulado sobre la libertad de expresión en medios digitales.
+
+### Producto parcial
+Mural comparativo sobre la separación de poderes e instituciones del Estado.
+
+### Reflexión
+¿Por qué no puede haber derechos ciudadanos sin los correspondientes deberes de convivencia?
+
+## Sesión 4. España en la Unión Europea
+
+### Activación inicial
+Escucha del Himno de la Alegría (Novena Sinfonía de Beethoven) y observación de la bandera de la Unión Europea.
+
+### Calentamiento
+Quiz interactivo de geografía sobre los países miembros de la UE y sus capitales.
+
+### Actividad principal
+Investigación sobre el origen de la Unión Europea tras la Segunda Guerra Mundial con el objetivo de garantizar la paz y la cooperación económica.
+
+### Trabajo cooperativo
+Cada equipo investiga una institución europea (Parlamento Europeo, Comisión Europea, Consejo) y elabora una ficha explicativa de sus funciones.
+
+### Desafío
+Calcular los beneficios del Euro y de la libre circulación de personas (Espacio Schengen) para un viaje escolar interrail.
+
+### Producto parcial
+Infografía interactiva "España en el corazón de Europa".
+
+### Reflexión
+¿Qué ventajas aporta pertenecer a una comunidad de países democráticos unidos?
+
+## Sesión 5. Mapeo y creación de la Ruta Patrimonial
+
+### Activación inicial
+Muestra de planos urbanos antiguos y modernos del municipio para detectar edificios o lugares históricos.
+
+### Calentamiento
+Uso de herramientas de geolocalización (ej. Google Maps / OpenStreetMap) para ubicar los monumentos locales.
+
+### Actividad principal
+Selección de los puntos clave para la "Ruta Interactiva del Patrimonio". Redacción de las audioguías explicativas asociadas a cada monumento o lugar histórico.
+
+### Trabajo cooperativo
+Grabación de los audios por parejas cuidando la vocalización, la entonación y el rigor del texto histórico redactado.
+
+### Desafío
+Generar códigos QR que enlacen los audios con el mapa impreso de la ruta.
+
+### Producto parcial
+Audioguías grabadas y mapa digital georreferenciado con los códigos QR.
+
+### Reflexión
+¿Por qué cuidar los monumentos antiguos de nuestro pueblo o ciudad es una forma de respetar nuestra propia historia?
+
+## Sesión 6. Presentación de los Guardianes del Patrimonio
+
+### Activación inicial
+Acondicionamiento del aula como punto de información turística e histórica municipal.
+
+### Calentamiento
+Ensayo de atención al público y presentación de la ruta ante las familias y autoridades locales convidadas.
+
+### Actividad principal
+Inauguración de la "Ruta del Patrimonio Contemporáneo". El alumnado guía a los visitantes a través del mapa interactivo proyectado y reparte los folletos.
+
+### Trabajo cooperativo
+Atención a los estadios de la exposición compartiendo la responsabilidad de explicar los diferentes periodos históricos.
+
+### Desafío
+Entregar una propuesta formal al Ayuntamiento para la colocación de las placas con los códigos QR en los monumentos reales.
+
+### Producto parcial
+Entrega pública del proyecto de conservación e itinerario cultural.
+
+### Reflexión
+¿Cómo ha cambiado nuestra forma de mirar las calles y edificios de nuestro municipio tras este proyecto?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Textos históricos adaptados con lectura fácil y apoyos gráficos.
+- Guías de grabación de audio con frases de inicio preconcebidas.
+- Ejes cronológicos manipulativos con tarjetas de madera y códigos de color por épocas.
+
+### Adaptaciones de ampliación
+- Investigar sobre la arquitectura del hierro y las transformaciones urbanísticas del siglo XIX en las grandes capitales europeas.
+- Analizar tratados internacionales de protección del patrimonio mundial por la UNESCO.
+
+## Evaluación
+
+### Instrumentos
+
+- **Rúbrica de la Ruta Patrimonial:** Evaluación del contenido histórico, precisión de fechas y uso de recursos digitales.
+- **Rúbrica de las Audioguías:** Valoración de la expresión oral, claridad y rigor conceptual.
+- **Cuestionario de conocimientos históricos:** Prueba escrita individual sobre la Edad Contemporánea y la Constitución.
+- **Escala de observación ciudadana:** Evaluación de la actitud democrática y participativa en el aula.
+
+### Indicadores de logro
+
+- Identifica y ordena cronológicamente las fases de la Edad Contemporánea en España.
+- Detalla los principios rectores de la Constitución Española de 1978.
+- Enumera las funciones de las principales instituciones españolas y europeas.
+- Diseña itinerarios de puesta en valor del patrimonio cultural con soporte tecnológico.
+
+## Interdisciplinariedad
+
+- **Lengua Castellana:** Redacción de guiones informativos y locución de audioguías.
+- **Educación Artística:** Diseño gráfico de folletos turísticos e infografías.
+- **Matemáticas:** Cálculo de escalas en mapas urbanos y gestión del tiempo en la ruta.
+
+## Relación con la vida real
+
+Comprender la estructura política, la historia reciente y las normas constitucionales de España y Europa resulta imprescindible para el ejercicio de una ciudadanía plena, consciente de sus derechos y comprometida con el mantenimiento de la paz y la democracia.
+
+## Conclusión
+
+"Guardianes del patrimonio histórico" conecta el pasado contemporáneo con el presente democrático del alumnado. A través de la investigación y la creación de un producto útil para el municipio, los estudiantes de 6º de Primaria no solo aprenden Ciencias Sociales, sino que asumen el compromiso de cuidar la memoria, el patrimonio y la convivencia en su comunidad.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-eco-warriors-of-the-future-6-primaria",
+    title: "Situación de aprendizaje: Eco-Warriors of the Future para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Inglés para 6º de Primaria sobre sostenibilidad, creación de un podcast medioambiental y concienciación global bajo la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "ingles",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "Students become environmental reporters creating a digital podcast in English to raise awareness about climate change and sustainable habits.",
+    content: `
+# Situación de aprendizaje: Eco-Warriors of the Future para 6º de Primaria
+
+## Descripción
+
+"Eco-Warriors of the Future" is a project-based learning unit designed for 6th-grade Primary students. Acting as international environmental journalists, students will research current ecological challenges, discuss sustainable solutions, and produce an English-language podcast series titled "Green Voices for the Planet".
+
+Throughout the six sessions, students will develop oral and written communication skills in English by interviewing experts, writing persuasive scripts, and debating climate action using key vocabulary related to ecosystems, pollution, renewable energy, and the 3 Rs (Reduce, Reuse, Recycle).
+
+## Justificación
+
+Learning a foreign language in 6th Grade must go beyond rote grammar exercises; it needs to empower students to communicate meaningful ideas about global issues. Climate change and environmental sustainability provide an authentic, engaging context for real-world language application.
+
+By creating a podcast in English, students practice all four communicative skills (listening, speaking, reading, and writing) within a collaborative digital framework, building confidence in oral expression and expanding their intercultural competence.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Lengua Extranjera (Inglés).
+
+### Temporalización
+
+6 sessions of 60 minutes (2 weeks).
+
+## Producto final
+
+Production and publishing of the school podcast series "Green Voices for the Planet", consisting of 3-minute recorded audio episodes in English featuring interviews, eco-tips, and persuasive speeches.
+
+## Objetivos didácticos
+
+- Express opinions, arguments, and agreement/disagreement about environmental issues in English.
+- Use specific vocabulary related to nature, sustainability, climate change, and technology.
+- Apply connectors of cause and effect (*because, so, therefore, as a result*) and modal verbs (*should, must, can*) in spoken and written texts.
+- Record and edit digital audio files using accessible tools (e.g., Audacity or Soundtrap).
+- Understand main ideas and specific information from short English audio podcasts and videos.
+- Work cooperatively in small editorial teams respecting different roles and deadlines.
+
+## Competencias clave
+
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia en conciencia y expresión culturales (CCEC).
+
+## Competencias específicas
+
+- **CE1:** Comprender el sentido global e información específica de textos orales en lengua extranjera.
+- **CE2:** Producir textos orales estructurados e inteligibles sobre temas de interés personal o global.
+- **CE3:** Interactuar con otras personas en situaciones comunicativas cotidianas mostrando empatía e interés.
+- **CE5:** Usar herramientas digitales para buscar información, colaborar y crear contenidos comunicativos en inglés.
+
+## Saberes básicos
+
+- **Communicative functions & vocabulary:**
+  - Environmental terminology: *renewable energy, deforestation, global warming, carbon footprint, single-use plastic, recycling*.
+  - Expressing obligation, advice, and possibility: *We must protect, You should reduce, We can recycle*.
+  - Cause and effect structures: *If we pollute the ocean, marine life suffers*.
+- **Discourse conventions & digital literacy:**
+  - Structure of a podcast episode: *Intro jingle, introduction, body interview/report, eco-tip of the day, sign-off*.
+  - Pronunciation, intonation, and rhythm in English public speaking.
+
+## Criterios de evaluación
+
+- Identifica las ideas principales y secundarias en podcasts breves sobre el medio ambiente en inglés.
+- Produce un guion radiofónico bien estructurado utilizando conectores y léxico específico.
+- Pronuncia de forma clara y fluida manteniendo una entonación adecuada durante la grabación del podcast.
+- Emplea recursos digitales para la edición y publicación de archivos de audio en grupo.
+- Muestra una actitud proactiva y respetuosa en la comunicación en lengua extranjera.
+
+## Metodología
+
+Task-Based Language Teaching (TBLT) integrated with Cooperative Learning. Students work in podcast crews of 4 members: Host/Presenter, Environmental Expert, Sound Engineer, and Script Editor.
+
+## Session 1. The Planet Emergency Challenge
+
+### Activación inicial
+Watch a short video clip featuring youth climate activists speaking in English (e.g., Greta Thunberg or youth ambassadors). Class brainstorm on the board: "What hurts our planet?".
+
+### Calentamiento
+Vocabulary race: Matching environmental problem cards (*plastic pollution, smog, deforestation*) with their corresponding picture and definition.
+
+### Actividad principal
+Introduction to the project goal: Creating "Green Voices for the Planet" podcast. Analysis of a sample podcast script identifying key sections (*Hook, Topic, Guest Interview, Call to Action*).
+
+### Trabajo cooperativo
+Forming podcast crews. Teams choose their main topic (*Ocean Protection, Energy Saving, Zero Waste at School, Green Cities*).
+
+### Desafío
+Drafting a catchy slogan in English for their podcast show (e.g., "Small Steps, Big Impact!").
+
+### Producto parcial
+Team Charter & Chosen Topic Card with slogan.
+
+### Reflexión
+Why is English an effective language for spreading messages about global issues around the world?
+
+## Session 2. Building our Green Vocabulary
+
+### Activación inicial
+Listening task: Students listen to an eco-report in English and complete a fill-in-the-gaps worksheet focusing on modal verbs (*should / must / shouldn't*).
+
+### Calentamiento
+"Mind Your Carbon Footprint" game: Categorizing daily activities into Low Carbon or High Carbon actions using English flashcards.
+
+### Actividad principal
+Language focus: Using conditional sentences (*If we recycle plastic, we save energy*) and modal structures for giving advice on saving the planet.
+
+### Trabajo cooperativo
+Teams write 5 golden rules for their topic area using structures like *We must reduce...* and *People should avoid...*.
+
+### Desafío
+Transform 3 negative habits into positive eco-actions in less than two minutes speaking only in English.
+
+### Producto parcial
+Draft list of Eco-Tips & Grammar Focus Sheet.
+
+### Reflexión
+How do modal verbs help us sound persuasive and polite when giving advice to others?
+
+## Session 3. Writing the Podcast Script
+
+### Activación inicial
+Analyzing an interview structure. How to ask engaging questions in English (*What can we do to...? Why is it important to...?*).
+
+### Calentamiento
+Rapid-fire question drill in pairs: Practicing interview roles using prompt cards.
+
+### Actividad principal
+Writing the complete script for a 3-minute episode. The Script Editor coordinates the writing, ensuring every team member has a speaking role.
+
+### Trabajo cooperativo
+Peer editing round: Teams swap scripts with another group to check spelling, grammar, and sentence transitions using a checklist.
+
+### Desafío
+Include at least three transition words (*First of all, Furthermore, On the other hand, In conclusion*) seamlessly in the text.
+
+### Producto parcial
+Completed and revised Podcast Script in English.
+
+### Reflexión
+What was the most challenging part of writing a natural conversation in a foreign language?
+
+## Session 4. Rehearsal & Pronunciation Workshop
+
+### Activación inicial
+Teacher demonstration of vocal techniques: pacing, word stress, intonation, and clear articulation in English speaking.
+
+### Calentamiento
+Tongue twisters in English to warm up voice and pronunciation (e.g., *Clean green ecosystems create cool communities*).
+
+### Actividad principal
+Rehearsal session in small groups. Students record draft voice notes on a mobile device and listen back to identify words requiring pronunciation adjustments.
+
+### Trabajo cooperativo
+The Sound Engineer monitors voice clarity and time management while team members practice their lines.
+
+### Desafío
+Deliver lines without looking at the script for more than 5 seconds at a time (maintaining eye contact with the microphone/audience).
+
+### Producto parcial
+Audio rehearsal draft reviewed with teacher feedback.
+
+### Reflexión
+How does listening to our own recorded voice help us improve our English pronunciation?
+
+## Session 5. Recording & Digital Editing
+
+### Activación inicial
+Introduction to digital audio recording software (e.g., Audacity / GarageBand / Soundtrap). How to import royalty-free background music and jingles.
+
+### Calentamiento
+Selecting suitable background soundscapes (nature sounds, upbeat acoustic music) matching the podcast tone.
+
+### Actividad principal
+Official podcast recording in a quiet zone of the school. The Sound Engineer manages levels, cuts errors, and overlays sound effects.
+
+### Trabajo cooperativo
+Collaborative editing: Students assemble voice tracks, intro music, and sound transitions into a final MP3 file.
+
+### Desafío
+Ensure the final episode duration is strictly between 2 minutos 30 segundos and 3 minutos 30 segundos.
+
+### Producto parcial
+Final Master Audio File (.mp3) of the podcast episode.
+
+### Reflexión
+How did digital tools enhance our final language output?
+
+## Session 6. Podcast Premiere & Listener's Choice Awards
+
+### Activación inicial
+Classroom transformed into a radio studio. Displaying digital album covers designed by each podcast team.
+
+### Calentamiento
+Distributing "Listener's Peer Feedback Sheets" with rubrics evaluating clarity, vocabulary, creativity, and message impact.
+
+### Actividad principal
+Listening party: Broadcasting all podcast episodes. Students listen to their peers' work and write short constructive feedback notes in English.
+
+### Trabajo cooperativo
+Teams collect their feedback sheets and present their reflection on the global impact of their episode.
+
+### Desafío
+Publishing the episode on the school blog/website with a short written summary (show notes) in English.
+
+### Producto parcial
+Published Podcast Series on the school blog with listener feedback.
+
+### Reflexión
+How can we continue being "Eco-Warriors" in our daily lives outside of school?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Sentence starters and vocabulary banks provided for scriptwriting.
+- Shorter speaking lines assigned to students needing reading/speaking support.
+- Audio recordings with visual cues and transcriptions.
+
+### Adaptaciones de ampliación
+- Advanced students take on the role of live debate moderators or write extended show notes in English.
+- Research complex environmental topics such as ocean acidification or circular economy models.
+
+## Evaluación
+
+### Instrumentos
+
+- **Podcast Script Rubric:** Evaluating grammar accuracy, vocabulary usage, structure, and coherence in English.
+- **Oral Performance & Pronunciation Rubric:** Assessing fluency, intonation, clarity, and pacing during the recording.
+- **Peer Evaluation Form:** Measuring teamwork, responsibility, and support during group work.
+- **Self-Assessment Reflection Journal:** Written reflection in English on personal learning progress.
+
+### Indicadores de logro
+
+- Uses environmental vocabulary and grammar structures (modals, conditionals) accurately in context.
+- Speaks with acceptable fluency and clear pronunciation in a recorded English audio product.
+- Collaborates effectively in digital media production tasks.
+- Shows awareness of global environmental challenges through creative language expression.
+
+## Interdisciplinariedad
+
+- **Ciencias Naturales:** Environmental concepts, ecosystems, and conservation strategies.
+- **Educación Artística:** Album art design and audio editing/mixing techniques.
+- **Competencia Digital:** Audio recording technology, cloud sharing, and digital publishing.
+
+## Relación con la vida real
+
+Podcasting is a major modern medium for global communication. Engaging with real-world topics like environmental protection in English connects students with global youth movements, fostering active citizenship and functional multilingualism.
+
+## Conclusión
+
+"Eco-Warriors of the Future" successfully integrates foreign language learning with environmental awareness and digital skills. By producing a professional-sounding podcast series, 6th-grade students experience the power of using English as a real tool for global expression and positive change.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-museo-de-las-emociones-y-el-arte-6-primaria",
+    title: "Situación de aprendizaje: El museo de las emociones y el arte para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Educación Artística para 6º de Primaria basada en las vanguardias artísticas, diseño de instalaciones y expresión musical.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "educacion-artistica",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 6º de Primaria investiga los movimientos artísticos contemporáneos y crea un museo interactivo combinando arte plástico, música y emoción.",
+    content: `
+# Situación de aprendizaje: El museo de las emociones y el arte para 6º de Primaria
+
+## Descripción
+
+"El museo de las emociones y el arte" invita al alumnado de 6º de Primaria a explorar la relación simbiótica entre las artes plásticas, la música y el universo de las emociones humanas. Asumiendo los roles de comisarios de arte, artistas plásticos y compositores sonoros, los estudiantes investigarán las vanguardias artísticas del siglo XX y XXI (impresionismo, expresionismo, arte abstracto, surrealismo y arte sonoro) para diseñar una exposición museística interactiva en el propio centro escolar.
+
+A lo largo del proyecto, cada equipo creará una instalación artística tridimensional y una composición sonora ambiental inspiradas en una emoción concreta (alegría, calma, valentía, nostalgia, asombro o tristeza), guiando a los visitantes a través de un recorrido sensorial e interactivo.
+
+## Justificación
+
+La Educación Artística en el último curso de Primaria debe superar la mera reproducción técnica para convertirse en un canal de reflexión estética, juicio crítico y expresión emocional. Las vanguardias artísticas revolucionaron la forma de entender el arte, priorizando la emoción, la abstracción y la experimentación por encima del realismo figurativo.
+
+Esta propuesta integra el lenguaje plástico y el lenguaje musical en un proyecto unificado de diseño espacial. El alumnado aprende a interpretar el código del color, la textura, la forma y el timbre musical como vehículos para comunicar estados afectivos y conceptos abstractos, desarrollando la sensibilidad artística y la inteligencia emocional.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Educación Artística (Educación Plástica y Música).
+
+### Temporalización
+
+6 sesiones de 60 minutos (2 semanas).
+
+## Producto final
+
+Montaje de la exposición interactiva "El Museo de las Emociones", abierta a la comunidad educativa, que integrará instalaciones plásticas en 3D, composiciones musicales ambientales y fichas fichas curatoriales redactadas por los estudiantes.
+
+## Objetivos didácticos
+
+- Conocer y analizar las principales características de los movimientos artísticos contemporáneos.
+- Utilizar técnicas plásticas mixtas (escultura, collage, ensamblaje) para expresar conceptos abstractos y emociones.
+- Crear paisajes sonoros y composiciones musicales utilizando cotidiáfonos, instrumentos de aula y recursos digitales.
+- Comprender la simbología del color, las formas geométricas y las texturas en la comunicación visual.
+- Diseñar y montar una exposición artística considerando la distribución espacial y la experiencia del espectador.
+- Desarrollar la capacidad de análisis crítico y el respeto hacia producciones artísticas diversas.
+- Fomentar el trabajo cooperativo en la gestión de proyectos culturales.
+
+## Competencias clave
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+- Competencia emprendedora (CE).
+
+## Competencias específicas
+
+- **CE1:** Descubrir e investigar propuestas artísticas de diferentes épocas y culturas analizando sus elementos formales y emocionales.
+- **CE2:** Experimentar con las posibilidades expresivas del cuerpo, la luz, el color, el sonido y la materia en creaciones propias.
+- **CE3:** Producir obras artísticas individuales y colectivas integrando diferentes lenguajes (plástico, musical, performativo).
+- **CE4:** Compartir y difundir producciones artísticas evaluando el proceso creativo y el impacto en el público.
+
+## Saberes básicos
+
+- **Educación Plástica:**
+  - Vanguardias artísticas del siglo XX: Impresionismo, Expresionismo, Abstracción y Surrealismo.
+  - El espacio tridimensional: escultura, instalación artística y ensamblaje.
+  - Psicología del color, contraste, textura visual y táctil.
+- **Educación Musical:**
+  - El paisaje sonoro: textura musical, timbre, intensidad y ritmo como elementos expresivos.
+  - Creación musical mediante instrumentos de percusión orff, cotidiáfonos y aplicaciones de edición de audio (ej. Chrome Music Lab).
+- **Comisariado y gestión cultural:**
+  - Organización de espacios expositivos y redacción de textos museográficos.
+
+## Criterios de evaluación
+
+- Relaciona obras de arte consagradas con su contexto y la emoción que transmiten.
+- Aplica conceptos de color, textura y volumen en la creación de una instalación artística colectiva.
+- Diseña paisajes sonoros coherentes con la temática emocional elegida.
+- Participa activamente en el diseño y montaje de la exposición museográfica.
+- Utiliza vocabulario artístico adecuado al argumentar sus elecciones creativas.
+
+## Metodología
+
+Aprendizaje Basado en Creación Artística y Proyectos Culturales. Se estructuran "Estudios Creativos" de 4 alumnos con roles: Comisario/a de exposición, Escultor/a plástico, Compositor/a musical y Diseñador/a espacial.
+
+## Sesión 1. ¿A qué suena y qué color tiene una emoción?
+
+### Activación inicial
+Experiencia a ciegas: el alumnado escucha tres fragmentos musicales de distintos estilos (clásica, electrónica, jazz) mientras toca materiales con diferentes texturas (terciopelo, lija, algodón) y expresa qué emoción siente.
+
+### Calentamiento
+Mapa de color y emoción: relacionar colores fríos/cálidos y saturaciones con estados de ánimo en un círculo cromático gigante.
+
+### Actividad principal
+Presentación de las vanguardias artísticas (Kandinsky, Munch, Monet, Dalí). Análisis de cómo estos artistas utilizaron la forma y el sonido interno para pintar emociones.
+
+### Trabajo cooperativo
+Formación de los Estudios Creativos. Cada equipo sortea o elige la emoción central de su sala del museo (Alegría, Calma, Miedo/Misterio, Nostalgia, Asombro, Euforia).
+
+### Desafío
+Definir la paleta cromática (3 colores principales) y la textura sonora que caracterizarán la sala de su emoción.
+
+### Producto parcial
+Ficha del Proyecto Curatorial con la emoción y la paleta cromática asignada.
+
+### Reflexión
+¿Puede un cuadro abstracto sin figuras reconocibles hacernos sentir una emoción profunda?
+
+## Sesión 2. Diseño de la instalación artística tridimensional
+
+### Activación inicial
+Proyección de instalaciones artísticas contemporáneas célebres (ej. Yayoi Kusama, Olafur Eliasson).
+
+### Calentamiento
+Bocetado rápido a lápiz: realizar 3 bocetos en miniatura de cómo transformar un rincón del aula en una experiencia inmersiva.
+
+### Actividad principal
+Taller de escultura y ensamblaje tridimensional. Uso de materiales reciclados, alambres, telas, cartón y luces para dar forma al volumen de la instalación.
+
+### Trabajo cooperativo
+El/La Escultor/a plástico dirige el modelado del elemento tridimensional central de la sala, asegurando la estabilidad y la fuerza expresiva.
+
+### Desafío
+Integrar al menos dos texturas táctiles contrastadas en la pieza tridimensional.
+
+### Producto parcial
+Estructura base de la escultura e instalación tridimensional.
+
+### Reflexión
+¿En qué se diferencia mirar un cuadro plano en la pared a caminar alrededor de una escultura tridimensional?
+
+## Sesión 3. Composición del paisaje sonoro
+
+### Activación inicial
+Escucha activa de paisajes sonoros de la naturaleza y de entornos urbanos. Identificación de instrumentos de percusión y efectos sonoros.
+
+### Calentamiento
+Improvisación rítmica y tímbrica en círculo utilizando cotidiáfonos (llaves, papeles, botellas de agua, cajas).
+
+### Actividad principal
+Composición de la banda sonora ambiental para la sala de la emoción. Combinación de instrumentos Orff (metalófonos, xilófonos, maracas) y bases digitales creadas en tabletas.
+
+### Trabajo cooperativo
+El/La Compositor/a musical coordina la grabación del bucle sonoro (*sound loop*) de 1 minuto que sonará de fondo en la instalación.
+
+### Desafío
+Conseguir que la música cambie de intensidad ($p \to f$) para simular la aceleración o calma del pulso cardíaco de la emoción.
+
+### Producto parcial
+Archivo de audio grabado con el paisaje sonoro de la emoción.
+
+### Reflexión
+¿Cómo logra el sonido modificar nuestra percepción visual de un espacio o de un color?
+
+## Sesión 4. Maquetación del espacio y cartela museográfica
+
+### Activación inicial
+Análisis de fichas curatoriales y cartelas reales de museos como el Museo Reina Sofía o el Prado.
+
+### Calentamiento
+Redacción de microrrelatos poéticos (haikus o frases líricas) que describan la emoción trabajada.
+
+### Actividad principal
+Diseño de la cartela explicativa de la obra: título de la instalación, materiales, descripción conceptual de la emoción y guía de observación para el visitante.
+
+### Trabajo cooperativo
+El/La Comisario/a de exposición redacta la cartela mientras el Diseñador espacial planifica la iluminación (uso de linternas, celofanes de colores y focos) y la circulación del público.
+
+### Desafío
+Redactar la cartela en formato bilingüe (español e inglés).
+
+### Producto parcial
+Cartela museográfica maquetada y plano de iluminación de la sala.
+
+### Reflexión
+¿Por qué el texto que acompaña a una obra de arte contemporánea nos ayuda a entender la intención del artista?
+
+## Sesión 5. Montaje técnico de "El Museo de las Emociones"
+
+### Activación inicial
+Transformación del gimnasio o sala polivalente del centro escolar en un espacio de galería de arte con paneles oscurecidos.
+
+### Calentamiento
+Repaso de las normas de seguridad y cuidado en el manejo de focos, cables y piezas escultóricas delicadas.
+
+### Actividad principal
+Montaje físico de las instalaciones artísticas, colocación de las cartelas, configuración de los puntos de reproducción de audio y pruebas de iluminación ambiental.
+
+### Trabajo cooperativo
+Todos los miembros del grupo colaboran en el ensamblaje final y realizan un ensayo general de la experiencia del visitante.
+
+### Desafío
+Lograr una transición fluida y sin interferencias sonoras entre las distintas salas del museo.
+
+### Producto parcial
+Montaje completo y funcional de la exposición interactiva.
+
+### Reflexión
+¿Qué imprevistos técnicos han surgido durante el montaje y cómo los hemos resuelto en equipo?
+
+## Sesión 6. Inauguración y visita guiada sensorial
+
+### Activación inicial
+Corte de cinta simbólico e inauguración de "El Museo de las Emociones" con la asistencia de alumnos de otros cursos y familias.
+
+### Calentamiento
+Acondicionamiento de los estudiantes con distintivos de guías del museo y mediadores culturales.
+
+### Actividad principal
+Apertura de la exposición. El alumnado ejerce de guía museórico, explicando el proceso creativo, activando los paisajes sonoros y facilitando la interacción del público con las obras.
+
+### Trabajo cooperativo
+Atención continua a los visitantes, recogida de opiniones en el "Libro de Firmas Emocional" y supervisión del espacio.
+
+### Desafío
+Guiar a un grupo de visitantes con los ojos vendados confiando únicamente en la música y las texturas táctiles.
+
+### Producto parcial
+Clausura de la exposición y recogida del libro de firmas e impresiones del público.
+
+### Reflexión
+¿Qué reacciones del público nos han sorprendido más al contemplar nuestras creaciones?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Materiales de modelado de secado rápido y fácil agarre para alumnado con dificultades motrices.
+- Guías táctiles con relieve y adaptaciones en macrotipo para las cartelas.
+- Paisajes sonoros con frecuencias ajustadas para alumnado con hipersensibilidad auditiva.
+
+### Adaptaciones de ampliación
+- Diseñar una experiencia de realidad aumentada o código QR que proyecte la escultura en 3D en un entorno virtual.
+- Componer una pieza musical polifónica completa utilizando programas de edición de partituras (ej. MuseScore).
+
+## Evaluación
+
+### Instrumentos
+
+- **Rúbrica de la Instalación Plástica:** Valoración de la tridimensionalidad, uso del color, textura y creatividad.
+- **Rúbrica de la Composición Musical:** Evaluación de la coherencia tímbrica, ritmo e intensidad en el paisaje sonoro.
+- **Cartela y Memoria Curatorial:** Evaluación de la expresión escrita y la fundamentación conceptual del proyecto.
+- **Escala de observación del montaje y guiado:** Valoración del trabajo en equipo, la gestión del espacio y la atención al público.
+
+### Indicadores de logro
+
+- Expresa emociones e ideas abstractas combinando lenguajes plásticos y musicales.
+- Emplea elementos de las vanguardias artísticas en creaciones propias con intencionalidad estética.
+- Diseña y monta una instalación artística considerando el volumen, la luz y el sonido.
+- Argumenta sus elecciones creativas utilizando vocabulario técnico de Educación Artística.
+
+## Interdisciplinariedad
+
+- **Lengua Castellana:** Redacción de textos expositivos, poéticos y cartelas museográficas.
+- **Ciencias Sociales:** Contextualización histórica de las vanguardias artísticas del siglo XX.
+- **Valores Cívicos:** Desarrollo de la empatía y la gestión de las emociones a través del arte.
+
+## Relación con la vida real
+
+El diseño museográfico, la gestión cultural y las industrias creativas constituyen un sector profesional de gran relevancia. Además, comprender el arte como un canal legítimo de expresión emocional promueve el bienestar personal, la salud mental y la capacidad crítica ante la cultura visual contemporánea.
+
+## Conclusión
+
+"El museo de las emociones y el arte" demuestra la potencia integradora de la Educación Artística en 6º de Primaria. Al unir la escultura, la música, la luz y la emoción en una exposición real, el alumnado experimenta el arte no como una materia teórica, sino como una vivencia transformadora capaz de comunicar lo más profundo de la experiencia humana.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-agentes-de-cambio-y-derechos-humanos-6-primaria",
+    title: "Situación de aprendizaje: Agentes de cambio y derechos humanos para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Valores Cívicos y Éticos para 6º de Primaria sobre la Declaración de los Derechos Humanos, la igualdad y la convivencia según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "valores-civicos",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "Propuesta educativa donde el alumnado analiza los Derechos Humanos, la cultura de paz y diseña una campaña escolar para promover la igualdad y la inclusión.",
+    content: `
+# Situación de aprendizaje: Agentes de cambio y derechos humanos para 6º de Primaria
+
+## Descripción
+
+"Agentes de cambio y derechos humanos" es una propuesta pedagógica de Valores Cívicos y Éticos en la que el alumnado de 6º de Primaria analiza los principios fundamentales de la Declaración Universal de los Derechos Humanos, los Objetivos de Desarrollo Sostenible (ODS) y los mecanismos de resolución pacífica de conflictos.
+
+Organizados como "Comités Cívicos de Mediación y Acción Social", los estudiantes diagnosticarán las necesidades de convivencia, inclusión e igualdad en su centro educativo y entorno local, elaborando una campaña publicitaria de concienciación social titulada "Derechos en Acción".
+
+## Justificación
+
+La asignatura de Valores Cívicos y Éticos en 6º de Primaria es el marco idóneo para consolidar el pensamiento ético, la autonomía moral y la responsabilidad cívica del alumnado antes de su paso a la Educación Secundaria. Comprender que los Derechos Humanos son conquistas históricas inalienables exige una vivencia práctica y reflexiva en el aula.
+
+Frente a fenómenos como el acoso escolar, la discriminación o la desinformación en redes digitales, esta situación de aprendizaje capacita a los estudiantes para identificar injusticias, argumentar desde el respeto a los principios democráticos y actuar como mediadores activos en favor del bien común.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Valores Cívicos y Éticos.
+
+### Temporalización
+
+6 sesiones de 60 minutos (2 semanas).
+
+## Producto final
+
+Diseño y ejecución de la Campaña de Concienciación Cívica "Derechos en Acción", que incluirá cartelería digital, un decálogo de convivencia escolar inclusiva y la celebración de un "Foro Abierto de Mediación Infantil".
+
+## Objetivos didácticos
+
+- Comprender el origen y significado de la Declaración Universal de los Derechos Humanos y de los Derechos del Niño.
+- Analizar situaciones de injusticia, discriminación o vulneración de derechos identificando sus causas.
+- Practicar estrategias de mediación, comunicación asertiva y resolución pacífica de conflictos.
+- Reflexionar sobre la igualdad de género, la coeducación y el rechazo a cualquier tipo de violencia.
+- Evaluar el uso ético y responsable de las tecnologías digitales y las redes sociales.
+- Diseñar campañas de sensibilización cívica orientadas a la mejora del clima escolar.
+- Argumentar éticamente respetando la pluralidad de opiniones y la diversidad cultural.
+
+## Competencias clave
+
+- Competencia ciudadana (CC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+- Competencia emprendedora (CE).
+
+## Competencias específicas
+
+- **CE1:** Deliberar sobre problemas éticos y cívicos de la sociedad contemporánea utilizando la argumentación fundamentada.
+- **CE2:** Comprender e interiorizar los Derechos Humanos y los valores democráticos como guía de conducta.
+- **CE3:** Practicar el diálogo asertivo y la mediación en la resolución pacífica de conflictos interpersonales.
+- **CE4:** Diseñar compromisos éticos individuales y colectivos para la consecución de un entorno más justo y sostenible.
+
+## Saberes básicos
+
+- **Dignidad humana y Derechos Humanos:**
+  - La Declaración Universal de los Derechos Humanos y la Convención sobre los Derechos del Niño.
+  - La lucha contra la discriminación por razón de género, origen, capacidad o creencia.
+  - La igualdad efectiva entre hombres y mujeres: coeducación y corresponsabilidad.
+- **Convivencia y resolución de conflictos:**
+  - Técnicas de comunicación asertiva, empatía y escucha activa.
+  - La mediación escolar como alternativa a la imposición o la violencia.
+- **Ética digital y ciudadanía global:**
+  - El respeto y la empatía en entornos virtuales: prevención del ciberacoso y difusión de bulos.
+
+## Criterios de evaluación
+
+- Argumenta juicios éticos sobre situaciones reales o simuladas basándose en los Derechos Humanos.
+- Aplica pautas de comunicación asertiva y mediación en la resolución de discrepancias en el aula.
+- Identifica prejuicios y estereotipos proponiendo alternativas basadas en la igualdad e inclusión.
+- Utiliza las redes y herramientas digitales con sentido ético, crítico y respetuoso.
+- Participa activamente en el diseño de iniciativas de voluntariado o acción social en el colegio.
+
+## Metodología
+
+Aprendizaje Dialógico combinado con la metodología del Aprendizaje-Servicio (ApS). Se constituyen "Comités de Mediación" de 4 miembros con roles: Coordinador/a ético, Portavoz del diálogo, Analista de conflictos y Diseñador/a de la campaña.
+
+## Sesión 1. La isla desierta y el pacto de convivencia
+
+### Activación inicial
+Dilema moral inicial: "Una expedición queda atrapada en una isla desierta. No hay leyes ni autoridades. ¿Qué normas mínimas debemos pactar para asegurar que todos sobrevivan y sean tratados con justicia?".
+
+### Calentamiento
+Lluvia de ideas en la pizarra agrupando las propuestas en tres categorías: Supervivencia, Respeto y Libertad.
+
+### Actividad principal
+Presentación histórica de la Declaración Universal de los Derechos Humanos (1948). Análisis comparativo entre las normas pactadas en la isla y los artículos de la Declaración.
+
+### Trabajo cooperativo
+Formación de los Comités Cívicos. Cada equipo adopta un artículo de los Derechos del Niño (derecho a la educación, a la salud, al juego, a la protección) y analiza su cumplimiento en diferentes lugares del mundo.
+
+### Desafío
+Encontrar un caso de estudio real donde un derecho fundamental infantil esté en riesgo y proponer una vía de ayuda.
+
+### Producto parcial
+Ficha de Análisis del Derecho Asignado.
+
+### Reflexión
+¿Por qué decimos que los Derechos Humanos son universales e inalienables?
+
+## Sesión 2. Del prejuicio a la empatía: la gafas de la inclusión
+
+### Activación inicial
+Dinámica "Las etiquetas invisibles": los alumnos llevan una tarjeta en la frente con un estereotipo (ej. "No sé jugar", "Soy extranjero", "Siempre gano") sin saber cuál es y deben interactuar según cómo los traten los demás.
+
+### Calentamiento
+Debate guiado sobre cómo nos hemos sentido al ser tratados bajo un estereotipo injusto.
+
+### Actividad principal
+Análisis de los conceptos de prejuicio, estereotipo y discriminación. Estudio del principio de igualdad de género y la importancia de la diversidad en la sociedad.
+
+### Trabajo cooperativo
+Diseño del "Test de la Inclusión Escolar": elaboración de una encuesta anónima para detectar si en el centro existen dinámicas de exclusión en los juegos del patio o en los grupos de trabajo.
+
+### Desafío
+Transformar tres situaciones de microdiscriminación detectadas en propuestas afirmativas de inclusión.
+
+### Producto parcial
+Cuestionario de la Auditoría de Convivencia Escolar.
+
+### Reflexión
+¿Qué diferencia hay entre tratar a todos por igual (equidad) y dar a cada uno lo que necesita para estar en igualdad de condiciones (justicia)?
+
+## Sesión 3. Taller de mediación escolar y comunicación asertiva
+
+### Activación inicial
+Dramatización de una discusión típica en el patio por el turno de uso de una pista deportiva. Se muestran dos finales: uno violento y otro asertivo.
+
+### Calentamiento
+Ejercicios de parafraseo y "Mensajes Yo" (*"Yo me siento... cuando tú... porque me gustaría que..."*).
+
+### Actividad principal
+Apredizaje de las fases del proceso de mediación escolar: 1. Aceptar la mediación, 2. Escuchar las dos partes sin interrumpir, 3. Aclarar el problema real, 4. Proponer soluciones compartidas, 5. Firmar el acuerdo.
+
+### Trabajo cooperativo
+Simulación de casos prácticos (*role-playing*) donde los integrantes de los comités se alternan en los papeles de mediadores y partes en conflicto.
+
+### Desafío
+Llegar a un acuerdo satisfactorio en un caso difícil de desacuerdo por el uso de dispositivos digitales sin la intervención del docente.
+
+### Producto parcial
+Guía de Bolsillo del Mediador Escolar.
+
+### Reflexión
+¿Por qué en un proceso de mediación bien resuelto no hay ganadores ni perdedores, sino que ganan ambas partes?
+
+## Sesión 4. Ciudadanía y ética en la era digital
+
+### Activación inicial
+Análisis de capturas de pantalla ficticias de un grupo de mensajería donde se difunde un bulo o un comentario ofensivo sobre un compañero.
+
+### Calentamiento
+Análisis del semáforo digital: identificar qué conductas en redes son Verdes (seguras y respetuosas), Amarillas (dudosas) y Rojas (ciberacoso o delito).
+
+### Actividad principal
+Estudio de la huella digital, la privacidad y la prevención del ciberacoso (*cyberbullying*). Responsabilidad ética en la difusión de imágenes y datos de otras personas.
+
+### Trabajo cooperativo
+Redacción del "Código de Honor Digital para el Aula": 5 compromisos éticos para el uso de chats de grupo, redes sociales y plataformas educativas.
+
+### Desafío
+Crear una estrategia para frenar en seco un rumor o bulo que circula por un grupo de WhatsApp escolar.
+
+### Producto parcial
+Código de Honor Digital consensuado para el grupo-clase.
+
+### Reflexión
+¿Somos la misma persona en la vida real que detrás de la pantalla de un teléfono móvil?
+
+## Sesión 5. Diseño de la campaña "Derechos en Acción"
+
+### Activación inicial
+Análisis de campañas publicitarias institucionales populares enfocadas en la prevención del acoso, el reciclaje o la igualdad.
+
+### Calentamiento
+Lluvia de eslóganes directos y con gancho emocional para la campaña del colegio.
+
+### Actividad principal
+Elaboración de los materiales de la campaña: carteles digitales con herramientas como Canva, folletos informativos para las familias y breves anuncios de audio para la megafonía del centro.
+
+### Trabajo cooperativo
+El/La Diseñador/a de la campaña maqueta los carteles mientras el Portavoz del diálogo redacta las cuñas radiofónicas sobre la inclusión y la mediación.
+
+### Desafío
+Integrar en la campaña una acción concreta de voluntariado escolar (ej. "Patrullas de la Paz" para el patio).
+
+### Producto parcial
+Kit completo de materiales de la campaña de sensibilización.
+
+### Reflexión
+¿Cómo logra la publicidad social cambiar actitudes y comportamientos en la gente?
+
+## Sesión 6. Foro abierto y puesta en marcha de la campaña
+
+### Activación inicial
+Distribución de los carteles de la campaña por los pasillos del colegio y preparación del salón de actos para el "Foro Abierto de Mediación Infantil".
+
+### Calentamiento
+Ensayo de la postura corporal y la dicción para la presentación de las propuestas del comité ante la comunidad educativa.
+
+### Actividad principal
+Celebración del Foro Abierto. Presentación de los resultados de la Auditoría de Convivencia, lectura del Código de Honor Digital y presentación del servicio de Mediación Escolar liderado por 6º de Primaria.
+
+### Trabajo cooperativo
+Los Comités Cívicos responden a las preguntas del público (alumnado de otros cursos, docentes y familias) y recogen compromisos cívicos en el "Mural de la Paz".
+
+### Desafío
+Conseguir que la dirección del centro apruebe la institucionalización del equipo de Mediadores Escolares para el resto del curso.
+
+### Producto parcial
+Acta de constitución del Equipo de Mediadores e inauguración de la campaña.
+
+### Reflexión
+¿De qué manera nos hemos convertido en auténticos agentes de cambio en nuestro colegio?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Guiones de mediación con apoyos visuales y pictogramas explicativos de las emociones.
+- Uso de lecturas sobre Derechos Humanos en formato de cómic adaptado.
+- Asignación de roles en las simulaciones según las habilidades comunicativas de cada estudiante.
+
+### Adaptaciones de ampliación
+- Investigar la figura de defensores históricos de los Derechos Humanos (ej. Nelson Mandela, Malala Yousafzai, Martin Luther King) y elaborar biografías éticas.
+- Analizar tratados internacionales sobre los derechos de los refugiados y la infancia vulnerable.
+
+## Evaluación
+
+### Instrumentos
+
+- **Rúbrica de la Campaña Cívica:** Valoración del rigor ético, creatividad, calidad gráfica y mensaje social.
+- **Registro de Observación en Mediación:** Evaluación de las técnicas de comunicación asertiva y escucha activa en las simulaciones.
+- **Rúbrica del Foro Abierto:** Valoración de la expresión oral, argumentación ética y capacidad de debate.
+- **Diario de Autoatención Ética:** Reflexión escrita e individual sobre dilemas morales trabajados en el aula.
+
+### Indicadores de logro
+
+- Fundamenta sus decisiones cívicas en los principios de los Derechos Humanos.
+- Utiliza la comunicación asertiva y la mediación para resolver diferencias interpersonales.
+- Denuncia estereotipos y conductas discriminatorias proponiendo alternativas inclusivas.
+- Demuestra un uso ético, seguro y respetuoso de los medios y entornos digitales.
+
+## Interdisciplinariedad
+
+- **Lengua Castellana:** Redacción de manifiestos, eslóganes publicitarios y técnicas de debate.
+- **Ciencias Sociales:** Estudio de la Constitución y la estructura democrática de la sociedad.
+- **Educación Artística:** Diseño gráfico de cartelería y composición de anuncios publicitarios.
+
+## Relación con la vida real
+
+La formación en valores cívicos y éticos es la base de la vida democrática. Aprender a mediar en conflictos, defender la igualdad y actuar de forma responsable en internet capacita al alumnado para desenvolverse de manera crítica, empática y madura en la sociedad del siglo XXI.
+
+## Conclusión
+
+"Agentes de cambio y derechos humanos" empodera a los estudiantes de 6º de Primaria para asumir un rol activo en la construcción de su entorno social. A través de la mediación, la reflexión ética y la acción comunitaria, esta situación de aprendizaje trasciende la teoría para convertir el aula en un taller vivo de ciudadanía democrática y convivencia pacífica.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-construyendo-un-mundo-solidario-6-primaria",
+    title: "Situación de aprendizaje: Construyendo un mundo solidario para 6º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Religión para 6º de Primaria centrada en la solidaridad, el compromiso social y el diálogo interreligioso según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "sexto-de-primaria",
+    subject: "religion",
+    date: "2026-10-20",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado explora los valores del Evangelio, la parábola del Buen Samaritano y realiza un proyecto de Aprendizaje-Servicio para mejorar su comunidad.",
+    content: `
+# Situación de aprendizaje: Construyendo un mundo solidario para 6º de Primaria
+
+## Descripción
+
+"Construyendo un mundo solidario" es una situación de aprendizaje del área de Religión Católica diseñada para 6º de Primaria que propone una profundización en el mensaje ético y social de Jesús de Nazaret, la parábola del Buen Samaritano y la labor de las organizaciones de acción social e interreligiosa en el mundo contemporáneo.
+
+A lo largo de seis sesiones, el alumnado analizará las causas de las desigualdades globales, investigará el testimonio de figuras históricas y actuales del compromiso social (ej. Vicente de Paúl, Teresa de Calcuta, Cáritas, Manos Unidas) y diseñará un Proyecto de Aprendizaje-Servicio (ApS) en colaboración con una entidad solidaria de su entorno.
+
+## Justificación
+
+En el cierre de la etapa de Educación Primaria, el área de Religión busca ofrecer al alumnado claves de interpretación sobre el sentido de la vida, la dignidad humana y el compromiso fraterno con los más vulnerables. La enseñanza social de la Iglesia y el mensaje evangélico aportan una visión antropológica basada en el amor, el perdón y la justicia social.
+
+Esta propuesta conecta los relatos bíblicos tradicionales con las realidades del siglo XXI, promoviendo el diálogo interreligioso, el respeto por las distintas tradiciones espirituales y el desarrollo de un voluntariado consciente que transforme la empatía en acciones concretas de servicio a los demás.
+
+## Contextualización
+
+### Etapa
+
+Educación Primaria.
+
+### Curso
+
+6º de Primaria.
+
+### Área
+
+Religión Católica.
+
+### Temporalización
+
+6 sesiones de 60 minutos (2 semanas).
+
+## Producto final
+
+Organización y puesta en marcha del proyecto de Aprendizaje-Servicio "Cadena de Esperanza", que consistirá en una campaña de recogida y canalización de ayuda (alimentos, libros o juguetes) acompañada de una exposición sobre el diálogo interreligioso y los valores de la solidaridad global.
+
+## Objetivos didácticos
+
+- Comprender el mensaje de la parábola del Buen Samaritano y su aplicación a la realidad social actual.
+- Reconocer los valores del Reino de Dios (paz, justicia, fraternidad, perdón) en las enseñanzas del Evangelio.
+- Conocer la labor social de la Iglesia y de diversas ONG interconfesionales en la lucha contra la pobreza.
+- Identificar los puntos de encuentro y valores compartidos entre las grandes religiones monoteístas sobre el cuidado del prójimo.
+- Diseñar y ejecutar un proyecto de voluntariado y Aprendizaje-Servicio adaptado al entorno escolar.
+- Fomentar actitudes de compasión, respeto a la diversidad espiritual y compromiso solidario.
+
+## Competencias clave
+
+- Competencia ciudadana (CC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia en comunicación lingüística (CCL).
+- Competencia emprendedora (CE).
+
+## Competencias específicas
+
+- **CE1:** Identificar los contenidos fundamentales del mensaje cristiano en los relatos bíblicos relacionándolos con dilemas de la vida cotidiana.
+- **CE2:** Analizar la presencia de los valores evangélicos en la cultura, el patrimonio y las iniciativas sociales contemporáneas.
+- **CE3:** Valorar el diálogo interreligioso e intercultural como vía para la construcción de una cultura de paz y fraternidad universal.
+- **CE4:** Desarrollar proyectos de acción solidaria y compromiso social aplicando los principios del bien común y la solidaridad.
+
+## Saberes básicos
+
+- **El mensaje de Jesús y la acción social:**
+  - Las parábolas de la misericordia: el Buen Samaritano (Lc 10, 25-37).
+  - Las Bienaventuranzas como proyecto de vida y transformación social.
+  - La Doctrina Social de la Iglesia: el principio de solidaridad, el destino universal de los bienes y la opción preferencial por los pobres.
+- **Religiones y cultura de paz:**
+  - Elementos comunes de solidaridad y fraternidad en las grandes religiones (Cristianismo, Islam, Judaismo, Budismo).
+  - La labor de organizaciones sociales de inspiración fe: Cáritas, Manos Unidas, Cruz Roja.
+
+## Criterios de evaluación
+
+- Explica el significado ético de las parábolas de Jesús aplicándolas a problemas actuales.
+- Describe el papel de las organizaciones solidarias en la atención a colectivos desfavorecidos.
+- Identifica valores de paz y fraternidad comunes a diferentes tradiciones religiosas.
+- Participa activamente en el diseño y ejecución de proyectos de Aprendizaje-Servicio en el centro.
+- Argumenta la importancia de la solidaridad y el respeto a la dignidad de toda persona.
+
+## Metodología
+
+Aprendizaje-Servicio (ApS) integrado con el Aprendizaje Cooperativo. Los estudiantes forman "Equipos del Buen Samaritano" con roles: Coordinador/a de proyecto, Enlace comunitario, Documentalista bíblico y Responsable de difusión.
+
+## Sesión 1. ¿Quién es mi prójimo hoy?
+
+### Activación inicial
+Proyección de dos imágenes contrapuestas: una persona en situación de sinhogarismo en una calle concurrida donde la gente pasa sin mirar, y un grupo de voluntarios repartiendo comida.
+
+### Calentamiento
+Dinámica de la mirada: mirarse fijamente en parejas durante un minuto en silencio para tomar conciencia del otro.
+
+### Actividad principal
+Lectura dramatizada y análisis del texto bíblico del Buen Samaritano (Lucas 10, 25-37). Identificación de los personajes (el sacerdote, el levita, el samaritano) y de sus actitudes morales.
+
+### Trabajo cooperativo
+Actualización de la parábola: cada equipo adapta el relato bíblico a un contexto del siglo XXI (ej. acoso en redes, migración, soledad de los ancianos).
+
+### Desafío
+Responder a la pregunta clave de Jesús: "¿Cuál de estos tres te parece que se comportó como prójimo del que cayó en manos de los bandidos?".
+
+### Producto parcial
+Guion de la versión contemporánea de la Parábola del Buen Samaritano.
+
+### Reflexión
+¿Por qué el samaritano, siendo un extraño considerado enemigo en su época, fue el único que actuó con compasión verdadera?
+
+## Sesión 2. Los testigos del amor: fe en acción
+
+### Activación inicial
+Exposición de fotografías de personajes universales del voluntariado y la paz (Vicente de Paúl, Madre Teresa de Calcuta, Óscar Romero, San Francisco de Asís).
+
+### Calentamiento
+Quiz de emparejamiento entre frases célebres sobre la solidaridad y sus autores.
+
+### Actividad principal
+Investigación sobre la labor de las ONG confesionales y laicas (Cáritas, Manos Unidas, Banco de Alimentos). Análisis de cómo traducen la fe y la ética en obras concretas.
+
+### Trabajo cooperativo
+Entrevista virtual o análisis de testimonio de un voluntario real que trabaje en un proyecto de atención social local.
+
+### Desafío
+Calcular el alcance y número de familias beneficiadas por los proyectos de la entidad investigada.
+
+### Producto parcial
+Ficha del Testigo Solidario e informe de impacto social de la ONG.
+
+### Reflexión
+¿Qué motiva a miles de personas a dedicar su tiempo de forma gratuita a ayudar a los demás?
+
+## Sesión 3. Un puente entre culturas y fe: la regla de oro
+
+### Activación inicial
+Presentación del concepto de la "Regla de Oro" presente en diversas religiones y filosofías del mundo.
+
+### Calentamiento
+Lectura comparada de frases religiosas:
+- Cristianismo: *"Tratad a los demás como queréis que os traten a vosotros"*.
+- Islam: *"Ninguno de vosotros será un verdadero creyente hasta que desee para su hermano lo que desea para sí mismo"*.
+- Judaísmo: *"Lo que sea odioso para ti, no se lo hagas a tu prójimo"*.
+
+### Actividad principal
+Estudio del diálogo interreligioso como herramienta de paz mundial. Análisis de los encuentros interreligiosos de Asís y las iniciativas de trabajo conjunto por el medio ambiente y los pobres.
+
+### Trabajo cooperativo
+Elaboración del mural "La Regla de Oro en las Religiones del Mundo", destacando la fraternidad universal como punto de encuentro.
+
+### Desafío
+Identificar tres valores éticos compartidos por todas las tradiciones espirituales estudiadas.
+
+### Producto parcial
+Mural del Diálogo Interreligioso y Fraternidad.
+
+### Reflexión
+¿Cómo nos ayuda descubrir lo que tenemos en común con otras religiones a evitar el fanatismo y la violencia?
+
+## Sesión 4. Diseño del Proyecto de Aprendizaje-Servicio "Cadena de Esperanza"
+
+### Activación inicial
+Contacto con una entidad social local (ej. Comedor social o Banco de Alimentos municipal) para conocer sus necesidades urgentes.
+
+### Calentamiento
+Lluvia de ideas sobre qué tipo de servicio podemos ofrecer desde el aula de 6º de Primaria.
+
+### Actividad principal
+Planificación detallada del proyecto de Aprendizaje-Servicio: definición de objetivos, recogida de materiales/alimentos, calendario de campaña y reparto de responsabilidades.
+
+### Trabajo cooperativo
+El/La Enlace comunitario redacta la carta de solicitud de colaboración para las familias y el resto de clases del colegio.
+
+### Desafío
+Organizar la logística de recogida asegurando la clasificación e inventariado preciso de los productos donados.
+
+### Producto parcial
+Proyecto técnico de Aprendizaje-Servicio "Cadena de Esperanza" aprobado por el centro.
+
+### Reflexión
+¿Qué diferencia hay entre dar lo que nos sobra (caridad paternalista) y compartir lo que tenemos reconociendo la dignidad del otro (solidaridad)?
+
+## Sesión 5. Ejecución de la campaña y talleres de sensibilización
+
+### Activación inicial
+Acondicionamiento del punto de recogida solidario en la entrada del centro educativo con cartelería explicativa.
+
+### Calentamiento
+Ensayos de las charlas breves de sensibilización que los alumnos de 6º darán en los cursos de Educación Infantil y primer ciclo de Primaria.
+
+### Actividad principal
+Ejecución de la campaña "Cadena de Esperanza". El alumnado de 6º pasa por las aulas explicando la causa social, recoge las aportaciones y las clasifica en cajas organizadas.
+
+### Trabajo cooperativo
+Recepción, pesado y empaquetado cooperativo de los bienes recogidos. El Documentalista bíblico elabora tarjetas con mensajes de ánimo e inspiraciones éticas para acompañar cada caja.
+
+### Desafío
+Superar el objetivo de recogida fijado inicialmente en la Sesión 4 mediante acciones de motivación escolar.
+
+### Producto parcial
+Inventario final de la recogida solidaria empaquetado y listo para la entrega.
+
+### Reflexión
+¿Cómo se transforma nuestro corazón cuando ponemos nuestro esfuerzo al servicio de quienes más lo necesitan?
+
+## Sesión 6. Entrega de la ayuda, evaluación y celebración de la fraternidad
+
+### Activación inicial
+Visita de los representantes de la entidad beneficiaria para la recogida oficial de las donaciones.
+
+### Calentamiento
+Momento de oración reflexiva o espacio de meditación silenciosa sobre el valor del servicio prestado.
+
+### Actividad principal
+Acto institucional de entrega del proyecto "Cadena de Esperanza". El alumnado presenta los datos conseguidos, lee el Manifiesto por la Fraternidad y entrega las donaciones a los responsables de la organización.
+
+### Trabajo cooperativo
+Evaluación compartida del proyecto mediante la dinámica del "Árbol de los Frutos": cada estudiante pega una hoja con lo aprendido y un fruto con el impacto causado en el colegio.
+
+### Desafío
+Comprometerse individualmente a realizar una acción de servicio en su propia familia o barrio durante las vacaciones.
+
+### Producto parcial
+Entrega formal de donaciones y Árbol de Evaluación del ApS.
+
+### Reflexión
+¿De qué manera esta experiencia de ayuda real ha cambiado nuestra visión sobre la asignatura de Religión y sobre la vida en comunidad?
+
+## Atención a la diversidad
+
+### Adaptaciones de acceso y refuerzo
+- Lectura de relatos bíblicos e historias de vida con ilustraciones y textos simplificados.
+- Organización de tareas manipulativas de empaquetado e inventariado para alumnado con necesidades de apoyo educativo.
+- Fichas explicativas del diálogo interreligioso con esquemas conceptuales claros.
+
+### Adaptaciones de ampliación
+- Investigar encíclicas sociales de referencia como *Laudato si'* (sobre el cuidado de la casa común) o *Fratelli tutti* (sobre la fraternidad y la amistad social).
+- Elaborar un reportaje audiovisual en vídeo sobre el desarrollo completo del proyecto de Aprendizaje-Servicio.
+
+## Evaluación
+
+### Instrumentos
+
+- **Rúbrica del Proyecto de Aprendizaje-Servicio:** Evaluación de la implicación, organización, rigor logístico y compromiso.
+- **Rúbrica del Mural Interreligioso:** Valoración del contenido, respeto conceptual y calidad visual.
+- **Prueba de reflexión teológica y ética:** Análisis escrito de las parábolas y valores trabajados.
+- **Escala de autoevaluación actitudinal:** Registro de la compasión, respeto a la diversidad e iniciativa solidaria.
+
+### Indicadores de logro
+
+- Explica e interpreta el mensaje de la parábola del Buen Samaritano en contextos contemporáneos.
+- Identifica la labor social de la Iglesia y el papel de las ONG en la sociedad actual.
+- Reconoce los valores de fraternidad y paz compartidos por las principales religiones.
+- Colabora activamente en proyectos de voluntariado escolar con sentido ético y transformador.
+
+## Interdisciplinariedad
+
+- **Valores Cívicos:** Derechos Humanos, justicia social y erradicación de la pobreza.
+- **Lengua Castellana:** Redacción de manifiestos, cartas institucionales y oratoria en presentaciones.
+- **Matemáticas:** Peso, inventariado, estadísticas e impacto numérico de la recogida solidaria.
+
+## Relación con la vida real
+
+La vivencia de la solidaridad y el descubrimiento del valor del voluntariado son esenciales para el desarrollo integral de la persona. Conectar la formación ética y religiosa con un servicio real a la comunidad ayuda al alumnado a comprender que el bienestar individual está ligado al bien común y al cuidado de los más desfavorecidos.
+
+## Conclusión
+
+"Construyendo un mundo solidario" demuestra cómo el área de Religión en 6º de Primaria impulsa la acción ética y el compromiso fraterno. Al pasar del análisis de los textos bíblicos a un proyecto real de Aprendizaje-Servicio, el alumnado descubre el valor de la fraternidad universal, experimentando que la fe y los valores se hacen plenamente visibles cuando se traducen en amor y servicio al prójimo.
+`
+  }
+],
   {
     slug: "situacion-aprendizaje-6-primaria-proyecto-final",
     title: "Situación de aprendizaje: organizamos unas olimpiadas escolares (6º Primaria)",
