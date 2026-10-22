@@ -12388,6 +12388,3662 @@ Además, las actividades propuestas favorecen la empatía, la escucha activa y l
 `
 },
 {
+    slug: "situacion-aprendizaje-el-hospital-de-las-palabras-2-primaria",
+    title: "Situación de aprendizaje: El hospital de las palabras para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Lengua Castellana para 2º de Primaria centrada en la ortografía lúdica, la separación silábica, los tipos de oraciones y el uso de diccionarios según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "lengua",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria asume el rol de doctores lingüísticos en el Hospital de las Palabras para 'curar' errores ortográficos, clasificar sustantivos y crear la Guía del Lenguaje Sano.",
+    content: `
+# Situación de aprendizaje: El hospital de las palabras para 2º de Primaria
+
+## Descripción
+<br>
+"El hospital de las palabras" es una situación de aprendizaje que transforma el aula de 2º de Primaria en un centro médico lingüístico. Los estudiantes, vestidos con batas blancas de "Doctores de la Lengua", investigarán textos con "enfermedades ortográficas" (faltas de mayúsculas, signos de puntuación ausentes, confusión entre mayúsculas y minúsculas o errores en $ca, co, cu / que, qui$).
+<br>
+A lo largo de seis sesiones, el alumnado aplicará reglas de ortografía básica, clasificará palabras en sustantivos y adjetivos, practicará la separación silábica y construirá la "Guía de Consulta del Lenguaje Sano" para la biblioteca del centro.
+<br>
+
+## Justificación
+<br>
+En el segundo curso de Primaria, la consolidación de la lectoescritura requiere pasar de la mera decodificación a la precisión ortográfica y la estructuración coherente de oraciones. A menudo, la enseñanza de las reglas de ortografía resulta abstracta o repetitiva.
+<br>
+Mediante la metáfora del diagnóstico y curación de palabras "enfermas", el alumnado asume una actitud activa y reflexiva hacia la lengua escrita, comprendiendo que la norma ortográfica facilita la comunicación clara y el entendimiento entre las personas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Castellana y Literatura.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Elaboración colectiva del "Vademécum Ortográfico del Hospital de las Palabras", un recetario gigante con trucos visuales, clasificación de sustantivos y ejemplos de oraciones bien construidas para consultar en el aula.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Aplicar correctamente la mayúscula al inicio de frase y en nombres propios.
+- Utilizar adecuadamente los signos de interrogación ($¿?$) y exclamación ($¡!$) en la lectura y escritura.
+- Clasificar palabras según su número de sílabas (monosílabas, bisílabas, trisílabas, polisílabas).
+- Identificar sustantivos comunes y propios, así como concordancia de género y número.
+- Comprender e interpretar textos narrativos y descriptivos breves.
+- Trabajar de forma cooperativa en la revisión y corrección de textos propios y ajenos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística (CCL).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia digital (CD).
+- Competencia en conciencia y expresión culturales (CCEC).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Comprender textos orales y multimodales identificando la intención comunicativa.
+- **CE3:** Leer textos de forma fluida y autónoma con la entonación adecuada a los signos de puntuación.
+- **CE5:** Producir textos escritos sencillos revisando la ortografía y la presentación formal.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Comunicación escrita y ortografía:**
+  - Uso de la mayúscula en nombres propios y tras punto.
+  - Signos de puntuación: el punto final, la coma en enumeraciones y los signos de interrogación y exclamación.
+  - Reglas ortográficas básicas: $za, zo, zu / ce, ci$; $ca, co, cu / que, qui$.
+- **Conocimiento de la lengua:**
+  - El sustantivo (género y número).
+  - Segmentación silábica de las palabras.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Escribe oraciones utilizando mayúsculas y punto final de forma autónoma.
+- Utiliza la entonación adecuada al leer oraciones interrogativas y exclamativas.
+- Clasifica sustantivos según género, número y tipo (común/propio).
+- Corrige textos breves detectando errores ortográficos trabajados.
+- Participa activamente en revisiones cooperativas de escritos.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la gamificación y el aprendizaje cooperativo (técnica de revisión entre iguales). Se constituyen "Equipos Médicos" de 4 alumnos.
+<br>
+
+## Sesión 1. La sala de urgencias de las letras
+<br>
+
+### Activación inicial
+<br>
+Recepción de una caja de urgencias con frases "enfermas" sin mayúsculas ni puntos (ej. *el perro de lucas corre por el parque*).
+<br>
+
+### Calentamiento
+<br>
+Juego "El fonendoscopio del punto": el docente lee un texto y los alumnos dan un golpe suave en la mesa cuando sienten que la frase ha terminado y necesita un punto.
+<br>
+
+### Actividad principal
+<br>
+Diagnóstico en grupo: identificar las "fiebres ortográficas" (falta de mayúscula inicial y nombres propios sin mayúscula). Colocar tiritas de papel con la letra correcta encima.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, reescribir un texto de 4 líneas aplicando la "medicina de la mayúscula" en nombres propios de personas y ciudades.
+<br>
+
+### Desafío
+<br>
+Encontrar 5 nombres propios escondidos en una sopa de letras y escribirlos con su mayúscula roja.
+<br>
+
+### Producto parcial
+<br>
+Ficha de diagnóstico 1: "Receta para las mayúsculas".
+<br>
+
+### Reflexión
+<br>
+¿Por qué las personas y las ciudades necesitan una mayúscula al principio de su nombre?
+<br>
+
+## Sesión 2. La farmacia de los signos de puntuación
+<br>
+
+### Activación inicial
+<br>
+Proyección de dos oraciones idénticas con signos distintos: *¿Vamos a comer niños?* vs. *¡Vamos a comer, niños!*.
+<br>
+
+### Calentamiento
+<br>
+Entonación teatral: leer tarjetas con signos $¿?$ levantando las cejas y con $¡!$ poniendo voz de sorpresa.
+<br>
+
+### Actividad principal
+<br>
+Taller de signos de puntuación: construir signos de interrogación y exclamación con limpiapipas y plastilina para colocarlos al principio y final de frases.
+<br>
+
+### Trabajo cooperativo
+<br>
+Transformar oraciones afirmativas en preguntas y exclamaciones dramáticas dentro del equipo médico.
+<br>
+
+### Desafío
+<br>
+Escribir dos preguntas dirigidas al paciente del hospital usando correctamente los signos $¿?$.
+<br>
+
+### Producto parcial
+<br>
+Juego de tarjetas de entonación para el Vademécum.
+<br>
+
+### Reflexión
+<br>
+¿Cómo cambia la voz cuando hacemos una pregunta a cuando gritamos de alegría?
+<br>
+
+## Sesión 3. Rayos X de las sílabas
+<br>
+
+### Activación inicial
+<br>
+Visualización en la pantalla de "Rayos X" de palabras transparentes donde se ven los huesos (las sílabas).
+<br>
+
+### Calentamiento
+<br>
+Clasificación con instrumentos de percusión: dar 1, 2, 3 o 4 golpes de caja según las sílabas de cada palabra.
+<br>
+
+### Actividad principal
+<br>
+Separación silábica de palabras médicas (*me-di-ci-na*, *doc-tor*, *sol*, *en-fer-me-ra*). Clasificación en cuatro tubos de ensayo: monosílabas, bisílabas, trisílabas y polisílabas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Recortar palabras de revistas y pegarlas en la probeta correcta según su número de golpes de voz.
+<br>
+
+### Desafío
+<br>
+Encontrar tres palabras polisílabas de más de 4 sílabas en el aula.
+<br>
+
+### Producto parcial
+<br>
+Clasificador silábico en el dossier de equipo.
+<br>
+
+### Reflexión
+<br>
+¿Por qué las palabras necesitan dividirse en sílabas cuando no caben enteras al final de un renglón?
+<br>
+
+## Sesión 4. La vacuna del sonido K y Z
+<br>
+
+### Activación inicial
+<br>
+Presentación de los virus traviesos "C, Q y Z" que se confunden en las palabras *queso, casa, circo, zapato*.
+<br>
+
+### Calentamiento
+<br>
+Canción de las reglas: *$CA, CO, CU* van con C, *QUE, QUI* llevan la U que no suena*.
+<br>
+
+### Actividad principal
+<br>
+Dictado explosivo por parejas: un alumno dicta la palabra "enferma" y el compañero la escribe en la pizarra borrable aplicando la vacuna ortográfica ($za, zo, zu / ce, ci$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Completar el mural de la norma con dibujos e imágenes recortadas de palabras con $que, qui, ce, ci$.
+<br>
+
+### Desafío
+<br>
+Escribir una lista de la compra sin cometer ningún error en las palabras con $C$ y $Q$.
+<br>
+
+### Producto parcial
+<br>
+Mural de las Reglas Ortográficas de la C y la Z.
+<br>
+
+### Reflexión
+<br>
+¿Qué truco usas en tu cabeza para no dudar entre escribir *queso* con C o con Q?
+<br>
+
+## Sesión 5. Anatomía del sustantivo: común y propio
+<br>
+
+### Activación inicial
+<br>
+Juego "El detective de las cosas": tocar objetos del aula e identificarlos (mesa, silla, lápiz) frente a los nombres de los alumnos (María, Pablo).
+<br>
+
+### Calentamiento
+<br>
+Clasificación de género y número: poner el artículo *El, La, Los, Las* delante de cada sustantivo.
+<br>
+
+### Actividad principal
+<br>
+Taller de Anatomía de Palabras: distinguir sustantivos comunes (cosas, animales, lugares en general) y sustantivos propios (nombres de personas, mascotas y ciudades concretas).
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar la lista de "Ingredientes del Lenguaje" organizando los sustantivos en una tabla de doble entrada por género y número.
+<br>
+
+### Desafío
+<br>
+Escribir cuatro sustantivos propios de ríos o montañas de España.
+<br>
+
+### Producto parcial
+<br>
+Sección de Sustantivos maquetada para el libro final.
+<br>
+
+### Reflexión
+<br>
+¿Qué diferencia hay entre la palabra "perro" y la palabra "Toby"?
+<br>
+
+## Sesión 6. Edición y publicación del Vademécum
+<br>
+
+### Activación inicial
+<br>
+Reunión de la junta médica del aula para revisar todas las secciones curadas del lenguaje.
+<br>
+
+### Calentamiento
+<br>
+Ensayo de la presentación del Vademécum a los compañeros de 1º de Primaria.
+<br>
+
+### Actividad principal
+<br>
+Encuadernación del "Vademécum Ortográfico" y reparto de los diplomas de Doctores de la Lengua.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo presenta una regla ortográfica curada realizando una pequeña demostración práctica en la pizarra.
+<br>
+
+### Desafío
+<br>
+Resolver una prueba de revisión ortográfica en tiempo récord sin cometar fallos.
+<br>
+
+### Producto parcial
+<br>
+Publicación del libro impreso en la biblioteca escolar.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos sentimos al ver que ahora escribimos con más seguridad y sin cometer errores?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de códigos de color para identificar sustantivos (rojo), verbos (azul) y adjetivos (verde).
+- Fichas con letras pautadas en relieve para apoyar el trazado caligráfico.
+- Plantillas de autocorrección ortográfica con pictogramas.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Redactar pequeños cuentos combinando sustantivos, adjetivos e introduciendo diálogos con guiones.
+- Elaborar un mini-diccionario de palabras complejas del aula.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del Vademécum:** Evaluación de la ortografía, uso de mayúsculas y presentación.
+- **Prueba de dictado funcional:** Evaluación de $ca, co, cu / que, qui$ y signos de puntuación.
+- **Escala de observación cooperativa:** Trabajo en equipo, revisión mutua y respeto.
+- **Diario de autocorrección:** Registro de errores superados.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Aplica mayúsculas y puntos finales de forma correcta en sus producciones.
+- Identifica y clasifica sustantivos comunes y propios por su género y número.
+- Emplea los signos de interrogación y exclamación adecuadamente.
+- Participa activamente en la corrección de textos en equipo.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Educación Artística:** Maquetación e ilustración del libro médico.
+- **Ciencias Sociales:** Escritura de nombres de ciudades y países.
+- **Valores Cívicos:** Respeto y cuidado de la comunicación escrita.
+<br>
+
+## Relación con la vida real
+<br>
+
+Escribir sin faltas de ortografía y utilizar los signos de puntuación correctos es esencial para que nuestros mensajes de correo, notas o cartas sean entendidos por los demás sin confusiones en el día a día.
+<br>
+
+## Conclusión
+<br>
+
+"El hospital de las palabras" convierte el aprendizaje de la ortografía y la gramática en 2º de Primaria en un reto divertido y significativo. Al convertirse en doctores de la lengua, los estudiantes desarrollan una conciencia lingüística profunda que garantiza la precisión y calidad en su escritura autónoma.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-la-reposteria-matematica-2-primaria",
+    title: "Situación de aprendizaje: La repostería matemática para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Matemáticas para 2º de Primaria sobre multiplicaciones como sumas repetidas, tablas del 2, 5 y 10, cálculo mental y masa/capacidad según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "matematicas",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria se convierte en equipo de repostería para aprender la multiplicación como suma repetida, medir masas en gramos/kilos y gestionar la panadería del colegio.",
+    content: `
+# Situación de aprendizaje: La repostería matemática para 2º de Primaria
+
+## Descripción
+<br>
+"La repostería matemática" invita al alumnado de 2º de Primaria a asumir el rol de maestros pasteleros. En este obrador simulado, los estudiantes resolverán retos matemáticos cotidianos: calcular la cantidad de ingredientes doblando recetas, introducir el concepto de multiplicación como suma de sumandos iguales, memorizar de forma comprensiva las tablas del 2, 5 y 10, y pesar masa en balanzas digitales y de platillos.
+<br>
+A través de la elaboración de recetas sin fuego y la venta de postres en el "Mercadillo Dulce del Cole", los niños y niñas experimentarán la utilidad directa de las matemáticas en la cocina.
+<br>
+
+## Justificación
+<br>
+El paso de la adición a la multiplicación es uno de los saltos conceptuales más importantes en 2º de Primaria. Presentar la multiplicación simplemente como un ejercicio de memorización de tablas suele generar rechazo o aprendizaje mecánico sin comprensión.
+<br>
+Aprender la multiplicación agrupando ingredientes (ej. "3 bandejas con 4 galletas cada una") contextualiza el cálculo dentro de una necesidad real. Además, la manipulación de unidades de peso (gramos y kilogramos) y capacidad (litros) conecta el sentido numérico con la medida de forma intuitiva.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Matemáticas.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Elaboración del "Recetario Multiplicativo de la Clase" y celebración de la "Feria Repostera", donde se venden tartas y galletas simuladas realizando el cobro y devolución de cambios.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender la multiplicación como una adición de sumandos iguales (grupos iguales).
+- Construir y memorizar con comprensión las tablas de multiplicar del 2, 5 y 10.
+- Utilizar las unidades de masa ($kg, g$) y capacidad ($l$) en situaciones manipulativas de cocina.
+- Resolver problemas aritméticos de dos pasos utilizando sumas, restas y multiplicaciones sencillas.
+- Estimar y medir cantidades utilizando jarras graduadas y balanzas.
+- Desarrollar estrategias de cálculo mental rápido (dobles y mitades).
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia emprendedora (CE).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Utilizar el sentido numérico para interpretar y resolver situaciones del entorno cercano.
+- **CE2:** Resolver problemas aplicando estrategias manipulativas y operaciones matemáticas.
+- **CE3:** Formular conjeturas sobre patrones numéricos y tablas de multiplicar.
+- **CE4:** Utilizar unidades de medida para cuantificar magnitudes de masa y capacidad.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Sentido numérico y operacional:**
+  - La multiplicación como adición repetida y representación en matrices ($3 \times 4$).
+  - Tablas de multiplicar del 2, del 5 y del 10.
+  - Estrategias de cálculo mental: el doble y la mitad.
+- **Sentido de la medida:**
+  - Unidades no convencionales y convencionales de masa ($kg, g$) y capacidad ($l$).
+  - Uso de la balanza y vasos medidores.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Expresa una multiplicación como una suma repetida mediante materiales manipulativos.
+- Aplica las tablas del 2, 5 y 10 en la resolución de problemas de cálculo mental.
+- Pesa e interpreta cantidades en gramos y kilogramos con balanzas.
+- Resuelve problemas de compra de ingredientes calculando importes y cambios.
+- Colabora de forma responsable en las actividades de repostería del obrador.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje experiencial y manipulación de regletas, fichas y balanzas reales. Se estructuran "Equipos de Obrador" de 4 alumnos.
+<br>
+
+## Sesión 1. Los grupos iguales de galletas
+<br>
+
+### Activación inicial
+<br>
+Presentación de bandejas de horno con fichas que simulan galletas. ¿Cómo podemos contar rápido cuántas galletas hay en 4 filas de 3 galletas?
+<br>
+
+### Calentamiento
+<br>
+Conteo a saltos de 2 en 2, 5 en 5 y 10 en 10 sobre la recta numérica del suelo.
+<br>
+
+### Actividad principal
+<br>
+Descubrimiento de la suma repetida: $3 + 3 + 3 + 3 = 12$, que es lo mismo que $4 \text{ veces } 3 = 12$ ($4 \times 3 = 12$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Construir con plastilina "bandejas de pastelero" representando diferentes multiplicaciones e intercambiarlas con otros equipos para adivinar la operación.
+<br>
+
+### Desafío
+<br>
+Representar la multiplicación $5 \times 2$ de dos formas diferentes en la mesa.
+<br>
+
+### Producto parcial
+<br>
+Ficha de registro 1: "De la suma a la multiplicación".
+<br>
+
+### Reflexión
+<br>
+¿Por qué escribir $3 \times 5$ nos ahorra tiempo en lugar de escribir $5 + 5 + 5$?
+<br>
+
+## Sesión 2. La tabla del 2 y el truco de los dobles
+<br>
+
+### Activación inicial
+<br>
+Llegada al obrador de un pedido especial de rosquillas que se venden siempre en parejas (de 2 en 2).
+<br>
+
+### Calentamiento
+<br>
+Juego de cálculo mental "El Doble": decir el doble de los números del 1 al 10 en voz alta.
+<br>
+
+### Actividad principal
+<br>
+Construcción visual de la tabla del 2 dibujando cerezas dobles en el cuaderno y completando la tabla de multiplicar.
+<br>
+
+### Trabajo cooperativo
+<br>
+Juego de cartas "Parejas Multiplicativas": emparejar tarjetas con la operación ($2 \times 6$) con el resultado ($12$).
+<br>
+
+### Desafío
+<br>
+Calcular cuántas rosquillas hay en 9 paquetes de 2 rosquillas sin usar los dedos.
+<br>
+
+### Producto parcial
+<br>
+Lámina de la Tabla del 2 para el Recetario.
+<br>
+
+### Reflexión
+<br>
+¿Por qué la tabla del 2 es exactamente igual que calcular el doble de un número?
+<br>
+
+## Sesión 3. Las tablas del 5 y del 10 en el mercadillo
+<br>
+
+### Activación inicial
+<br>
+Observación de las manoplas de horno (5 dedos) y las cajas de magdalenas (10 unidades).
+<br>
+
+### Calentamiento
+<br>
+Cantar la canción de la tabla del 5 marcando el ritmo con palmadas en las rodillas.
+<br>
+
+### Actividad principal
+<br>
+Descubrimiento de los patrones numéricos: los resultados de la tabla del 5 siempre acaban en $0$ o $5$, y los de la tabla del 10 siempre acaban en $0$.
+<br>
+
+### Trabajo cooperativo
+<br>
+Resolver en equipo el reto de embalaje: "¿Cuántas magdalenas tenemos si llenamos 6 cajas de 10 unidades y 3 cajas de 5 unidades?".
+<br>
+
+### Desafío
+<br>
+Completar la rueda de multiplicar del 10 en menos de dos minutos.
+<br>
+
+### Producto parcial
+<br>
+Desplegable de las tablas del 5 y del 10.
+<br>
+
+### Reflexión
+<br>
+¿Qué truco facilísimo tiene la tabla del 10 para saber el resultado de cualquier número?
+<br>
+
+## Sesión 4. Pesamos los ingredientes de la receta
+<br>
+
+### Activación inicial
+<br>
+Presentación de una balanza de cocina digital y una balanza de platillos con paquetes de harina y azúcar reales.
+<br>
+
+### Calentamiento
+<br>
+Estimación de peso: ¿qué pesa más, un paquete de $1\ kg$ de harina o un paquete de $250\ g$ de cacao?
+<br>
+
+### Actividad principal
+<br>
+Taller de pesaje manipulativo. Los alumnos miden masas exactas de harina de avena, azúcar y frutos secos para una receta real de bolitas de coco sin cocción.
+<br>
+
+### Trabajo cooperativo
+<br>
+Anotar los pesos en gramos ($g$) y kilogramos ($kg$) en la tabla de ingredientes de la receta del equipo.
+<br>
+
+### Desafío
+<br>
+Calcular cuántos gramos de harina necesitamos si queremos hacer el doble de la receta inicial.
+<br>
+
+### Producto parcial
+<br>
+Ficha de pesaje e ingredientes del postre.
+<br>
+
+### Reflexión
+<br>
+¿Qué ocurre con la balanza si ponemos $500\ g$ en un platillo y $1\ kg$ en el otro?
+<br>
+
+## Sesión 5. Duplicamos la receta para la gran fiesta
+<br>
+
+### Activación inicial
+<br>
+Recibimos el encargo de preparar el postre para 20 personas en lugar de para 10 personas. ¡Hay que multiplicar todas las cantidades por 2!
+<br>
+
+### Calentamiento
+<br>
+Escribir en la pizarra las cantidades originales: $200\ g$ de harina, $4$ huevos, $100\ g$ de mantequilla.
+<br>
+
+### Actividad principal
+<br>
+Cálculo de la receta multiplicada: aplicar la multiplicación por 2 a cada elemento de la lista y calcular el coste total de la compra.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaboración manipulativa del postre (bolitas de avena y coco) siguiendo las medidas exactas calculadas en equipo.
+<br>
+
+### Desafío
+<br>
+Calcular el precio de venta por unidad para ganar $5\ €$ de beneficio solidario.
+<br>
+
+### Producto parcial
+<br>
+Postres preparados y empaquetados en cajas etiquetadas con el precio.
+<br>
+
+### Reflexión
+<br>
+¿Por qué era imprescindible calcular las medidas exactas antes de empezar a mezclar los ingredientes?
+<br>
+
+## Sesión 6. La Feria Repostera y el cobro
+<br>
+
+### Activación inicial
+<br>
+Acondicionamiento del aula como la "Pastelería Matemática". Reparto de monederos con euros didácticos.
+<br>
+
+### Calentamiento
+<br>
+Repaso de la suma rápida de precios y devolución de cambios.
+<br>
+
+### Actividad principal
+<br>
+Celebración de la Feria Repostera. El alumnado vende sus postres a otros cursos aplicando la multiplicación para calcular el coste de varios productos ($3 \text{ galletas a } 2\ € = 6\ €$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Gestión de la caja registradora en parejas: uno cobra y el otro verifica la multiplicación con la calculadora gigante.
+<br>
+
+### Desafío
+<br>
+Realizar el recuento final de caja comprobando que las monedas coinciden con los productos vendidos.
+<br>
+
+### Producto parcial
+<br>
+Recetario Multiplicativo publicado y recaudación conseguida.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos han ayudado las tablas de multiplicar a cobrar rápido en la feria sin hacer largas colas?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de la tabla pitagórica visual y recta numérica de apoyo para el cálculo mental.
+- Plantillas de multiplicación con huecos gráficos para dibujar los grupos de elementos.
+- Balanzas digitales con números grandes y lecturas por voz.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Introducción intuitiva de las tablas del 3 y del 4 en problemas de repostería.
+- Resolver situaciones de reparto equitativo (iniciación intuitiva a la división).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del Recetario Multiplicativo:** Valoración de la suma repetida, multiplicaciones y pesos.
+- **Prueba de cálculo mental:** Tablas del 2, 5 y 10 en situaciones prácticas.
+- **Lista de control del taller de cocina:** Precisión en el pesaje y uso de unidades ($kg, g$).
+- **Escala de observación cooperativa:** Trabajo en equipo y cobro en la feria.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Transforma sumas repetidas en multiplicaciones con corrección.
+- Emplea las tablas de multiplicar del 2, 5 y 10 con fluidez.
+- Pesa y mide masa y capacidad con instrumentos sencillos.
+- Resuelve problemas de la vida cotidiana utilizando estrategias aritméticas.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Ciencias Naturales:** Alimentación saludable y transformación de los ingredientes.
+- **Educación Artística:** Decoración de recipientes y diseño del recetario.
+- **Lengua Castellana:** Redacción de textos instructivos (recetas de cocina).
+<br>
+
+## Relación con la vida real
+<br>
+
+Cocinar, ajustar las cantidades de una receta familiar o calcular el coste de la compra son experiencias cotidianas donde la multiplicación y la medida de masa resultan indispensables para desenvolverse con autonomía.
+<br>
+
+## Conclusión
+<br>
+
+"La repostería matemática" demuestra que aprender las tablas de multiplicar puede ser una experiencia deliciosa y llena de sentido. Al unir la cocina manipulativa con el cálculo operacional, los estudiantes de 2º de Primaria construyen un pensamiento matemático sólido, funcional y motivador.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-gran-zoo-de-los-animales-2-primaria",
+    title: "Situación de aprendizaje: El gran zoo de los animales para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Naturales para 2º de Primaria sobre animales vertebrados e invertebrados, alimentación, reproducción y respeto animal según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "ciencias-naturales",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria investiga el reino animal, clasificando vertebrados e invertebrados, herbívoros y carnívoros, para crear una reserva de fauna respetuosa en el colegio.",
+    content: `
+# Situación de aprendizaje: El gran zoo de los animales para 2º de Primaria
+
+## Descripción
+<br>
+"El gran zoo de los animales" es una propuesta de indagación científica para 2º de Primaria donde el alumnado explora la biodiversidad del reino animal. Convertidos en "Zoólogos y Biólogos de Campo", los estudiantes investigarán la clasificación de los animales en vertebrados (mamíferos, aves, peces, anfibios, reptiles) e invertebrados, sus formas de desplazamiento, tipo de alimentación (carnívoros, herbívoros, omnívoros) y modo de reproducción (ovíparos y vivíparos).
+<br>
+El proyecto concluirá con la creación de la "Reserva Natural Escolar", una exposición interactiva con fichas científicas y maquetas de hábitats que promueve el respeto y la protección de los animales.
+<br>
+
+## Justificación
+<br>
+La curiosidad natural de los niños de 7 años hacia los animales constituye un motor educativo de gran valor en Ciencias Naturales. Sin embargo, a menudo se mantiene una visión simplista o antropomórfica de la fauna.
+<br>
+Aprender a clasificar los animales mediante criterios científicos rigurosos (presencia de columna vertebral, cubierta corporal, nacimiento) permite desarrollar el pensamiento analítico, la capacidad de observación y una empatía profunda hacia la conservación de la fauna silvestre y el bienestar de las mascotas.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Ciencias de la Naturaleza.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Creación de la "Enciclopedia y Reserva Virtual de los Animales", con fichas técnicas ilustradas, maquetas de hábitats y una guía de consejos para el cuidado responsable de las mascotas.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Distinguir entre animales vertebrados e invertebrados identificando la presencia de esqueleto interno.
+- Clasificar los cinco grupos de vertebrados según su cubierta corporal (pelo, plumas, escamas, piel desnuda).
+- Identificar el tipo de alimentación (herbívoros, carnívoros, omnívoros) y reproducción (ovíparos, vivíparos).
+- Reconocer las características principales de los animales invertebrados más comunes (insectos, arácnidos, moluscos).
+- Desarrollar actitudes de empatía, cuidado y respeto hacia los animales domésticos y salvajes.
+- Registrar observaciones científicas mediante tablas de datos e ilustraciones detalladas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
+- Competencia digital (CD).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Utilizar recursos científicos digitales y analógicos para buscar información sobre los seres vivos.
+- **CE2:** Clasificar organismos vivos utilizando criterios científicos observables.
+- **CE3:** Promover conductas de respeto y protección hacia los animales y sus hábitats naturales.
+<br>
+
+## Saberes básicos
+<br>
+
+- **El reino animal y su clasificación:**
+  - Vertebrados: mamíferos, aves, peces, anfibios y reptiles (características corporales y respiración).
+  - Invertebrados: características básicas de los insectos (seis patas, antenas).
+  - Funciones vitales: nutrición (carnívoros, herbívoros, omnívoros) y reproducción (ovíparos, vivíparos).
+  - Cuidado responsable de mascotas y respeto a la fauna del entorno.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Clasifica animales en vertebrados e invertebrados con corrección.
+- Asocia las características físicas de un vertebrado con su grupo correspondiente.
+- Identifica si un animal es ovíparo o vivíparo según su desarrollo embrionario.
+- Elabora fichas de investigación biológica completando datos científicos.
+- Muestra respeto y sensibilidad hacia el cuidado de los seres vivos.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la indagación (IBL) mediante rincones de investigación biológica. Se estructuran "Equipos de Zoología" de 4 alumnos.
+<br>
+
+## Sesión 1. ¿Tienen huesos todos los animales?
+<br>
+
+### Activación inicial
+<br>
+Observación de radiografías reales de animales (un perro, un pájaro, una serpiente) frente a una lombriz y un caracol real en un terrario.
+<br>
+
+### Calentamiento
+<br>
+Tocarse la espalda para sentir la columna vertebral y comprobar cómo sostiene nuestro cuerpo.
+<br>
+
+### Actividad principal
+<br>
+Clasificación dicotómica: dividir animales en *Vertebrados* (con esqueleto interno y columna vertebral) e *Invertebrados* (sin huesos internos).
+<br>
+
+### Trabajo cooperativo
+<br>
+Clasificar 12 tarjetas de animales en la tabla gigante del laboratorio colocando un pictograma de esqueleto en los vertebrados.
+<br>
+
+### Desafío
+<br>
+Adivinar si la araña y el pulpo tienen huesos o no, justificando la respuesta.
+<br>
+
+### Producto parcial
+<br>
+Mural 1: "El gran árbol de vertebrados e invertebrados".
+<br>
+
+### Reflexión
+<br>
+¿Cómo se sostienen y mueven los animales que no tienen huesos en su cuerpo?
+<br>
+
+## Sesión 2. Los cinco fantásticos vertebrados
+<br>
+
+### Activación inicial
+<br>
+Caja sorpresa con muestras al tacto: plumas de ave, piel de peluche (mamífero), escamas de pescado sintéticas y piel suave (anfibio).
+<br>
+
+### Calentamiento
+<br>
+Juego de adivinanzas con mímica: imitar el vuelo de un ave, el nado de un pez o la reptación de un cocodrilo.
+<br>
+
+### Actividad principal
+<br>
+Investigación de los 5 grupos de vertebrados:
+- *Mamíferos:* nacen de la tripa (vivíparos), mama leche, tienen pelo.
+- *Aves:* nacen de huevos (ovíparos), tienen plumas y pico.
+- *Peces:* escamas, aletas, respiran por agallas.
+- *Reptiles:* escamas duras, se arrastran.
+- *Anfibios:* piel húmeda, viven en agua y tierra.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo investiga un grupo de vertebrados y prepara un póster visual con recortes e ilustraciones.
+<br>
+
+### Desafío
+<br>
+Identificar a qué grupo pertenece el delfín y el murciélago (¡son mamíferos!).
+<br>
+
+### Producto parcial
+<br>
+Láminas de los 5 Grupos de Vertebrados.
+<br>
+
+### Reflexión
+<br>
+¿Por qué el pingüino es un ave aunque no pueda volar por el aire?
+<br>
+
+## Sesión 3. ¿Qué comen y cómo nacen?
+<br>
+
+### Activación inicial
+<br>
+Análisis de dentaduras ficticias de animales: dientes afilados de león vs. muelas planas de vaca.
+<br>
+
+### Calentamiento
+<br>
+Juego de clasificación rápida: Herbívoro (verde), Carnívoro (rojo), Omnívoro (amarillo).
+<br>
+
+### Actividad principal
+<br>
+Estudio de la nutrición y reproducción:
+- *Alimentación:* carnívoros, herbívoros y omnívoros.
+- *Nacimiento:* ovíparos (huevos) y vivíparos (vientre materno).
+<br>
+
+### Trabajo cooperativo
+<br>
+Completar la "Rueda de la Vida Animal" asociando cada animal con su comida favorita y su forma de nacer.
+<br>
+
+### Desafío
+<br>
+Encontrar dos animales omnívoros que vivan cerca de nuestro colegio.
+<br>
+
+### Producto parcial
+<br>
+Rueda de nutrición y reproducción en el cuaderno de zoología.
+<br>
+
+### Reflexión
+<br>
+¿Qué le ocurriría a un león si solo le diéramos de comer hierba del campo?
+<br>
+
+## Sesión 4. El diminuto mundo de los invertebrados
+<br>
+
+### Activación inicial
+<br>
+Observación con lupas en el patio del colegio para buscar hormigas, mariquitas, lombrices y caracoles.
+<br>
+
+### Calentamiento
+<br>
+Conteo de patas: insectos (6 patas), arácnidos (8 patas), ciempiés (muchas patas).
+<br>
+
+### Actividad principal
+<br>
+Taller de observación científica de invertebrados. Análisis de las tres partes del cuerpo de un insecto (cabeza, tórax, abdomen) y sus antenas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Modelar con plastilina un insecto realista identificando claramente sus 6 patas y sus 2 antenas.
+<br>
+
+### Desafío
+<br>
+Explicar por qué una araña no es un insecto (tiene 8 patas y no tiene antenas).
+<br>
+
+### Producto parcial
+<br>
+Ficha de campo: "Los pequeños habitantes del patio".
+<br>
+
+### Reflexión
+<br>
+¿Por qué son tan importantes las abejas y las hormigas para la naturaleza aunque sean tan pequeñas?
+<br>
+
+## Sesión 5. Cuidado de mascotas y protección de la fauna
+<br>
+
+### Activación inicial
+<br>
+Proyección de fotos de mascotas (perros, gatos, hámsteres, peces) y animales silvestres en peligro.
+<br>
+
+### Calentamiento
+<br>
+Debate: "¿Qué necesita un perro o un gato para ser feliz en casa?".
+<br>
+
+### Actividad principal
+<br>
+Elaboración del Decálogo del Cuidado Animal: alimentación adecuada, visitas al veterinario, paseo diario, cariño y rechazo absoluto al abandono.
+<br>
+
+### Trabajo cooperativo
+<br>
+Redactar e ilustrar el "Carné del Dueño Responsable" con consejos prácticos para las familias.
+<br>
+
+### Desafío
+<br>
+Diseñar una señal de respeto para no molestar a los pájaros que anidan en los árboles del colegio.
+<br>
+
+### Producto parcial
+<br>
+Decálogo de Protección Animal maquetado.
+<br>
+
+### Reflexión
+<br>
+¿Qué significa que tener una mascota es una responsabilidad para toda su vida?
+<br>
+
+## Sesión 6. Inauguración de la Reserva Natural Virtual
+<br>
+
+### Activación inicial
+<br>
+Transformación del aula en la "Reserva Natural y Zoo del Cole". Exposición de maquetas y fichas científicas.
+<br>
+
+### Calentamiento
+<br>
+Ponerse las acreditaciones de Zoólogos Oficiales y repasar las explicaciones.
+<br>
+
+### Actividad principal
+<br>
+Presentación guiada de la reserva a los compañeros de 1º de Primaria y a las familias. Explicación de los grupos de vertebrados, invertebrados y pase por el rincón de mascotas.
+<br>
+
+### Trabajo cooperativo
+<br>
+Responder a las preguntas del público utilizando el lenguaje científico aprendido.
+<br>
+
+### Desafío
+<br>
+Guiar una visita con los ojos cerrados describiendo un animal solo por el tacto de su maqueta.
+<br>
+
+### Producto parcial
+<br>
+Diploma de Graduación en Zoología e Investigación Natural.
+<br>
+
+### Reflexión
+<br>
+¿Cómo ha cambiado tu forma de mirar a los animales tras esta investigación científica?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Maquetas táctiles con relieve para discriminar cubiertas corporales (plumas, pelo, escamas).
+- Fichas científicas simplificadas con pictogramas de elección múltiple.
+- Uso de vídeos interactivos con subtítulos y audiodescripción.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Investigar sobre la metamorfosis de la rana y la mariposa representando sus fases.
+- Elaborar un informe sobre especies protegidas de la fauna ibérica (lince ibérico, águila imperial).
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de las fichas zoológicas:** Valoración de la clasificación, precisión científica y dibujo.
+- **Cuaderno de observación de campo:** Registro de la excursión por el patio e invertebrados.
+- **Lista de control del Decálogo Animal:** Conocimientos sobre cuidado de mascotas y empatía.
+- **Escala de observación de la exposición oral:** Claridad, lenguaje técnico y trabajo en equipo.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Clasifica animales en vertebrados e invertebrados con soltura.
+- Asocia los vertebrados a su grupo correspondiente según sus cubiertas físicas.
+- Identifica animales herbívoros, carnívoros, ovíparos y vivíparos.
+- Demuestra respeto y empatía hacia los animales domésticos y silvestres.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Lectura de fichas técnicas, redacción descriptiva y oratoria.
+- **Educación Artística:** Modelado de invertebrados con plastilina y dibujo científico.
+- **Valores Cívicos:** Empatía, respeto por la vida y tenencia responsable de mascotas.
+<br>
+
+## Relación con la vida real
+<br>
+
+Aprender a respetar a los animales y conocer sus necesidades reales ayuda a prevenir el maltrato y abandono de mascotas, fomentando una ciudadanía concienciada con la sostenibilidad ambiental y la biodiversidad.
+<br>
+
+## Conclusión
+<br>
+
+"El gran zoo de los animales" despierta en el alumnado de 2º de Primaria una mirada científica y empática hacia el mundo vivo. Al investigar la estructura, reproducción y hábitos de la fauna, los niños y niñas se convierten en protectores activos de la naturaleza.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-viajeros-del-tiempo-pasado-y-presente-2-primaria",
+    title: "Situación de aprendizaje: Viajeros del tiempo: pasado y presente para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Ciencias Sociales para 2º de Primaria sobre el paso del tiempo, abuelos, inventos antiguos y modernos y memoria histórica local según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "ciencias-sociales",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria investiga cómo ha cambiado la vida de sus abuelos y la de su localidad, comparando inventos antiguos y modernos para crear el Museo del Tiempo.",
+    content: `
+# Situación de aprendizaje: Viajeros del tiempo: pasado y presente para 2º de Primaria
+
+## Descripción
+<br>
+"Viajeros del tiempo: pasado y presente" es una unidad de investigación histórica y social para 2º de Primaria. Los estudiantes se transforman en "Crononautas e Historiadores Junior" para descubrir cómo ha cambiado la vida cotidiana, las escuelas, las viviendas, los transportes y las tecnologías desde la época de sus abuelos hasta la actualidad.
+<br>
+Mediante la recopilación de objetos antiguos traídos de casa (casetes, teléfonos de disco, planchas de hierro, fotos en blanco y negro) y entrevistas familiares, el alumnado comprenderá las nociones de pasado, presente y futuro, ordenando acontecimientos en líneas del tiempo.
+<br>
+
+## Justificación
+<br>
+La comprensión del tiempo histórico en el primer ciclo de Primaria es abstracta y compleja. Para un niño de 7 años, "hace 50 años" resulta difícil de dimensionar si no se conecta con la memoria afectiva de sus propios abuelos y con objetos tangibles.
+<br>
+Comparar la vida del pasado con la del presente permite al alumnado valorar los avances tecnológicos y sociales (como el acceso a la educación, la luz eléctrica o la medicina), a la vez que aprende a respetar y admirar la experiencia de las personas mayores de su familia y localidad.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Ciencias Sociales.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Montaje y dinamización del "Museo Escolar del Tiempo y los Inventos", una exposición con objetos antiguos reales, paneles comparativos "Antes / Ahora" y la grabación de un podcast con historias de los abuelos.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender las nociones temporales básicas: pasado, presente, futuro, antes, ahora y después.
+- Identificar cambios y permanencias en los modos de vida, viviendas, colegios y transportes.
+- Ordenar acontecimientos históricos sencillos y objetos cotidianos en líneas del tiempo visuales.
+- Utilizar fuentes orales (entrevistas a abuelos) y materiales (fotos, objetos antiguos) para obtener información.
+- Valorar el legado cultural e histórico de las personas mayores del entorno familiar y local.
+- Reconocer el impacto de los inventos en la mejora de la calidad de vida de las personas.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia ciudadana (CC).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Utilizar nociones temporales para ordenar hechos de la historia personal, familiar y local.
+- **CE2:** Identificar cambios y permanencias en el entorno cercano a través del análisis de fuentes históricas.
+- **CE3:** Valorar el patrimonio cultural e intangible mostrando respeto hacia las personas mayores.
+<br>
+
+## Saberes básicos
+<br>
+
+- **El paso del tiempo y la historia personal/familiar:**
+  - Nociones de tiempo cronológico (pasado, presente, futuro; ayer, hoy, mañana).
+  - La historia familiar: abuelos, padres e hijos.
+  - Fuentes de información histórica: fotografías, objetos antiguos, testimonios orales.
+- **Evolución de la sociedad y los inventos:**
+  - Cambios en las viviendas, transportes, vestidos, juguetes y colegios de antes y de ahora.
+  - Grandes inventos que cambiaron la vida cotidiana (la rueda, la luz eléctrica, el teléfono, internet).
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Ordena objetos y fotografías familiares en una línea del tiempo cronológica.
+- Compara aspectos de la vida cotidiana del pasado con los del presente identificando diferencias.
+- Realiza entrevistas sencillas a familiares mayores registrando la información obtenida.
+- Participa activamente en la catalogación de piezas para el Museo del Tiempo.
+- Expresa una actitud de respeto y cariño hacia las personas mayores.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la investigación con fuentes primarias y orales (historia viva). Se constituyen "Comisiones de Crononautas" de 4 alumnos.
+<br>
+
+## Sesión 1. La máquina del tiempo y la maleta del pasado
+<br>
+
+### Activación inicial
+<br>
+Llegada al aula de una "Maleta del Pasado" empolvada llena de objetos misteriosos (un molinillo manual de café, una cámara de carrete, un teléfono de disco, un disco de vinilo y un candil).
+<br>
+
+### Calentamiento
+<br>
+Juego "Adivina para qué servía": manipular los objetos e intentar deducir su función antigua antes de la llegada de la electricidad o las pantallas.
+<br>
+
+### Actividad principal
+<br>
+Introducción a la diferencia entre *Pasado* (lo que ya ocurrió), *Presente* (lo que vivimos ahora) y *Futuro* (lo que vendrá).
+<br>
+
+### Trabajo cooperativo
+<br>
+Clasificar imágenes de juguetes en dos columnas: "Juguetes de antes" (peonzas de madera, canicas, muñecas de trapo) y "Juguetes de ahora" (videojuegos, patinetes eléctricos, robots).
+<br>
+
+### Desafío
+<br>
+Ordenar cuatro fotografías de la infancia de una persona desde que era un bebé hasta que se convirtió en abuela.
+<br>
+
+### Producto parcial
+<br>
+Ficha 1 del Crononauta: "Mi línea del tiempo familiar".
+<br>
+
+### Reflexión
+<br>
+¿Por qué antes los niños jugaban más tiempo en la calle y con juguetes hechos de madera o cartón?
+<br>
+
+## Sesión 2. La escuela de nuestros abuelos vs. nuestra escuela
+<br>
+
+### Activación inicial
+<br>
+Observación de fotografías antiguas de aulas escolares de hace 60 años (pupitres de madera con tintero, mapas de tela, pizarrines).
+<br>
+
+### Calentamiento
+<br>
+Comparar una pluma con tintero y un pizarrín de piedra con nuestras pizarras digitales y ordenadores.
+<br>
+
+### Actividad principal
+<br>
+Análisis comparativo de la vida escolar: cómo se vestían los alumnos, qué asignaturas estudiaban, cómo eran los castigos y las reglas de disciplina de antes.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar en grupo el mural "La Escuela: Antes y Ahora", pegando fotos antiguas e imágenes actuales.
+<br>
+
+### Desafío
+<br>
+Identificar tres cosas de nuestra escuela actual que hubieran parecido "magia del futuro" a nuestros abuelos.
+<br>
+
+### Producto parcial
+<br>
+Panel comparativo escolar para el museo.
+<br>
+
+### Reflexión
+<br>
+¿Qué cosas de la escuela de antes te gustaría probar un día en clase?
+<br>
+
+## Sesión 3. Periodistas de la historia: entrevista a los abuelos
+<br>
+
+### Activación inicial
+<br>
+Preparación del taller de periodismo histórico. ¿Cómo podemos saber cosas del pasado sin leer un libro? ¡Preguntando a quienes lo vivieron!
+<br>
+
+### Calentamiento
+<br>
+Aprender a usar una grabadora de voz en la tableta para registrar audios con claridad.
+<br>
+
+### Actividad principal
+<br>
+Diseño del cuestionario de la entrevista para los abuelos o personas mayores de la familia:
+1. ¿A qué jugabas cuando tenías 7 años?
+2. ¿Cómo era tu casa y tu televisión?
+3. ¿Cuál era tu comida favorita?
+4. ¿Qué invento de los de ahora te sorprende más?
+<br>
+
+### Trabajo cooperativo
+<br>
+Ensayar las preguntas por parejas en el aula haciendo simulaciones de entrevistas de radio.
+<br>
+
+### Desafío
+<br>
+Grabar el audio de la entrevista en casa con ayuda de los padres durante el fin de semana.
+<br>
+
+### Producto parcial
+<br>
+Ficha de la Entrevista Histórica y audio grabado listo para el podcast.
+<br>
+
+### Reflexión
+<br>
+¿Por qué los abuelos se ponen tan contentos cuando les preguntamos por sus recuerdos de cuando eran pequeños?
+<br>
+
+## Sesión 4. Los grandes inventos que cambiaron el mundo
+<br>
+
+### Activación inicial
+<br>
+Apagar las luces del aula y encender una linterna/vela. ¿Cómo sería nuestra vida sin luz eléctrica, refrigerador ni lavadora?
+<br>
+
+### Calentamiento
+<br>
+Juego de emparejamiento: asociar el invento antiguo con su versión moderna (Candelabro $\to$ Bombilla; Carta de papel $\to$ Mensaje de WhatsApp; Carruaje de caballos $\to$ Coche).
+<br>
+
+### Actividad principal
+<br>
+Investigación sobre 4 inventos revolucionarios: la rueda, la imprenta, la bombilla y el teléfono.
+<br>
+
+### Trabajo cooperativo
+<br>
+Cada equipo adopta un invento y dibuja su evolución histórica desde su origen hasta hoy.
+<br>
+
+### Desafío
+<br>
+Imaginar y dibujar cómo será el teléfono o el coche dentro de 50 años (en el futuro).
+<br>
+
+### Producto parcial
+<br>
+Mural de la Evolución de los Inventos.
+<br>
+
+### Reflexión
+<br>
+¿Qué invento de los que existen en casa te parece el más importante para el día a día?
+<br>
+
+## Sesión 5. Catalogación y montaje del Museo del Tiempo
+<br>
+
+### Activación inicial
+<br>
+Recepción de las piezas antiguas aportadas por las familias para la exposición del aula.
+<br>
+
+### Calentamiento
+<br>
+Manejo cuidadoso de las piezas históricas utilizando guantes de tela simbólicos.
+<br>
+
+### Actividad principal
+<br>
+Catalogación museográfica: redactar cartelas explicativas con el nombre del objeto, a quién perteneció, en qué año se usaba y para qué servía.
+<br>
+
+### Trabajo cooperativo
+<br>
+Distribución del espacio del aula en tres salas: "La Sala de la Casa y el Hogar", "La Sala de los Juegos y la Escuela" y "La Sala de las Comunicaciones".
+<br>
+
+### Desafío
+<br>
+Generar un código QR que enlaza la cartela del objeto con el audio grabado de la entrevista del abuelo.
+<br>
+
+### Producto parcial
+<br>
+Museo del Tiempo completamente montado y decorado.
+<br>
+
+### Reflexión
+<br>
+¿Por qué las cosas antiguas guardan historias y emociones tan valiosas en su interior?
+<br>
+
+## Sesión 6. Inauguración del Museo y emisión del podcast
+<br>
+
+### Activación inicial
+<br>
+Apertura de puertas del "Museo Escolar del Tiempo" para los abuelos invitados y el resto de cursos.
+<br>
+
+### Calentamiento
+<br>
+Repaso del guion de bienvenida y acreditaciones de Guías Históricos.
+<br>
+
+### Actividad principal
+<br>
+Visita guiada al museo. El alumnado explica las piezas expuestas, muestra los murales comparativos y hace sonar los episodios del podcast con las voces de los abuelos.
+<br>
+
+### Trabajo cooperativo
+<br>
+Agradecimiento público a los abuelos asistentes entregándoles un diploma de "Tesoros Vivos de la Historia".
+<br>
+
+### Desafío
+<br>
+Guiar una visita personalizada respondiendo a las preguntas de los visitantes sobre los inventos.
+<br>
+
+### Producto parcial
+<br>
+Clausura del museo y grabación del podcast archivada en la web escolar.
+<br>
+
+### Reflexión
+<br>
+¿Qué has aprendido hoy sobre la vida de tus abuelos que no sabías antes de este proyecto?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Uso de líneas del tiempo táctiles con objetos reales pegados con velcro.
+- Cuestionarios de entrevista adaptados con pictogramas para marcar con cruces.
+- Audiodescripción de las piezas del museo para alumnado con baja visión.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Investigar sobre la historia del transporte público en la localidad mediante mapas antiguos del municipio.
+- Escribir una carta a su "yo del futuro" para guardarla en una cápsula del tiempo del colegio.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del Museo del Tiempo:** Valoración de la cartela, línea del tiempo y precisión histórica.
+- **Evaluación de la entrevista oral:** Registro del podcast grabado y preguntas realizadas a los familiares.
+- **Lista de control de conceptos temporales:** Distinción de pasado, presente y futuro en actividades cotidianas.
+- **Escala de observación de la exposición:** Oratoria, actitud de respeto a las personas mayores y trabajo en equipo.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Emplea correctamente conceptos temporales (pasado, presente, futuro) en explicaciones.
+- Compara objetos e inventos antiguos con sus equivalentes modernos.
+- Utiliza fuentes orales y materiales para obtener datos históricos sencillos.
+- Muestra respeto, afecto y consideración hacia los abuelos y personas mayores.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Redacción de entrevistas, elaboración de cartelas y podcast oral.
+- **Educación Artística:** Maquetación del museo y dibujo de inventos del futuro.
+- **Valores Cívicos:** Respeto intergeneracional y valoración de la ancianidad.
+<br>
+
+## Relación con la vida real
+<br>
+
+Comprender la historia personal y familiar fortalece la identidad de los niños y niñas, ayudándoles a entender de dónde vienen, valorar las comodidades actuales y aprender de la sabiduría de las generaciones pasadas.
+<br>
+
+## Conclusión
+<br>
+
+"Viajeros del tiempo: pasado y presente" consigue que la historia cobre vida en el aula de 2º de Primaria. Al escuchar las vivencias de sus propios abuelos y manipular objetos del pasado, el alumnado descubre que la historia no es solo lo que está escrito en los libros, sino la suma de las experiencias de las personas que nos rodean.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-the-magic-food-market-2-primaria",
+    title: "Situación de aprendizaje: The Magic Food Market para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Inglés para 2º de Primaria sobre alimentos, preferencias (I like / I don't like), precios sencillos y hábitos saludables según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "ingles",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "Students in 2nd grade build a healthy market stall in English, using vocabulary of fruits, vegetables, meals, and simple structures like 'Can I have some apples, please?' or 'I like bananas'.",
+    content: `
+# Situación de aprendizaje: The Magic Food Market para 2º de Primaria
+
+## Descripción
+<br>
+"The Magic Food Market" is a communicative and immersive unit for 2nd-grade Primary students learning English. The classroom transforms into a vibrant international food market where students act as shopkeepers and customers.
+<br>
+Throughout the six sessions, students will acquire vocabulary related to healthy food (*apples, bananas, strawberries, carrots, tomatoes, cheese, milk, bread, chicken, water*), colors, and numbers up to 20. They will practice everyday social routines in English (*"Can I have...?", "Here you are", "Thank you", "How much is it?"*) and express food preferences using *"I like..."* and *"I don't like..."*.
+<br>
+
+## Justificación
+<br>
+Learning a foreign language in 2nd Grade requires authentic, action-oriented contexts. Food is a familiar, daily topic that easily connects with students' immediate lives and interests.
+<br>
+Simulating a food market allows young learners to use English naturally in a social environment. Integrating healthy eating habits with basic English structures empowers students to communicate functionally while learning about nutrition and polite social interaction.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Lengua Extranjera (Inglés).
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Interactive setup and performance of "The Class Food Market Day", where students role-play buyers and sellers using realia, play money, and English dialogue cards, creating a healthy recipe menu book.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Name common food items, fruits, and vegetables in English with clear pronunciation.
+- Express likes and dislikes regarding food using *"I like..."* and *"I don't like..."*.
+- Use simple polite expressions in shopping interactions (*"Can I have some... please?", "Here you are", "Thank you"*).
+- Count items and understand prices up to 20 in English.
+- Identify healthy food options vs. occasional treats in English contexts.
+- Participate in interactive songs and stories related to food.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en comunicación lingüística (CCL).
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia matemática y en ciencia, tecnología e ingeniería (STEM).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Comprender e interpretar palabras y oraciones sencillas en mensajes orales breves en inglés.
+- **CE2:** Producir textos orales sencillos utilizando lenguaje corporal y estructuras aprendidas en situaciones simuladas.
+- **CE3:** Interactuar en actividades lúdicas compartidas mostrando respeto y cortesía en lengua extranjera.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Vocabulary & Language Structures:**
+  - Food & Healthy habits: *apple, banana, orange, strawberry, potato, carrot, milk, cheese, bread, water, juice*.
+  - Preferences & Questions: *"Do you like...?", "Yes, I do / No, I don't", "I like...", "I don't like..."*.
+  - Shopping routines: *"Can I have [item], please?", "How much is it?", "It's [number] euros"*.
+  - Numbers 1 to 20.
+- **Phonetics & Listening:**
+  - Recognition of food sounds and clear repetition of initial consonants (*/p/ for pear, /b/ for banana*).
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica el vocabulario de alimentos al escucharlo en canciones y cuentos en inglés.
+- Expresa sus gustos alimentarios utilizando *"I like"* e *"I don't like"* en diálogos breves.
+- Participa en la simulación de compra respondiendo con expresiones de cortesía en inglés.
+- Cuenta alimentos y reconoce números del 1 al 20 en inglés.
+- Muestra entusiasmo y colaboración en las dinámicas de grupo.
+<br>
+
+## Metodología
+<br>
+
+Task-Based Language Teaching (TBLT) combined with Total Physical Response (TPR) and role-play games. Students form "Market Crews" of 4 children.
+<br>
+
+## Session 1. Welcome to the Yummy Market!
+<br>
+
+### Activación inicial
+<br>
+Chef Oliver (a hand puppet) arrives with a basket full of plastic food items (*apples, bananas, carrots, cheese, bread, milk*).
+<br>
+
+### Calentamiento
+<br>
+"What's in the basket?": Students touch the hidden food inside the magic bag and guess the item in English.
+<br>
+
+### Actividad principal
+<br>
+Introducing food vocabulary with flashcards and real objects (*realia*). Students practice physical gestures for each food type (e.g., peeling a banana, crunching an apple).
+<br>
+
+### Trabajo cooperativo
+<br>
+"Flashcard Relay Race" in teams: Run, pick up the correct food card named by the teacher, and place it in the Healthy Basket.
+<br>
+
+### Desafío
+<br>
+Name 5 fruits in English in less than 30 seconds.
+<br>
+
+### Producto parcial
+<br>
+Visual Worksheet: "My Healthy Basket" matching words to pictures.
+<br>
+
+### Reflexión
+<br>
+Which English food word is your favorite to pronounce?
+<br>
+
+## Session 2. Do you like broccoli ice cream?
+<br>
+
+### Activación inicial
+<br>
+Singing and dancing to the popular song *"Do You Like Broccoli Ice Cream?"* using exaggerated facial expressions.
+<br>
+
+### Calentamiento
+<br>
+Thumbs up (*"Yummy! I like it!"*) / Thumbs down (*"Yucky! I don't like it!"*) drill with funny food combinations.
+<br>
+
+### Actividad principal
+<br>
+Language focus: Asking *"Do you like apples?"* and answering *"Yes, I do"* or *"No, I don't"*. Practicing with a giant spinning wheel of food.
+<br>
+
+### Trabajo cooperativo
+<br>
+Class survey: Students walk around with a chart asking 3 friends about their food likes and ticking the boxes.
+<br>
+
+### Desafío
+<br>
+Say three foods you like and two foods you don't like in a full English sentence.
+<br>
+
+### Producto parcial
+<br>
+Survey Chart: "What Our Class Likes to Eat".
+<br>
+
+### Reflexión
+<br>
+Is it okay if your friends like different foods than you?
+<br>
+
+## Session 3. Numbers & Prices at the Stall
+<br>
+
+### Activación inicial
+<br>
+Reviewing numbers 1 to 20 with the *"Counting Market Song"*.
+<br>
+
+### Calentamiento
+<br>
+"How many?": Teacher shows groups of plastic apples/carrots and students call out the number in English (*"Twelve strawberries!"*).
+<br>
+
+### Actividad principal
+<br>
+Introducing price tags in euros ($1\ €$ to $20\ €$) and the structure *"How much is it?" - "It's 5 euros"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Market Stall preparation: In teams, students design price tags for their team's food items and organize their stall.
+<br>
+
+### Desafío
+<br>
+Calculate the total cost of two items ($3\ € \text{ apples} + 4\ € \text{ milk} = 7\ €$) in English.
+<br>
+
+### Producto parcial
+<br>
+Market Stall Price List & Decorated Food Items.
+<br>
+
+### Reflexión
+<br>
+How does counting in English help us when we travel to other countries?
+<br>
+
+## Session 4. Polite Shopping Routines
+<br>
+
+### Activación inicial
+<br>
+Teacher and puppet Chef Oliver demonstrate a shopping dialogue:
+- *Buyer:* "Hello! Can I have two apples, please?"
+- *Seller:* "Here you are!"
+- *Buyer:* "Thank you! How much is it?"
+- *Seller:* "It's 2 euros. Bye!"
+<br>
+
+### Calentamiento
+<br>
+Practicing polite magic words in English: *Please, Thank you, Here you are, You're welcome*.
+<br>
+
+### Actividad principal
+<br>
+Guided role-play drill using dialogue prompt cards with visual cues for support.
+<br>
+
+### Trabajo cooperativo
+<br>
+Pair work rehearsal: Students practice the buyer and seller roles using toy money and food baskets.
+<br>
+
+### Desafío
+<br>
+Complete a shopping transaction without breaking character or switching to Spanish.
+<br>
+
+### Producto parcial
+<br>
+Dialogue Role-Play Cue Cards ready for Market Day.
+<br>
+
+### Reflexión
+<br>
+Why is it important to say "Please" and "Thank you" when asking for food in a shop?
+<br>
+
+## Session 5. Designing the Healthy Recipe Book
+<br>
+
+### Activación inicial
+<br>
+Storytime: Reading *"The Very Hungry Caterpillar"* or a simple English story about fruit salad.
+<br>
+
+### Calentamiento
+<br>
+Matching recipe ingredients to pictures on the board (*"To make a fruit salad we need: apples, bananas, strawberries"*).
+<br>
+
+### Actividad principal
+<br>
+Creating the "Class Healthy Recipe Page": Students draw their favorite healthy smoothie or salad and write short sentences: *"My Magic Smoothie: I like strawberries, apples and milk"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Assembling all recipe pages into a collective Big Book titled *"Yummy & Healthy Recipes in 2nd Grade"*.
+<br>
+
+### Desafío
+<br>
+Check that all food words in your recipe are spelled correctly using the word wall.
+<br>
+
+### Producto parcial
+<br>
+Completed page for the Class Recipe Book.
+<br>
+
+### Reflexión
+<br>
+Which recipe from the book would you like to prepare with your family at home?
+<br>
+
+## Session 6. The Great Food Market Performance
+<br>
+
+### Activación inicial
+<br>
+Classroom setup as "The Magic Food Market" with 4 themed stalls: Fruit Corner, Veggie Stand, Bakery, and Dairy Shop.
+<br>
+
+### Calentamiento
+<br>
+Putting on chef hats and shopkeeper aprons for the performance.
+<br>
+
+### Actividad principal
+<br>
+Market Day role-play simulation! Half the class acts as shopkeepers selling food, while the other half shops with their basket and play money speaking strictly in English. Then they swap roles.
+<br>
+
+### Trabajo cooperativo
+<br>
+Teams manage their stalls together, helping peers who need language prompts.
+<br>
+
+### Desafío
+<br>
+Buy three different healthy items from three different stalls speaking only English.
+<br>
+
+### Producto parcial
+<br>
+Market Day Event completed & Delivery of the "Junior English Chef Certificate".
+<br>
+
+### Reflexión
+<br>
+How confident do you feel now buying food in English compared to the first day?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Visual prompt cards with picture-word associations for shopping dialogues.
+- Simplified phrase models (*"Apples, please!"* instead of longer sentences) for students needing language support.
+- Realia and tactile objects for sensory engagement.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Adding descriptive adjectives (*big, red, sweet, crunchy, delicious*).
+- Writing extended shopping lists independently with price totals.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Oral Communication Rubric:** Vocabulary usage, pronunciation, and fluency during the role-play.
+- **Listening Comprehension Checklist:** Understanding food names, numbers, and commands.
+- **Class Recipe Page Assessment:** Drawing clarity, word tracing, and sentence structure.
+- **Teacher Observation Log:** Participation, politeness, and teamwork during Market Day.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Identifies and names common food items and numbers 1-20 in English.
+- Uses *"I like / I don't like"* accurately to express preferences.
+- Participates in shopping dialogues using polite English expressions.
+- Shows interest and enjoyment in communicative group activities.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Ciencias Naturales:** Healthy eating, fruits, vegetables, and nutrition.
+- **Matemáticas:** Counting items 1-20 and handling simple price additions.
+- **Educación Artística:** Crafting price tags, food props, and chef hats.
+<br>
+
+## Relación con la vida real
+<br>
+
+Food shopping is a universal activity. Practicing food vocabulary and polite routines in English prepares students for real-world interactions abroad, restaurant visits, and multicultural everyday experiences.
+<br>
+
+## Conclusión
+<br>
+
+"The Magic Food Market" transforms English learning in 2nd Grade into a tasty, active, and social experience. By connecting language with real-life role-play and healthy habits, students gain communicative confidence and discover that English is a fun, practical tool for communication.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-teatro-de-sombras-y-musica-2-primaria",
+    title: "Situación de aprendizaje: El teatro de sombras y música de la naturaleza para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Educación Artística para 2º de Primaria que combina teatro de sombras chinas, marionetas, contraste de luz y paisaje sonoro según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "educacion-artistica",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria crea un teatro de sombras chinas con siluetas de cartulina y compone un paisaje sonoro con instrumentos de percusión para representar un cuento ecológico.",
+    content: `
+# Situación de aprendizaje: El teatro de sombras y música de la naturaleza para 2º de Primaria
+
+## Descripción
+<br>
+"El teatro de sombras y música de la naturaleza" une el lenguaje plástico, el dramatismo de la luz y la sombra, y la expresión musical en 2º de Primaria.
+<br>
+Los estudiantes investigarán la propiedad de la opacidad y la transparencia, diseñarán siluetas articuladas de animales y elementos naturales en cartulina negra, y compondrán un paisaje sonoro ambiental con instrumentos de percusión de aula y efectos de agua, viento y hojas. El proyecto culminará con la representación dramática de la obra "La Leyenda del Bosque de Luz" ante el colegio.
+<br>
+
+## Justificación
+<br>
+El teatro de sombras es un recurso mágico e integrador que estimula la imaginación del alumnado de 7 años. Al trabajar detrás de una pantalla iluminada, se reduce la timidez e inhibición en la expresión corporal y vocal.
+<br>
+Además, la combinación de la silueta plana con el paisaje sonoro en directo potencia la comprensión de la relación entre espacio visual, luz, ritmo y emoción, promoviendo el trabajo cooperativo en la gestión de un espectáculo artístico completo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Educación Artística (Plástica y Música).
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Representación del espectáculo "Teatro de Sombras y Sonidos del Bosque", utilizando una pantalla gigante de tela blanca, focos de luz, marionetas articuladas de sombra y banda sonora en vivo.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender el concepto de silueta, opacidad, transparencia y sombra proyectada.
+- Diseñar y construir marionetas planas articuladas utilizando cartulina, palitos y encuadernadores.
+- Componer paisajes sonoros ambientales relacionando cualidades del sonido con emociones de la historia.
+- Acompañar relatos dramatizados utilizando instrumentos de percusión indeterminada de forma coordinada.
+- Expresarse corporal y vocalmente detrás de la pantalla de sombras con entonación adecuada.
+- Valorar el trabajo en equipo en la preparación de una producción escénica colectiva.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia en comunicación lingüística (CCL).
+- Competencia digital (CD).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Investigar las posibilidades expresivas de la luz, el cuerpo, la sombra y el sonido en producciones artísticas.
+- **CE2:** Experimentar con materiales plásticos y sonoros en la construcción de marionetas y paisajes sonoros.
+- **CE3:** Producir y presentar obras artísticas colectivas integrando lenguaje dramático, visual y musical.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Educación Plástica y Escénica:**
+  - La sombra proyectada: opacidad, silueta, escala (más cerca del foco = sombra más grande).
+  - Diseño y recocado de marionetas articuladas de cartulina.
+  - El teatro de objetos y sombras como medio de expresión dramática.
+- **Educación Musical:**
+  - El paisaje sonoro: recreación de sonidos de la naturaleza (lluvia, viento, truenos, pájaros).
+  - Acompañamiento rítmico y efectos de sonido en historias contadas.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Construye siluetas planas articuladas con precisión en el recortado y ensamblaje.
+- Experimenta con el tamaño de la sombra alejando y acercando la figura al foco de luz.
+- Ejecuta efectos sonoros y ritmos que enriquecen la narrativa del cuento.
+- Muestra coordinación y sincronización durante la representación en vivo.
+- Colabora activamente con su equipo en el montaje escénico.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la creación artística cooperativa y proyectos escénicos. Se forman "Compañías Teatrales" de 4 alumnos (roles: Titiritero/a, Músico/a de efectos, Iluminador/a y Narrador/a).
+<br>
+
+## Sesión 1. La magia de la luz y la sombra
+<br>
+
+### Activación inicial
+<br>
+Apagar las luces del aula y encender un foco dirigido hacia una pantalla blanca. El maestro realiza sombras chinescas con las manos representando animales (un perro, un pájaro, un conejo).
+<br>
+
+### Calentamiento
+<br>
+Juego "Sombras gigantes y enanas": acercarse y alejarse del foco de luz para descubrir cómo la sombra crece o se encoge.
+<br>
+
+### Actividad principal
+<br>
+Experimento de opacidad: probar materiales transparentes (celofán de colores), translúcidos y opacos (cartulina negra) ante la luz para ver el efecto en la pantalla.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, crear formas con el cuerpo detrás de la tela y que los compañeros adivinen la figura representada.
+<br>
+
+### Desafío
+<br>
+Lograr proyectar una sombra de color azul utilizando celofán transparente.
+<br>
+
+### Producto parcial
+<br>
+Ficha de laboratorio 1: "Luz, transparencia y sombra".
+<br>
+
+### Reflexión
+<br>
+¿Por qué la sombra se hace enorme cuando colocamos el objeto muy cerca de la linterna?
+<br>
+
+## Sesión 2. Taller de marionetas articuladas de sombra
+<br>
+
+### Activación inicial
+<br>
+Presentación de los personajes de "La Leyenda del Bosque de Luz" (el árbol sabio, el búho, la nube de lluvia, el cervatillo y el sol).
+<br>
+
+### Calentamiento
+<br>
+Bocetado a lápiz de la silueta del personaje asignado en cartulina negra.
+<br>
+
+### Actividad principal
+<br>
+Construcción de la marioneta: recortar el contorno, perforar las articulaciones (alas o patas), unir con encuadernadores y fijar los palillos de madera para el manejo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Probar la marioneta detrás de la pantalla pequeña de ensayos comprobando que las alas o patas se mueven con fluidez.
+<br>
+
+### Desafío
+<br>
+Recortar detalles dentro de la silueta (ojos, calados) para que la luz atraviese la cartulina.
+<br>
+
+### Producto parcial
+<br>
+Marionetas planas articuladas terminadas.
+<br>
+
+### Reflexión
+<br>
+¿Qué detalle de tu marioneta hace que se reconozca perfectamente al ver su sombra?
+<br>
+
+## Sesión 3. Composición del paisaje sonoro de la naturaleza
+<br>
+
+### Activación inicial
+<br>
+Escucha con ojos cerrados de una grabación de una tormenta en el bosque con pájaros y agua fluyendo.
+<br>
+
+### Calentamiento
+<br>
+Taller de efectos sonoros caseros: rozar papel de seda para el viento, mover un palo de lluvia para el agua, golpear picas para los pasos.
+<br>
+
+### Actividad principal
+<br>
+Asignación de instrumentos de percusión Orff y cotidiáfonos a los momentos del cuento:
+- *Búho:* flauta dulce / reclamo.
+- *Lluvia:* palo de lluvia y maracas suaves.
+- *Trueno:* plato de metal o tambor grave.
+- *Sol naciente:* metalófono ascendente ($Do \to Do'$).
+<br>
+
+### Trabajo cooperativo
+<br>
+Crear la "Partitura de Sombras", una guía visual con pictogramas donde se indica qué instrumento suena en cada escena.
+<br>
+
+### Desafío
+<br>
+Hacer un degradado sonoro desde un susurro de viento hasta una gran tormenta sin perder el ritmo.
+<br>
+
+### Producto parcial
+<br>
+Partitura analógica del paisaje sonoro de la obra.
+<br>
+
+### Reflexión
+<br>
+¿Cómo ayuda la música de fondo a que el público sienta miedo o alegría durante el cuento?
+<br>
+
+## Sesión 4. Ensayos en el teatrillo y sincronización
+<br>
+
+### Activación inicial
+<br>
+Montaje de la gran pantalla de tela del aula con los focos de iluminación lateral y frontal.
+<br>
+
+### Calentamiento
+<br>
+Ensayo de voz del Narrador proyectando la voz con claridad y entonación dramática.
+<br>
+
+### Actividad principal
+<br>
+Ensayo general de sincronización: el Titiritero mueve la marioneta contra la tela al ritmo de la lectura del Narrador mientras el Músico ejecuta los efectos sonoros.
+<br>
+
+### Trabajo cooperativo
+<br>
+Ajustar los tiempos de entrada y salida de los personajes para que no se solapen las sombras en la pantalla.
+<br>
+
+### Desafío
+<br>
+Realizar una escena completa de 2 minutos sin que se vea la mano del titiritero en la sombra.
+<br>
+
+### Producto parcial
+<br>
+Ensayo grabado en vídeo para corregir errores de postura e iluminación.
+<br>
+
+### Reflexión
+<br>
+¿Qué debemos hacer si una marioneta se engancha durante la actuación en directo?
+<br>
+
+## Sesión 5. Montaje técnico y cartelera teatral
+<br>
+
+### Activación inicial
+<br>
+Análisis de carteles de teatro reales: título con letras grandes, fecha, lugar e ilustración llamativa.
+<br>
+
+### Calentamiento
+<br>
+Diseño del cartel anunciador de "La Leyenda del Bosque de Luz" con ceras y troquelados.
+<br>
+
+### Actividad principal
+<br>
+Preparación del espacio del gimnasio/salón de actos: colocación de sillas para el público, comprobación de cables de iluminación y pruebas de volumen de percusión.
+<br>
+
+### Trabajo cooperativo
+<br>
+Reparto de entradas simularas y elaboración del programa de mano con la lista de actores y músicos.
+<br>
+
+### Desafío
+<br>
+Conseguir oscuridad total en el recinto tapando ventanas con cartulinas para aumentar el contraste de la sombra.
+<br>
+
+### Producto parcial
+<br>
+Cartelera montada y espacio escénico verificado.
+<br>
+
+### Reflexión
+<br>
+¿Por qué el trabajo técnico de iluminación y sonido es igual de importante que el de los actores?
+<br>
+
+## Sesión 6. Gran estreno de "La Leyenda del Bosque de Luz"
+<br>
+
+### Activación inicial
+<br>
+Llegada del público visitante (alumnado de Infantil y familias). Oscurecimiento de la sala y encendido del foco principal.
+<br>
+
+### Calentamiento
+<br>
+Respiración en círculo detrás del escenario para concentrarse y calmar los nervios del estreno.
+<br>
+
+### Actividad principal
+<br>
+Representación en vivo del espectáculo de teatro de sombras y paisaje sonoro. Ejecución impecable de la historia, las marionetas y la música en directo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Muestra final ante el público: salir de detrás de la pantalla con las marionetas en la mano para recibir los aplausos.
+<br>
+
+### Desafío
+<br>
+Responder a las preguntas del público explicando cómo fabricamos las marionetas de sombra.
+<br>
+
+### Producto parcial
+<br>
+Clausura del espectáculo y entrega de insignias de Artistas Escénicos.
+<br>
+
+### Reflexión
+<br>
+¿Cómo te has sentido al escuchar los aplausos del público tras la tela blanca?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Tijeras adaptadas de fácil apertura para el recortado de las marionetas.
+- Instrumentos de percusión con empuñaduras de goma para facilitar el agarre.
+- Asignación de roles según las fortalezas individuales (narración, manipulación fina o percusión).
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Introducción de celofanes de colores recortados en los ojos de las marionetas para sombras cromáticas.
+- Componer una canción con letra propia para el cierre de la obra de teatro.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de la marioneta articulada:** Precisión en el recortado, movilidad y estética de la silueta.
+- **Rúbrica del paisaje sonoro:** Adecuación del sonido al texto, ritmo e intensidad.
+- **Escala de observación escénica:** Sincronización, postura detras de la pantalla y trabajo en equipo.
+- **Diario de reflexión artística:** Autoevaluación de la experiencia teatral.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Diseña marionetas planas utilizando conceptos de opacidad y sombra.
+- Acompaña relatos con efectos sonoros y paisajes rítmicos adecuados.
+- Sincroniza la manipulación de la sombra con la narración oral.
+- Muestra respeto, responsabilidad y deportividad en la producción escénica.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Expresión oral, entonación dramática y comprensión lectora.
+- **Ciencias Naturales:** La luz, la propagación recta de la luz y sonidos de la naturaleza.
+- **Valores Cívicos:** Trabajo cooperativo, gestión del pánico escénico y respeto.
+<br>
+
+## Relación con la vida real
+<br>
+
+El teatro, la iluminación y los efectos sonoros son la base del cine, la televisión y los espectáculos artísticos. Comprender cómo la luz y el sonido crean emociones prepara al alumnado para disfrutar del arte con sentido crítico y sensibilidad.
+<br>
+
+## Conclusión
+<br>
+
+"El teatro de sombras y música de la naturaleza" fusiona la luz, la Plástica y la Música en una experiencia inolvidable para 2º de Primaria. Al actuar detrás de la pantalla, el alumnado descubre el poder de la metáfora visual y la emoción del trabajo escénico compartido.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-mision-ninja-coordinacion-y-agilidad-2-primaria",
+    title: "Situación de aprendizaje: Misión ninja: coordinación y agilidad para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Educación Física para 2º de Primaria sobre habilidades motrices combinadas, coordinación oculo-manual/pédica, giros y agilidad según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "educacion-fisica",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria supera el entrenamiento ninja de agilidad, combinando saltos de precisión, giros en colchoneta, recepciones y coordinación en circuitos cooperativos.",
+    content: `
+# Situación de aprendizaje: Misión ninja: coordinación y agilidad para 2º de Primaria
+
+## Descripción
+<br>
+"Misión ninja: coordinación y agilidad" es una propuesta motriz gamificada para 2º de Primaria ambientada en una escuela de entrenamiento ninja.
+<br>
+A lo largo de seis sesiones, el alumnado deberá perfeccionar sus habilidades motrices básicas combinadas: saltos con giros de 180 grados, lanzamientos de precisión con frisbees/picas, desplazamientos en cuadrupedia sigilosa, equilibrio en alturas reducidas y coordinación óculo-manual y óculo-pédica.
+<br>
+A través de superar retos de agilidad y circuitos de obstáculos cooperativos, los estudiantes afianzarán su esquema corporal, la toma de decisiones motrices rápidas y el valor de la ayuda entre compañeros.
+<br>
+
+## Justificación
+<br>
+En 2º de Primaria, el alumnado ha superado la etapa inicial de las habilidades motrices elementales y requiere retos que combinen varias acciones en secuencia (ej. correr + saltar + girar + lanzar).
+<br>
+La temática de la "Academia Ninja" proporciona un marco lúdico de alta motivación que promueve el autocontrol corporal, la concentración, el respeto por la seguridad física y la superación personal sin fomentar la competitividad destructiva, priorizando el trabajo en equipo.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Educación Física.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Superación del "Gran Desafío de la Gran Misión Ninja", un circuito de agilidad, equilibrio y precisión cooperativo montado en el gimnasio, obteniendo el cinturón negro de la convivencia deportiva.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Coordinar secuencias de habilidades motrices combinadas (carrera, salto, giro, lanzamiento).
+- Ajustar el control postural y el equilibrio dinámico en situaciones de agilidad y velocidad.
+- Perfeccionar la coordinación óculo-manual y óculo-pédica en recepciones y lanzamientos de precisión.
+- Adaptar las acciones motrices al espacio, al tiempo y a las trayectorias de objetos en movimiento.
+- Respetar las normas de seguridad e higiene personal en la práctica deportiva.
+- Desarrollar actitudes de empatía, deportividad y colaboración en juegos cooperativos.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia matemática y en ciencia, tecnología e ingeniería (STEM).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Resolver situaciones motrices combinando habilidades motrices básicas con eficacia y control postural.
+- **CE2:** Gestionar las emociones y el esfuerzo físico en entornos de práctica deportiva de forma saludable.
+- **CE3:** Practicar juegos colectivos con actitud de colaboración, juego limpio y respeto por las reglas.
+- **CE4:** Adoptar medidas de prevención de riesgos y hábitos saludables de higiene e hidratación.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Habilidades y capacidades motrices:**
+  - Coordinación dinámica general: saltos combinados con giros en eje longitudinal.
+  - Coordinación segmentaria: lanzamientos de precisión y recepciones de objetos de diversa consistencia.
+  - Agilidad, velocidad de reacción y orientación espacio-temporal.
+- **Educación socioemocional y juego:**
+  - Aceptación del propio nivel de habilidad y superación personal.
+  - Juego limpio (*Fair Play*) y cooperación en retos grupales.
+- **Salud y seguridad:**
+  - Calentamiento específico, estiramientos e higiene tras la sesión.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Combina saltos, desplazamientos y giros con fluidez y equilibrio en el circuito.
+- Impacta en dianas o atrapa objetos ajustando la coordinación óculo-manual.
+- Muestra rapidez de reacción ante estímulos auditivos y visuales en juegos.
+- Ayuda a los compañeros de equipo en la superación de los obstáculos motrices.
+- Cumple las normas de prevención de riesgos e higiene en la clase.
+<br>
+
+## Metodología
+<br>
+
+Gamificación motriz basada en pruebas de habilidad (*Skill Challenges*) y aprendizaje cooperativo. Se organizan "Clanes Ninja" de 5 alumnos.
+<br>
+
+## Sesión 1. El examen de entrada a la Dojo Ninja
+<br>
+
+### Activación inicial
+<br>
+Asamblea en el gimnasio. Entrega de las cintas de cabeza Ninja y presentación del código del ninja deportivo (respeto, agilidad, silencio y ayuda).
+<br>
+
+### Calentamiento
+<br>
+Juego "El maestro Ninja dice": desplazarse por el gimnasio imitando movimientos sigilosos y reaccionar al instante cuando el maestro dice "¡Estatuas de piedra!" o "¡Piso de lava!".
+<br>
+
+### Actividad principal
+<br>
+Pruebas de agilidad básica:
+- Carrera de zig-zag entre picas a velocidad creciente.
+- Saltos de precisión dentro de aros manteniendo el equilibrio al caer a dos pies.
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, "El espejo ninja": copiar los movimientos de coordinación de brazos y piernas del compañero a tiempo real.
+<br>
+
+### Desafío
+<br>
+Completar la carrera de picas en menos de 15 segundos sin derribar ninguna.
+<br>
+
+### Producto parcial
+<br>
+Obtención del Cinturón Blanco de Aprendiz Ninja.
+<br>
+
+### Reflexión
+<br>
+¿Por qué un verdadero ninja necesita estar concentrado y en silencio para no perder el equilibrio?
+<br>
+
+## Sesión 2. El paso del abismo y las acrobacias
+<br>
+
+### Activación inicial
+<br>
+Presentación de la zona de acrobacias con bancos suecos invertidos y colchonetas de protección.
+<br>
+
+### Calentamiento
+<br>
+Rodamientos en tronco sobre colchonetas suaves y movilidad de tobillos y muñecas.
+<br>
+
+### Actividad principal
+<br>
+Habilidades de salto y giro:
+- Cruzar la estrecha pauta del banco sueco invertido en equilibrio.
+- Salto de longitud desde sueca con giro de 180 grados en el aire y recepción estable sobre colchoneta.
+<br>
+
+### Trabajo cooperativo
+<br>
+"El puente humano": el clan sostiene picas en horizontal y los compañeros deben saltarlas consecutivamente a diferentes alturas de seguridad.
+<br>
+
+### Desafío
+<br>
+Realizar el salto de 180 grados y quedar mirando exactamente hacia la dirección de salida sin perder el equilibrio.
+<br>
+
+### Producto parcial
+<br>
+Cinturón Amarillo de Agilidad Aérea conseguido.
+<br>
+
+### Reflexión
+<br>
+¿Cómo flexionar las rodillas al caer evita que nos hagamos daño en los tobillos o la espalda?
+<br>
+
+## Sesión 3. Lanzamiento de shurikens de precisión
+<br>
+
+### Activación inicial
+<br>
+Los ninjas necesitan una puntería perfecta para desactivar dianas desde la distancia.
+<br>
+
+### Calentamiento
+<br>
+Lanzamiento libre con frisbees de espuma, aros y pelotas de tenis a diferentes distancias.
+<br>
+
+### Actividad principal
+<br>
+Coordinación óculo-manual y precisión:
+- Lanzamiento de frisbees de espuma a través de aros colgados a diferentes alturas.
+- Derribar torres de ladrillos de plástico con pelotas desde 4 metros.
+<br>
+
+### Trabajo cooperativo
+<br>
+Juego "La diana del clan": sumar los puntos conseguidos por todos los integrantes del grupo al lanzar a las dianas numeradas.
+<br>
+
+### Desafío
+<br>
+Acertar tres veces seguidas dentro del aro más pequeño a 5 metros.
+<br>
+
+### Producto parcial
+<br>
+Insignia de Puntería y Precisión Ninja.
+<br>
+
+### Reflexión
+<br>
+¿Qué es más importante para acertar en la diana: lanzar con mucha fuerza o con buena puntería?
+<br>
+
+## Sesión 4. La trampa de los rayos láser y la reptación
+<br>
+
+### Activación inicial
+<br>
+Montaje de un entramado de gomas elásticas rojas entre picas a baja altura que simulan rayos láser invisibles.
+<br>
+
+### Calentamiento
+<br>
+Desplazamientos en cuadrupedia baja, reptación boca abajo y marcha en cuclillas.
+<br>
+
+### Actividad principal
+<br>
+Prueba de soltura y reptación:
+- Atravesar la red de rayos láser sin tocar ninguna goma elástica.
+- Superar túneles de psicomotricidad a gran velocidad.
+<br>
+
+### Trabajo cooperativo
+<br>
+Relevos por equipos: transportar el pergamino ninja a través de la red de láseres y entregárselo al siguiente compañero.
+<br>
+
+### Desafío
+<br>
+Cruzar el circuito de rayos láser en cuadrupedia invertida (mirando hacia el techo) sin activar las alarmas.
+<br>
+
+### Producto parcial
+<br>
+Cinturón Verde de Sigilo y Cuadrupedia.
+<br>
+
+### Reflexión
+<br>
+¿Qué parte del cuerpo te ha resultado más difícil controlar para no rozar las gomas elásticas?
+<br>
+
+## Sesión 5. Ensayo de la Misión Ninja Final
+<br>
+
+### Activación inicial
+<br>
+Presentación del mapa del circuito gigante que une todas las habilidades entrenadas en las sesiones previas.
+<br>
+
+### Calentamiento
+<br>
+Repaso de estiramientos de piernas, brazos y zona lumbar.
+<br>
+
+### Actividad principal
+<br>
+Ensayo del circuito completo:
+1. Carrera de zig-zag.
+2. Salto y giro de 180º.
+3. Reptación por los rayos láser.
+4. Paso del banco de equilibrio.
+5. Lanzamiento de precisión a la diana.
+<br>
+
+### Trabajo cooperativo
+<br>
+Los miembros del clan animan y aconsejan a los compañeros durante el recorrido, ayudando en las recepciones de los saltos.
+<br>
+
+### Desafío
+<br>
+Completar todo el clan el circuito en un tiempo récord cooperativo de menos de 8 minutos.
+<br>
+
+### Producto parcial
+<br>
+Circuito verificado y clanes preparados para la prueba final.
+<br>
+
+### Reflexión
+<br>
+¿Cómo nos ayuda la animación de nuestros amigos a esforzarnos más cuando estamos cansados?
+<br>
+
+## Sesión 6. Gran Desafío de la Misión Ninja y Graduación
+<br>
+
+### Activación inicial
+<br>
+Gimnasio ambientado como la Gran Academia Ninja con música épica de fondo.
+<br>
+
+### Calentamiento
+<br>
+Juego de concentración "El código del silencio": coordinación de respiración y posturas de yoga infantil.
+<br>
+
+### Actividad principal
+<br>
+Ejecución de la Gran Misión Ninja Final. Todos los clanes completan el circuito combinando velocidad, precisión, saltos, giros y apoyo mutuo.
+<br>
+
+### Trabajo cooperativo
+<br>
+Celebración final en círculo demostrando la catana de la deportividad y el respeto deportivo.
+<br>
+
+### Desafío
+<br>
+Completar la sesión de estiramientos y relajación bajando las pulsaciones cardíacas de forma óptima.
+<br>
+
+### Producto parcial
+<br>
+Entrega del Cinturón Negro de la Convivencia y Agilidad Ninja.
+<br>
+
+### Reflexión
+<br>
+¿Qué valores de un ninja deportivo podemos aplicar a partir de hoy en los juegos del recreo?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Reducción de la altura de los bancos e incremento de la anchura de las superficies de equilibrio.
+- Pelotas y frisbees con texturas rugosas y agarraderos fáciles para lanzamientos.
+- Acompañamiento de agarre manual en saltos y giros para alumnado con inseguridad motriz.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Introducción de combinaciones de saltos a una sola pierna con giros de 360 grados en colchoneta.
+- Diseño de pequeñas secuencias de obstáculos por parte del propio alumnado.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de habilidades motrices combinadas:** Evaluación de saltos, giros, lanzamientos y equilibrio.
+- **Lista de control de agilidad y velocidad:** Registro de la fluidez en el circuito de obstáculos.
+- **Escala de observación de actitudes cooperativas:** Juego limpio, apoyo entre iguales y respeto a la seguridad.
+- **Diario de aula:** Anotaciones del docente sobre la motivación y hábitos de higiene.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Ejecuta secuencias de saltos, giros y lanzamientos con coordinación y control corporal.
+- Mantiene el equilibrio dinámico en superficies reducidas o elevadas.
+- Muestra una actitud de cooperación y apoyo hacia los integrantes de su clan.
+- Practica hábitos saludables de hidratación e higiene al finalizar el ejercicio.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Matemáticas:** Cálculo de tiempos, distancias e itinerarios espaciales.
+- **Valores Cívicos:** Compañerismo, superación personal y juego limpio.
+- **Educación Artística:** Expresión corporal y control del ritmo en los desplazamientos.
+<br>
+
+## Relación con la vida real
+<br>
+
+Desarrollar la agilidad, la coordinación y el equilibrio en la infancia previene caídas y accidentes cotidianos, promoviendo una vida activa y saludable que capacita al alumnado para disfrutar de múltiples deportes con seguridad.
+<br>
+
+## Conclusión
+<br>
+
+"Misión ninja: coordinación y agilidad" demuestra que la Educación Física en 2º de Primaria puede ser una aventura motivadora y formativa. Al combinar desafíos motrices complejos con un marco de trabajo cooperativo, el alumnado perfecciona sus destrezas físicas mientras aprende el verdadero valor del respeto y el compañerismo.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-el-club-de-la-empatia-2-primaria",
+    title: "Situación de aprendizaje: El club de la empatía para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Valores Cívicos y Éticos para 2º de Primaria sobre ponerse en el lugar del otro, comunicación asertiva, prevención del acoso e inclusión según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "valores-civicos",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria forma el Club de la Empatía, entrenando 'las gafas de ponerse en el lugar del otro' para resolver dilemas morales, prevenir la exclusión y cuidar la convivencia escolar.",
+    content: `
+# Situación de aprendizaje: El club de la empatía para 2º de Primaria
+
+## Descripción
+<br>
+"El club de la empatía" es una propuesta socioemocional y cívica diseñada para 2º de Primaria. A través de la metáfora de un club secreto de detectives emocionales, los estudiantes aprenderán a identificar cómo se sienten los demás analizando su lenguaje corporal, tono de voz y expresión facial.
+<br>
+A lo largo de seis sesiones, el alumnado entrenará la "técnica de las gafas de la empatía", resolverá dilemas morales cotidianos del recreo, practicará la escucha activa y la comunicación asertiva (los mensajes en primera persona) y redactará la "Guía del Trato Respetuoso" para garantizar un clima de aula seguro e inclusivo para todos.
+<br>
+
+## Justificación
+<br>
+A los 7 años, los niños y niñas se encuentran en una fase de transición desde el egocentrismo hacia el descentramiento cognitivo y emocional. Desarrollar la empatía (la capacidad de ponerse en el lugar del otro) es la herramienta preventiva más potente contra la exclusión escolar, el acoso y los prejuicios.
+<br>
+Esta situación de aprendizaje proporciona recursos prácticos para que el alumnado aprenda a escuchar activamente, validar las emociones ajenas y resolver desacuerdos mediante el diálogo respetuoso, sentando las bases de una ciudadanía democrática y solidaria.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Valores Cívicos y Éticos.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Creación de la "Caja de Herramientas del Club de la Empatía" e instalación del "Sillón del Diálogo" en el aula, acompañado de la publicación del Manifiesto de la Amistad Inclusiva.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Comprender el concepto de empatía como la capacidad de ponerse en el lugar del otro.
+- Reconocer e interpretar las emociones ajenas a través del lenguaje corporal y la expresión facial.
+- Practicar la comunicación asertiva mediante la formulación de "Mensajes Yo" (*"Yo me siento... cuando tú... porque..."*).
+- Identificar y rechazar conductas de exclusión o burlas en el colegio.
+- Utilizar técnicas de mediación sencilla para resolver pequeños desacuerdos en el patio.
+- Desarrollar actitudes de respeto, inclusión y apoyo hacia la diversidad personal.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Reconocer las propias emociones y las de los demás desarrollando pautas de empatía e inteligencia emocional.
+- **CE2:** Responder a situaciones de desacuerdo mediante el diálogo pacífico, la asertividad y el rechazo a la violencia.
+- **CE3:** Practicar compromisos de convivencia democrática e inclusión en el entorno escolar.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Educación emocional y empatía:**
+  - Concepto de empatía: ver el mundo con las gafas del otro.
+  - Lenguaje no verbal: expresiones faciales, gestos y tono de voz que comunican estados de ánimo.
+- **Resolución de conflictos y comunicación:**
+  - Comunicación asertiva: los "Mensajes Yo" frente a las acusaciones.
+  - El diálogo y la mediación escolar en el patio.
+- **Valores cívicos y convivencia:**
+  - Inclusión, respeto a las diferencias y prevención de la exclusión en el juego.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Identifica la emoción de un compañero observando su rostro y postura corporal.
+- Utiliza estructuras de comunicación asertiva en simulaciones de resolución de conflictos.
+- Demuestra conductas empáticas proponiendo soluciones justificadas a dilemas morales.
+- Participa activamente en la creación del Sillón del Diálogo de la clase.
+- Muestra respeto hacia la diversidad de opiniones e intereses de los demás.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la dramatización (*Role-Playing*), el estudio de casos y el diálogo socioemocional. Se organizan "Círculos de la Empatía" de 4 alumnos.
+<br>
+
+## Sesión 1. Las gafas de ponerse en el lugar del otro
+<br>
+
+### Activación inicial
+<br>
+El docente aparece en el aula con unas gafas gigantes de cartón decoradas con corazones: "Las Gafas de la Empatía".
+<br>
+
+### Calentamiento
+<br>
+Dinámica "Ponte en mis zapatos": los alumnos se cambian un zapato con el compañero de al lado y caminan un momento intentando sentir cómo se camina en los zapatos del otro.
+<br>
+
+### Actividad principal
+<br>
+Explicación de la empatía. Análisis de situaciones reales: "¿Cómo se siente un niño que llega nuevo al colegio y no conoce a nadie?".
+<br>
+
+### Trabajo cooperativo
+<br>
+En parejas, ponerse las "Gafas de la Empatía" de cartón y leer tarjetas con situaciones buscando cómo podemos ayudar al protagonista.
+<br>
+
+### Desafío
+<br>
+Decir dos cosas que podemos hacer para reconfortar a un amigo que está triste porque ha perdido su estuche.
+<br>
+
+### Producto parcial
+<br>
+Elaboración de las Gafas de la Empatía individuales.
+<br>
+
+### Reflexión
+<br>
+¿Por qué a veces es difícil saber cómo se siente otra persona si no la miramos a la cara con atención?
+<br>
+
+## Sesión 2. Detectives del lenguaje corporal
+<br>
+
+### Activación inicial
+<br>
+Proyección de fotografías de caras y posturas corporales sin texto: hombros caídos, puños cerrados, sonrisa abierta, mirada hacia el suelo.
+<br>
+
+### Calentamiento
+<br>
+Juego de mímica "Adivina la emoción sin hablar": los alumnos representan emociones utilizando solo su cuerpo y rostro.
+<br>
+
+### Actividad principal
+<br>
+Análisis de la comunicación no verbal. Descubrir que el $80\%$ de lo que sentimos lo decimos con el cuerpo y el tono de voz, no solo con las palabras.
+<br>
+
+### Trabajo cooperativo
+<br>
+Completar en equipo el póster "La Anatomía de las Emociones" pegando etiquetas de pistas corporales (*brazos cruzados = enfado o protección; cabeza agachada = tristeza o vergüenza*).
+<br>
+
+### Desafío
+<br>
+Detectar la emoción oculta de un compañero que dice "no me pasa nada" pero tiene los ojos llorosos.
+<br>
+
+### Producto parcial
+<br>
+Póster de pistas del Lenguaje Corporal.
+<br>
+
+### Reflexión
+<br>
+¿Por qué las palabras a veces dicen una cosa pero nuestro cuerpo dice la verdad de lo que sentimos?
+<br>
+
+## Sesión 3. Los "Mensajes Yo" para no hacer daño
+<br>
+
+### Activación inicial
+<br>
+Comparación dramática entre dos formas de hablar:
+- *Forma A (Acusación):* "¡Eres un egoísta y siempre lo rompes todo!".
+- *Forma B (Mensaje Yo):* "Yo me siento triste cuando tiras mis bloques porque he tardado mucho en construir la torre".
+<br>
+
+### Calentamiento
+<br>
+Práctica de la fórmula del "Mensaje Yo": $1. \text{ Yo me siento... } 2. \text{ Cuando tú... } 3. \text{ Porque... } 4. \text{ Me gustaría que...}$.
+<br>
+
+### Actividad principal
+<br>
+Taller de transformación de frases acusatorias en "Mensajes Yo" asertivos que no atacan a la persona sino que explican el sentimiento.
+<br>
+
+### Trabajo cooperativo
+<br>
+Simular en parejas la resolución de un problema de juego utilizando exclusivamente tarjetas con el esquema del "Mensaje Yo".
+<br>
+
+### Desafío
+<br>
+Transformar la frase "¡Siempre me quitas la pelota!" en un "Mensaje Yo" perfecto.
+<br>
+
+### Producto parcial
+<br>
+Plantillas de los "Mensajes Yo" para la caja de herramientas.
+<br>
+
+### Reflexión
+<br>
+¿Por qué cuando atacamos a alguien con insultos esa persona se enfada más y no nos escucha?
+<br>
+
+## Sesión 4. La patrulla del recreo inclusivo
+<br>
+
+### Activación inicial
+<br>
+Análisis de un caso del recreo: "Tres alumnos están jugando a la pelota y un compañero pregunta si puede jugar. Le responden que no porque son un equipo cerrado".
+<br>
+
+### Calentamiento
+<br>
+Debate dialógico: "¿Cómo te sentirías tú si fueras el niño al que no dejan jugar?".
+<br>
+
+### Actividad principal
+<br>
+Diseño de estrategias de inclusión para el patio escolar. Aprender la regla de oro del recreo: *"En nuestro colegio siempre hay sitio para uno más"*.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar la lista de los 5 juegos de patio donde no se elimina a nadie y todos pueden participar activamente.
+<br>
+
+### Desafío
+<br>
+Invitar a jugar durante el recreo a un alumno de otro curso que esté solo en el patio.
+<br>
+
+### Producto parcial
+<br>
+Decálogo de la Inclusión en el Recreo.
+<br>
+
+### Reflexión
+<br>
+¿Qué pequeño cambio en un juego permite que un amigo que corre menos también se lo pase genial?
+<br>
+
+## Sesión 5. El Sillón del Diálogo y la mediación
+<br>
+
+### Activación inicial
+<br>
+Presentación del "Sillón del Diálogo" instalado en un rincón del aula con dos cojines de colores y una varita de la palabra.
+<br>
+
+### Calentamiento
+<br>
+Aprender las 3 reglas del Sillón del Diálogo:
+1. Habla solo quien sostiene la varita.
+2. Escuchamos sin interrumpir.
+3. Buscamos una solución en la que ambos ganemos.
+<br>
+
+### Actividad principal
+<br>
+Simulación de mediación entre iguales (*Role-Playing*). Dos alumnos representan a partes en desacuerdo y un tercer alumno actúa como Mediador de la Empatía.
+<br>
+
+### Trabajo cooperativo
+<br>
+Redactar en grupo las frases mágicas del mediador (*"¿Cómo te has sentido?", "¿Qué crees que necesita tu compañero para sentirse bien?"*).
+<br>
+
+### Desafío
+<br>
+Resolver un conflicto simulado sobre la elección de un libro de lectura llegando a un acuerdo pacífico en menos de 3 minutos.
+<br>
+
+### Producto parcial
+<br>
+Sillón del Diálogo equipado y guía del mediador completada.
+<br>
+
+### Reflexión
+<br>
+¿Por qué escuchar al otro es el primer paso para solucionar cualquier enfado?
+<br>
+
+## Sesión 6. Misión Cumplida: Miembros del Club de la Empatía
+<br>
+
+### Activación inicial
+<br>
+Reunión oficial de todo el grupo-clase alrededor del Sillón del Diálogo.
+<br>
+
+### Calentamiento
+<br>
+Lectura del Manifiesto de la Amistad Inclusiva por parte del equipo de representantes.
+<br>
+
+### Actividad principal
+<br>
+Ceremonia de compromiso. Cada alumno firma el código del Club de la Empatía y recibe su carné oficial de Detective Emocional.
+<br>
+
+### Trabajo cooperativo
+<br>
+Entrega de la "Caja de Herramientas de la Empatía" a la tutora para usarla durante todo el curso escolar.
+<br>
+
+### Desafío
+<br>
+Demostrar el uso de un "Mensaje Yo" ante un dilema planteado por la maestra.
+<br>
+
+### Producto parcial
+<br>
+Firma del Manifiesto e inauguración del rincón de mediación.
+<br>
+
+### Reflexión
+<br>
+¿De qué manera la empatía nos ayuda a hacer del colegio un lugar donde todos venimos felices?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Rueda de las emociones visual con rostros reales y apoyos de pictogramas SPC.
+- Plantillas de "Mensajes Yo" con frases para rellenar huecos visuales.
+- Mediación guiada por el docente con tarjetas de turnos de palabra.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Ejercer el rol de "Mediadores del Patio" durante la semana ayudando a resolver desacuerdos menores.
+- Elaborar un cómic ilustrado sobre cómo la empatía cambia un día triste en alegre.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica de la comunicación asertiva:** Evaluación del uso de "Mensajes Yo" y empatía oral.
+- **Escala de observación de la conducta en el patio:** Inclusión en los juegos, respeto y empatía.
+- **Lista de control del Sillón del Diálogo:** Participación en simulaciones de mediación.
+- **Diario de reflexión socioemocional:** Registros de autoevaluación.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Reconoce emociones en los demás interpretando el lenguaje corporal y facial.
+- Aplica la comunicación asertiva con "Mensajes Yo" en desacuerdos.
+- Muestra conductas inclusivas evitando la exclusión de compañeros en el recreo.
+- Utiliza el diálogo y la mediación en la resolución de pequeños conflictos.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Expresión oral, comunicación asertiva y dramatización.
+- **Educación Artística:** Diseño de las Gafas de la Empatía y el Sillón del Diálogo.
+- **Educación Física:** Juego cooperativo e inclusivo en el patio escolar.
+<br>
+
+## Relación con la vida real
+<br>
+
+La empatía y la asertividad son las destrezas sociales más valoradas en la vida adulta, la familia y el trabajo en equipo. Saber escuchar y ponerse en el lugar del otro desde la infancia previene la violencia y construye una sociedad empática y justa.
+<br>
+
+## Conclusión
+<br>
+
+"El club de la empatía" convierte los valores cívicos en una experiencia práctica y vivencial para 2º de Primaria. Al aprender a mirar el mundo a través de las gafas del otro, el alumnado descubre que la comprensión y el diálogo son las herramientas más poderosas para construir una convivencia feliz.
+`
+  },
+  {
+    slug: "situacion-aprendizaje-parabolas-para-cuidar-el-mundo-2-primaria",
+    title: "Situación de aprendizaje: Parábolas para cuidar el mundo para 2º de Primaria",
+    metaDescription:
+      "Situación de aprendizaje de Religión Católica para 2º de Primaria sobre las parábolas de Jesús, el perdón, el cuidado de la casa común y la fraternidad según la LOMLOE.",
+    category: "situaciones-aprendizaje",
+    subcategory: "segundo-de-primaria",
+    subject: "religion",
+    date: "2026-10-22",
+    author: "Marco Pérez",
+    readingTime: 24,
+    popular: true,
+    excerpt:
+      "El alumnado de 2º de Primaria explora las parábolas de Jesús (el sembrador, la oveja perdida, el grano de mostaza) para aprender a cuidar a los demás y a la naturaleza.",
+    content: `
+# Situación de aprendizaje: Parábolas para cuidar el mundo para 2º de Primaria
+
+## Descripción
+<br>
+"Parábolas para cuidar el mundo" es una situación de aprendizaje de Religión Católica para 2º de Primaria que profundiza en el mensaje pedagógico de las parábolas de Jesús de Nazaret. Los estudiantes investigarán relatos como la Parábola del Sembrador, la Oveja Perdida y el Grano de Mostaza para descubrir qué enseñanzas nos transmiten sobre el amor, la paciencia, el perdón y el cuidado de los más vulnerables.
+<br>
+A través de la dramatización de los relatos bíblicos, la expresión plástica y la realización de pequeños compromisos de ayuda en el colegio, el alumnado comprenderá cómo las enseñanzas de Jesús nos invitan a construir un mundo más justo y respetuoso con la casa común.
+<br>
+
+## Justificación
+<br>
+Las parábolas son relatos sencillos y profundamente simbólicos que Jesús utilizaba para hacerse entender por la gente sencilla. Para los niños de 2º de Primaria, estas historias breves ofrecen imágenes muy potentes (la semilla, el pastor, la oveja) que facilitan la comprensión de valores éticos y espirituales universales.
+<br>
+Conectar las parábolas evangélicas con la realidad diaria del alumnado (el cuidado de los compañeros que sufren, la responsabilidad con la naturaleza y la importancia de pedir perdón) permite vivenciar la fe como una llamada activa al amor y al servicio fraterno.
+<br>
+
+## Contextualización
+<br>
+
+### Etapa
+<br>
+Educación Primaria.
+<br>
+
+### Curso
+<br>
+2º de Primaria.
+<br>
+
+### Área
+<br>
+Religión Católica.
+<br>
+
+### Temporalización
+<br>
+6 sesiones de 50 minutos (2 semanas).
+<br>
+
+## Producto final
+<br>
+Elaboración del "Libro Gigante de las Parábolas del Siglo XXI", con ilustraciones, adaptaciones del mensaje a la vida actual y compromisos de cuidado hacia la naturaleza y los compañeros.
+<br>
+
+## Objetivos didácticos
+<br>
+
+- Conocer y comprender el significado de las parábolas del Sembrador, la Oveja Perdida y el Grano de Mostaza.
+- Identificar los valores del Evangelio (amor, perdón, cuidado, acogida) en los relatos bíblicos.
+- Relacionar las enseñanzas de las parábolas con situaciones de la vida cotidiana en el colegio y la familia.
+- Desarrollar la capacidad de agradecimiento, perdón y respeto hacia todas las personas.
+- Expresar ideas y reflexiones espirituales mediante el dibujo, la dramatización y la escritura sencilla.
+<br>
+
+## Competencias clave
+<br>
+
+- Competencia en conciencia y expresión culturales (CCEC).
+- Competencia personal, social y de aprender a aprender (CPSAA).
+- Competencia ciudadana (CC).
+- Competencia en comunicación lingüística (CCL).
+<br>
+
+## Competencias específicas
+<br>
+
+- **CE1:** Descubrir e interpretar los mensajes fundamentales de los relatos bíblicos identificando sus valores éticos.
+- **CE2:** Reconocer la figura de Jesús y sus enseñanzas como guía para la fraternidad y el cuidado del entorno.
+- **CE3:** Practicar actitudes de respeto, perdón y solidaridad inspiradas en el mensaje evangélico.
+<br>
+
+## Saberes básicos
+<br>
+
+- **Jesús y las parábolas del Reino:**
+  - Concepto de parábola: historias con enseñanza.
+  - La parábola del Sembrador (Mt 13, 1-9): preparar el corazón para hacer el bien.
+  - La parábola de la Oveja Perdida (Lc 15, 1-7): Dios nos busca y nos acoge a todos.
+  - La parábola del Grano de Mostaza (Mc 4, 30-32): las pequeñas cosas que se hacen grandes.
+- **Valores evangélicos y compromiso:**
+  - El perdón, la acogida al diferente y el cuidado de la Creación.
+<br>
+
+## Criterios de evaluación
+<br>
+
+- Explica la enseñanza principal de las parábolas trabajadas con sus propias palabras.
+- Asocia los personajes de las parábolas con actitudes de amor, perdón y cuidado.
+- Aplica los valores de las parábolas en la resolución de dilemas cotidianos de aula.
+- Participa activamente en la ilustración y elaboración del Libro Gigante.
+<br>
+
+## Metodología
+<br>
+
+Aprendizaje basado en la narrativa bíblica (*Storytelling*), la dramatización y la expresión artística. Se constituyen "Equipos Sembradores" de 4 alumnos.
+<br>
+
+## Sesión 1. ¿Qué es una parábola y por qué contaba historias Jesús?
+<br>
+
+### Activación inicial
+<br>
+Llegada al aula de un cofre del tesoro con tres semillas diferentes (una grande, una pequeña y un grano de mostaza).
+<br>
+
+### Calentamiento
+<br>
+Diálogo en asamblea: "¿Alguna vez te han contado un cuento que te ha enseñado una lección importante para la vida?".
+<br>
+
+### Actividad principal
+<br>
+Introducción al concepto de parábola. Descubrir que Jesús utilizaba ejemplos del campo y de la vida cotidiana para explicar cómo podemos amarnos unos a otros.
+<br>
+
+### Trabajo cooperativo
+<br>
+En equipos, ordenar viñetas ilustradas de la Parábola del Sembrador (semillas en el camino, entre piedras, entre espinos y en buena tierra).
+<br>
+
+### Desafío
+<br>
+Explicar qué significa que nuestro corazón sea como una "tierra buena" que hace crecer las buenas acciones.
+<br>
+
+### Producto parcial
+<br>
+Ficha 1: "Las cuatro tierras de nuestro corazón".
+<br>
+
+### Reflexión
+<br>
+¿Qué cosas hacen que nuestro corazón se ponga durito como una piedra y no escuche a los demás?
+<br>
+
+## Sesión 2. La parábola de la oveja perdida y el perdón
+<br>
+
+### Activación inicial
+<br>
+Escucha de un efecto sonoro de una ovejita balando en la montaña. Presentación de la figura del Buen Pastor.
+<br>
+
+### Calentamiento
+<br>
+Juego de dramatización "El pastor y la oveja extraviada": un alumno busca con los ojos vendados a su oveja perdida guiado por el sonido de su cascabel.
+<br>
+
+### Actividad principal
+<br>
+Lectura dialogada de la Parábola de la Oveja Perdida. Descubrir el mensaje de que para Dios cada persona es única e infinitamente valiosa, y que siempre nos ofrece su perdón cuando nos equivocamos.
+<br>
+
+### Trabajo cooperativo
+<br>
+Modelar con algodón y cartulina la ovejita rescatada y escribir en su reverso una frase sobre el valor del perdón (*"Perdonar es volver a abrazar"*).
+<br>
+
+### Desafío
+<br>
+Pensar en un momento en el que hayamos pedido perdón o hayamos perdonado a un amigo en el colegio.
+<br>
+
+### Producto parcial
+<br>
+Mural de las Ovejitas del Perdón.
+<br>
+
+### Reflexión
+<br>
+¿Por qué nos sentimos tan aliviados y felices cuando alguien a quien hemos molestado nos perdona de corazón?
+<br>
+
+## Sesión 3. El grano de mostaza: pequeñas acciones, grandes cambios
+<br>
+
+### Activación inicial
+<br>
+Observación con lupa de un diminuto grano de mostaza frente a la imagen de un árbol gigante donde los pájaros hacen sus nidos.
+<br>
+
+### Calentamiento
+<br>
+Representación corporal: encogerse como una semilla diminuta y crecer despacio hacia arriba hasta abrir los brazos como ramas cobijadoras.
+<br>
+
+### Actividad principal
+<br>
+Lectura de la Parábola del Grano de Mostaza. Reflexión sobre cómo un pequeño detalle de cariño (una sonrisa, ayudar a recoger, decir gracias) puede convertirse en algo enorme que alegre a toda la clase.
+<br>
+
+### Trabajo cooperativo
+<br>
+Elaborar el "Árbol de los Pequeños Detalles", pegando ramas y hojas de papel con dibujos de pequeñas buenas acciones diarias.
+<br>
+
+### Desafío
+<br>
+Realizar hoy un pequeño gesto de ayuda en el aula sin que nadie nos lo pida.
+<br>
+
+### Producto parcial
+<br>
+Sección del Grano de Mostaza para el Libro Gigante.
+<br>
+
+### Reflexión
+<br>
+¿Qué pequeña acción puedes hacer hoy en casa para sacar una gran sonrisa a tus padres?
+<br>
+
+## Sesión 4. Adaptamos las parábolas al siglo XXI
+<br>
+
+### Activación inicial
+<br>
+Debate en aula: "Si Jesús contara hoy la parábola del Buen Samaritano o del Sembrador, ¿qué ejemplos usaría en lugar de ovejas y campos?".
+<br>
+
+### Calentamiento
+<br>
+Lluvia de ideas de escenarios modernos: el parque, la clase de informática, el autobús escolar o el grupo de amigos.
+<br>
+
+### Actividad principal
+<br>
+Actualización de los relatos evangélicos. Cada equipo adapta una parábola sustituyendo los personajes antiguos por situaciones actuales de su colegio.
+<br>
+
+### Trabajo cooperativo
+<br>
+Escribir e ilustrar la versión moderna de la parábola asignada con frases sencillas y pictogramas de apoyo.
+<br>
+
+### Desafío
+<br>
+Asegurar que la enseñanza de amor o perdón de la parábola original se mantenga intacta en la versión moderna.
+<br>
+
+### Producto parcial
+<br>
+Páginas adaptadas para el Libro Gigante.
+<br>
+
+### Reflexión
+<br>
+¿Por qué las enseñanzas de Jesús siguen siendo tan útiles para nosotros después de más de 2000 años?
+<br>
+
+## Sesión 5. Maquetación del Libro Gigante de las Parábolas
+<br>
+
+### Activación inicial
+<br>
+Reunión de todas las páginas creadas por los equipos de sembradores para la maquetación final.
+<br>
+
+### Calentamiento
+<br>
+Diseño de la portada del libro con letras doradas y dibujos de semillas y corazones.
+<br>
+
+### Actividad principal
+<br>
+Encuadernación artesanal del "Libro Gigante de las Parábolas del Siglo XXI". Revisión de textos, coloreado de imágenes y colocación de solapas desplegables.
+<br>
+
+### Trabajo cooperativo
+<br>
+Reparto de tareas: unos decoran los bordes, otros repasan las letras y otros ensayan la lectura de la presentación.
+<br>
+
+### Desafío
+<br>
+Verificar que cada parábola incluya una reflexión final de compromiso para cuidar el mundo.
+<br>
+
+### Producto parcial
+<br>
+Libro Gigante de las Parábolas terminado y listo para su exposición.
+<br>
+
+### Reflexión
+<br>
+¿Qué parte del libro te hace sentir más orgulloso del trabajo realizado en grupo?
+<br>
+
+## Sesión 6. Presentación del libro y cuento dramatizado
+<br>
+
+### Activación inicial
+<br>
+Acondicionamiento del rincón de lectura con alfombras y velitas led para la presentación del libro.
+<br>
+
+### Calentamiento
+<br>
+Ensayo de la dramatización de una de las parábolas adaptadas.
+<br>
+
+### Actividad principal
+<br>
+Presentación del "Libro Gigante de las Parábolas" ante los compañeros de Educación Infantil. Los alumnos de 2º leen y dramatizan las historias compartiendo su mensaje de amor y cuidado.
+<br>
+
+### Trabajo cooperativo
+<br>
+Donar el libro gigante a la biblioteca escolar como recurso de consulta para todos los niños del colegio.
+<br>
+
+### Desafío
+<br>
+Explicar a un niño más pequeño qué significa ser como una "tierra buena".
+<br>
+
+### Producto parcial
+<br>
+Entrega del libro a la biblioteca y entrega de diplomas de Sembradores del Evangelio.
+<br>
+
+### Reflexión
+<br>
+¿Cómo podemos seguir siendo "sembradores de cosas buenas" durante el resto del curso?
+<br>
+
+## Atención a la diversidad
+<br>
+
+### Adaptaciones de acceso y refuerzo
+<br>
+
+- Textos de las parábolas en formato de lectura fácil con pictogramas SPC.
+- Fichas de dibujo con contornos resaltados para facilitar el coloreado.
+- Dramatización asistida por el docente con títeres de mano.
+<br>
+
+### Adaptaciones de ampliación
+<br>
+
+- Investigar la Parábola de la Moneda Perdida o el Buen Samaritano y añadir una sección extra al libro.
+- Escribir una oración de agradecimiento propia inspirada en el Grano de Mostaza.
+<br>
+
+## Evaluación
+<br>
+
+### Instrumentos
+<br>
+
+- **Rúbrica del Libro Gigante:** Valoración de la comprensión de la parábola, adaptación y creatividad.
+- **Escala de observación de la dramatización:** Expresión verbal, actitud de respeto y trabajo en equipo.
+- **Lista de control de valores evangélicos:** Demostración de pautas de perdón, ayuda y cuidado de la naturaleza.
+- **Diario de aula:** Reflexiones registradas sobre las enseñanzas de Jesús.
+<br>
+
+### Indicadores de logro
+<br>
+
+- Comprende e interpreta el significado de las parábolas trabajadas.
+- Relaciona el mensaje de Jesús con situaciones de la vida diaria en la escuela.
+- Expresa actitudes de perdón, respeto y cuidado hacia los demás y la naturaleza.
+- Colabora activamente en producciones artísticas y narrativas grupales.
+<br>
+
+## Interdisciplinariedad
+<br>
+
+- **Lengua Castellana:** Comprensión lectora, expresión escrita y dramatización.
+- **Educación Artística:** Ilustración, modelado y encuadernación del libro gigante.
+- **Valores Cívicos:** Empatía, respeto a la diversidad y cuidado ambiental.
+<br>
+
+## Relación con la vida real
+<br>
+
+Las enseñanzas de las parábolas promueven valores humanos universales de acogida, reconciliación y responsabilidad social, ayudando al alumnado a crecer como personas sensibles, respetuosas con la naturaleza y comprometidas con el bienestar de su entorno.
+<br>
+
+## Conclusión
+<br>
+
+"Parábolas para cuidar el mundo" demuestra que las enseñanzas de Jesús siguen siendo una fuente inagotable de luz e inspiración para los niños y niñas de 2º de Primaria. Al actualizar sus relatos y llevarlos a la práctica en su día a día, el alumnado descubre que cada pequeño gesto de amor ayuda a hacer del mundo un lugar mejor.
+`
+  },
+{
   slug: "situacion-aprendizaje-los-amigos-de-jesus-2-primaria",
   title: "Situación de aprendizaje: Los amigos de Jesús para 2º de Primaria",
   metaDescription:
